@@ -1,2 +1,1 @@
-# GBE
-Gesundheitsberichterstattung
+# Gesundheitsberichterstattung
