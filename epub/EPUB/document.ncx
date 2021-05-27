@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="de">
+  <head>
+    <meta name="dtb:fidus" content="61" />
+  </head>
+  <docTitle>
+    <text>Gesundheitsberichterstattung 2020-09-07</text>
+  </docTitle>
+  <navMap>
+
+    <!-- 2.01 NCX: playOrder is optional -->
+    <navPoint id="t0">
+      <navLabel><text>Vorderseite</text></navLabel>
+      <content src="cover.xhtml#cover" />
+    </navPoint>
+    <navPoint id="t1">
+      <navLabel><text>Titelseite</text></navLabel>
+      <content src="titlepage.xhtml#title" />
+    </navPoint>
+    <navPoint id="t_1_0-1">
+      <navLabel><text>GBE01-Was ist GBE?</text></navLabel>
+      <content src="document-1.xhtml#_1_0" />
+      <navPoint id="tH2662218-1">
+        <navLabel><text>Was ist das für ein Buch?</text></navLabel>
+        <content src="document-1.xhtml#H2662218" />
+      </navPoint>
+      <navPoint id="tH5307720-1">
+        <navLabel><text>Was ist Gesundheitsberichterstattung?</text></navLabel>
+        <content src="document-1.xhtml#H5307720" />
+        <navPoint id="tH7691965-1">
+          <navLabel><text>Der GBE-Prozess: Nur ein einfacher Prozess, oder steckt da vielleicht doch Arbeit dahinter?</text></navLabel>
+          <content src="document-1.xhtml#H7691965" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_2_0-2">
+      <navLabel><text>GBE02-Wozu GBE?</text></navLabel>
+      <content src="document-2.xhtml#_2_0" />
+      <navPoint id="tH6562084-2">
+        <navLabel><text>Anlässe für die Erstellung von Gesundheitsberichten</text></navLabel>
+        <content src="document-2.xhtml#H6562084" />
+      </navPoint>
+      <navPoint id="tH1901688-2">
+        <navLabel><text>Die GBE im Public Health Action Cycle</text></navLabel>
+        <content src="document-2.xhtml#H1901688" />
+      </navPoint>
+      <navPoint id="tH2786889-2">
+        <navLabel><text>GBE orientiert sich an Gesundheitsdeterminanten</text></navLabel>
+        <content src="document-2.xhtml#H2786889" />
+      </navPoint>
+      <navPoint id="tH4406084-2">
+        <navLabel><text>Selbstverständnis in der GBE</text></navLabel>
+        <content src="document-2.xhtml#H4406084" />
+        <navPoint id="tH5560507-2">
+          <navLabel><text>Ethik und Verantwortung</text></navLabel>
+          <content src="document-2.xhtml#H5560507" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_3_0-3">
+      <navLabel><text>GBE03-Strukturen</text></navLabel>
+      <content src="document-3.xhtml#_3_0" />
+      <navPoint id="tH6814286-3">
+        <navLabel><text>Kommunale Ebene</text></navLabel>
+        <content src="document-3.xhtml#H6814286" />
+        <navPoint id="tH718856-3">
+          <navLabel><text>GBE-Struktur innerhalb des kommunalen ÖGD</text></navLabel>
+          <content src="document-3.xhtml#H718856" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="tH465502-3">
+        <navLabel><text>Landesebene</text></navLabel>
+        <content src="document-3.xhtml#H465502" />
+      </navPoint>
+      <navPoint id="tH5727488-3">
+        <navLabel><text>Bundesebene</text></navLabel>
+        <content src="document-3.xhtml#H5727488" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_4_0-4">
+      <navLabel><text>GBE04-GBE Handwerk</text></navLabel>
+      <content src="document-4.xhtml#_4_0" />
+      <navPoint id="tH2929607-4">
+        <navLabel><text>Datengrundlagen der Gesundheitsberichterstattung</text></navLabel>
+        <content src="document-4.xhtml#H2929607" />
+        <navPoint id="tH9252754-4">
+          <navLabel><text>Indikatoren in der Gesundheitsberichterstattung</text></navLabel>
+          <content src="document-4.xhtml#H9252754" />
+        </navPoint>
+        <navPoint id="tH918331-4">
+          <navLabel><text>Wichtige Kennziffern der kommunalen Gesundheitsberichterstattung</text></navLabel>
+          <content src="document-4.xhtml#H918331" />
+        </navPoint>
+        <navPoint id="tH5142590-4">
+          <navLabel><text>Ergebnisdarstellung</text></navLabel>
+          <content src="document-4.xhtml#H5142590" />
+          <navPoint id="tH2213278-4">
+            <navLabel><text>Formate der GBE</text></navLabel>
+            <content src="document-4.xhtml#H2213278" />
+          </navPoint>
+          <navPoint id="tH3589257-4">
+            <navLabel><text>Datenvisualisierung</text></navLabel>
+            <content src="document-4.xhtml#H3589257" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH6199644-4">
+          <navLabel><text>Wie erreicht die GBE einen Impact?</text></navLabel>
+          <content src="document-4.xhtml#H6199644" />
+        </navPoint>
+        <navPoint id="tH5951033-4">
+          <navLabel><text>"Vermarktung" GBE - Pressearbeit und / oder Kommunikation</text></navLabel>
+          <content src="document-4.xhtml#H5951033" />
+          <navPoint id="tH2446639-4">
+            <navLabel><text>Schnittstellen zu anderen Berichtssystemen: Integrierte Gesundheitsberichterstattung</text></navLabel>
+            <content src="document-4.xhtml#H2446639" />
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="tH1887934-4">
+        <navLabel><text>Methodisch-fachliche Qualifikation</text></navLabel>
+        <content src="document-4.xhtml#H1887934" />
+        <navPoint id="tH7188325-4">
+          <navLabel><text>Weiterführende Informationen:</text></navLabel>
+          <content src="document-4.xhtml#H7188325" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_5_0-5">
+      <navLabel><text>GBE05-Infobox Datenschutz</text></navLabel>
+      <content src="document-5.xhtml#_5_0" />
+    </navPoint>
+    <navPoint id="t_6_0-6">
+      <navLabel><text>GBE06-Vernetzung</text></navLabel>
+      <content src="document-6.xhtml#_6_0" />
+      <navPoint id="tH2151291-6">
+        <navLabel><text>Vernetzung der verschiedenen Ebenen von Gesundheitsberichterstattung</text></navLabel>
+        <content src="document-6.xhtml#H2151291" />
+      </navPoint>
+      <navPoint id="tH5247316-6">
+        <navLabel><text>GBE als Teil eines Netzwerkes</text></navLabel>
+        <content src="document-6.xhtml#H5247316" />
+      </navPoint>
+      <navPoint id="tH1702121-6">
+        <navLabel><text>Themenbezogene Projektgruppe</text></navLabel>
+        <content src="document-6.xhtml#H1702121" />
+      </navPoint>
+      <navPoint id="tH3426797-6">
+        <navLabel><text>Politik und Entscheidungsträger_innen</text></navLabel>
+        <content src="document-6.xhtml#H3426797" />
+      </navPoint>
+      <navPoint id="tH3492218-6">
+        <navLabel><text>Capacity Building oder Kompetenzentwicklung innerhalb des Netzwerkes</text></navLabel>
+        <content src="document-6.xhtml#H3492218" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_7_0-7">
+      <navLabel><text>GBE07-Planung</text></navLabel>
+      <content src="document-7.xhtml#_7_0" />
+      <navPoint id="tH1599355-7">
+        <navLabel><text>Gesundheitsplanung</text></navLabel>
+        <content src="document-7.xhtml#H1599355" />
+        <navPoint id="tH2024211-7">
+          <navLabel><text>Nachhaltige Relevanz der Gesundheitsplanung durch den ÖGD</text></navLabel>
+          <content src="document-7.xhtml#H2024211" />
+        </navPoint>
+        <navPoint id="tH4813093-7">
+          <navLabel><text>Exkurs: lokale Fachplanung Gesundheit</text></navLabel>
+          <content src="document-7.xhtml#H4813093" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="tH2296124-7">
+        <navLabel><text>Gesundheitsorientierte Planung in anderen Planungskontexten</text></navLabel>
+        <content src="document-7.xhtml#H2296124" />
+        <navPoint id="tH7577170-7">
+          <navLabel><text>Das Ziel: stets gesundheitsorientiert planen</text></navLabel>
+          <content src="document-7.xhtml#H7577170" />
+          <navPoint id="tH7957666-7">
+            <navLabel><text>Gesundheit im kommunalen Planungskontext</text></navLabel>
+            <content src="document-7.xhtml#H7957666" />
+          </navPoint>
+          <navPoint id="tH1078715-7">
+            <navLabel><text>Was ist gesundheitsorientierte Planung?</text></navLabel>
+            <content src="document-7.xhtml#H1078715" />
+          </navPoint>
+          <navPoint id="tH4370740-7">
+            <navLabel><text>Planungsverständnis im ÖGD im Wandel</text></navLabel>
+            <content src="document-7.xhtml#H4370740" />
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="tH7792675-7">
+        <navLabel><text>GBE und Gesundheitspolitik</text></navLabel>
+        <content src="document-7.xhtml#H7792675" />
+      </navPoint>
+      <navPoint id="tH1192227-7">
+        <navLabel><text>Vorhaben zur Umsetzung des Präventionsgesetzes</text></navLabel>
+        <content src="document-7.xhtml#H1192227" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_8_0-8">
+      <navLabel><text>GBE08-Wo will die GBE hin (+Ideenspeicher)</text></navLabel>
+      <content src="document-8.xhtml#_8_0" />
+      <navPoint id="tH667089-8">
+        <navLabel><text>Konkrete Zielvorstellungen</text></navLabel>
+        <content src="document-8.xhtml#H667089" />
+      </navPoint>
+      <navPoint id="tH980925-8">
+        <navLabel><text>Weitergefasste Ziele</text></navLabel>
+        <content src="document-8.xhtml#H980925" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_9_0-9">
+      <navLabel><text>GBE09-Anhang</text></navLabel>
+      <content src="document-9.xhtml#_9_0" />
+    </navPoint>
+    <navPoint id="t_10_0-10">
+      <navLabel><text>GBE10 Ideenspeicher FEHLER + Stellenbeschreibung</text></navLabel>
+      <content src="document-10.xhtml#_10_0" />
+      <navPoint id="tH6109369-10">
+        <navLabel><text>Ausschreibung einer GBE-Stelle</text></navLabel>
+        <content src="document-10.xhtml#H6109369" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t2">
+      <navLabel><text>Copyright</text></navLabel>
+      <content src="copyright.xhtml#copyright" />
+    </navPoint>
+  </navMap>
+</ncx>
