@@ -66,10 +66,10 @@
   /*position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url(https://akademie-oeffentliches-gesundheitswesen.github.io/Buchvorlage/images/cover-entwurf.png)
+  background-image: url(https://raw.githubusercontent.com/akademie-oeffentliches-gesundheitswesen/GBE/master/html/images/Gesundheitsberichterstattung.png)
   background-repeat: no-repeat;
   background-size: cover;*/
-  background: url(https://akademie-oeffentliches-gesundheitswesen.github.io/Buchvorlage/images/cover-entwurf.png) ;
+  background: url(https://raw.githubusercontent.com/akademie-oeffentliches-gesundheitswesen/GBE/master/html/images/Gesundheitsberichterstattung.png) ;
 background-size: 159mm 229mm;
   display: flex;
   /*flex-direction: column;
