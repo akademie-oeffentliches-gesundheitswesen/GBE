@@ -1,0 +1,10 @@
+library(officer)
+library(tidyverse)
+library(knitr)
+library(rmarkdown)
+
+doc <- "private/FINAL_Book Sprint GBE_20220311.docx"
+
+pandoc
+
+system2(command = "ls")

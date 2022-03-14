@@ -1,0 +1,81 @@
+
+remote_theme: akademie-oeffentliches-gesundheitswesen/lehrbuch-theme
+
+
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
+# Enable support for hyphenated search words:
+search_tokenizer_separator: /[\s/]+/
+
+title: Gesundheitsberichterstattung - Lehrbuch für den Öffentlichen Gesundheitsdienst
+
+## Aux links for the upper right navigation
+#aux_links:
+#  "Lehrbuch auf GitHub":
+#    - "https://github.com/akademie-oeffentliches-gesundheitswesen/Begutachtung"
+#  "PDF":
+#    - "screen-pdf/gutachten-v1.pdf"
+#  "Web-Buch":
+#
+#    - "https://akademie-oeffentliches-gesundheitswesen.github.io/Begutachtung/webbuch/index.html#src=gutachten/gut-v1.xhtml&bookMode=true"
+
+
+
+# ga_tracking: UA-161871347-1
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2020 die Autoren. Creative Commons: Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/deed.de | DOI 10.25815/wfp2-y114"
+
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+
+# Selfcreated variables
+searchterm: Suche GBE
+ISBN: "" 
+doi: ""
+
+# Link to logo and favicon
+logo: "/images/akademie.png"
+
+
+# Template variables
+lang: "de-DE"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+- private/
+
+
+# Split a markdown file 
+# split-md 'file.md' '# ' '#' '' 100 true
+# Was ich noch brauche
+# - Kurzbeschreibung in 3 Zeilen
+# - Startseite
+# - Twittername
+# - Emailadresse
+# - Lizenz
