@@ -35,13 +35,15 @@ Informationspyramide untergeordneten) Gesamtstrategie kann die GBE
 maßgeblich dazu beitragen, relevante Gesundheitsinformationen
 wissenschaftlich aufzubereiten und für den (kommunalen) Bedarf
 passgenaue Maßnahmen und Konzepte zu erarbeiten, wie in der bereits aus
-[Kapitel 1]({{ site.baseurl }}{% link 1-WasistGBE.md %}) bekannten Informationspyramide im Folgenden noch einmal
+[Kapitel 1]({{ site.baseurl }}{% link 01-WasistGBE.md %}) bekannten Informationspyramide im Folgenden noch einmal
 visualisiert:
 
-![](./media/image3.png)
+ <figure>
+  <img src="./media/image3.png" alt="Routineaufgaben der GBE anhand der Informationspyramide" style="width:90%">
+  <figcaption>Abbildung 2: Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)
+</figcaption>
+</figure> 
 
-Abbildung 2: Routineaufgaben der GBE anhand der Informationspyramide
-(erweiterte Darstellung nach Verschuuren, van Oers 2019)
 
 ## GBE als Instrument der wissenschaftlichen Politikberatung
 
@@ -54,17 +56,19 @@ gesundheitspolitischer Entscheidungen sowie zu einer wesentlichen
 Grundlage für partizipative Prozesse entwickelt (Brand, Michelsen 2007).
 Auf Bundes-, Landes- und kommunaler Ebene dient die GBE als Instrument
 der wissenschaftlichen Politikberatung und ist wichtige Ausgangsbasis
-für die Gesundheitsplanung (siehe auch [Kapitel 7]({{ site.baseurl }}{% link 7-VernetzunginderGBE.md %})). Dieses umfangreiche
+für die Gesundheitsplanung (siehe auch [Kapitel 7]({{ site.baseurl }}{% link 07-Planung.md %})). Dieses umfangreiche
 Aufgaben- und Funktionsprofil wird häufig anhand des
 gesundheitspolitischen Planungsmodells der „Public Health Trias“
 (Institute of Medicine (U.S.) 1988) bzw. dem darauf basierenden „Public
 Health Action Cycle“ (PHAC) beschrieben (Rosenbrock 1995) und ist in
 Abbildung 3 dargestellt.
 
-![](./media/image4.png)
+ <figure>
+  <img src="./media/image4.png" alt="Abbildung 3: Public Health Action Cycle" style="width:60%">
+  <figcaption>Abbildung 3: „Public Health Action Cycle“ (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine (U.S.) 1988)
+</figcaption>
+</figure> 
 
-Abbildung 3: „Public Health Action Cycle“ (eigene Darstellung nach
-Rosenbrock 1995 und Institute of Medicine (U.S.) 1988)
 
 Ausgangspunkt des als Kreislauf angelegten Modells ist die in der Praxis
 nicht immer gegebene Voraussetzung, dass die (gesundheitliche)
@@ -113,7 +117,7 @@ deswegen kann und sollte Gesundheitsberichterstattung nicht nebenbei im
 „stillen Kämmerlein“ vonstattengehen, sondern sollte, wenn möglich,
 von Anfang an als Gemeinschaftsaufgabe verstanden werden, die im
 Idealfall auf mehrere Schultern verteilt wird und unterschiedliche
-Perspektiven berücksichtigt (siehe auch [Kapitel 5]({{ site.baseurl }}{% link 5-GBEHandwerk.md %}) und 6).
+Perspektiven berücksichtigt (siehe auch [Kapitel 5]({{ site.baseurl }}{% link 05-IntegrierteGBE.md %}) und [Kapitel 6]({{ site.baseurl }}{% link 06-VernetzunginderGBE.md %})).
 
 Entsprechend dieser komplexen Zusammenhänge gibt es auch eine ganze
 Bandbreite unterschiedlicher Entstehungshintergründe und Ziele der GBE,
@@ -152,49 +156,49 @@ Grundlage sein für
     Faktencheck zu erweitern.  
     *Beispiel: Handlungsempfehlung für die kommunale Suchtprävention
     der örtlichen Arbeitsgemeinschaft Suchtprävention*
-3.   **die Festlegung kommunaler Gesundheitsziele/prioritärer
-     Handlungsfelder, zum Beispiel in kommunalen
-     Gesundheitskonferenzen:**  
-     Die Verständigung unter den (kommunalen) Akteuren und Akteurinnen
-     und die Formulierung gemeinsamer Ziele kann durch einen
-     Gesundheitsbericht entscheidende Anstöße erhalten. Weitergehend
-     kann die GBE dazu beitragen, prioritäre Handlungsfelder an den
-     kleinräumig oftmals sehr unterschiedlichen Bedarfen und
-     Bedürfnissen auszurichten, um für mehr gesundheitliche
-     Chancengerechtigkeit zu sorgen.  
-     *Beispiel: Eine kleinräumige Bedürfnisanalyse zeigt
-     Unterstützungsbedarf für mobilitätseingeschränkte ältere Menschen
-     bei sozialen und gesundheitsfördernden Aktivitäten. Das kommunale
-     Gesundheitsziel: „Die körperliche Aktivität und Teilhabe an der
-     Gesellschaft bei älteren Menschen ist gestärkt“ wird festgelegt.*
-4.   **die Messung der Zielerreichung eines Gesundheitszieles:**  
-     Diese Berichtsform zielt auf die Evaluation von Maßnahmen
-     hinsichtlich der Erreichung eines konkreten Gesundheitszieles
-     ab.  
-     *Beispiel: Die GBE erhält den Auftrag herauszufinden, wie sich die
-     gesundheitliche Lage zehn Jahre nach Einführung eines
-     Gesundheitszieles entwickelt hat.*
-5.   **die kommunale Beteiligung bei der Versorgungsplanung:**  
-     Das Ziel dieser GBE-Form ist, neben der Lage auch die
-     Zuständigkeiten und Gestaltungsmöglichkeiten der kommunalen
-     Akteure und Akteurinnen transparent zu machen.  
-     *Beispiel: Die hausärztliche Versorgungsstruktur in den Gemeinden
-     und kleineren Städten und die verschiedenen Fördermöglichkeiten
-     und deren Nutzung werden aufgezeigt.*
-6.   **die Bereitstellung** **gesicherter und unabhängiger
-     Informationen für die Bevölkerung, die Fachöffentlichkeit sowie
-     Entscheidungsträger und Entscheidungsträgerinnen zu
-     gesundheitspolitisch bedeutsamen Entwicklungen:**  
-     Diese Berichtsform zielt darauf ab, den Prozess der demokratischen
-     Willensbildung in der Gesellschaft zu unterstützen.  
-     *Beispiel: eine anlassbezogene Berichterstattung zur „Gesundheit
-     bei Asylsuchenden“*
+3.  **die Festlegung kommunaler Gesundheitsziele/prioritärer
+    Handlungsfelder, zum Beispiel in kommunalen
+    Gesundheitskonferenzen:**  
+    Die Verständigung unter den (kommunalen) Akteuren und Akteurinnen
+    und die Formulierung gemeinsamer Ziele kann durch einen
+    Gesundheitsbericht entscheidende Anstöße erhalten. Weitergehend
+    kann die GBE dazu beitragen, prioritäre Handlungsfelder an den
+    kleinräumig oftmals sehr unterschiedlichen Bedarfen und
+    Bedürfnissen auszurichten, um für mehr gesundheitliche
+    Chancengerechtigkeit zu sorgen.  
+    *Beispiel: Eine kleinräumige Bedürfnisanalyse zeigt
+    Unterstützungsbedarf für mobilitätseingeschränkte ältere Menschen
+    bei sozialen und gesundheitsfördernden Aktivitäten. Das kommunale
+    Gesundheitsziel: „Die körperliche Aktivität und Teilhabe an der
+    Gesellschaft bei älteren Menschen ist gestärkt“ wird festgelegt.*
+4.  **die Messung der Zielerreichung eines Gesundheitszieles:**  
+    Diese Berichtsform zielt auf die Evaluation von Maßnahmen
+    hinsichtlich der Erreichung eines konkreten Gesundheitszieles
+    ab.  
+    *Beispiel: Die GBE erhält den Auftrag herauszufinden, wie sich die
+    gesundheitliche Lage zehn Jahre nach Einführung eines
+    Gesundheitszieles entwickelt hat.*
+5.  **die kommunale Beteiligung bei der Versorgungsplanung:**  
+    Das Ziel dieser GBE-Form ist, neben der Lage auch die
+    Zuständigkeiten und Gestaltungsmöglichkeiten der kommunalen
+    Akteure und Akteurinnen transparent zu machen.  
+    *Beispiel: Die hausärztliche Versorgungsstruktur in den Gemeinden
+    und kleineren Städten und die verschiedenen Fördermöglichkeiten
+    und deren Nutzung werden aufgezeigt.*
+6.  **die Bereitstellung** **gesicherter und unabhängiger
+    Informationen für die Bevölkerung, die Fachöffentlichkeit sowie
+    Entscheidungsträger und Entscheidungsträgerinnen zu
+    gesundheitspolitisch bedeutsamen Entwicklungen:**  
+    Diese Berichtsform zielt darauf ab, den Prozess der demokratischen
+    Willensbildung in der Gesellschaft zu unterstützen.  
+    *Beispiel: eine anlassbezogene Berichterstattung zur „Gesundheit
+    bei Asylsuchenden“*
 
 Aus der kurzen und sicher nicht vollständigen Aufzählung soll
 ersichtlich werden, dass Gesundheitsberichte aus unterschiedlichen
 Kontexten heraus entstehen, was gerade Neulinge im Berufsfeld vor nicht
 unerhebliche Herausforderungen stellen kann (Weiteres hierzu auch in
-[Kapitel 6]({{ site.baseurl }}{% link 6-IntegrierteGBE.md %})). Damit ein Gesundheitsbericht nicht das Dasein eines
+[Kapitel 6]({{ site.baseurl }}{% link 06-VernetzunginderGBE.md %})). Damit ein Gesundheitsbericht nicht das Dasein eines
 „zahnlosen“, ungelesen in Schubladen vegetierenden Papiertigers
 fristet, sollte die Auftragslage frühestmöglich geklärt sein. GBE dient
 im Idealfall in erster Linie der Unterstützung einer evidenzinformierten
@@ -293,10 +297,12 @@ Das Modell führt beispielhaft vielfältige Faktoren auf, die sich
 wechselseitig beeinflussen und auf den Menschen gesundheitsförderlich,
 aber auch gesundheitsschädlich einwirken können (siehe Abbildung 4).
 
-![](./media/image5.png)
+ <figure>
+  <img src="./media/image5.png" alt="Determinanten für Gesundheit „Regenbogenmodell" style="width:90%">
+  <figcaption>Abbildung 4: Determinanten für Gesundheit „Regenbogenmodell“ (eigene Darstellung nach Dahlgren, Whitehead 1991)</figcaption>
+</figure> 
 
-Abbildung 4: Determinanten für Gesundheit „Regenbogenmodell“ (eigene
-Darstellung nach Dahlgren, Whitehead 1991)
+
 
 Im Mittelpunkt befinden sich der Mensch und seine individuellen Faktoren
 wie Alter, Geschlecht und konstitutionelle Merkmale, die zwar einen
@@ -356,7 +362,7 @@ einerseits auf Ebene der berichteten Kennzahlen für Gesundheit
 entsprechender Handlungsempfehlungen (**Policy Formulation**). Unter den
 Kennzahlen für Gesundheit finden sich diverse Indikatoren, die nicht
 direkt den Gesundheitszustand, sondern den Zustand definierter
-Determinanten für Gesundheit abbilden (siehe auch [Kapitel 4]({{ site.baseurl }}{% link 4-GBE-Strukturen.md %})). GBE kann
+Determinanten für Gesundheit abbilden (siehe auch [Kapitel 4]({{ site.baseurl }}{% link 04-GBEHandwerk.md %})). GBE kann
 dem Namen „Gesundheitsberichterstattung“ eigentlich nur gerecht werden,
 wenn sie sich eben nicht nur darauf beschränkt, die Häufigkeiten von
 Krankheit und Tod mehr oder weniger „downstream“ zu berichten, sondern
@@ -378,7 +384,7 @@ Idealfall koordiniert durch den ÖGD.
 <tbody>
 <tr class="odd">
 <td><h5 id="exkurs-health-in-all-policies-hiap">Exkurs: Health in All Policies (HiAP)</h5>
-<p>Da die Verhältnisse, in denen Menschen aufwachsen und leben, mittel- und langfristig das Verhalten von Individuen und Bevölkerungsgruppen substanziell beeinflussen können, stehen verhältnispräventive Maßnahmen stark im Fokus von Prävention und Gesundheitsförderung und münden oftmals in Aktivitäten der Gesundheitsplanung (Näheres hierzu auch in [Kapitel 7]({{ site.baseurl }}{% link 7-VernetzunginderGBE.md %})). Der „Health in All Policies“-Ansatz (im Deutschen: Gesundheit in allen Politikbereichen) beinhaltet, gesundheitsrelevante Prozesse und Entscheidungen auf unterschiedlichen gesellschaftspolitischen Ebenen systematisch zu erfassen, sichtbar zu machen und darauf hinzuwirken, gesundheitsrelevante Auswirkungen, sowohl gesundheitsförderliche als auch -schädliche, bei Entscheidungen quer durch alle Politikfelder mit zu berücksichtigen. Übergreifendes Ziel ist eine gesundheitsförderliche Gesamtpolitik, um die Gesundheit der Bevölkerung und gesundheitliche Chancengleichheit zu verbessern (Böhme, Reimann 2018; Geene et al. 2020).</p></td>
+<p>Da die Verhältnisse, in denen Menschen aufwachsen und leben, mittel- und langfristig das Verhalten von Individuen und Bevölkerungsgruppen substanziell beeinflussen können, stehen verhältnispräventive Maßnahmen stark im Fokus von Prävention und Gesundheitsförderung und münden oftmals in Aktivitäten der Gesundheitsplanung (Näheres hierzu auch in [Kapitel 7]({{ site.baseurl }}{% link 07-Planung.md %}) ). Der „Health in All Policies“-Ansatz (im Deutschen: Gesundheit in allen Politikbereichen) beinhaltet, gesundheitsrelevante Prozesse und Entscheidungen auf unterschiedlichen gesellschaftspolitischen Ebenen systematisch zu erfassen, sichtbar zu machen und darauf hinzuwirken, gesundheitsrelevante Auswirkungen, sowohl gesundheitsförderliche als auch -schädliche, bei Entscheidungen quer durch alle Politikfelder mit zu berücksichtigen. Übergreifendes Ziel ist eine gesundheitsförderliche Gesamtpolitik, um die Gesundheit der Bevölkerung und gesundheitliche Chancengleichheit zu verbessern (Böhme, Reimann 2018; Geene et al. 2020).</p></td>
 </tr>
 </tbody>
 </table>
@@ -396,8 +402,7 @@ Determinanten der sozialen Lage häufig recht kleinräumige Informationen
 vorliegen. Eine Berichterstattung über soziale Einflussfaktoren ist
 inhaltlich unerlässlich, sie birgt jedoch gleichzeitig nicht
 unerhebliche Risiken bezüglich Stigmatisierung oder undifferenzierter
-Schuldzuweisungen an bestimmte Bevölkerungsgruppen (siehe auch Kapitel
-1).
+Schuldzuweisungen an bestimmte Bevölkerungsgruppen (siehe auch [Kapitel 1]({{ site.baseurl }}{% link 01-WasistGBE.md %})).
 
 Auf Handlungsebene sind soziale Determinanten nicht nur aufgrund ihrer
 übergeordneten Bedeutung für Gesundheit relevant, sondern auch ganz
@@ -419,7 +424,7 @@ einmal genauer eingegangen. Die GBE in diesem Fall nicht als isolierte
 Fachberichterstattung, sondern vielmehr als integrierte Sozial- und
 Gesundheitsberichterstattung anzulegen, kann unter solchen
 Rahmenbedingungen eine schlüssige Konsequenz darstellen (siehe auch
-[Kapitel 5]({{ site.baseurl }}{% link 5-GBEHandwerk.md %})).
+[Kapitel 5]({{ site.baseurl }}{% link 05-IntegrierteGBE.md %})).
 
 ## Politisches Selbstverständnis der GBE
 
@@ -484,35 +489,34 @@ Michelsen 2007; Kurth 2006):
     wird, deren Auswahl auch nicht immer auf den ersten Blick
     nachvollziehbar ist.
 
-2.  > **Dezisionistisches Modell:** Nach diesem Modell berät eine
-    > wertfreie Wissenschaft eine Politik, die auf Basis von Werten und
-    > Weltanschauungen Entscheidungen trifft. Das Selbstverständnis des
-    > GBElers oder der GBElerin ist es, den Entscheidungsträgern und
-    > Entscheidungsträgerinnen die bestmögliche Informationsbasis für
-    > ihre Entscheidungen bereitzustellen. Dadurch sollen nicht rein
-    > evidenzbasierte, sondern vielmehr evidenzinformierte politische
-    > Entscheidungen ermöglicht werden (Rushmer et al. 2019). Rein
-    > formal wird dieses Modell den meisten politischen Prozessen und
-    > Zuständigkeiten gerecht. Es postuliert jedoch eine Wertfreiheit im
-    > GBE-Beratungsprozess, die in der zugrunde liegenden
-    > Gesundheitswissenschaft schwerlich zu finden sein dürfte.
-    > Wertorientierungen des GBElers oder der GBElerin etwa im Sinne
-    > eines Leitwerts Gesundheit oder der HiAP-Ziele werden im
-    > Beratungsprozess nicht ausgeblendet, sondern sind Teil dessen.
-
-3.  > **Pragmatistisches Modell:** Nach diesem Modell wird eine wertende
-    > Wissenschaft postuliert, welche Politik berät und aufgrund der
-    > eigenen Wertorientierung gleichzeitig in den Diskurs mit ihr
-    > tritt. Entscheidungen werden somit in einem Wechselspiel zwischen
-    > Politik und Wissenschaft getroffen. Der GBEler oder die GBElerin
-    > wird im Normalfall durchaus für die eigenen Werte „streiten“, wie
-    > es in diesem Modell hinterlegt ist. Inwieweit die
-    > Entscheidungsprozesse dann eher dezisionistisch oder
-    > pragmatistisch stattfinden, hängt von seiner oder ihrer Rolle ab
-    > sowie vom Kontext, der ja durch eine Vielzahl weiterer Akteure zum
-    > Beispiel aus Kommunalpolitik oder Gremien von Experten und
-    > Expertinnen beeinflusst wird (Weiteres zu den Strukturen auch in
-    > [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %})).
+2.  **Dezisionistisches Modell:** Nach diesem Modell berät eine
+    wertfreie Wissenschaft eine Politik, die auf Basis von Werten und
+    Weltanschauungen Entscheidungen trifft. Das Selbstverständnis des
+    GBElers oder der GBElerin ist es, den Entscheidungsträgern und
+    Entscheidungsträgerinnen die bestmögliche Informationsbasis für
+    ihre Entscheidungen bereitzustellen. Dadurch sollen nicht rein
+    evidenzbasierte, sondern vielmehr evidenzinformierte politische
+    Entscheidungen ermöglicht werden (Rushmer et al. 2019). Rein
+    formal wird dieses Modell den meisten politischen Prozessen und
+    Zuständigkeiten gerecht. Es postuliert jedoch eine Wertfreiheit im
+    GBE-Beratungsprozess, die in der zugrunde liegenden
+    Gesundheitswissenschaft schwerlich zu finden sein dürfte.
+    Wertorientierungen des GBElers oder der GBElerin etwa im Sinne
+    eines Leitwerts Gesundheit oder der HiAP-Ziele werden im
+    Beratungsprozess nicht ausgeblendet, sondern sind Teil dessen.
+.  **Pragmatistisches Modell:** Nach diesem Modell wird eine wertende
+    Wissenschaft postuliert, welche Politik berät und aufgrund der
+    eigenen Wertorientierung gleichzeitig in den Diskurs mit ihr
+    tritt. Entscheidungen werden somit in einem Wechselspiel zwischen
+    Politik und Wissenschaft getroffen. Der GBEler oder die GBElerin
+    wird im Normalfall durchaus für die eigenen Werte „streiten“, wie
+    es in diesem Modell hinterlegt ist. Inwieweit die
+    Entscheidungsprozesse dann eher dezisionistisch oder
+    pragmatistisch stattfinden, hängt von seiner oder ihrer Rolle ab
+    sowie vom Kontext, der ja durch eine Vielzahl weiterer Akteure zum
+    Beispiel aus Kommunalpolitik oder Gremien von Experten und
+    Expertinnen beeinflusst wird (Weiteres zu den Strukturen auch in
+    [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %})).
 
 Wichtig für das Selbstverständnis der meist akademisch-wissenschaftlich
 geprägten GBEler und GBElerinnen ist es, die Unterschiedlichkeit der

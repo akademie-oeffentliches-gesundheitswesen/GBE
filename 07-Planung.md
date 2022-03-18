@@ -27,10 +27,10 @@ Umsetzung sowie idealerweise das Monitoring gesundheitsschützender sowie
 gesundheitsförderlicher Maßnahmen bereitzustellen. GBE grenzt sich von
 der Medizinalstatistik gerade auch durch ihren Handlungsbezug ab, das
 heißt, dem Selbstverständnis nach sollten Daten für Taten generiert und
-interpretiert werden (siehe auch [Kapitel 1]({{ site.baseurl }}{% link 1-WasistGBE.md %})). Ihr Anspruch der
+interpretiert werden (siehe auch [Kapitel 1]({{ site.baseurl }}{% link 01-WasistGBE.md %})). Ihr Anspruch der
 Planungsrelevanz macht es erforderlich, die bestehenden
 Planungskontexte, -ziele, -strukturen und -ebenen im Blick zu haben. In
-dem in [Kapitel 2]({{ site.baseurl }}{% link 2-WozuGBE.md %}) vorgestellten Public Health Action Cycle wird die
+dem in [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) vorgestellten Public Health Action Cycle wird die
 Rolle der GBE im Planungsprozess visualisiert. Als
 Gesundheitsberichterstatterin und Gesundheitsberichterstatter gilt es,
 den Planungsprozess zu kennen und immer „mitzudenken“, ähnlich wie
@@ -48,11 +48,13 @@ geforderte Verzahnung unterschiedlicher politischer Handlungsfelder zur
 Verminderung sozial ungleicher Gesundheitschancen (WHO 1986)
 flächendeckend und bis auf Lebensweltebene umzusetzen.
 
-![](./media/image13.png)
+ <figure>
+  <img src="./media/image13.png" alt="Abbildung 12: Rolle der Gesundheitsplanung im Public Health Action Cycle" style="width:60%">
+  <figcaption>Abbildung 12: Rolle der Gesundheitsplanung im Public Health Action Cycle (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine 1988)</figcaption>
+</figure> 
 
-Abbildung 12: Rolle der Gesundheitsplanung im Public Health Action
-Cycle  
-(eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine 1988)
+
+Abbildung 12: Rolle der Gesundheitsplanung im Public Health Action Cycle (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine 1988)
 
 In diesem Kapitel widmet sich der erste Teil der Gesundheitsplanung im
 engeren Sinne, das heißt der federführend durch den ÖGD durchgeführten
@@ -67,7 +69,7 @@ können, und erläutert dies am Beispiel der Stadtplanung.
 In einer zunehmenden Zahl an Bundesländern sind dem ÖGD mittlerweile
 Planungsaufgaben landesgesetzlich zugewiesen (siehe auch Exkurs zu den
 GDG in [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %}).). In weiteren Bundesländern erfolgen diesbezügliche
-Modellprojekte, worauf unter anderem in [Kapitel 8]({{ site.baseurl }}{% link 8-Planung.md %}). am Beispiel des
+Modellprojekte, worauf unter anderem in [Kapitel 8]({{ site.baseurl }}{% link 08-WowilldieGBEhin.md %}). am Beispiel des
 Fachplans Gesundheit noch genauer eingegangen wird.
 
 Gesundheitsplanung wird häufig in spezifischen Planungsgremien
@@ -111,7 +113,7 @@ aufgehoben.
 
 Für den Aufbau einer Gesundheitsplanung ist es wichtig, möglichst gute
 Kenntnisse über die strukturellen Bedingungen vor Ort zu gewinnen (siehe
-auch [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %})) und sich aktiv zu vernetzen (siehe auch [Kapitel 6]({{ site.baseurl }}{% link 6-IntegrierteGBE.md %})).
+auch [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %})) und sich aktiv zu vernetzen (siehe auch [Kapitel 6]({{ site.baseurl }}{% link 06-VernetzunginderGBE.md %})).
 Eine GBE-Basis kann einen wichtigen Ausgangspunkt für den Aufbau einer
 Gesundheitsplanung darstellen, anderenfalls wird fast immer im Laufe der
 Zeit aus diesen Strukturen der Ruf nach Daten für Taten laut, das heißt,
@@ -148,8 +150,7 @@ die lokalen Strukturen zu berücksichtigen, das heißt konkret die
 Ausrichtung des zuständigen kommunalpolitischen Ausschusses im
 ÖGD-Dezernat sowie auch die Zusammensetzung des lokalen Expertinnen-
 und Expertengremiums wie beispielsweise der kommunalen
-Gesundheitskonferenz, sofern dieses bereits etabliert ist (siehe Kapitel
-3.). Bestehende kommunalpolitische gesundheitsbezogene
+Gesundheitskonferenz, sofern dieses bereits etabliert ist (siehe [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %})). Bestehende kommunalpolitische gesundheitsbezogene
 Schwerpunktsetzungen können einen wesentlichen Ausgangspunkt darstellen
 (zum Beispiel lokale Gesundheitsziele oder Leitbild „Gesunde Kommune“,
 gegebenenfalls Mitgliedschaft im Gesunde Städte-Netzwerk Deutschland,
@@ -188,12 +189,12 @@ Bürgerinnen und Bürgern und die durch die GBE erhobene Datenbasis
 konstruktiv zu integrieren, wie in der nachfolgenden Abbildung
 veranschaulicht.
 
-![](./media/image14.wmf)
+ <figure>
+  <img src="./media/image14.png" alt="Abbildung 13: Ausrichtung und Themenfindung der Gesundheitsplanung" style="width:90%">
+  <figcaption>Abbildung 13: Ausrichtung und Themenfindung der Gesundheitsplanung entstehen im Aushandlungsprozess zwischen den unterschiedlichen Perspektiven von Expertinnen und Experten, Bürgerinnen und Bürgern und der wissenschaftlichen Datenlage (erweitert nach Roller 2010)</figcaption>
+</figure> 
 
-Abbildung 13 Ausrichtung und Themenfindung der Gesundheitsplanung
-entstehen im Aushandlungsprozess zwischen den unterschiedlichen
-Perspektiven von Expertinnen und Experten, Bürgerinnen und Bürgern und
-der wissenschaftlichen Datenlage (erweitert nach Roller 2010)
+
 
 ***Form des Berichtswesens:*** GBE ist zwar in allen
 Gesundheitsdienstgesetzen der Länder verankert, sie wird aber nicht
@@ -211,7 +212,7 @@ anderweitige Impulse geben zu können. In diesem Zusammenhang wird seit
 einigen Jahren auch – analog zu anderen kommunalen Fachplanungen – die
 Etablierung des Fachplans Gesundheit als ein integriertes, prozess- und
 maßnahmenorientiertes kommunales Planungsinstrument diskutiert (Claßen,
-Mekel 2020), worauf in [Kapitel 8]({{ site.baseurl }}{% link 8-Planung.md %}) noch genauer eingegangen wird.
+Mekel 2020), worauf in [Kapitel 8]({{ site.baseurl }}{% link 08-WowilldieGBEhin.md %}) noch genauer eingegangen wird.
 
 ***Ressourcensteuerung:*** Die zunächst mal meist vagen Zuständigkeiten
 der durch den ÖGD eingerichteten Planungsgremien spiegeln sich auch auf
@@ -229,7 +230,7 @@ eine befriedigende Arbeit des Gremiums zu gewährleisten, ist dies jedoch
 üblicherweise zu knapp bemessen. Daher werden häufig parallel kommunale
 Planungen beratend angestoßen und unterstützt, über die dann
 zuständigkeitshalber in den kommunalpolitischen Gremien entschieden
-wird (siehe auch [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %}) und [Kapitel 7]({{ site.baseurl }}{% link 7-VernetzunginderGBE.md %})). Nicht selten werden darüber
+wird (siehe auch [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %}) und [Kapitel 7]({{ site.baseurl }}{% link 07-Planung.md %})). Nicht selten werden darüber
 hinaus themenbezogen Ressourcen einzelner Mitglieder der KGK akquiriert,
 häufig gelingt es auch, Mischfinanzierungen aus mehreren der genannten
 Quellen anzustoßen. Eine wertvolle Möglichkeit hat sich diesbezüglich
@@ -290,39 +291,41 @@ wahrgenommenen Professionalität und dem Einbezug der Öffentlichkeit:
     Patienten bis auf die Arbeitsebene hergestellt werden (Szagun, Kiß
     2002).
 
-  - > **Politisches Gewicht:** Das politische Gewicht lässt sich durch
-    > die Leitung und sichtbaren Zuständigkeiten bzw.
-    > Ressourcenverantwortung des Gremiums erhöhen. Bestenfalls erfolgt
-    > zum Beispiel die Leitung der KGK durch die kommunale Spitze,
-    > wodurch gleichzeitig die Schnittstelle zu den kommunalpolitischen
-    > Gremien optimiert wird. Auch der personelle Ressourceneinsatz zum
-    > Betrieb der KGK sowie eine eigenverantwortliche
-    > Ressourcenverantwortung erhöhen sichtbar nach außen das Gewicht,
-    > dass ihr seitens der Kommunalpolitik beigemessen wird (Albrich et
-    > al. 2017).
+  - **Politisches Gewicht:** Das politische Gewicht lässt sich durch
+    die Leitung und sichtbaren Zuständigkeiten bzw.
+    Ressourcenverantwortung des Gremiums erhöhen. Bestenfalls erfolgt
+    zum Beispiel die Leitung der KGK durch die kommunale Spitze,
+    wodurch gleichzeitig die Schnittstelle zu den kommunalpolitischen
+    Gremien optimiert wird. Auch der personelle Ressourceneinsatz zum
+    Betrieb der KGK sowie eine eigenverantwortliche
+    Ressourcenverantwortung erhöhen sichtbar nach außen das Gewicht,
+    dass ihr seitens der Kommunalpolitik beigemessen wird (Albrich et
+    al. 2017).
+ - **Professionalität:** Eng mit oben genanntem Ressourceneinsatz
+    verbunden ist die Professionalität der Arbeit des Planungsgremiums
+    und seiner Grundlagen. Dazu gehört einerseits der Einsatz von
+    Personal, das hinsichtlich Qualifikationsgrad und Professionalität
+    als Gegenüber zu den vielfach hoch qualifizierten Mitgliedern von
+    KGKen geeignet ist. Andererseits dient auch die GBE als
+    Investition in die Professionalität der Arbeit und Rationalität
+    der Diskussionen innerhalb des Gremiums. Weitere
+    Professionalisierungsoptionen ergeben sich durch die sichtbare
+    Integration anderer kommunaler Planungsfelder in die KGK und die
+    aktive Mitwirkung der Amtsleitung an den Planungsprozessen.
 
-  - > **Professionalität:** Eng mit oben genanntem Ressourceneinsatz
-    > verbunden ist die Professionalität der Arbeit des Planungsgremiums
-    > und seiner Grundlagen. Dazu gehört einerseits der Einsatz von
-    > Personal, das hinsichtlich Qualifikationsgrad und Professionalität
-    > als Gegenüber zu den vielfach hoch qualifizierten Mitgliedern von
-    > KGKen geeignet ist. Andererseits dient auch die GBE als
-    > Investition in die Professionalität der Arbeit und Rationalität
-    > der Diskussionen innerhalb des Gremiums. Weitere
-    > Professionalisierungsoptionen ergeben sich durch die sichtbare
-    > Integration anderer kommunaler Planungsfelder in die KGK und die
-    > aktive Mitwirkung der Amtsleitung an den Planungsprozessen.
 
-![](./media/image15.wmf)
+ <figure>
+  <img src="./media/image15.png" alt="Abbildung 14: Einflussgrößen auf die Relevanz einer kommunalen Gesundheitskonferenz" style="width:90%">
+  <figcaption>Abbildung 14: Einflussgrößen auf die Relevanz einer kommunalen Gesundheitskonferenz als Planungsgremium mit begrenzter Zuständigkeit</figcaption>
+</figure> 
 
-> Abbildung 14 Einflussgrößen auf die Relevanz einer kommunalen
-> Gesundheitskonferenz als Planungsgremium mit begrenzter Zuständigkeit
+
 
 Auch in den Fällen, in denen die GBE nicht als planungsvorbereitendes
 Instrument im Mittelpunkt steht, liefert sie wichtige Informationen für
 übergreifende Planungen, zum Beispiel im Rahmen der Kommunal- und
 Quartiersentwicklung oder der Umwelt-, Sozial- und Jugendhilfeplanung
-(siehe auch [Kapitel 5]({{ site.baseurl }}{% link 5-GBEHandwerk.md %})). Um sich adäquat in diese Planungen einbringen
+(siehe auch [Kapitel 5]({{ site.baseurl }}{% link 05-IntegrierteGBE.md %})). Um sich adäquat in diese Planungen einbringen
 zu können, sollten Gesundheitsberichterstatterinnen und
 Gesundheitsberichterstatter die bestehenden Planungskontexte, -ziele,
 -strukturen und -ebenen nicht nur im Blick haben, sondern auch
@@ -335,7 +338,7 @@ Kanon städtebaulicher Planungskontexte zu positionieren und zu stärken.
 
 ## Gesundheitsplanung mit dem ÖGD: Gesundheitsorientiert planen, um „Health in All Policies“ zu realisieren
 
-In [Kapitel 2]({{ site.baseurl }}{% link 2-WozuGBE.md %}) wurde bereits beschrieben, welche unterschiedlichen
+In [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) wurde bereits beschrieben, welche unterschiedlichen
 Faktoren die menschliche Gesundheit und unser Wohlbefinden beeinflussen
 können und somit als Gesundheitsdeterminanten wirksam werden. Zahlreiche
 Faktoren wirken hierbei von außen über die Lebensumwelt (gemeinhin
@@ -359,8 +362,8 @@ getroffen, die von hoher Relevanz für Gesundheit und Wohlbefinden der
 Bevölkerung sein können. Dieses Dilemma wurde bereits in der
 Ottawa-Charta der WHO (1986) beschrieben und mündete in der Benennung
 unterschiedlicher lebensweltlicher Zugänge (Settings, unter anderem das
-Setting Kommune, vgl. [Kapitel 7]({{ site.baseurl }}{% link 7-VernetzunginderGBE.md %})) sowie in der Forderung des „Health
-in All Policies“-Ansatzes (HiAP), auf den wir in [Kapitel 2]({{ site.baseurl }}{% link 2-WozuGBE.md %}) schon kurz
+Setting Kommune, vgl. [Kapitel 7]({{ site.baseurl }}{% link 07-Planung.md %})) sowie in der Forderung des „Health
+in All Policies“-Ansatzes (HiAP), auf den wir in [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) schon kurz
 eingegangen sind.
 
 HiAP ist letztlich eine Strategie, um gesundheitsrelevante Prozesse und
@@ -409,7 +412,7 @@ bestehen im Hinblick auf eine Datenintegration, eine integrierte
 Berichterstattung und letztlich eine integrierte Planungsaktivität. Umso
 bedeutsamer sind der Auf- und Ausbau der Gesundheitsberichterstattung
 und die Vernetzung mit anderen Akteurinnen und Akteuren (siehe auch
-[Kapitel 6]({{ site.baseurl }}{% link 6-IntegrierteGBE.md %})), um als ÖGD die Aufgaben der Steuerung und der Koordination
+[Kapitel 6]({{ site.baseurl }}{% link 06-VernetzunginderGBE.md %})), um als ÖGD die Aufgaben der Steuerung und der Koordination
 datenbasiert wahrnehmen zu können.
 
 Dies erfordert den intersektoralen Brückenschlag und gegebenenfalls
@@ -575,8 +578,6 @@ Gesundheitsplanung im ÖGD
 
   - Rosenbrock R (1995): Public Health als Soziale Innovation. In: Das
     Gesundheitswesen 57 (3), S. 140–144.
-
-  - …
 
 Gesundheits- und Stadtentwicklung
 

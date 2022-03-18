@@ -10,10 +10,14 @@ $body-font-family: -apple-system, BlinkMacSystemFont, "noto sans", helvetica neu
 //$body-heading-line-height: 1.15;
 
 
-
-
-
+// Änderungen von Jakob
 blockquote {font-style: italic;}
+p {  text-align: justify;}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
 
 
 ////
@@ -30,9 +34,8 @@ $nav-child-link-color: $blue-300;
 // Layout override
 //
 
-.image figcaption {
-  font-size: 9pt;
-  font-style: normal;
+figcaption {
+  font-style: italic;
   text-align: center;
   display: block;
   margin-bottom: 20px;

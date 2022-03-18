@@ -22,6 +22,9 @@ title: Gesundheitsberichterstattung - Lehrbuch für den Öffentlichen Gesundheit
 
 
 
+# Soll eine Kommentierfunktion mit Hypothesis erfolgen
+commenting: TRUE
+
 # ga_tracking: UA-161871347-1
 
 # Footer content appears at the bottom of every page's main content
@@ -44,7 +47,7 @@ ISBN: ""
 doi: ""
 
 # Link to logo and favicon
-logo: "/images/akademie.png"
+logo: "/media/akademielogobreit.jpg"
 
 
 # Template variables

@@ -58,10 +58,11 @@ ersten Einblick geben.
 
 ## Datengrundlagen der Gesundheitsberichterstattung
 
-![](./media/image9.png)
+ <figure>
+  <img src="./media/image9.png" alt="Abbildung 7: Datenbasis der GBE " style="width:100%">
+  <figcaption>Abbildung 7: Datenbasis der GBE in der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)</figcaption>
+</figure> 
 
-Abbildung 7 Datenbasis der GBE in der Informationspyramide (erweiterte
-Darstellung nach Verschuuren, van Oers 2019)
 
 Gesundheitsberichterstattung arbeitet zumeist mit sogenannten
 **Sekundärdaten**. Als Sekundärdaten bezeichnet man Daten, die in
@@ -84,7 +85,7 @@ Gesundheitsberichterstattung von Bedeutung sein. Weitere Datenquellen
 für die Gesundheitsberichterstattung sind wissenschaftliche Studien,
 beispielsweise die Studie zur Gesundheit von Kindern und Jugendlichen in
 Deutschland (KiGGS), die häufig als sogenannte Public-Use-Files zur
-Verfügung stehen (Weiteres hierzu auch in [Kapitel 6]({{ site.baseurl }}{% link 6-IntegrierteGBE.md %})). Public-Use-Files
+Verfügung stehen (Weiteres hierzu auch in [Kapitel 6]({{ site.baseurl }}{% link 06-VernetzunginderGBE.md %})). Public-Use-Files
 sind Daten, die von verschiedenen Instituten der Forschungsinfrastruktur
 für öffentliche und/oder wissenschaftliche Zwecke zur Verfügung gestellt
 werden. Sie können für eigene statistische Auswertungen genutzt werden,
@@ -332,11 +333,13 @@ und Indikatoren stellt somit die Informationsbasis der
 Gesundheitsberichterstattung dar, wie in der nachfolgenden Abbildung
 veranschaulicht:
 
-![](./media/image10.png)
+ <figure>
+  <img src="./media/image10.png" alt="Abbildung 8: Informationen als Routineaufgaben" style="width:100%">
+  <figcaption>Abbildung 8: Informationen als Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)</figcaption>
+</figure> 
 
-Abbildung 8 Informationen als Routineaufgaben der GBE anhand der
-Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers
-2019)
+
+Abbildung 8 Informationen als Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)
 
 Oft dienen Indikatoren als Marker für die gesundheitliche Lage,
 Ressourcen und Leistungen im Gesundheitswesen und ermöglichen auf diese
@@ -401,7 +404,7 @@ Periodizität, Aussagekraft. Bis zu 80 Indikatoren (je nach Land) liegen
 auch auf Kreisebene vor. Die Indikatoren werden fortlaufend aktualisiert
 und es gibt länderspezifische Ergänzungen. Zurzeit wird ein ergänzendes
 Indikatorensystem für die Präventionsberichterstattung der Länder
-entwickelt (siehe auch [Kapitel 8]({{ site.baseurl }}{% link 8-Planung.md %})).
+entwickelt (siehe auch [Kapitel 8]({{ site.baseurl }}{% link 08-WowilldieGBEhin.md %})).
 
 In der Europäischen Union sowie auf nationaler Ebene wird häufig der
 **Europäischen Kernindikatorensatz für Gesundheit** (European Core
@@ -476,7 +479,7 @@ et al. 2018).
 
 Die Berichterstellung gehört zu der Ebene „Wissen“ der
 Informationspyramide. Diese Ebene gliedert sich weiter auf in
-inhaltliche Aspekte, den Prozess der Berichterstellung (siehe [Kapitel 6]({{ site.baseurl }}{% link 6-IntegrierteGBE.md %}))
+inhaltliche Aspekte, den Prozess der Berichterstellung (siehe [Kapitel 6]({{ site.baseurl }}{% link 06-VernetzunginderGBE.md %}))
 und die Vermarktung des Berichts (siehe Abschnitt 4.3.1.). Eine gute
 fachliche Orientierung für die Erstellung von Gesundheitsberichten
 liefert die Publikation **„Gute Praxis Gesundheitsberichterstattung
@@ -484,11 +487,13 @@ liefert die Publikation **„Gute Praxis Gesundheitsberichterstattung
 Berichte bezüglich ihrer Vollständigkeit und der Beachtung aller
 relevanten Aspekte überprüft werden (Starke et al. 2019).
 
-![](./media/image11.png)
 
-Abbildung 9 Die Wissensebene der Informationspyramide bündelt relevante
-Aspekte der Berichterstellung in der Informationspyramide (erweiterte
-Darstellung nach Verschuuren, van Oers 2019)
+ <figure>
+  <img src="./media/image11.png" alt="Abbildung 9: Die Wissensebene der Informationspyramide" style="width:100%">
+  <figcaption>Abbildung 9: Die Wissensebene der Informationspyramide bündelt relevante Aspekte der Berichterstellung in der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)
+</figcaption>
+</figure> 
+
 
 Die inhaltliche Zusammenstellung des Berichts sollte begleitet sein
 durch Diskussionen und Überlegungen zur sprachlichen Gestaltung, zur
@@ -521,7 +526,7 @@ evidenzgesicherte Maßnahmen oder etablierte Good-Practice-Beispiele
 verwiesen werden (van Bon-Martens et al. 2019; Cornelius-Taylor, Brand
 2004). Um die „Geschichte“ passgenau zu vertextlichen, ist es relevant,
 zu wissen, welche Aufgabe der Bericht erfüllen soll. Beispiele hierzu
-sind in [Kapitel 2]({{ site.baseurl }}{% link 2-WozuGBE.md %}) gelistet.
+sind in [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) gelistet.
 
 ### Datenvisualisierung
 
@@ -652,7 +657,7 @@ bringen (Rosenkötter et al. 2020):
 
 Der Impact der GBE hängt auch davon ab, ob alle wesentlichen Aspekte,
 die den Impact beeinflussen, bei der Planung und Umsetzung
-berücksichtigt werden (siehe auch [Kapitel 7]({{ site.baseurl }}{% link 7-VernetzunginderGBE.md %})). Dazu gehören die
+berücksichtigt werden (siehe auch [Kapitel 7]({{ site.baseurl }}{% link 07-Planung.md %})). Dazu gehören die
 politische und strategische Relevanz des Berichts, die sinnvolle
 Integration unterschiedlicher Daten (innerhalb des Gesundheitsbereichs,
 aber auch ressortübergreifend), die Zuverlässigkeit der Ergebnisse, die
@@ -767,9 +772,9 @@ Empfehlungen ist zwingend notwendig.
 Sobald Daten mit Daten anderer Ressorts oder Sektoren integriert werden,
 sind unter anderem sozialepidemiologische, arbeitssoziologische,
 planerische oder umweltbezogene Kenntnisse notwendig, um sinnvolle
-Verknüpfungen zu erstellen (siehe auch [Kapitel 5]({{ site.baseurl }}{% link 5-GBEHandwerk.md %})). Hier ist es ratsam,
+Verknüpfungen zu erstellen (siehe auch [Kapitel 5]({{ site.baseurl }}{% link 05-IntegrierteGBE.md %})). Hier ist es ratsam,
 die Berichterstattung als interaktiven Prozess im Austausch mit anderen
-Experten und Expertinnen zu verstehen (siehe auch [Kapitel 6]({{ site.baseurl }}{% link 6-IntegrierteGBE.md %})).
+Experten und Expertinnen zu verstehen (siehe auch [Kapitel 6]({{ site.baseurl }}{% link 06-VernetzunginderGBE.md %})).
 Interdisziplinäres, vernetztes Agieren als Arbeitsmethode und das
 Einlassen auf neue Themen muss für Gesundheitsberichterstatterinnen und
 Gesundheitsberichterstatter selbstverständlich und gewollt sein.

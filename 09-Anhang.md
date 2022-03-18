@@ -97,7 +97,6 @@ Grundlagen der Epidemiologie
     unter: [Lernzielkatalog
     Epidemiologie](http://www.epiteaching.org/Catalogue-Learning-Objectives-Epi.pdf)
 
-  - …
 
 Grundlagen der Statistik
 
@@ -214,7 +213,6 @@ Datenvisualizierung und Storytelling
     guide to advanced data visualisation with Excel“, dass wertvolle
     Tips enthält.
 
-  - …
 
 ## Glossar – wichtige Kennziffern der kommunalen Gesundheitsberichterstattung
 
@@ -273,7 +271,7 @@ des Bayerischen Landesamtes für Gesundheit und Lebensmittelsicherheit.
 <tr class="odd">
 <td>Daten zur gesundheitlichen Lage</td>
 <td>Todesursachenstatistik, Bevölkerungsstatistik,<br />
-Sterbetafeln, Geburtenstatistik …</td>
+Sterbetafeln, Geburtenstatistik</td>
 <td>Sterblichkeit (Mortalität), Haupttodesursachen, vermeidbare Sterblichkeit, Müttersterblichkeit/Säuglingssterblichkeit, Lebenserwartung, verlorene Lebensjahre (PYLL), …</td>
 <td>Statistische (Landes-) Ämter</td>
 </tr>

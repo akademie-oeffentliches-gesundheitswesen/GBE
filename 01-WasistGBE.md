@@ -97,208 +97,53 @@ Evidenzbasierung**.
 
 ## Ethik und Verantwortung
 
-Gesundheitsberichterstattung soll handlungsorientiert sein. Damit sind
-unvermeidlich ethische Fragestellungen verbunden. Zunächst einmal ist
-weitgehend Konsens, dass in der Gesundheitsberichterstattung
-Unabhängigkeit, Sachlichkeit, Überparteilichkeit und Objektivität
-erwartet werden. Bei der Auswahl der Daten und der Interpretation sind
-subjektive Einflüsse allerdings inhärent. Eine wissenschaftliche
-Arbeitsweise, Transparenz und stetige Reflexion über implizite und
-unerwünschte – da subjektive – Vorannahmen im Team der GBEler und
-GBElerinnen sind Instrumente, um **bestmögliche Objektivität** zu
-wahren. So kann das Vertrauen in eine unabhängige GBE bei Politik,
-Verwaltung und in der Bevölkerung erhalten bleiben.
+Gesundheitsberichterstattung soll handlungsorientiert sein. Damit sind unvermeidlich ethische Fragestellungen verbunden. Zunächst einmal ist weitgehend Konsens, dass in der Gesundheitsberichterstattung Unabhängigkeit, Sachlichkeit, Überparteilichkeit und Objektivität erwartet werden. Bei der Auswahl der Daten und der Interpretation sind subjektive Einflüsse allerdings inhärent. Eine wissenschaftliche Arbeitsweise, Transparenz und stetige Reflexion über implizite und unerwünschte – da subjektive – Vorannahmen im Team der GBEler und GBElerinnen sind Instrumente, um **bestmögliche Objektivität** zu wahren. So kann das Vertrauen in eine unabhängige GBE bei Politik, Verwaltung und in der Bevölkerung erhalten bleiben. 
 
-In dem Maße, in dem Gesundheitsberichterstattung zum Beispiel präventive
-Programme unterstützt, sollte darauf geachtet werden, dass
-Gesundheitsberichte primär eine **informative Funktion** haben, weniger
-eine persuasive. Das unterscheidet Gesundheitsberichte beispielsweise
-von Broschüren mit Hinweisen zum „richtigen“ Gesundheitsverhalten.
-Inwiefern Gesundheitsberichte also dazu beitragen sollen, direkt das
-Gesundheitsverhalten der Bevölkerung so zu beeinflussen, wie es oft
-gesundheitspolitisch gewollt oder gesundheitswissenschaftlich für
-richtig gehalten wird, muss kritisch reflektiert werden.
+In dem Maße, in dem Gesundheitsberichterstattung zum Beispiel präventive Programme unterstützt, sollte darauf geachtet werden, dass Gesundheitsberichte primär eine **informative Funktion** haben, weniger eine persuasive. Das unterscheidet Gesundheitsberichte beispielsweise von Broschüren mit Hinweisen zum „richtigen“ Gesundheitsverhalten. Inwiefern Gesundheitsberichte also dazu beitragen sollen, direkt das Gesundheitsverhalten der Bevölkerung so zu beeinflussen, wie es oft gesundheitspolitisch gewollt oder gesundheitswissenschaftlich für richtig gehalten wird, muss kritisch reflektiert werden.
 
-Ein weiterer Aspekt, der hier anzusprechen ist, ist die **Ambivalenz des
-Sichtbarmachens** von gesundheitlichen Problemen einerseits und der
-Gefahr, damit andererseits Personen zu stigmatisieren. Beispiel: Im
-Prozess der GBE und des fertigen GBE-Produkts sollen die
-Lebenssituationen und unterschiedlichen sozialen Milieus berücksichtigt
-werden, ohne dabei zu diskriminieren. Wenn über adipöse Kinder berichtet
-wird, soll einerseits ein ernstes gesundheitliches Problem zur Sprache
-gebracht werden, andererseits sollen die betroffenen Kinder nicht
-zusätzlich stigmatisiert werden. In gleicher Weise ist darauf zu
-achten, dass gesundheitliche Probleme etwa bei Menschen mit
-Migrationshintergrund nicht zur Verstärkung gesellschaftlicher
-Ausgrenzungstendenzen beitragen.
+Ein weiterer Aspekt, der hier anzusprechen ist, ist die **Ambivalenz des Sichtbarmachens** von gesundheitlichen Problemen einerseits und der Gefahr, damit andererseits Personen zu stigmatisieren. Beispiel: Im Prozess der GBE und des fertigen GBE-Produkts sollen die Lebenssituationen und unterschiedlichen sozialen Milieus berücksichtigt werden, ohne dabei zu diskriminieren. Wenn über adipöse Kinder berichtet wird, soll einerseits ein ernstes gesundheitliches Problem zur Sprache gebracht werden, andererseits sollen die betroffenen Kinder nicht zusätzlich stigmatisiert werden. In gleicher Weise ist darauf zu achten, dass gesundheitliche Probleme etwa bei Menschen mit Migrationshintergrund nicht zur Verstärkung gesellschaftlicher Ausgrenzungstendenzen beitragen.
 
 ## Gesundheitsberichterstattung – nur ein Bericht oder steckt da doch mehr dahinter?
 
-Auch wenn Daten einen wesentlichen Kern der GBE bilden, umfasst
-Berichterstattung doch weit mehr als die bloße Sammlung, Aufbereitung
-und Analyse selbiger. GBE ist vielmehr als ein Zyklus
-aufeinanderfolgender und miteinander verbundener Aktivitäten zu
-betrachten, die im Idealfall auf einer umfassenden Gesamtstrategie
-basieren. In der „Guten Praxis Gesundheitsberichterstattung 2.0“ wird
-dies wie folgt zusammengefasst:
+Auch wenn Daten einen wesentlichen Kern der GBE bilden, umfasst Berichterstattung doch weit mehr als die bloße Sammlung, Aufbereitung und Analyse selbiger. GBE ist vielmehr als ein Zyklus aufeinanderfolgender und miteinander verbundener Aktivitäten zu betrachten, die im Idealfall auf einer umfassenden Gesamtstrategie basieren. In der „Guten Praxis Gesundheitsberichterstattung 2.0“ wird dies wie folgt zusammengefasst:
 
-> „Gesundheitsberichterstattung beschreibt die gesundheitliche Lage der
-> Bevölkerung, analysiert Problemlagen und zeigt Handlungsbedarfe für
-> die Gesundheitsversorgung, Gesundheitsförderung und Prävention auf.
-> Sie bietet damit eine rationale Grundlage für partizipative Prozesse
-> und gesundheitspolitische Entscheidungen“ (Starke et al. 2019).
+> „Gesundheitsberichterstattung beschreibt die gesundheitliche Lage der Bevölkerung, analysiert Problemlagen und zeigt Handlungsbedarfe für die Gesundheitsversorgung, Gesundheitsförderung und Prävention auf. Sie bietet damit eine rationale Grundlage für partizipative Prozesse und gesundheitspolitische Entscheidungen“ (Starke et al. 2019).
 
-Routine und Arbeitsweise der Gesundheitsberichterstattung kann dabei
-mithilfe der Informationspyramide von Verschuuren und Van Oers
-beschrieben werden. Die Pyramide basiert auf der
-Data-Information-Knowledge-Wisdom-(DIKW-)Hierarchie von Ackoff (1989)
-und lässt sich in vier Ebenen einteilen.
+Routine und Arbeitsweise der Gesundheitsberichterstattung kann dabei mithilfe der Informationspyramide von Verschuuren und Van Oers beschrieben werden. Die Pyramide basiert auf der Data-Information-Knowledge-Wisdom-(DIKW-)Hierarchie von Ackoff (1989) und lässt sich in vier Ebenen einteilen.
 
-![](./media/image2.png)
+ <figure>
+  <img src="./media/image2.png" alt="Gesundheitsinformationssysteme und Routineaufgaben der GBE" style="width:100%">
+  <figcaption>Abbildung 1: Gesundheitsinformationssysteme und Routineaufgaben der GBE (erweiterte Darstellung nach Verschuuren, van Oers 2019)</figcaption>
+</figure> 
 
-Abbildung 1: Gesundheitsinformationssysteme und Routineaufgaben der GBE
-(erweiterte Darstellung nach Verschuuren, van Oers 2019)
 
-Im Idealfall beginnt der GBE-Zyklus mit einer umfassenden
-**GBE-Strategie**. Sie gibt dem Bericht einen konzeptionellen Rahmen und
-kann zur Identifikation planungsrelevanter Bedürfnisse und Bedarfe in
-der Kommune herangezogen werden. Darauf aufbauend werden geeignete
-Routinedatenquellen identifiziert bzw. fehlende Daten gesammelt **(Ebene
-der Daten)**, aufbereitet und analysiert, mit Informationen aus anderen
-Quellen zur Validierung und Anreicherung der Erkenntnisse integriert
-**(Ebene der Informationen)** und in einem auf die Adressaten und
-Adressatinnen zugeschnittenen Format berichtet **(Ebene des Wissens)**.
-Dabei sollten die vorliegenden Informationen in eine breitere politik-
-und praxisrelevante Perspektive gestellt werden, indem sie mit
-Erkenntnissen aus verschiedenen Bereichen (zum Beispiel
-Gesundheitssystemforschung, Gesundheitswesen, (Sozial-)Epidemiologie,
-(klinische) Medizin, Gesundheitspsychologie oder auch Medizinsoziologie)
-kombiniert werden, bevor sie auf **Ebene der evidenzinformierten
-Entscheidung** aktiv in den politischen Entscheidungsprozess eingebracht
-werden. Die Ergebnisse und Erfahrungen der so erreichten
-„Monitoring-Runde“ sollten im Idealfall wieder in die grundlegende
-GBE-Strategie zurückfließen (siehe Abbildung 1). So können zum Beispiel
-politische Maßnahmen umgesetzt worden sein, deren Auswertung eine
-zusätzliche Datenerhebung erfordert, oder im Rahmen der
-Basisgesundheitsberichterstattung ist deutlich geworden, dass Daten zu
-wichtigen Aspekten des Gesundheitsverhaltens oder der Inanspruchnahme
-der Gesundheitsversorgung fehlen oder unzureichend sind, was eine
-entsprechende Datenerhebung notwendig macht.
 
-Im Folgenden wollen wir einen kurzen Überblick darüber geben, was sich
-hinter den einzelnen Elementen der Informationspyramide verbirgt und
-welche GBE-Aktivitäten jeweils damit verknüpft sind.
+Im Idealfall beginnt der GBE-Zyklus mit einer umfassenden **GBE-Strategie**. Sie gibt dem Bericht einen konzeptionellen Rahmen und kann zur Identifikation planungsrelevanter Bedürfnisse und Bedarfe in der Kommune herangezogen werden. Darauf aufbauend werden geeignete Routinedatenquellen identifiziert bzw. fehlende Daten gesammelt **(Ebene der Daten)**, aufbereitet und analysiert, mit Informationen aus anderen Quellen zur Validierung und Anreicherung der Erkenntnisse integriert **(Ebene der Informationen)** und in einem auf die Adressaten und Adressatinnen zugeschnittenen Format berichtet **(Ebene des Wissens)**. Dabei sollten die vorliegenden Informationen in eine breitere politik- und praxisrelevante Perspektive gestellt werden, indem sie mit Erkenntnissen aus verschiedenen Bereichen (zum Beispiel Gesundheitssystemforschung, Gesundheitswesen, (Sozial-)Epidemiologie, (klinische) Medizin, Gesundheitspsychologie oder auch Medizinsoziologie) kombiniert werden, bevor sie auf **Ebene der evidenzinformierten Entscheidung** aktiv in den politischen Entscheidungsprozess eingebracht werden. Die Ergebnisse und Erfahrungen der so erreichten „Monitoring-Runde“ sollten im Idealfall wieder in die grundlegende GBE-Strategie zurückfließen (siehe Abbildung 1). So können zum Beispiel politische Maßnahmen umgesetzt worden sein, deren Auswertung eine zusätzliche Datenerhebung erfordert, oder im Rahmen der Basisgesundheitsberichterstattung ist deutlich geworden, dass Daten zu wichtigen Aspekten des Gesundheitsverhaltens oder der Inanspruchnahme der Gesundheitsversorgung fehlen oder unzureichend sind, was eine entsprechende Datenerhebung notwendig macht.
+
+Im Folgenden wollen wir einen kurzen Überblick darüber geben, was sich hinter den einzelnen Elementen der Informationspyramide verbirgt und welche GBE-Aktivitäten jeweils damit verknüpft sind.
 
 ### Konzeptioneller Rahmen
 
-Der konzeptionelle Rahmen steckt die Inhalte eines Gesundheitsberichtes
-ab: Was soll im Rahmen der GBE dargestellt werden und warum? Beispiele
-für konzeptionelle Rahmenmodelle können das „Health Field Concept“ von
-Lalonde (1974) oder auch das „Modell zur Erklärung gesundheitlicher
-Ungleichheit“ von Mielck (2005) sein. Die Festlegung auf einen
-konzeptionellen Rahmen trägt dazu bei, die GBE nicht nur im Sinne der
-klassischen Medizinalstatistik aus Sicht der Datenverfügbarkeit zu
-denken, sondern insbesondere auch bedarfsorientiert die relevanten
-Themen für (gesundheits-)politische Entscheidungen auf kommunaler Ebene
-im Blick zu behalten. Der konzeptionelle Rahmen kann dabei behilflich
-sein, etwaige Informationsdefizite aufzuzeigen, was wiederum die
-Generierung alternativer Datenquellen notwendig machen kann, um diese
-Inhalte adäquat abbilden zu können. Weitere Informationen zum
-konzeptionellen Rahmen finden sich in [Kapitel 2]({{ site.baseurl }}{% link 2-WozuGBE.md %}).
-
+Der konzeptionelle Rahmen steckt die Inhalte eines Gesundheitsberichtes ab: Was soll im Rahmen der GBE dargestellt werden und warum? Beispiele für konzeptionelle Rahmenmodelle können das „Health Field Concept“ von Lalonde (1974) oder auch das „Modell zur Erklärung gesundheitlicher Ungleichheit“ von Mielck (2005) sein. Die Festlegung auf einen konzeptionellen Rahmen trägt dazu bei, die GBE nicht nur im Sinne der klassischen Medizinalstatistik aus Sicht der Datenverfügbarkeit zu denken, sondern insbesondere auch bedarfsorientiert die relevanten Themen für (gesundheits-)politische Entscheidungen auf kommunaler Ebene im Blick zu behalten. Der konzeptionelle Rahmen kann dabei behilflich sein, etwaige Informationsdefizite aufzuzeigen, was wiederum die Generierung alternativer Datenquellen notwendig machen kann, um diese Inhalte adäquat abbilden zu können. Weitere Informationen zum konzeptionellen Rahmen finden sich in [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}). 
 ### Daten
 
-Die allgemeine Datenbasis der GBE besteht aus repräsentativen
-Routinestatistiken. Viele der genutzten Daten stammen aus amtlichen
-Statistiken (zum Beispiel Bevölkerungsstatistik, Todesursachenstatistik,
-Krankenhausdiagnosestatistik, Mikrozensus). Diese werden in der Regel
-nicht für den Zweck der GBE generiert, sie haben ihre eigenen
-Charakteristika, Anwendungsgebiete, Limitationen und Fehlerquellen,
-welche den Gesundheitsberichterstattern und
-Gesundheitsberichterstatterinnen sowie den Rezipienten und
-Rezipientinnen bekannt sein müssen, um Fehlinterpretationen zu
-vermeiden. Darüber hinaus können auch amtseigene Daten, beispielsweise
-Ergebnisse der Schuleingangsuntersuchungen, die von den
-Gesundheitsämtern direkt erhoben werden, oder Survey-Daten genutzt
-werden.
+Die allgemeine Datenbasis der GBE besteht aus repräsentativen Routinestatistiken. Viele der genutzten Daten stammen aus amtlichen Statistiken (zum Beispiel Bevölkerungsstatistik, Todesursachenstatistik, Krankenhausdiagnosestatistik, Mikrozensus). Diese werden in der Regel nicht für den Zweck der GBE generiert, sie haben ihre eigenen Charakteristika, Anwendungsgebiete, Limitationen und Fehlerquellen, welche den Gesundheitsberichterstattern und Gesundheitsberichterstatterinnen sowie den Rezipienten und Rezipientinnen bekannt sein müssen, um Fehlinterpretationen zu vermeiden. Darüber hinaus können auch amtseigene Daten, beispielsweise Ergebnisse der Schuleingangsuntersuchungen, die von den Gesundheitsämtern direkt erhoben werden, oder Survey-Daten genutzt werden.
 
-Die Daten werden häufig anhand festgelegter Standards in Indikatoren
-(zum Beispiel mittlere Lebenserwartung, Säuglingssterblichkeit)
-überführt. Der Indikatorensatz der Ländergesundheitsberichterstattung,
-der auch Indikatoren auf Ebene der Kreise und kreisfreien Städte
-enthält, bildet in Deutschland die Grundlage für die GBE (AOLG 2003).
-Weitere Informationen zur Datenbasis der GBE finden sich im
-Handwerkskapitel [Kapitel 4]({{ site.baseurl }}{% link 4-GBE-Strukturen.md %}).
-
+Die Daten werden häufig anhand festgelegter Standards in Indikatoren (zum Beispiel mittlere Lebenserwartung, Säuglingssterblichkeit) überführt. Der Indikatorensatz der Ländergesundheitsberichterstattung, der auch Indikatoren auf Ebene der Kreise und kreisfreien Städte enthält, bildet in Deutschland die Grundlage für die GBE (AOLG 2003). Weitere Informationen zur Datenbasis der GBE finden sich im Handwerkskapitel [Kapitel 4]({{ site.baseurl }}{% link 04-GBEHandwerk.md %}). 
 ### Informationen
 
-Damit aus Daten und Indikatoren relevante Informationen werden, müssen
-sie in einen passenden Kontext gesetzt werden. Neben Zeitreihen,
-regionalen Vergleichen und Vergleichen verschiedener Bevölkerungsgruppen
-können themenabhängig viele weitere Kontexte relevant sein. Oftmals
-ergeben sich aus den Vergleichen, die im Rahmen des Monitorings
-routinehaft erfolgen, Informationen zu gesundheitlichen Unterschieden
-oder Vulnerabilitäten, die im Rahmen der Berichterstattung weiter
-aufbereitet werden können. Viele Landesämter und ebenso einige Kommunen
-stellen hierfür auch interaktive Tools wie Gesundheitsatlanten auf ihren
-Internetseiten bereit.
+Damit aus Daten und Indikatoren relevante Informationen werden, müssen sie in einen passenden Kontext gesetzt werden. Neben Zeitreihen, regionalen Vergleichen und Vergleichen verschiedener Bevölkerungsgruppen können themenabhängig viele weitere Kontexte relevant sein. Oftmals ergeben sich aus den Vergleichen, die im Rahmen des Monitorings routinehaft erfolgen, Informationen zu gesundheitlichen Unterschieden oder Vulnerabilitäten, die im Rahmen der Berichterstattung weiter aufbereitet werden können. Viele Landesämter und ebenso einige Kommunen stellen hierfür auch interaktive Tools wie Gesundheitsatlanten auf ihren Internetseiten bereit.
 
-Das Kontextualisieren kann nicht nur auf inhaltlicher Ebene geschehen.
-Neben der inhaltlichen Dimension ist es außerdem wichtig, die jeweiligen
-Prozesse im Blick zu behalten. So können beispielsweise Veränderungen in
-der Generierung der Statistik nicht nur die Aufbereitung der Daten,
-sondern auch ihre Interpretation beeinflussen. Neben gesetzlichen
-Veränderungen können hier auch Änderungen der Codierung der
-Todesursachenstatistik in den Landesstatistikämtern (Eckert, Vogel 2018)
-oder die Einführung des Erinnerungsverfahrens zur Teilnahme an den
-Früherkennungsuntersuchungen für Kinder (oft nur als „Us“ oder
-„U-Untersuchungen“ abgekürzt) (Thaiss et al. 2010) beispielhaft
-genannt werden.
+Das Kontextualisieren kann nicht nur auf inhaltlicher Ebene geschehen. Neben der inhaltlichen Dimension ist es außerdem wichtig, die jeweiligen Prozesse im Blick zu behalten. So können beispielsweise Veränderungen in der Generierung der Statistik nicht nur die Aufbereitung der Daten, sondern auch ihre Interpretation beeinflussen. Neben gesetzlichen Veränderungen können hier auch Änderungen der Codierung der Todesursachenstatistik in den Landesstatistikämtern (Eckert, Vogel 2018) oder die Einführung des Erinnerungsverfahrens zur Teilnahme an den Früherkennungsuntersuchungen für Kinder (oft nur als „Us“ oder „U-Untersuchungen“ abgekürzt) (Thaiss et al. 2010) beispielhaft genannt werden.
 
 ### Wissen
 
-In der dritten Stufe der Informationspyramide geht es um die Generierung
-von Wissen. In diesem Schritt soll die Nutzbarkeit für die Adressaten
-und Adressatinnen verbessert und wissenschaftliche Evidenz ergänzt
-werden, indem die aufbereiteten Daten und Indikatoren kontextualisiert
-werden. Leitende Fragen sind zum Beispiel erstens, warum gesundheitliche
-Unterschiede zu beobachten sind, und zweitens, was getan werden kann, um
-die gesundheitliche Chancengleichheit zu verbessern. Durch die
-Kontextualisierung grenzt sich die Gesundheitsberichterstattung von der
-klassischen Medizinalstatistik ab.
+In der dritten Stufe der Informationspyramide geht es um die Generierung von Wissen. In diesem Schritt soll die Nutzbarkeit für die Adressaten und Adressatinnen verbessert und wissenschaftliche Evidenz ergänzt werden, indem die aufbereiteten Daten und Indikatoren kontextualisiert werden. Leitende Fragen sind zum Beispiel erstens, warum gesundheitliche Unterschiede zu beobachten sind, und zweitens, was getan werden kann, um die gesundheitliche Chancengleichheit zu verbessern. Durch die Kontextualisierung grenzt sich die Gesundheitsberichterstattung von der klassischen Medizinalstatistik ab.
 
-In dieser Phase entsteht der eigentliche Gesundheitsbericht, in dem
-Informationen und Wissen adressaten- und adressatinnengerecht
-präsentiert und kommuniziert werden. Auf die verschiedenen Formate der
-GBE werden wir auch im GBE-Handwerkskapitel [Kapitel 4]({{ site.baseurl }}{% link 4-GBE-Strukturen.md %}) noch einmal genauer eingehen.
+In dieser Phase entsteht der eigentliche Gesundheitsbericht, in dem nformationen und Wissen adressaten- und adressatinnengerecht räsentiert und kommuniziert werden. Auf die verschiedenen Formate der BE werden wir auch im GBE-Handwerkskapitel [Kapitel 4]({{ site.baseurl }}{% link 04-GBEHandwerk.md %}) noch einmal genauer eingehen. 
 
-### Evidenzbasierte (-informierte) Entscheidungen
-
-Damit Gesundheitsberichterstattung Wirkung erzielt, ist jedoch viel mehr
-nötig als die Erstellung eines Berichts. Das im Rahmen der
-Berichterstattung (neu) generierte Wissen muss über unterschiedliche
-Kanäle transportiert und kommuniziert werden. Abhängig vom Ziel und
-Zweck der GBE (Auftragslage, Zielgruppe und politisches Mandat) gibt es
-hierzu unterschiedliche Ansätze, die von den eher klassischen „evidence
-briefs“ bzw. „policy briefs“ bis hin zu neueren interaktiven Ansätzen
-des sogenannten „serious gamings“ reichen – und oftmals unter dem
-Schlagwort „knowledge translation“ oder „Wissenstransfer“ verortet
-werden können.
-
-Dabei ist die GBE jedoch kein Selbstzweck, sondern verfolgt das klare
-Ziel, so gesicherte und „saubere“ Informationen wie möglich für die
-Planung, Umsetzung und idealerweise auch das Monitoring
-gesundheitsschützender sowie gesundheitsförderlicher Maßnahmen
-bereitzustellen. Damit liefert die GBE Wissen und Erkenntnisse, um
-Entscheidungen auf Basis der besten zur Verfügung stehenden Evidenz
-treffen zu können. Dem Selbstverständnis nach liefert die GBE „Daten für
-Taten“, um evidenzinformierte Entscheidungen zu fördern und
-unterstützen. Dem Anspruch der Planungsrelevanz kann die GBE jedoch nur
-gerecht werden, wenn die bestehenden Planungskontexte, -ziele,
--strukturen und -ebenen von Beginn des GBE-Prozesses an im Blick
-behalten werden. Auf die Planungsrelevanz der GBE und der damit
-einhergehenden Chancen und Herausforderungen wird in [Kapitel 7]({{ site.baseurl }}{% link 7-VernetzunginderGBE.md %})
-detaillierter eingegangen.
+### Evidenzbasierte (-informierte) Entscheidungen 
+Damit Gesundheitsberichterstattung Wirkung erzielt, ist jedoch viel mehr nötig als die Erstellung eines Berichts. Das im Rahmen der Berichterstattung (neu) generierte Wissen muss über unterschiedliche Kanäle transportiert und kommuniziert werden. Abhängig vom Ziel und Zweck der GBE (Auftragslage, Zielgruppe und politisches Mandat) gibt es hierzu unterschiedliche Ansätze, die von den eher klassischen „evidence briefs“ bzw. „policy briefs“ bis hin zu neueren interaktiven Ansätzen des sogenannten „serious gamings“ reichen – und oftmals unter dem Schlagwort „knowledge translation“ oder „Wissenstransfer“ verortet werden können. Dabei ist die GBE jedoch kein Selbstzweck, sondern verfolgt das klare Ziel, so gesicherte und „saubere“ Informationen wie möglich für die Planung, Umsetzung und idealerweise auch das Monitoring gesundheitsschützender sowie gesundheitsförderlicher Maßnahmen bereitzustellen. Damit liefert die GBE Wissen und Erkenntnisse, um Entscheidungen auf Basis der besten zur Verfügung stehenden Evidenz treffen zu können. Dem Selbstverständnis nach liefert die GBE „Daten für Taten“, um evidenzinformierte Entscheidungen zu fördern und unterstützen. Dem Anspruch der Planungsrelevanz kann die GBE jedoch nur gerecht werden, wenn die bestehenden Planungskontexte, -ziele, -strukturen und -ebenen von Beginn des GBE-Prozesses an im Blick behalten werden. Auf die Planungsrelevanz der GBE und der damit einhergehenden Chancen und Herausforderungen wird in [Kapitel 7]({{ site.baseurl }}{% link 07-Planung.md %}) detaillierter eingegangen.
 
 ## Weiterführende Informationen
 

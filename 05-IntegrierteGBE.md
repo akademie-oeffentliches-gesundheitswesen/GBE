@@ -26,7 +26,7 @@ beeinflussen. Gesundheit hängt von vielen Faktoren ab: zum einen
 natürlich vom individuellen Verhalten, zum anderen aber auch von
 Faktoren, die in der Verantwortung vieler Politikbereiche liegen, von
 der Bildungspolitik über die Arbeitsmarktpolitik bis hin zum Städtebau
-und der Raumplanung. In [Kapitel 2]({{ site.baseurl }}{% link 2-WozuGBE.md %}) sind wir hierauf mit dem Regenmodell
+und der Raumplanung. In [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) sind wir hierauf mit dem Regenmodell
 von Dahlgren und Whitehead auch schon etwas genauer eingegangen. Diese
 gesellschaftlichen Determinanten von Gesundheit können im Rahmen der
 Gesundheitsberichterstattung direkt thematisiert und analysiert werden,
@@ -57,10 +57,10 @@ miteinander einhergehen und über welche (hier nur exemplarisch
 dargestellten) komplexen Wirkungspfade sich auch Ungleichheit von
 Krankheit und Tod manifestieren kann (Elkeles, Mielck 1997).
 
-![](./media/image12.png)
-
-Abbildung 10 Zusammenhänge zwischen sozialer und gesundheitlicher
-Ungleichheit (eigene Darstellung nach Elkeles, Mielck 1997)
+ <figure>
+  <img src="./media/image12.png" alt="Abbildung 10: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit" style="width:100%">
+  <figcaption>Abbildung 10: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit (eigene Darstellung nach Elkeles, Mielck 1997) </figcaption>
+</figure> 
 
 ## Integrierte Berichterstattung
 
@@ -83,7 +83,7 @@ und erhoben werden. Diese Arbeit kann mühsam und zeitaufwendig sein,
 sich aber auch als lohnend herausstellen, da im Rahmen der
 sektorübergreifenden Zusammenarbeit Handlungsempfehlungen auf der
 Verhältnisebene abgeleitet werden können (Näheres hierzu auch in
-[Kapitel 2]({{ site.baseurl }}{% link 2-WozuGBE.md %})). Ein hilfreiches Praxistool bietet das niedersächsische Tool
+[Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %})). Ein hilfreiches Praxistool bietet das niedersächsische Tool
 „[<span class="underline">Kontextcheck</span>
 <span class="underline">–</span> <span class="underline">Kommunale
 Gesundheitsförderung und Prävention strategisch
