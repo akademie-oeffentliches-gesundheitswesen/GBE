@@ -1,10 +1,20 @@
 ---
 layout: page
-title: Wo will die GBE hin?
+title: 08 - Wo will die GBE hin?
+permalink: 08-wo-will-die-gbe-hin
 nav_order: 9
 ---
-# Wo will die GBE hin?
-
+# {{page.title}}
+<details markdown="block"> 
+  <summary> 
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+  </summary>
+ 
+1. TOC
+{:toc}
+ </details>
+<br>
+ 
 > „Die GBE sollte meines Erachtens nach die Weltherrschaft anstreben.
 > Dann wäre alles gut\!"
 
@@ -166,7 +176,7 @@ schützen und zu verbessern.
 
 Kommunale Steuerungsaufgaben wie die GBE sind landesgesetzlich und somit
 heterogen geregelt. GBE als gesetzliche Aufgabe findet sich wie in
-Kapitel 3. beschrieben in nahezu allen Gesundheitsdienstgesetzen der
+[Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %}) beschrieben in nahezu allen Gesundheitsdienstgesetzen der
 Länder als Aufgabe des kommunalen ÖGD, jedoch in unterschiedlicher
 Ausprägung, Präzisierung und Kopplung mit Planungsprozessen (Rosenkötter
 et al. 2020). Die Umsetzung der kommunalen GBE als weisungsfreie

@@ -1,10 +1,20 @@
 ---
 layout: page
-title: Was ist GBE? 
+title: 01 - Was ist GBE? 
+permalink: 01-was-ist-gbe
 nav_order: 2
 ---
-# Was ist GBE? 
-
+# {{page.title}}
+<details markdown="block"> 
+  <summary> 
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+  </summary>
+ 
+1. TOC
+{:toc}
+ </details>
+<br>
+ 
 > „GBE steht für ,ganz besonders einfachʻ. Weil, das ist so etwa das
 > Simpelste, was man im ÖGD machen kann. Keine Ahnung, warum die hier so
 > ein Bohei darum machen.“
@@ -56,7 +66,7 @@ Gesundheitsberichterstattung:
 > Daten, bereiten sie auf und werten sie aus. *(GDVG. Bayern 2003)*
 
 Auf rechtliche Rahmenbedingungen der Gesundheitsberichterstattung wird
-in Kapitel 3. noch genauer eingegangen. Aus dem GDVG Bayern geht hervor,
+in [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %}) noch genauer eingegangen. Aus dem GDVG Bayern geht hervor,
 dass die Gesundheitsberichterstattung in erster Linie als Grundlage für
 die Planung und Durchführung gesundheitsförderlicher Maßnahmen dient.
 Zugleich soll die Gesundheitsberichterstattung gesundheitspolitisches
@@ -194,7 +204,7 @@ im Blick zu behalten. Der konzeptionelle Rahmen kann dabei behilflich
 sein, etwaige Informationsdefizite aufzuzeigen, was wiederum die
 Generierung alternativer Datenquellen notwendig machen kann, um diese
 Inhalte adäquat abbilden zu können. Weitere Informationen zum
-konzeptionellen Rahmen finden sich in Kapitel 2..
+konzeptionellen Rahmen finden sich in [Kapitel 2]({{ site.baseurl }}{% link 2-WozuGBE.md %}).
 
 ### Daten
 
@@ -218,7 +228,7 @@ Die Daten werden häufig anhand festgelegter Standards in Indikatoren
 der auch Indikatoren auf Ebene der Kreise und kreisfreien Städte
 enthält, bildet in Deutschland die Grundlage für die GBE (AOLG 2003).
 Weitere Informationen zur Datenbasis der GBE finden sich im
-Handwerkskapitel (Kapitel 4.).
+Handwerkskapitel [Kapitel 4]({{ site.baseurl }}{% link 4-GBE-Strukturen.md %}).
 
 ### Informationen
 
@@ -260,8 +270,7 @@ klassischen Medizinalstatistik ab.
 In dieser Phase entsteht der eigentliche Gesundheitsbericht, in dem
 Informationen und Wissen adressaten- und adressatinnengerecht
 präsentiert und kommuniziert werden. Auf die verschiedenen Formate der
-GBE werden wir auch im GBE-Handwerkskapitel (Kapitel 4.) noch einmal
-genauer eingehen.
+GBE werden wir auch im GBE-Handwerkskapitel [Kapitel 4]({{ site.baseurl }}{% link 4-GBE-Strukturen.md %}) noch einmal genauer eingehen.
 
 ### Evidenzbasierte (-informierte) Entscheidungen
 
@@ -288,7 +297,7 @@ unterstützen. Dem Anspruch der Planungsrelevanz kann die GBE jedoch nur
 gerecht werden, wenn die bestehenden Planungskontexte, -ziele,
 -strukturen und -ebenen von Beginn des GBE-Prozesses an im Blick
 behalten werden. Auf die Planungsrelevanz der GBE und der damit
-einhergehenden Chancen und Herausforderungen wird in Kapitel 7
+einhergehenden Chancen und Herausforderungen wird in [Kapitel 7]({{ site.baseurl }}{% link 7-VernetzunginderGBE.md %})
 detaillierter eingegangen.
 
 ## Weiterführende Informationen

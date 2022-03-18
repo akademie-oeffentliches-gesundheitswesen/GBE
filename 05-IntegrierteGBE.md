@@ -1,10 +1,20 @@
 ---
 layout: page
-title: Integrierte GBE 
+title: 05 - Integrierte GBE 
+permalink: 05-integrierte-gbe
 nav_order: 6
 ---
-# Integrierte GBE 
-
+# {{page.title}}
+<details markdown="block"> 
+  <summary> 
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+  </summary>
+ 
+1. TOC
+{:toc}
+ </details>
+<br>
+ 
 Vom Anspruch her geht Gesundheitsberichterstattung über eine bloße
 Beschreibung der gesundheitlichen Lage der Bevölkerung hinaus. Zwar
 fokussieren Gesundheitsberichte mitunter auch auf bestimmte, eng
@@ -16,7 +26,7 @@ beeinflussen. Gesundheit hängt von vielen Faktoren ab: zum einen
 natürlich vom individuellen Verhalten, zum anderen aber auch von
 Faktoren, die in der Verantwortung vieler Politikbereiche liegen, von
 der Bildungspolitik über die Arbeitsmarktpolitik bis hin zum Städtebau
-und der Raumplanung. In Kapitel 2 sind wir hierauf mit dem Regenmodell
+und der Raumplanung. In [Kapitel 2]({{ site.baseurl }}{% link 2-WozuGBE.md %}) sind wir hierauf mit dem Regenmodell
 von Dahlgren und Whitehead auch schon etwas genauer eingegangen. Diese
 gesellschaftlichen Determinanten von Gesundheit können im Rahmen der
 Gesundheitsberichterstattung direkt thematisiert und analysiert werden,
@@ -73,7 +83,7 @@ und erhoben werden. Diese Arbeit kann mühsam und zeitaufwendig sein,
 sich aber auch als lohnend herausstellen, da im Rahmen der
 sektorübergreifenden Zusammenarbeit Handlungsempfehlungen auf der
 Verhältnisebene abgeleitet werden können (Näheres hierzu auch in
-Kapitel 2.). Ein hilfreiches Praxistool bietet das niedersächsische Tool
+[Kapitel 2]({{ site.baseurl }}{% link 2-WozuGBE.md %})). Ein hilfreiches Praxistool bietet das niedersächsische Tool
 „[<span class="underline">Kontextcheck</span>
 <span class="underline">–</span> <span class="underline">Kommunale
 Gesundheitsförderung und Prävention strategisch

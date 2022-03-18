@@ -1,10 +1,20 @@
 ---
 layout: page
-title: GBE-Strukturen
+title: 03 - GBE-Strukturen
+permalink: 03-gbe-strukturen
 nav_order: 4
 ---
-# GBE-Strukturen
-
+# {{page.title}}
+<details markdown="block"> 
+  <summary> 
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+  </summary>
+ 
+1. TOC
+{:toc}
+ </details>
+<br>
+ 
 > „Ich bin in der Wissenschaft tätig, kann Ihnen die Epidemiologie hoch
 > und runter erklären, die Zahlen richtig berechnen, perfekt darstellen
 > und noch was Gescheites dazu schreiben. Aber nein, keine Ahnung, wer
@@ -134,7 +144,7 @@ Experten und Expertinnen:
     nicht nur Zeit, es kann auch zu Konflikten führen, sofern nicht
     eine gewisse Vorabstimmung zwischen den relevanten Ebenen
     stattgefunden hat (Näheres zu den Abstimmungsprozessen auch in
-    Kapitel 6). Ein Teil dieser Vorabstimmung obliegt meist der
+    [Kapitel 6]({{ site.baseurl }}{% link 6-IntegrierteGBE.md %})). Ein Teil dieser Vorabstimmung obliegt meist der
     Amtsleitung, da diese einen direkten Zugang zu den übergeordneten
     Führungskräften hat. Günstig ist es daher, wenn zumindest im ÖGD
     selbst so wenige Ebenen wie möglich zwischen GBE und Amtsleitung
@@ -165,11 +175,11 @@ Experten und Expertinnen:
     häufigsten Zuordnungen des ÖGD liegen in den Dezernaten Soziales
     und/oder Jugend sowie Ordnung und/oder Veterinärwesen (Quelle:
     eigene Erhebung im Rahmen des GBE-Monitors 11–12/2019, Weiteres
-    hierzu auch in Kapitel 8). Die Dezernatszuordnung spielt neben der
+    hierzu auch in [Kapitel 8]({{ site.baseurl }}{% link 8-Planung.md %})). Die Dezernatszuordnung spielt neben der
     kommunalpolitischen Bedeutung auch eine Rolle dafür, wie einfach
     oder kompliziert es sich gestaltet, mit anderen Ämtern und
     Fachbereichen zu kooperieren und damit eine Integration von GBE
-    und Planung zu realisieren (siehe Kapitel 5). Eine direkte
+    und Planung zu realisieren (siehe [Kapitel 5]({{ site.baseurl }}{% link 5-GBEHandwerk.md %})). Eine direkte
     Unterstellung des Fachbereichs Gesundheit unterhalb der kommunalen
     Spitze ermöglicht es andererseits, der Gesundheitsplanung einen
     hohen und eigenständigen Stellenwert zu verleihen.
@@ -185,7 +195,7 @@ Experten und Expertinnen:
     Experten- und Expertinnengremium wesentlich dafür, ob die GBE zu
     Taten führt. Es gilt daher, die Diskussion in diesen Gremien
     vorzubereiten bzw. Mitglieder der Gremien schon vorab in den
-    Prozess einzubeziehen (siehe auch Kapitel 6). Essenziell für die
+    Prozess einzubeziehen (siehe auch [Kapitel 6]({{ site.baseurl }}{% link 6-IntegrierteGBE.md %})). Essenziell für die
     notwendigen Abstimmungsprozesse sind häufig auch die
     Schnittstellen zwischen den Gremien der Experten- und Expertinnen
     sowie oben genannten politischen Gremien. Gute Voraussetzungen
@@ -255,7 +265,7 @@ modifizierbar, auch Grafiken können erstellt werden. Das Angebot wird
 kontinuierlich ergänzt und aktualisiert. Im Rahmen des
 Gesundheitsmonitorings führt das RKI in regelmäßigen Abständen
 bundesweite repräsentative Befragungs- und Untersuchungssurveys durch
-(siehe auch Kapitel 4.).
+(siehe auch [Kapitel 4]({{ site.baseurl }}{% link 4-GBE-Strukturen.md %})).
 
 Akteure und Akteurinnen im Gesundheitswesen, der Gesundheitswissenschaft
 sowie Datenhalter und Datenhalterinnen und internationale Experten und
@@ -272,7 +282,7 @@ wird (Lampert et al. 2010).
 <tbody>
 <tr class="odd">
 <td><h5 id="exkurs-rechtliche-rahmenbedingungen">Exkurs: Rechtliche Rahmenbedingungen</h5>
-<p>Die jeweilige Ausgestaltung sowie der vorgeschriebene Grad an Verbindlichkeit und Rahmen, in dem Gesundheitsberichterstattung erfolgen soll, variieren zum Teil erheblich. Dies zeigt sich insbesondere, wenn man die Gesetzestexte vergleichend gegenüberstellt (siehe Tabelle 2): In manchen Bundesländern, etwa Nordrhein-Westfalen, Baden-Württemberg oder Berlin, gibt es ausführlichere Vorgaben für die Gesundheitsberichterstattung sowie auch Verknüpfungen zu kommunalen Gesundheitskonferenzen (KGK) oder kommunalen Gesundheitszielen. In einzelnen Bundesländern existiert hingegen lediglich eine Rahmenverordnung zur Beobachtung und Bewertung des allgemeinen Gesundheitszustandes der Bevölkerung, ohne jedwede Konkretisierung oder Spezifizierung hinsichtlich gesetzlicher Zuständigkeit, Periodizität des Berichtswesens oder inhaltlichen Vorgaben zu relevanten Datenquellen oder Indikatoren (Weiteres hierzu auch in Kapitel 4.). Betrachtet man zudem die gesetzlichen Vorgaben für die Landesebene und kommunale Ebene separat, zeigt sich eine noch deutlichere Heterogenität in der Ausgestaltung und den damit verbundenen Freiheitsgraden. Knapp die Hälfte aller Gesundheitsdienstgesetze beinhaltet Vorgaben zur Periodizität bzw. dem Berichtsturnus auf Landesebene, auf kommunaler Ebene bzw. Bezirksebene findet sich das vor allem in den Stadtstaaten. Inhaltliche Vorgaben wie Regelungen zur Datenweitergabe, aufzunehmende Themenfelder oder auch Angaben zur gewünschten Aggregationsebene sind sowohl auf Landes- als auch auf kommunaler Ebene in knapp der Hälfte aller Gesetzestexte enthalten. Auf Landes- sowie auf kommunaler Ebene attestiert die weit überwiegende Mehrheit aller Gesundheitsdienstgesetze der Gesundheitsberichterstattung eine gesundheitspolitische Steuerungsfunktion, wie in der nachfolgenden Tabelle 2 ersichtlich.</p>
+<p>Die jeweilige Ausgestaltung sowie der vorgeschriebene Grad an Verbindlichkeit und Rahmen, in dem Gesundheitsberichterstattung erfolgen soll, variieren zum Teil erheblich. Dies zeigt sich insbesondere, wenn man die Gesetzestexte vergleichend gegenüberstellt (siehe Tabelle 2): In manchen Bundesländern, etwa Nordrhein-Westfalen, Baden-Württemberg oder Berlin, gibt es ausführlichere Vorgaben für die Gesundheitsberichterstattung sowie auch Verknüpfungen zu kommunalen Gesundheitskonferenzen (KGK) oder kommunalen Gesundheitszielen. In einzelnen Bundesländern existiert hingegen lediglich eine Rahmenverordnung zur Beobachtung und Bewertung des allgemeinen Gesundheitszustandes der Bevölkerung, ohne jedwede Konkretisierung oder Spezifizierung hinsichtlich gesetzlicher Zuständigkeit, Periodizität des Berichtswesens oder inhaltlichen Vorgaben zu relevanten Datenquellen oder Indikatoren (Weiteres hierzu auch in [Kapitel 4]({{ site.baseurl }}{% link 4-GBE-Strukturen.md %})). Betrachtet man zudem die gesetzlichen Vorgaben für die Landesebene und kommunale Ebene separat, zeigt sich eine noch deutlichere Heterogenität in der Ausgestaltung und den damit verbundenen Freiheitsgraden. Knapp die Hälfte aller Gesundheitsdienstgesetze beinhaltet Vorgaben zur Periodizität bzw. dem Berichtsturnus auf Landesebene, auf kommunaler Ebene bzw. Bezirksebene findet sich das vor allem in den Stadtstaaten. Inhaltliche Vorgaben wie Regelungen zur Datenweitergabe, aufzunehmende Themenfelder oder auch Angaben zur gewünschten Aggregationsebene sind sowohl auf Landes- als auch auf kommunaler Ebene in knapp der Hälfte aller Gesetzestexte enthalten. Auf Landes- sowie auf kommunaler Ebene attestiert die weit überwiegende Mehrheit aller Gesundheitsdienstgesetze der Gesundheitsberichterstattung eine gesundheitspolitische Steuerungsfunktion, wie in der nachfolgenden Tabelle 2 ersichtlich.</p>
 <p>Tabelle 2: Verankerung von Gesundheitsberichterstattung in den Gesundheitsdienstgesetzen der Länder (eigene Analyse, Stand 02/2020 | publiziert in: (Rosenkötter et al. 2020))</p>
 <p><img src="./media/image8.png" style="width:6.29931in;height:3.06111in" /></p></td>
 </tr>

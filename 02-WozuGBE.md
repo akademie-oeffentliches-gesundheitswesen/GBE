@@ -1,10 +1,20 @@
 ---
 layout: page
-title: Wozu GBE?
+title: 02 - Wozu GBE?
+permalink: 02-wozu-gbe
 nav_order: 3
 ---
-# Wozu GBE?
-
+# {{page.title}}
+<details markdown="block"> 
+  <summary> 
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+  </summary>
+ 
+1. TOC
+{:toc}
+ </details>
+<br>
+ 
 > „GBE steht halt im Gesetz, darum mach ich das.  
 > Wüsste nicht, dass da ein tieferer Sinn hinter ist ...“
 
@@ -25,7 +35,7 @@ Informationspyramide untergeordneten) Gesamtstrategie kann die GBE
 maßgeblich dazu beitragen, relevante Gesundheitsinformationen
 wissenschaftlich aufzubereiten und für den (kommunalen) Bedarf
 passgenaue Maßnahmen und Konzepte zu erarbeiten, wie in der bereits aus
-Kapitel 1.3. bekannten Informationspyramide im Folgenden noch einmal
+[Kapitel 1]({{ site.baseurl }}{% link 1-WasistGBE.md %}) bekannten Informationspyramide im Folgenden noch einmal
 visualisiert:
 
 ![](./media/image3.png)
@@ -44,7 +54,7 @@ gesundheitspolitischer Entscheidungen sowie zu einer wesentlichen
 Grundlage für partizipative Prozesse entwickelt (Brand, Michelsen 2007).
 Auf Bundes-, Landes- und kommunaler Ebene dient die GBE als Instrument
 der wissenschaftlichen Politikberatung und ist wichtige Ausgangsbasis
-für die Gesundheitsplanung (siehe auch Kapitel 7). Dieses umfangreiche
+für die Gesundheitsplanung (siehe auch [Kapitel 7]({{ site.baseurl }}{% link 7-VernetzunginderGBE.md %})). Dieses umfangreiche
 Aufgaben- und Funktionsprofil wird häufig anhand des
 gesundheitspolitischen Planungsmodells der „Public Health Trias“
 (Institute of Medicine (U.S.) 1988) bzw. dem darauf basierenden „Public
@@ -91,7 +101,7 @@ identifizieren (Brand, Evans 1998), sie kann aber auch vor allem dazu
 beitragen, Entscheidungsbedarfe in bestimmten Problemfeldern aufzuzeigen
 (Kuhn 2005). In der Praxis ist die Beantwortung dieser Fragen oft von
 den jeweiligen Rahmenbedingungen sowie der strukturellen Einbindung der
-GBE in die Kommunalverwaltung abhängig, worauf in Kapitel 3. noch
+GBE in die Kommunalverwaltung abhängig, worauf in [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %}) noch
 genauer eingegangen wird.
 
 Erschwerend kommt hinzu, dass auch die Auswahl der zu bearbeitenden
@@ -103,7 +113,7 @@ deswegen kann und sollte Gesundheitsberichterstattung nicht nebenbei im
 „stillen Kämmerlein“ vonstattengehen, sondern sollte, wenn möglich,
 von Anfang an als Gemeinschaftsaufgabe verstanden werden, die im
 Idealfall auf mehrere Schultern verteilt wird und unterschiedliche
-Perspektiven berücksichtigt (siehe auch Kapitel 5 und 6).
+Perspektiven berücksichtigt (siehe auch [Kapitel 5]({{ site.baseurl }}{% link 5-GBEHandwerk.md %}) und 6).
 
 Entsprechend dieser komplexen Zusammenhänge gibt es auch eine ganze
 Bandbreite unterschiedlicher Entstehungshintergründe und Ziele der GBE,
@@ -184,7 +194,7 @@ Aus der kurzen und sicher nicht vollständigen Aufzählung soll
 ersichtlich werden, dass Gesundheitsberichte aus unterschiedlichen
 Kontexten heraus entstehen, was gerade Neulinge im Berufsfeld vor nicht
 unerhebliche Herausforderungen stellen kann (Weiteres hierzu auch in
-Kapitel 6). Damit ein Gesundheitsbericht nicht das Dasein eines
+[Kapitel 6]({{ site.baseurl }}{% link 6-IntegrierteGBE.md %})). Damit ein Gesundheitsbericht nicht das Dasein eines
 „zahnlosen“, ungelesen in Schubladen vegetierenden Papiertigers
 fristet, sollte die Auftragslage frühestmöglich geklärt sein. GBE dient
 im Idealfall in erster Linie der Unterstützung einer evidenzinformierten
@@ -199,7 +209,7 @@ oder „extern“ vergeben werden. Gerade bei einer internen Auftragsvergabe
 müssen Themen und Berichtsschwerpunkte gut abgestimmt werden. Dies ist
 insbesondere dann der Fall, wenn Gesundheitsberichte als Auftrag von
 „oben“ aus der Verwaltungsleitung oder der Politik kommen und zur
-Umsetzung intern an die Fachebene vergeben werden. In Kapitel 3 wird
+Umsetzung intern an die Fachebene vergeben werden. In [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %}) wird
 auch noch einmal genauer auf die hierfür relevanten ÖGD-Strukturen
 eingegangen.
 
@@ -346,7 +356,7 @@ einerseits auf Ebene der berichteten Kennzahlen für Gesundheit
 entsprechender Handlungsempfehlungen (**Policy Formulation**). Unter den
 Kennzahlen für Gesundheit finden sich diverse Indikatoren, die nicht
 direkt den Gesundheitszustand, sondern den Zustand definierter
-Determinanten für Gesundheit abbilden (siehe auch Kapitel 4). GBE kann
+Determinanten für Gesundheit abbilden (siehe auch [Kapitel 4]({{ site.baseurl }}{% link 4-GBE-Strukturen.md %})). GBE kann
 dem Namen „Gesundheitsberichterstattung“ eigentlich nur gerecht werden,
 wenn sie sich eben nicht nur darauf beschränkt, die Häufigkeiten von
 Krankheit und Tod mehr oder weniger „downstream“ zu berichten, sondern
@@ -368,7 +378,7 @@ Idealfall koordiniert durch den ÖGD.
 <tbody>
 <tr class="odd">
 <td><h5 id="exkurs-health-in-all-policies-hiap">Exkurs: Health in All Policies (HiAP)</h5>
-<p>Da die Verhältnisse, in denen Menschen aufwachsen und leben, mittel- und langfristig das Verhalten von Individuen und Bevölkerungsgruppen substanziell beeinflussen können, stehen verhältnispräventive Maßnahmen stark im Fokus von Prävention und Gesundheitsförderung und münden oftmals in Aktivitäten der Gesundheitsplanung (Näheres hierzu auch in Kapitel 7). Der „Health in All Policies“-Ansatz (im Deutschen: Gesundheit in allen Politikbereichen) beinhaltet, gesundheitsrelevante Prozesse und Entscheidungen auf unterschiedlichen gesellschaftspolitischen Ebenen systematisch zu erfassen, sichtbar zu machen und darauf hinzuwirken, gesundheitsrelevante Auswirkungen, sowohl gesundheitsförderliche als auch -schädliche, bei Entscheidungen quer durch alle Politikfelder mit zu berücksichtigen. Übergreifendes Ziel ist eine gesundheitsförderliche Gesamtpolitik, um die Gesundheit der Bevölkerung und gesundheitliche Chancengleichheit zu verbessern (Böhme, Reimann 2018; Geene et al. 2020).</p></td>
+<p>Da die Verhältnisse, in denen Menschen aufwachsen und leben, mittel- und langfristig das Verhalten von Individuen und Bevölkerungsgruppen substanziell beeinflussen können, stehen verhältnispräventive Maßnahmen stark im Fokus von Prävention und Gesundheitsförderung und münden oftmals in Aktivitäten der Gesundheitsplanung (Näheres hierzu auch in [Kapitel 7]({{ site.baseurl }}{% link 7-VernetzunginderGBE.md %})). Der „Health in All Policies“-Ansatz (im Deutschen: Gesundheit in allen Politikbereichen) beinhaltet, gesundheitsrelevante Prozesse und Entscheidungen auf unterschiedlichen gesellschaftspolitischen Ebenen systematisch zu erfassen, sichtbar zu machen und darauf hinzuwirken, gesundheitsrelevante Auswirkungen, sowohl gesundheitsförderliche als auch -schädliche, bei Entscheidungen quer durch alle Politikfelder mit zu berücksichtigen. Übergreifendes Ziel ist eine gesundheitsförderliche Gesamtpolitik, um die Gesundheit der Bevölkerung und gesundheitliche Chancengleichheit zu verbessern (Böhme, Reimann 2018; Geene et al. 2020).</p></td>
 </tr>
 </tbody>
 </table>
@@ -404,12 +414,12 @@ Kommunalverwaltung spielt dabei eine wichtige Rolle. Ist der ÖGD
 beispielsweise gemeinsam mit der Sozial- oder Jugendhilfeverwaltung in
 einem Dezernat oder einer Abteilung verortet, kann dies die
 Zusammenarbeit im Bereich Berichtswesen und/oder Planung erheblich
-vereinfachen. In Kapitel 3 wird auf die kommunalen Strukturen noch
+vereinfachen. In [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %}) wird auf die kommunalen Strukturen noch
 einmal genauer eingegangen. Die GBE in diesem Fall nicht als isolierte
 Fachberichterstattung, sondern vielmehr als integrierte Sozial- und
 Gesundheitsberichterstattung anzulegen, kann unter solchen
 Rahmenbedingungen eine schlüssige Konsequenz darstellen (siehe auch
-Kapitel 5).
+[Kapitel 5]({{ site.baseurl }}{% link 5-GBEHandwerk.md %})).
 
 ## Politisches Selbstverständnis der GBE
 
@@ -502,7 +512,7 @@ Michelsen 2007; Kurth 2006):
     > sowie vom Kontext, der ja durch eine Vielzahl weiterer Akteure zum
     > Beispiel aus Kommunalpolitik oder Gremien von Experten und
     > Expertinnen beeinflusst wird (Weiteres zu den Strukturen auch in
-    > Kapitel 3.).
+    > [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %})).
 
 Wichtig für das Selbstverständnis der meist akademisch-wissenschaftlich
 geprägten GBEler und GBElerinnen ist es, die Unterschiedlichkeit der

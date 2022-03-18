@@ -1,14 +1,24 @@
 ---
 layout: page
-title: GBE Handwerk
+title: 04 - GBE Handwerk
+permalink: 04-handwerk
 nav_order: 5
 ---
-# GBE Handwerk
-
-„Ich hab' echt nie verstanden, was an GBE schwer sein soll.  
-Ein paar Daten zusammenrühren, schön bunt machen, ein bisschen texten
-und raus damit.  
-Hab ja auch noch andere Aufgaben ...“
+# {{page.title}}
+<details markdown="block"> 
+  <summary> 
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+  </summary>
+ 
+1. TOC
+{:toc}
+ </details>
+<br>
+ 
+ 
+> Ich hab' echt nie verstanden, was an GBE schwer sein soll.  
+> Ein paar Daten zusammenrühren, schön bunt machen, ein bisschen texten
+> und raus damit. Hab ja auch noch andere Aufgaben ...“
 
 <table>
 <tbody>
@@ -74,7 +84,7 @@ Gesundheitsberichterstattung von Bedeutung sein. Weitere Datenquellen
 für die Gesundheitsberichterstattung sind wissenschaftliche Studien,
 beispielsweise die Studie zur Gesundheit von Kindern und Jugendlichen in
 Deutschland (KiGGS), die häufig als sogenannte Public-Use-Files zur
-Verfügung stehen (Weiteres hierzu auch in Kapitel 6). Public-Use-Files
+Verfügung stehen (Weiteres hierzu auch in [Kapitel 6]({{ site.baseurl }}{% link 6-IntegrierteGBE.md %})). Public-Use-Files
 sind Daten, die von verschiedenen Instituten der Forschungsinfrastruktur
 für öffentliche und/oder wissenschaftliche Zwecke zur Verfügung gestellt
 werden. Sie können für eigene statistische Auswertungen genutzt werden,
@@ -391,7 +401,7 @@ Periodizität, Aussagekraft. Bis zu 80 Indikatoren (je nach Land) liegen
 auch auf Kreisebene vor. Die Indikatoren werden fortlaufend aktualisiert
 und es gibt länderspezifische Ergänzungen. Zurzeit wird ein ergänzendes
 Indikatorensystem für die Präventionsberichterstattung der Länder
-entwickelt (siehe auch Kapitel 8).
+entwickelt (siehe auch [Kapitel 8]({{ site.baseurl }}{% link 8-Planung.md %})).
 
 In der Europäischen Union sowie auf nationaler Ebene wird häufig der
 **Europäischen Kernindikatorensatz für Gesundheit** (European Core
@@ -466,7 +476,7 @@ et al. 2018).
 
 Die Berichterstellung gehört zu der Ebene „Wissen“ der
 Informationspyramide. Diese Ebene gliedert sich weiter auf in
-inhaltliche Aspekte, den Prozess der Berichterstellung (siehe Kapitel 6)
+inhaltliche Aspekte, den Prozess der Berichterstellung (siehe [Kapitel 6]({{ site.baseurl }}{% link 6-IntegrierteGBE.md %}))
 und die Vermarktung des Berichts (siehe Abschnitt 4.3.1.). Eine gute
 fachliche Orientierung für die Erstellung von Gesundheitsberichten
 liefert die Publikation **„Gute Praxis Gesundheitsberichterstattung
@@ -511,7 +521,7 @@ evidenzgesicherte Maßnahmen oder etablierte Good-Practice-Beispiele
 verwiesen werden (van Bon-Martens et al. 2019; Cornelius-Taylor, Brand
 2004). Um die „Geschichte“ passgenau zu vertextlichen, ist es relevant,
 zu wissen, welche Aufgabe der Bericht erfüllen soll. Beispiele hierzu
-sind in Kapitel 2. gelistet.
+sind in [Kapitel 2]({{ site.baseurl }}{% link 2-WozuGBE.md %}) gelistet.
 
 ### Datenvisualisierung
 
@@ -642,7 +652,7 @@ bringen (Rosenkötter et al. 2020):
 
 Der Impact der GBE hängt auch davon ab, ob alle wesentlichen Aspekte,
 die den Impact beeinflussen, bei der Planung und Umsetzung
-berücksichtigt werden (siehe auch Kapitel 7). Dazu gehören die
+berücksichtigt werden (siehe auch [Kapitel 7]({{ site.baseurl }}{% link 7-VernetzunginderGBE.md %})). Dazu gehören die
 politische und strategische Relevanz des Berichts, die sinnvolle
 Integration unterschiedlicher Daten (innerhalb des Gesundheitsbereichs,
 aber auch ressortübergreifend), die Zuverlässigkeit der Ergebnisse, die
@@ -757,15 +767,15 @@ Empfehlungen ist zwingend notwendig.
 Sobald Daten mit Daten anderer Ressorts oder Sektoren integriert werden,
 sind unter anderem sozialepidemiologische, arbeitssoziologische,
 planerische oder umweltbezogene Kenntnisse notwendig, um sinnvolle
-Verknüpfungen zu erstellen (siehe auch Kapitel 5). Hier ist es ratsam,
+Verknüpfungen zu erstellen (siehe auch [Kapitel 5]({{ site.baseurl }}{% link 5-GBEHandwerk.md %})). Hier ist es ratsam,
 die Berichterstattung als interaktiven Prozess im Austausch mit anderen
-Experten und Expertinnen zu verstehen (siehe auch Kapitel 6).
+Experten und Expertinnen zu verstehen (siehe auch [Kapitel 6]({{ site.baseurl }}{% link 6-IntegrierteGBE.md %})).
 Interdisziplinäres, vernetztes Agieren als Arbeitsmethode und das
 Einlassen auf neue Themen muss für Gesundheitsberichterstatterinnen und
 Gesundheitsberichterstatter selbstverständlich und gewollt sein.
 
 Neben diesen methodisch-fachlichen Kompetenzen sind Kenntnisse des
-Verwaltungshandelns und -aufbaus (siehe auch Kapitel 3.) relevant, um
+Verwaltungshandelns und -aufbaus (siehe auch [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %})) relevant, um
 beispielsweise notwendige Abstimmungsprozesse im Verlauf des Prozesses
 zu initiieren.
 

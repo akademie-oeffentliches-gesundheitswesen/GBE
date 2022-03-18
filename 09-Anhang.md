@@ -1,10 +1,20 @@
 ---
 layout: page
-title: Anhang
+title: 09 - Anhang
+permalink: 09-anhang
 nav_order: 10
 ---
-# Anhang
-
+# {{page.title}}
+<details markdown="block"> 
+  <summary> 
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+  </summary>
+ 
+1. TOC
+{:toc}
+ </details>
+<br>
+ 
 ## Abkürzungsverzeichnis
 
 AOLG - Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden

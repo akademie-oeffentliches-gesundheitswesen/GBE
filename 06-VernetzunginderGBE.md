@@ -1,10 +1,20 @@
 ---
 layout: page
-title: Vernetzung in der GBE
+title: 06 - Vernetzung in der GBE
+permalink: 06-vernetzung-in-der-gbe
 nav_order: 7
 ---
-# Vernetzung in der GBE
-
+# {{page.title}}
+<details markdown="block"> 
+  <summary> 
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+  </summary>
+ 
+1. TOC
+{:toc}
+ </details>
+<br>
+ 
 > „Ich habe schon den dritten Bericht geschrieben in diesem Jahr, kann
 > schon ein bisschen stolz sein. Aber wenn ich mich so bei uns umschaue,
 > weiß echt keiner, dass das so ist. Ignoranten und Ignorantinnen,
@@ -34,10 +44,10 @@ und van Oers 2019 (Verschuuren, van Oers 2019))
 ## GBE als Teil eines Netzwerkes
 
 Gesundheitsberichterstatterinnen und Gesundheitsberichterstatter
-bedürfen einer Reihe methodisch-fachlicher Kompetenzen (siehe Kapitel
-4.), gleichzeitig agieren sie nicht in einem Vakuum. Berichterstattung
+bedürfen einer Reihe methodisch-fachlicher Kompetenzen (siehe [Kapitel
+4]({{ site.baseurl }}{% link 4-GBE-Strukturen.md %}), gleichzeitig agieren sie nicht in einem Vakuum. Berichterstattung
 ist bestenfalls ein interdisziplinärer, multiprofessioneller Prozess
-(siehe Kapitel 5.). Eine wesentliche Qualifikation der Berichterstatter
+(siehe [Kapitel 5]({{ site.baseurl }}{% link 5-GBEHandwerk.md %})). Eine wesentliche Qualifikation der Berichterstatter
 und Berichterstatterinnen neben methodisch-fachlichen Kompetenzen ist
 die Kommunikations- und Netzwerkkompetenz. Ihre Aufgabe ist verbunden
 mit anderen Bereichen der Verwaltung sowie Akteurinnen und Akteuren aus
@@ -47,7 +57,7 @@ Zahnprophylaxe.
 Gesundheitsberichterstattung steht nicht für sich allein, sondern ist
 eingebettet in einen kontinuierlichen Prozess aus Problemdefinition,
 strategischer Planung, Umsetzung und Bewertung, wie einleitend bereits
-anhand des „Public Health Action Cycles“ in Kapitel 2. erläutert. Weiter
+anhand des „Public Health Action Cycles“ in [Kapitel 2]({{ site.baseurl }}{% link 2-WozuGBE.md %}) erläutert. Weiter
 speist sich die Gesundheitsberichterstattung aus verschiedenen Themen,
 konkret nicht nur rein medizinischen, sondern auch aus solchen mit Bezug
 zu den Lebensverhältnissen (zum Beispiel Einkommen, Kultur, Bildung),
@@ -62,7 +72,7 @@ zurückgreifen können, zum Beispiel die Integrierte Gesundheits- und
 Sozialberichterstattung (Berlin), das Sozialmonitoring (Stuttgart) oder
 die Kommunalen Gesundheitskonferenzen (KGK), die in verschiedenen
 Bundesländern gesetzlich verankert und etabliert sind. Eine Übersicht zu
-den gesetzlichen Rahmenbedingungen der GBE findet sich in Kapitel 1..
+den gesetzlichen Rahmenbedingungen der GBE findet sich in [Kapitel 1]({{ site.baseurl }}{% link 1-WasistGBE.md %}).
 
 **Mögliche Partnerinnen und Partner innerhalb der Verwaltung sind unter
 anderem:**
@@ -162,7 +172,7 @@ Gesundheitsberichterstatterinnen und Gesundheitsberichterstatter die
 Rolle, gemeinsam mit Partnern und Partnerinnen bzw. Akteuren und
 Akteurinnen wissenschaftlich fundierte Handlungsempfehlungen zu
 erarbeiten, wobei sie die Umsetzbarkeit vor Ort im Blick haben müssen
-(siehe Kapitel 7). Hier bewegen sich Gesundheitsberichterstatterinnen
+(siehe [Kapitel 7]({{ site.baseurl }}{% link 7-VernetzunginderGBE.md %})). Hier bewegen sich Gesundheitsberichterstatterinnen
 und Gesundheitsberichterstatter im Spannungsfeld von Wissenschaft,
 Praxis und – nicht zuletzt – Politik.
 
@@ -170,7 +180,7 @@ Insbesondere bei der Integration verschiedener
 Berichtserstattungssysteme werden unterschiedliche Schnittstellen in
 Anspruch genommen, und neben dem fachlichen Austausch stehen die Klärung
 sowie Integration unterschiedlicher Erwartungen und Interessen an (siehe
-auch Kapitel 5.). Aus Sicht der beteiligten Ressorts kann es zu
+auch [Kapitel 5]({{ site.baseurl }}{% link 5-GBEHandwerk.md %})). Aus Sicht der beteiligten Ressorts kann es zu
 unterschiedlichen Prioritäten kommen, ebenso wie die
 Gesundheitsberichterstattung als reine Dienstleisterin für andere
 Ressorts betrachtet werden kann, was ihrer Stellung innerhalb des
@@ -190,7 +200,7 @@ Egal, ob der Auftrag für einen Gesundheitsbericht „von oben“ erteilt
 wurde oder die Notwendigkeit für einen Bericht aus der GBE selbst kam:
 Wichtige Entscheidungsträgerinnen und Entscheidungsträger sollten
 kontinuierlich informiert sowie gegebenenfalls überzeugt und eingebunden
-werden (siehe auch Kapitel 2. und 3.).
+werden (siehe auch [Kapitel 2]({{ site.baseurl }}{% link 2-WozuGBE.md %}) und [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %})).
 
 Dazu gehören unter anderem:
 
@@ -221,7 +231,7 @@ wesentliche Rolle.
 
 ## Kompetenzentwicklung innerhalb des Netzwerkes (Capacity Building)
 
-In Kapitel 4. ist die erforderliche methodisch-fachliche Qualifikation
+In [Kapitel 4]({{ site.baseurl }}{% link 4-GBE-Strukturen.md %}) ist die erforderliche methodisch-fachliche Qualifikation
 von Gesundheitsberichterstatterinnen und Gesundheitsberichterstattern
 bereits kurz skizziert worden. Dies ist die Grundlage für
 Berichterstatter und Berichterstatterinnen, die sie in die Lage
@@ -242,14 +252,14 @@ anderen Partner und Partnerinnen (Quilling et al. 2013; Fisher et al.
 
 Gesundheitsberichterstattung erfordert aufseiten der
 Berichterstatterinnen und Berichterstatter verschiedene Qualifikationen,
-was auch aus der in Kapitel 4. dargestellten Stellenausschreibung
+was auch aus der in [Kapitel 4]({{ site.baseurl }}{% link 4-GBE-Strukturen.md %}) dargestellten Stellenausschreibung
 ersichtlich wird. Gleichzeitig sind für einen verantwortungsvollen
 Umgang mit Gesundheitsberichten gewisse Kompetenzen nötig und erwünscht.
 Gesundheitsberichterstattung steht im Spannungsfeld von Wissenschaft,
 Politik, Medien und Öffentlichkeit, bestenfalls ist sie Mittlerin
 zwischen wissenschaftlichen Erkenntnissen bzw. Ergebnissen empirisch
 fundierter Analysen und politisch Handelnden bzw. Bürgern und
-Bürgerinnen (siehe auch Kapitel 2.).
+Bürgerinnen (siehe auch [Kapitel 2]({{ site.baseurl }}{% link 2-WozuGBE.md %})).
 
 Erkenntnisse wissenschaftlicher Studien aus verschiedenen Fachbereichen,
 zum Beispiel der Epidemiologie, Medizinsoziologie,
@@ -264,7 +274,7 @@ wissenschaftlichen Arbeitens beherzigen sollten. Hierzu gibt die „Gute
 Praxis Gesundheitsberichterstattung 2.0“ Empfehlungen und zu prüfende
 Kriterien (Starke et al. 2019). Gerade dann, wenn eigene Untersuchungen
 durchgeführt werden, sind Kompetenzen sozialwissenschaftlicher und
-empirischer Forschungsmethoden notwendig (siehe auch Kapitel 4.). Die
+empirischer Forschungsmethoden notwendig (siehe auch [Kapitel 4]({{ site.baseurl }}{% link 4-GBE-Strukturen.md %})). Die
 Ergebnisse eigener Untersuchungen oder auch der Vergleich mit
 Erkenntnissen wissenschaftlicher Studien erfordert einen sensiblen
 Umgang mit erhobenen Daten und den jeweiligen Hinweis, dass die
@@ -308,7 +318,7 @@ Adipositas mit prozentualem Anteil nicht-autochthoner Menschen). Um
 solchen ökologischen Fehlschlüssen vorzubeugen, ist nicht nur Obacht bei
 der Berichterstattung vonnöten, sondern eine vorurteilsfreie
 Auseinandersetzung mit dem Bericht selbst aufseiten der Adressatinnen
-und Adressaten (siehe auch Kapitel 4.).
+und Adressaten (siehe auch [Kapitel 4]({{ site.baseurl }}{% link 4-GBE-Strukturen.md %})).
 
 **Grafiken** – und insbesondere kartografische Darstellungen – sind
 beliebte Elemente in der GBE, um Sachverhalte veranschaulichen zu können
@@ -336,7 +346,7 @@ dass sie komplexe Inhalte einfach beschreiben können, ohne banal zu
 wirken. Die Fähigkeit, sich unvoreingenommen auf unbekannte Sachverhalte
 einzulassen, bedarf bei den Adressatinnen und Adressaten des Berichts
 einer großen Portion Neugier. Medizinische, gesellschaftliche und
-psychologische Einflussfaktoren auf Gesundheit (siehe auch Kapitel 2.)
+psychologische Einflussfaktoren auf Gesundheit (siehe auch [Kapitel 2]({{ site.baseurl }}{% link 2-WozuGBE.md %}))
 sind oftmals in der Bevölkerung wenig bekannt, sodass die
 Auseinandersetzung damit schnell zu einer individuellen Zuschreibung der
 Verantwortung führt, statt strukturell bedingte Vulnerabilität in den

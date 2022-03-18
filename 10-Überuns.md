@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Über uns
+title: 10 - Über uns
+permalink: 10-ueber-uns
 nav_order: 11
 ---
-# Über uns
+# {{page.title}}
 
 Da die meisten Lehrbücher mit einer kurzen Vorstellung der Autorinnen
 und Autoren beginnen bzw. enden, soll ein solcher Exkurs auch in unserem

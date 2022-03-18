@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Vorwort
+permalink: 01-vowort
 nav_order: 1
 ---
-# Vorwort
-
+# {{page.title}}
+ 
 ## Was ist das für ein Buch?
 
 Das Wort „Gesundheitsberichterstattung“ hört man oft. Doch keiner weiß
