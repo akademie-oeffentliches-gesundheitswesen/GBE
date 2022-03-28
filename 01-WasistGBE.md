@@ -3,9 +3,8 @@ layout: page
 title: 01 - Was ist GBE? 
 permalink: 01-was-ist-gbe
 nav_order: 2
-tags: kapitel
 ---
-# Was ist Gesundheitsberichterstattung
+# {{page.title}}
 <details markdown="block"> 
   <summary> 
       &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
