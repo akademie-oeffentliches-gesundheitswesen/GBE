@@ -23,12 +23,11 @@ nav_order: 5
 <table>
 <tbody>
 <tr class="odd">
-<td><blockquote>
+<td>
 <p><strong>Stellenausschreibung</strong> <strong>einer GBE-Stelle</strong></p>
 <p><strong>Purzelbaum oder Rolle rückwärts? Für Sie kein Entweder-oder: Sie machen einfach beides, und zwar gleichzeitig!</strong></p>
 <p>Erkennen Sie sich wieder? Dann sind Sie die richtige Person, denn das Gesundheitsamt „Im siebten Himmel“ sucht für seine Gesundheitsberichterstattung einen Menschen, der Spaß daran hat, Gegensätze zu leben:</p>
-</blockquote>
-<ul>
+<ul><ul>
 <li><p>Sie lieben das einsame Geschäft der Datenauswertung; gleichzeitig sind Sie integrativ, kommunikativ und gehen gern auf andere Menschen zu.</p></li>
 <li><p>Sie sind leidenschaftliche Expertin/leidenschaftlicher Experte Ihres eigenen Fachgebietes; zugleich lassen Sie sich gern auf interdisziplinäres Arbeiten ein.</p></li>
 <li><p>Sie arbeiten nach wissenschaftlichen Kriterien, dennoch finden Sie eine angemessene Sprache für unterschiedlichste Adressaten und Adressatinnen.</p></li>
@@ -38,10 +37,8 @@ nav_order: 5
 <li><p>Sie arbeiten selbstständig und zielorientiert, Ihre Partner und Partnerinnen verlieren Sie dennoch nicht aus dem Blick.</p></li>
 <li><p>Obwohl Sie in einer hierarchischen Struktur landen, leben Sie partnerschaftliches, motivierendes Arbeiten.</p></li>
 <li><p>Ihr Blick ist auf das große Ganze gerichtet, aber die Details vergessen Sie nicht.</p></li>
-</ul>
-<blockquote>
-<p><strong>Wenn Sie sich durch diese Widersprüche herausgefordert fühlen, dann bewerben Sie sich noch heute „Im siebten Himmel“.</strong></p>
-</blockquote></td>
+</ul></ul>
+<p><strong>Wenn Sie sich durch diese Widersprüche herausgefordert fühlen, dann bewerben Sie sich noch heute „Im siebten Himmel“.</strong></p></td>
 </tr>
 </tbody>
 </table>
