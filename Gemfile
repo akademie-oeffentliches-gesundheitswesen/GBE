@@ -15,8 +15,7 @@ gem "jekyll", "~> 3.9.0"
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-remote-theme"
 
-# Für nummerierte Überschriften
-gem 'jekyll-numbered-headings'
+
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

@@ -8,9 +8,7 @@ search_enabled: true
 # Enable support for hyphenated search words:
 search_tokenizer_separator: /[\s/]+/
 
-shorttitle: GBE
-title: Gesundheitsberichterstattung 
-subtitle: Lehrbuch für den Öffentlichen Gesundheitsdienst
+title: Gesundheitsberichterstattung - Lehrbuch für den Öffentlichen Gesundheitsdienst
 
 ## Aux links for the upper right navigation
 #aux_links:
@@ -37,8 +35,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-# baseurl: /GBE # the subpath of your site, e.g. /blog
-baseurl: ""
+baseurl: /GBE # the subpath of your site, e.g. /blog
 url: https://akademie-oeffentliches-gesundheitswesen.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Akademie_OeGW
 github_username:  akademie-oeffentliches-gesundheitswesen
@@ -50,7 +47,7 @@ ISBN: ""
 doi: ""
 
 # Link to logo and favicon
-logo: "/media/Logo2.png"
+logo: "/media/akademielogobreit.jpg"
 
 
 # Template variables
@@ -60,8 +57,7 @@ lang: "de-DE"
 markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-numbered-headings
-  
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -84,4 +80,3 @@ exclude:
 # - Twittername
 # - Emailadresse
 # - Lizenz
-
