@@ -25,7 +25,7 @@ subtitle: Lehrbuch für den Öffentlichen Gesundheitsdienst
 
 
 # Soll eine Kommentierfunktion mit Hypothesis erfolgen
-commenting: TRUE
+# commenting: hypthesis
 
 # ga_tracking: UA-161871347-1
 
@@ -45,7 +45,7 @@ github_username:  akademie-oeffentliches-gesundheitswesen
 
 
 # Selfcreated variables
-searchterm: Suche GBE
+searchterm: Durchsuche das Lehrbuch
 ISBN: "" 
 doi: ""
 

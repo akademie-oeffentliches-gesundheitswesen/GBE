@@ -1,10 +1,10 @@
 ---
-layout: page
-title: 08 - Wo will die GBE hin?
+layout: default
+title: 8 - Wo will die GBE hin?
 permalink: 08-wo-will-die-gbe-hin
 nav_order: 9
 ---
-# {{page.title}}
+# 8. Wo will die Gesundheitsberichterstattung hin?
 <details markdown="block"> 
   <summary> 
       &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
@@ -43,7 +43,7 @@ Daraus ergeben sich ganz konkrete Ziele und Ansatzpunkte zur
 inhaltlich-fachlichen Weiterentwicklung der GBE, die im Folgenden kurz
 dargestellt werden sollen.
 
-## Weitergefasste Ziele 
+## 8.1. Weitergefasste Ziele 
 
 Die **Datengrundlagen der GBE** entwickeln sich laufend weiter. Aktuell
 lässt sich beispielsweise eine starke Dynamik bei den
@@ -170,9 +170,9 @@ schützen und zu verbessern.
 </tbody>
 </table>
 
-## Aktuelle Entwicklungen in der GBE
+## 8.2. Aktuelle Entwicklungen in der GBE
 
-### Aufbau einer GBE-Forschungsdatenbank (GBE-Monitor)
+### 8.2.1. Aufbau einer GBE-Forschungsdatenbank (GBE-Monitor)
 
 Kommunale Steuerungsaufgaben wie die GBE sind landesgesetzlich und somit
 heterogen geregelt. GBE als gesetzliche Aufgabe findet sich wie in
@@ -264,7 +264,7 @@ geschaffen.
 **Kontakt- und Ansprechperson:** Bertram Szagun,
 [<span class="underline">szagun@rwu.de</span>](mailto:szagun@rwu.de)
 
-### Der Fachplan Gesundheit
+### 8.2.2. Der Fachplan Gesundheit
 
 **Hintergrund:** Bei der hier beschriebenen Gesundheitsplanung handelt
 es sich um ein prozessorientiertes Instrumentarium, welches aus dem ÖGD
@@ -346,7 +346,7 @@ Präventionskonzepte (Umsetzung Präventionsgesetz).
 **Kontakt- und Ansprechperson:** Thomas Claßen,
 [<span class="underline">Thomas.Classen@lzg.nrw.de</span>](mailto:Thomas.Classen@lzg.nrw.de)
 
-### Präventionsberichterstattung – ein Entwicklungsimpuls für die GBE?
+### 8.2.3. Präventionsberichterstattung – ein Entwicklungsimpuls für die GBE?
 
 **Hintergrund:** Das Präventionsgesetz hat für die
 Gesundheitsberichterstattung neue Impulse gesetzt. Eine Verpflichtung
@@ -391,7 +391,7 @@ beim Robert Koch-Institut (RKI) ein erster Workshop statt, dessen
 Ergebnisse auch im Rahmen der Gesundheitsberichterstattung des Bundes
 veröffentlicht wurden (Robert Koch-Institut 2020).
 
-## GBE und das große Ganze – Gesundheitsberichterstattung und die Nationale Public-Health-Strategie
+## 8.3. GBE und das große Ganze – Gesundheitsberichterstattung und die Nationale Public-Health-Strategie
 
 In diesem Lehrbuch war die viel Rede davon, dass GBE „Daten für Taten“
 bereitstellt, dass sie helfen soll, gesundheitspolitische Maßnahmen
@@ -483,25 +483,30 @@ Sinne:
 **Trauen Sie sich, mit Gesundheitsberichten die Welt ein klein wenig
 besser zu machen\!**
 
-## Literaturverzeichnis Kapitel 8. - Wo will die GBE hin?
+## 8.4. Literaturverzeichnis Kapitel 8. - Wo will die GBE hin?
 
-Arnold L, Kuhn J, Ziese T (2021): Surveillance. Fakten als Wegbereiter
+* Arnold L, Kuhn J, Ziese T (2021): Surveillance. Fakten als Wegbereiter
 für mehr gesundheitliche Chancengleichheit (EPHO 1). In: Zukunftsforum
 Public Health (Hrsg.): Eckpunkte einer Public-Health-Strategie für
-Deutschland. Version 1.0. Berlin, S. 24–29.Arnold L, Starke D, Szagun B
+Deutschland. Version 1.0. Berlin, S. 24–29.
+* Arnold L, Starke D, Szagun B
 (2020): Implementation of the German Prevention Act: Municipal Public
 Health Units as a Bottleneck? In: *European journal of public health* 30
-(Supplement 5).Claßen T, Mekel O (2020): Fachplan Gesundheit und
+(Supplement 5).
+* Claßen T, Mekel O (2020): Fachplan Gesundheit und
 Leitfaden Gesunde Stadt – Instrumente für eine gesundheitsorientierte
 kommunale Planung in Nordrhein-Westfalen. In: Böhm K, Bräunling S, Geene
 R und Köckler H (Hrsg.): Gesundheit als gesamtgesellschaftliche Aufgabe.
 Das Konzept Health in All Policies und seine Umsetzung in Deutschland.
-Wiesbaden: Springer VS, S. 397–405.Fehr R, Dickersbach M, Welteke R
+Wiesbaden: Springer VS, S. 397–405.
+* Fehr R, Dickersbach M, Welteke R
 (2011): Vorarbeiten zum lokalen Fachplan Gesundheit. Unter Mitarbeit von
-Martin Enderle. Düsseldorf, 2011.Fertmann F, Conrad S, Schümann M
+Martin Enderle. Düsseldorf, 2011.
+* Fertmann F, Conrad S, Schümann M
 (2004): Bundesweite Umfrage bei den Gesundheitsämtern zum
 umweltbezogenen Gesundheitsschutz. In: *Das Gesundheitswesen* 66
-(08/09). DOI: 10.1055/s-2004-833870.Kuhn J, Busch R (Hrsg.) (2006):
+(08/09). DOI: 10.1055/s-2004-833870.
+* Kuhn J, Busch R (Hrsg.) (2006):
 Gesundheit zwischen Statistik und Politik. Beiträge zur politischen
 Relevanz der Gesundheitsberichterstattung. Workshop. Frankfurt am Main:
 Mabuse-Verl.Länderoffene Projektgruppe „Leitbild ÖGD“ (2018): Konsens
@@ -509,30 +514,38 @@ der länderoffenen Arbeitsgruppe zu einem Leitbild für einen modernen
 Öffentlichen Gesundheitsdienst. In: *Das Gesundheitswesen* 80, S.
 679–681.Leopoldina (2015): Public Health in Deutschland. Strukturen,
 Entwicklungen und globale Herausforderungen. Stellungnahme. Halle
-(Saale), 2015.Murza G, Werse W, Brand H (2005): Ortsnahe Koordinierung
+(Saale), 2015.
+* Murza G, Werse W, Brand H (2005): Ortsnahe Koordinierung
 der gesundheitlichen Versorgung in Nordrhein-Westfalen Zwischenbilanz
 des nordrhein-westfälischen Modells. In: *Bundesgesundheitsbl.* 48 (10),
-S. 1162–1169. DOI: 10.1007/s00103-005-1140-4.Reisig V, Jordan S, Starker
+S. 1162–1169. DOI: 10.1007/s00103-005-1140-4.
+* Reisig V, Jordan S, Starker
 A, Brettner J, Kuhn J (2020): Präventionsberichterstattung – neue
 Impulse für die Gesundheitsberichterstattung? In: *Bundesgesundheitsbl.*
-63 (9), S. 1118–1125. DOI: 10.1007/s00103-020-03202-y.Reitzle L, Paprott
+63 (9), S. 1118–1125. DOI: 10.1007/s00103-020-03202-y.
+* Reitzle L, Paprott
 R, Färber F, Heidemann C, Schmidt C, Thamm R, Scheidt-Nave C, Ziese T
 (2020): Gesundheitsberichterstattung im Rahmen von Public Health
 Surveillance: Das Beispiel Diabetes. In: *Bundesgesundheitsbl.* 63 (9),
-S. 1099–1107. DOI: 10.1007/s00103-020-03201-z.Robert Koch-Institut (RKI)
+S. 1099–1107. DOI: 10.1007/s00103-020-03201-z.
+* Robert Koch-Institut (RKI)
 (2020): Über Prävention berichten – aber wie? Methodenprobleme der
 Präventionsberichterstattung. Berlin, 2020. Online verfügbar unter
 https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsB/Praeventionsberichterstattung.pdf?\_\_blob=publicationFile,
-zuletzt geprüft am 21.12.2021.Rosenkötter N, Borrmann B, Arnold L, Böhm
+zuletzt geprüft am 21.12.2021.
+* Rosenkötter N, Borrmann B, Arnold L, Böhm
 A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public
 Health an der Basis. In: *Bundesgesundheitsbl.* 63, S. 1067–1075. DOI:
-10.1007/s00103-020-03190-z.Stockmann S, Kuhn J, Zirngibl A, Mansmann U
+10.1007/s00103-020-03190-z.
+* Stockmann S, Kuhn J, Zirngibl A, Mansmann U
 (2008): Kommunale Gesundheitsberichterstattung in Deutschland: eine
 empirische Erhebung. In: *Das Gesundheitswesen* 70 (11), S. 679–683.
-DOI: 10.1055/s-0028-1100402.Süß W, Schäfer I, Trojan A (Hrsg.) (2007):
+DOI: 10.1055/s-0028-1100402.
+* Süß W, Schäfer I, Trojan A (Hrsg.) (2007):
 Integrierte (Gesundheits-) Berichte. Konzeptionelle Überlegungen und
 Umsetzungserfahrungen. 1. Auflage. Aachen: Shaker Verlag (Berichte aus
-der Medizin).WHO (2012): The 10 Essential Public Health Operations. Hg.
+der Medizin).
+* WHO (2012): The 10 Essential Public Health Operations. Hg.
 v. World Health Organization (WHO). Online verfügbar unter
 https://www.euro.who.int/en/health-topics/Health-systems/public-health-services/policy/the-10-essential-public-health-operations,
 zuletzt aktualisiert am 05.03.2021, zuletzt geprüft am 16.07.2021.ZfPH

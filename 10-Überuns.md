@@ -1,10 +1,10 @@
 ---
-layout: page
-title: 10 - Über uns
+layout: default
+title: Über die Autoren
 permalink: 10-ueber-uns
 nav_order: 11
 ---
-# {{page.title}}
+# Über die Autorinnen und Autoren
 
 Da die meisten Lehrbücher mit einer kurzen Vorstellung der Autorinnen
 und Autoren beginnen bzw. enden, soll ein solcher Exkurs auch in unserem
@@ -32,9 +32,9 @@ are our own.“**
 > und möchte. Ich wünsche mir eine GBE die sich mit genau diesen Fragen
 > auseinandersetzt und damit Wege findet kritische Diskurse anzuregen.
 
-*Laura Arnold (M. Sc., MA), Referentin Epidemiologie und
+* Laura Arnold (M. Sc., MA), Referentin Epidemiologie und
 Gesundheitsberichterstattung, Akademie für Öffentliches
-Gesundheitswesen*
+Gesundheitswesen
 
 > Für mich als geographischen Gesundheitsforscher liegt der enorme
 > Vorteil der GBE, erst recht, wenn sie integriert angelegt ist, in der
@@ -53,10 +53,10 @@ Gesundheitswesen*
 > hierfür Brücken zu bauen und flexibel genug für neue Themen, zum
 > Beispiel Klima und Gesundheit, zu bleiben.
 
-*Dr. Thomas Claßen (Dipl.-Geogr.), Fachgruppe Grundsatzfragen,
+* Dr. Thomas Claßen (Dipl.-Geogr.), Fachgruppe Grundsatzfragen,
 Internationale Zusammenarbeit/Fachgruppe Prävention und
 Gesundheitsförderung, Landeszentrum Gesundheit Nordrhein-Westfalen
-(LZG.NRW)*
+(LZG.NRW)
 
 > Seit mehr als 200 Jahren gibt es nun Gesundheitsberichte. Ihre Form
 > und ihre Zielsetzung haben sich in dieser Zeit immer wieder geändert.
@@ -74,8 +74,8 @@ Gesundheitsförderung, Landeszentrum Gesundheit Nordrhein-Westfalen
 > Presseverlautbarungen, das wäre meine GBE-Vision für die nächsten
 > Jahre.
 
-*Dr. Joseph Kuhn, Gesundheitsberichterstattung, Bayerisches Landesamt
-für Gesundheit und Lebensmittelsicherheit*
+* Dr. Joseph Kuhn, Gesundheitsberichterstattung, Bayerisches Landesamt
+für Gesundheit und Lebensmittelsicherheit
 
 > Nie war die GBE gefragter als in Zeiten der COVID-19-Pandemie. Nie
 > waren einzelne Zahlenwerte wichtiger und Wege zu (kommunal)politischen
@@ -106,9 +106,9 @@ für Gesundheit und Lebensmittelsicherheit*
 > Gesundheitsförderung notwendig, die in meiner Vision auf allen Ebenen
 > zusammenarbeiten und sich gegenseitig bereichern.
 
-*Annette Galante-Gottschalk (MPH und Dipl.-Soz.päd.),
+* Annette Galante-Gottschalk (MPH und Dipl.-Soz.päd.),
 Gesundheitsberichterstattung und Gesundheitsplanung, Gesundheitsamt der
-Landeshauptstadt Stuttgart*
+Landeshauptstadt Stuttgart
 
 > Dass das GBE mehr ist als das Runterbeten oder Abschreiben von Zahlen,
 > die gegebenenfalls auch bei den Statistikämtern zu finden sind,
@@ -134,8 +134,8 @@ Landeshauptstadt Stuttgart*
 > Determinanten in den Fokus rücken und in die Planung von
 > gesundheitsförderlichen Maßnahmen einbezogen werden.
 
-*Dr. Nicole Rosenkötter (M. Sc.), Gesundheitsberichterstatterin,
-Landeszentrum Gesundheit NRW*
+* Dr. Nicole Rosenkötter (M. Sc.), Gesundheitsberichterstatterin,
+Landeszentrum Gesundheit NRW
 
 > Für die Gesundheitsberichterstattung der näheren und ferneren Zukunft
 > wünsche ich mir aufgeschlossene Entscheidungsträgerinnen und
@@ -154,8 +154,8 @@ Landeszentrum Gesundheit NRW*
 > und damit einen Beitrag zu einer gerechteren Politikgestaltung zu
 > leisten.
 
-*Prof.in Dr. phil. Dagmar Starke, stellv. Leiterin der Akademie für
-Öffentliches Gesundheitswesen*
+* Prof.in Dr. phil. Dagmar Starke, stellv. Leiterin der Akademie für
+Öffentliches Gesundheitswesen
 
 > Mein Wunschzettel umfasst:  
 > 1\. Dass ein Teil der im „Pakt für den ÖGD“ geplanten Verstärkung des
@@ -170,8 +170,8 @@ Landeszentrum Gesundheit NRW*
 > irgendwann ein ebensolcher Standard wird, wie es der kommunale
 > Infektionsschutz heute schon ist;
 
-*Dr. Bertram Szagun (MPH), Professor für Gesundheit an der Hochschule
-Ravensburg-Weingarten*
+* Dr. Bertram Szagun (MPH), Professor für Gesundheit an der Hochschule
+Ravensburg-Weingarten
 
 > Mein Ziel ist eine kommunale Gesundheitsberichterstattung, die nicht
 > nur die Informationsbedürfnisse von Politik und Verwaltung bedient,
@@ -186,8 +186,8 @@ Ravensburg-Weingarten*
 > zum journalistischen Ethos, Distanz und lässt sich vor keinen Karren
 > spannen, so sympathisch politische Ziele auch erscheinen mögen.
 
-*Dr. Günter Tempel, Leiter Kommunale Gesundheitsberichterstattung,
-Gesundheitsamt Bremen*
+* Dr. Günter Tempel, Leiter Kommunale Gesundheitsberichterstattung,
+Gesundheitsamt Bremen
 
 > Ich wünsche mir eine Person mit Vollzeitstelle und Expertise in der
 > GBE an jedem Gesundheitsamt (zum Beispiel mit Mitteln aus dem Pakt für
@@ -203,24 +203,24 @@ Gesundheitsamt Bremen*
 > kommunaler Ebene. Da ich in einem hessischen Gesundheitsamt arbeite,
 > ist das noch sehr visionär ...
 
-*Dr. Birgit Wollenberg, Fachbereichsleitung Gesundheitsamt, Landkreis
-Marburg-Biedenkopf*
+* Dr. Birgit Wollenberg, Fachbereichsleitung Gesundheitsamt, Landkreis
+Marburg-Biedenkopf
 
 > ...work in progress...
 
-*Dr Thomas Ziese, Affiliation*
+* Dr Thomas Ziese
 
-1.  Die Bezeichnung „policy brief“ ist nicht einheitlich definiert.
-    Meist ist damit eine Publikationsform gemeint, die in lurzer und
-    prägnanter Form das erörterte Thema zusammenfasst. Vielfach sind
-    eigenständige Analysen und ableitende Handlungsempfehlungen
-    integriert.
-
-2.  Der Begriff Stadtentwicklung versteht sich hier als Sammelbegriff im
-    Sinne der Darstellungen im Baugesetzbuch. Insofern bleiben die
-    Stadtplanung und Stadtentwicklung nicht auf städtisch-urbane Räume
-    beschränkt, sondern beziehen ausdrücklich Gemeinden und andere
-    Kommunalverbünde insbesondere in ländlichen Räumen mit ein.
-    Allerdings erstreckt sich dies nicht auf Landkreise, sondern auf
-    deren kreisangehörige Kommunen. Auf Landkreisebene greift bereits
-    die Regionalplanung.
+> 1.  Die Bezeichnung „policy brief“ ist nicht einheitlich definiert.
+>     Meist ist damit eine Publikationsform gemeint, die in lurzer und
+>     prägnanter Form das erörterte Thema zusammenfasst. Vielfach sind
+>     eigenständige Analysen und ableitende Handlungsempfehlungen
+>     integriert.
+> 
+> 2.  Der Begriff Stadtentwicklung versteht sich hier als Sammelbegriff im
+>     Sinne der Darstellungen im Baugesetzbuch. Insofern bleiben die
+>     Stadtplanung und Stadtentwicklung nicht auf städtisch-urbane Räume
+>     beschränkt, sondern beziehen ausdrücklich Gemeinden und andere
+>     Kommunalverbünde insbesondere in ländlichen Räumen mit ein.
+>     Allerdings erstreckt sich dies nicht auf Landkreise, sondern auf
+>     deren kreisangehörige Kommunen. Auf Landkreisebene greift bereits
+>     die Regionalplanung.

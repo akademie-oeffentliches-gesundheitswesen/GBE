@@ -1,10 +1,10 @@
 ---
-layout: page
-title: 03 - GBE-Strukturen
+layout: default
+title: 3 - GBE-Strukturen
 permalink: 03-gbe-strukturen
 nav_order: 4
 ---
-# {{page.title}}
+# 3. Gesundheitsberichterstattung Strukturen
 <details markdown="block"> 
   <summary> 
       &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
@@ -25,7 +25,7 @@ Der Öffentliche Gesundheitsdienst ist deutschlandweit auf den Ebenen von Bund, 
 </figure> 
 
 
-## Kommunale Ebene
+## 3.1. Kommunale Ebene
 
 Auf der Ebene der Kommunalverwaltung ist der ÖGD zum weit überwiegenden Teil in Landkreisen angesiedelt, zum Teil in kreisfreien Städten (auch als Stadtkreise/Städteregionen bezeichnet) und zu einem geringeren Teil übergreifend über mehrere Landkreise und/oder Städte. Speziell für die sinnvollerweise eng mit der GBE verbundenen Planungsprozesse ist dies bedeutsam, da verschiedene politische Ebenen und Strukturen berücksichtigt werden müssen, um mittels GBE gesundheitspolitische Entscheidungen unterstützen oder aber Gesundheitsbezüge in sonstige politische Entscheidungsprozesse im Sinne von „Health in All Policies“ (HiAP) einspeisen zu können: 
 
@@ -51,7 +51,7 @@ Den unterschiedlichen Dezernaten oder Abteilungen steht die kommunale Spitze vor
 Abhängig von der Gesetzeslage für den ÖGD im jeweiligen Bundesland sind auf kommunaler Ebene teilweise darüber hinaus noch gesundheitsspezifische Planungsgremien angesiedelt, beispielsweise in Form kommunaler Gesundheitskonferenzen. Diese sind häufig direkt dem ÖGD zugeordnet, das heißt, ihm obliegt die Geschäftsführung. Diese Gremien sind unterschiedlich zusammengesetzt: Mitglieder sind meist lokale Stakeholder aus den Feldern Gesundheitsversorgung, Gesundheitsförderung und Prävention sowie Akteure und Akteurinnen, die mittelbar auf Gesundheit Einfluss nehmen können, wie zum Beispiel das Schulamt oder Jugendamt, mit mehr oder weniger Beteiligung von Patienten und Patientinnen sowie Bürger und Bürgerinnen. Meist stellen die Mitglieder eine Auswahl von Experten und Expertinnen dar. In der Regel ist jedoch weder die Auswahl der beteiligten Akteure und Akteurinnen noch das Gremium selbst politisch legitimiert. Daher haben diese Gremien üblicherweise eine beratende Funktion (Weiteres hierzu auch in Kapitel 2.) sowie eine eher geringe Ressourcenverantwortung. Das alles klingt nicht nur komplex, es ist auch so. Für die GBE sind die kommunalpolitischen Strukturen in vieler Hinsicht bedeutsam (Albrich et al. 2017). Will GBE „Daten für Taten“ kommunizieren, das heißt planungsrelevant sein, findet diese Planung in einem oder mehreren der oben genannten Gremien statt. Am Ende gilt es oft, Entscheidungen über Ressourcen zu beeinflussen, das heißt die dafür zuständigen Entscheidungsträger und Entscheidungsträgerinnen zu überzeugen. Die Reichweite gelingender GBE geht somit immer „über das Amt hinaus“ und sollte daher von Anfang an mitgedacht werden. Die für die GBE zu berücksichtigenden Aspekte ergeben sich aus den verschiedenen Hierarchieebenen, den jeweiligen Ausschüssen und etwaigen Gremien von Experten und Expertinnen:
 
 1.  **Hierarchieebenen:** Damit ein Gesundheitsbericht nicht zum „zahnlosen“ Papiertiger mutiert, ist immer eine offizielle Verlautbarung der Kommunalbehörde erforderlich, die auch von der kommunalen Spitze genehmigt sein muss. Die für die GBE zuständige Person ist innerhalb des kommunalen ÖGD meist auf der zweiten oder dritten Hierarchieebene angesiedelt. Über der Leitung des Gesundheitsamtes liegen ein bis zwei weitere Hierarchieebenen, sodass ein Bericht nicht selten über vier Hierarchieebenen hinweg abgesegnet werden muss, bevor er nach außen gehen kann. Das kostet nicht nur Zeit, es kann auch zu Konflikten führen, sofern nicht eine gewisse Vorabstimmung zwischen den relevanten Ebenen stattgefunden hat (Näheres zu den Abstimmungsprozessen auch in [Kapitel 6]({{ site.baseurl }}{% link 06-VernetzunginderGBE.md %})). Ein Teil dieser Vorabstimmung obliegt meist der Amtsleitung, da diese einen direkten Zugang zu den übergeordneten Führungskräften hat. Günstig ist es daher, wenn zumindest im ÖGD selbst so wenige Ebenen wie möglich zwischen GBE und Amtsleitung liegen.
-.  **Kommunalpolitische Ausschüsse:** Kommunalpolitische Planungen und Ressourcenentscheidungen zu gesundheitsrelevanten Themen werden in kommunalpolitischen (Gesundheits-)Ausschüssen erörtert und vorbereitet. Die Entscheidungen werden vom Kreistag bzw. Stadtparlament getroffen. Die Ausschüsse sind von Kommunalpolitikern und Kommunalpolitikerinnen verschiedener Fraktionen besetzt, die informiert bzw. eventuell überzeugt werden müssen. Häufig ist dem ÖGD-Dezernat bzw. der ÖGD-Abteilung ein spezifischer Unterausschuss des Kreistags oder Stadtparlaments zugeordnet, zum Beispiel einem Sozialdezernat ein „Ausschuss für Soziales und Gesundheit“. Abhängig von der Dezernatszuordnung sind dann auch die „üblichen“ Themen und die Expertise, die in einem solchen Ausschuss angesiedelt sind. Für die GBE gilt es, soweit wie möglich zu antizipieren, welche Themen dort auf welche Weise diskutiert werden dürften. Es kann sinnvoll sein, Vertreter und Vertreterinnen der politischen Fraktionen etwa über die Einbindung in die Gesundheitskonferenz frühzeitig in die Berichtsthematik zu involvieren, um eine konstruktive Diskussion vorzubereiten. Das Gesundheitsamt kann als eigenständige Fachabteilung/eigenständiger Fachbereich der Landrätin/dem Landrat bzw. der Oberbürgermeisterin/dem Oberbürgermeister direkt unterstellt sein, meistens ist es jedoch dem Dezernat eines/einer Beigeordneten bzw. Dezernenten/Dezernentin zugeordnet. Die häufigsten Zuordnungen des ÖGD liegen in den Dezernaten Soziales und/oder Jugend sowie Ordnung und/oder Veterinärwesen (Quelle: eigene Erhebung im Rahmen des GBE-Monitors 11–12/2019, Weiteres hierzu auch in [Kapitel 8]({{ site.baseurl }}{% link 08-WowilldieGBEhin.md %})). Die Dezernatszuordnung spielt neben der kommunalpolitischen Bedeutung auch eine Rolle dafür, wie einfach oder kompliziert es sich gestaltet, mit anderen Ämtern und Fachbereichen zu kooperieren und damit eine Integration von GBE und Planung zu realisieren (siehe [Kapitel 5]({{ site.baseurl }}{% link 05-IntegrierteGBE.md %})). Eine direkte Unterstellung des Fachbereichs Gesundheit unterhalb der kommunalen Spitze ermöglicht es andererseits, der Gesundheitsplanung einen hohen und eigenständigen Stellenwert zu verleihen.
+2.  **Kommunalpolitische Ausschüsse:** Kommunalpolitische Planungen und Ressourcenentscheidungen zu gesundheitsrelevanten Themen werden in kommunalpolitischen (Gesundheits-)Ausschüssen erörtert und vorbereitet. Die Entscheidungen werden vom Kreistag bzw. Stadtparlament getroffen. Die Ausschüsse sind von Kommunalpolitikern und Kommunalpolitikerinnen verschiedener Fraktionen besetzt, die informiert bzw. eventuell überzeugt werden müssen. Häufig ist dem ÖGD-Dezernat bzw. der ÖGD-Abteilung ein spezifischer Unterausschuss des Kreistags oder Stadtparlaments zugeordnet, zum Beispiel einem Sozialdezernat ein „Ausschuss für Soziales und Gesundheit“. Abhängig von der Dezernatszuordnung sind dann auch die „üblichen“ Themen und die Expertise, die in einem solchen Ausschuss angesiedelt sind. Für die GBE gilt es, soweit wie möglich zu antizipieren, welche Themen dort auf welche Weise diskutiert werden dürften. Es kann sinnvoll sein, Vertreter und Vertreterinnen der politischen Fraktionen etwa über die Einbindung in die Gesundheitskonferenz frühzeitig in die Berichtsthematik zu involvieren, um eine konstruktive Diskussion vorzubereiten. Das Gesundheitsamt kann als eigenständige Fachabteilung/eigenständiger Fachbereich der Landrätin/dem Landrat bzw. der Oberbürgermeisterin/dem Oberbürgermeister direkt unterstellt sein, meistens ist es jedoch dem Dezernat eines/einer Beigeordneten bzw. Dezernenten/Dezernentin zugeordnet. Die häufigsten Zuordnungen des ÖGD liegen in den Dezernaten Soziales und/oder Jugend sowie Ordnung und/oder Veterinärwesen (Quelle: eigene Erhebung im Rahmen des GBE-Monitors 11–12/2019, Weiteres hierzu auch in [Kapitel 8]({{ site.baseurl }}{% link 08-WowilldieGBEhin.md %})). Die Dezernatszuordnung spielt neben der kommunalpolitischen Bedeutung auch eine Rolle dafür, wie einfach oder kompliziert es sich gestaltet, mit anderen Ämtern und Fachbereichen zu kooperieren und damit eine Integration von GBE und Planung zu realisieren (siehe [Kapitel 5]({{ site.baseurl }}{% link 05-IntegrierteGBE.md %})). Eine direkte Unterstellung des Fachbereichs Gesundheit unterhalb der kommunalen Spitze ermöglicht es andererseits, der Gesundheitsplanung einen hohen und eigenständigen Stellenwert zu verleihen.
 
 3.  **Experten- und Expertinnengremien zur Gesundheitsplanung:** Die spezifischen und meist nur beratenden Planungsgremien wie (kommunale) Gesundheitskonferenzen sind häufig in mehrfacher Hinsicht relevant für die GBE: Aus ihnen kommen nicht selten Anregungen oder Aufträge für Berichtsthemen (siehe auch Kapitel 2.), und fast immer stellen sie wesentliche Adressaten und Adressatinnen der GBE dar. Auch wenn Gesundheitskonferenzen nicht demokratisch legitimiert sind, ist ihr Votum als beratendes Experten- und Expertinnengremium wesentlich dafür, ob die GBE zu Taten führt. Es gilt daher, die Diskussion in diesen Gremien vorzubereiten bzw. Mitglieder der Gremien schon vorab in den Prozess einzubeziehen (siehe auch [Kapitel 6]({{ site.baseurl }}{% link 06-VernetzunginderGBE.md %})). Essenziell für die notwendigen Abstimmungsprozesse sind häufig auch die Schnittstellen zwischen den Gremien der Experten- und Expertinnen sowie oben genannten politischen Gremien. Gute Voraussetzungen lassen sich beispielsweise gewährleisten, indem Mitglieder aller wichtigen politischen Fraktionen auch an der Gesundheitskonferenz beteiligt sind. Sofern in der Gesundheitskonferenz aktive Akteure und Akteurinnen wie beispielsweise Krankenkassen oder Ärzte- und Ärztinnenschaft direkt für ein Planungsfeld zuständig sind, können auch in der Konferenz selbst weitreichende und ressourcenrelevante Entscheidungen getroffen werden. Voraussetzung dafür ist jedoch, dass die Konferenz gut etabliert ist. Eine wichtige Rolle dafür spielt häufig auch die Offensichtlichkeit einer Bedarfslage, wie sie sich zum Beispiel aus der GBE ergeben kann.
 
@@ -64,12 +64,12 @@ Abhängig von der Gesetzeslage für den ÖGD im jeweiligen Bundesland sind auf k
 </tbody>
 </table>
 
-## Landesebene 
+## 3.2. Landesebene 
 
 Gesundheitsberichte auf Landesebene werden entweder von den Gesundheitsministerien (zum Beispiel in Berlin, Hamburg, Hessen oder Schleswig-Holstein) oder oberen Landesgesundheitsbehörden (Landesgesundheitsämtern) erstellt. Sie haben die Situation im Land insgesamt im Blick, berücksichtigen dabei aber häufig auch regionale Unterschiede und berichten dazu auch Daten auf Kreisebene. Für die kommunale Gesundheitsberichterstattung kann das als Datenquelle oder Vergleichsreferenz dienen. Des Weiteren unterstützt die Landesebene die kommunale Gesundheitsberichterstattung zum Beispiel durch Fortbildungen/Tagungen oder die Erstellung von [Handlungshilfen](https://www.lgl.bayern.de/gesundheit/gesundheitsberichterstattung/methoden_handlungshilfen/index.htm). Länderübergreifend bietet auch die Akademie für Öffentliches Gesundheitswesen (AÖGW) Fortbildungsveranstaltungen zur Gesundheitsberichterstattung an. 
 
 Die Länder stimmen sich zur Gesundheitsberichterstattung in der Arbeitsgruppe Gesundheitsberichterstattung, Prävention, Rehabilitation und Sozialmedizin der Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden (GPRS AOLG) ab. Auf dieser Ebene wurde 2003 auch ein gemeinsamer Gesundheitsindikatorensatz der Länder vereinbart, um zumindest für einige Gesundheitsindikatoren Ländervergleiche vornehmen zu können. Das Robert Koch-Institut (RKI), das Statistische Bundesamt und die Akademie für Öffentliches Gesundheitswesen (AÖGW) sind ständige Gäste dieser Arbeitsgruppe. Ein regelmäßiger Bund-Länder-Workshop zur Gesundheitsberichterstattung, den das Robert Koch-Institut in Abstimmung mit den Ländern veranstaltet, stellt auch die vertikale Verständigung zwischen Bund und Ländern sicher. 
-## Bundesebene
+## 3.3. Bundesebene
 
 Auf der Ebene des Bundes ist das Robert Koch-Institut zusammen mit dem Statistischen Bundesamt für die Gesundheitsberichterstattung zuständig. Das RKI verantwortet die inhaltliche und konzeptionelle Ausgestaltung und Weiterentwicklung des Berichtswesens sowie die GBE-Publikationen auf Bundesebene. Das Statistische Bundesamt stellt die wesentlichen Datenquellen im [Informationssystem der Gesundheitsberichterstattung des Bundes (IS-GBE)](https://www.gbe-bund.de/) bereit (Ziese 2000). Im IS-GBE stehen Informationen und Daten aus über 100 Datenquellen zur Verfügung. Viele Tabellen sind entsprechend der eigenen Fragestellung modifizierbar, auch Grafiken können erstellt werden. Das Angebot wird kontinuierlich ergänzt und aktualisiert. Im Rahmen des Gesundheitsmonitorings führt das RKI in regelmäßigen Abständen bundesweite repräsentative Befragungs- und Untersuchungssurveys durch (siehe auch [Kapitel 4]({{ site.baseurl }}{% link 04-GBEHandwerk.md %})). 
 
@@ -88,7 +88,7 @@ Akteure und Akteurinnen im Gesundheitswesen, der Gesundheitswissenschaft sowie D
 </table>
 
 
-## Weiterführende Informationen
+## 3.4. Weiterführende Informationen
 
 GBE auf kommunaler und Landesebene
 
@@ -128,18 +128,21 @@ Rechtliche Hintergründe der GBE
     an der Basis. In: Bundesgesundheitsbl. 63, S. 1067–1075. DOI:
     10.1007/s00103-020-03190-z.
 
-## Literaturverzeichnis Kapitel 3. - GBE-Strukturen
+## 3.5. Literaturverzeichnis Kapitel 3. - GBE-Strukturen
 
-Albrich C, Brandeis B, Erb J et al. (2017): Handlungsempfehlung für den
+* Albrich C, Brandeis B, Erb J et al. (2017): Handlungsempfehlung für den
 Aufbau einer Gesundheitsplanung im Öffentlichen Gesundheitsdienst.
 Ergebnisse eines Pilotvorhabens in Baden-Württemberg. Stuttgart,
-2017.Lampert T, Horch K, List S (2010): Gesundheitsberichterstattung des
+2017.
+* Lampert T, Horch K, List S (2010): Gesundheitsberichterstattung des
 Bundes: Ziele, Aufgaben und Nutzungsmöglichkeiten. Berlin, 2010 (1).
-Online verfügbar unter www.rki.de/gbe-kompakt.Rosenkötter N, Borrmann B,
-Arnold L, Böhm A (2020): Gesundheitsberichterstattung in Ländern und
+Online verfügbar unter www.rki.de/gbe-kompakt.
+* Rosenkötter N, Borrmann B,
+* Arnold L, Böhm A (2020): Gesundheitsberichterstattung in Ländern und
 Kommunen: Public Health an der Basis. In: *Bundesgesundheitsbl.* 63, S.
-1067–1075. DOI: 10.1007/s00103-020-03190-z.Szagun B, Kuhn J, Starke D
+1067–1075. DOI: 10.1007/s00103-020-03190-z.
+* Szagun B, Kuhn J, Starke D
 (2016): Kommunale Gesundheitsförderungspolitik und das
 Präventionsgesetz. In: *Präv Gesundheitsf* 11 (4), S. 265–270. DOI:
-10.1007/s11553-016-0563-0.Ziese T (2000): Beginn der Routinephase. In:
-*Bundesgesundheitsbl.* 43 (8), S. 600–604. DOI: 10.1007/s001030070018.
+10.1007/s11553-016-0563-0.
+* Ziese T (2000): Beginn der Routinephase. In: *Bundesgesundheitsbl.* 43 (8), S. 600–604. DOI: 10.1007/s001030070018.

@@ -1,10 +1,10 @@
 ---
-layout: page
-title: 05 - Integrierte GBE 
+layout: default
+title: 5 - Integrierte GBE 
 permalink: 05-integrierte-gbe
 nav_order: 6
 ---
-# {{page.title}}
+# 5. Integrierte Gesundheitsberichterstattung
 <details markdown="block"> 
   <summary> 
       &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
@@ -36,7 +36,7 @@ der Sozialberichterstattung, der Pflegeberichterstattung, der
 Umweltberichterstattung oder auch der Arbeitsberichterstattung, genutzt
 und ausgestaltet werden.
 
-## Gesundheit und soziale Lage
+## 5.1. Gesundheit und soziale Lage
 
 Die Chance auf ein gesundes Leben ist eng mit sozialstrukturellen
 Faktoren verbunden, insofern hat die GBE zur Sozialberichterstattung
@@ -62,7 +62,7 @@ Krankheit und Tod manifestieren kann (Elkeles, Mielck 1997).
   <figcaption>Abbildung 10: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit (eigene Darstellung nach Elkeles, Mielck 1997) </figcaption>
 </figure> 
 
-## Integrierte Berichterstattung
+## 5.2. Integrierte Berichterstattung
 
 Eine integrierte (Gesundheits-)Berichterstattung bietet die Möglichkeit,
 die oben skizzierte Abhängigkeit der Gesundheitschancen von Faktoren,
@@ -163,7 +163,7 @@ Ebene eines Verwaltungsbezirks (Kreis oder kreisfreie Stadt) Hinweise
 auf besondere gesundheitliche Belastungen in dem jeweiligen Kreis/der
 kreisfreien Stadt liefern (Rosenkötter et al. 2020).
 
-## Weiterführende Informationen
+## 5.3. Weiterführende Informationen
 
   - Borrmann B, Rosenkötter N (2016): Integrierte Berichterstattung für
     ressortübergreifende kommunale Gesundheitspolitik. In: Public Health
@@ -191,22 +191,25 @@ kreisfreien Stadt liefern (Rosenkötter et al. 2020).
     Umsetzungserfahrungen. 1. Auflage. Aachen: Shaker Verlag (Berichte
     aus der Medizin).
 
-  - ...
+## 5.4. Literaturverzeichnis Kapitel 5. – Integrierte GBE 
 
-## Literaturverzeichnis Kapitel 5. – Integrierte GBE 
-
-Böhm A (2007): Der Brandenburger Sozialindex: ein Werkzeug für die
+* Böhm A (2007): Der Brandenburger Sozialindex: ein Werkzeug für die
 Gesundheits- und Sozialberichterstattung auf Landes- und kommunaler
 Ebene. In: *Gesundheitswesen* 69 (03). DOI:
-10.1055/s-2007-982846.Durkheim É (1983): Der Selbstmord. Frankfurt am
-Main: Suhrkamp.Elkeles T, Mielck A (1997): Ansätze zur Erklärung und
+10.1055/s-2007-982846.
+* Durkheim É (1983): Der Selbstmord. Frankfurt am
+Main: Suhrkamp.
+* Elkeles T, Mielck A (1997): Ansätze zur Erklärung und
 Verringerung gesundheitlicher Ungleichheit. In: *Jahrbuch für kritische
-Medizin* (26), S. 23–44.Kroll L E, Schumann m, Hoebel J, Lampert T
+Medizin* (26), S. 23–44.
+* Kroll L E, Schumann m, Hoebel J, Lampert T
 (2017): Regional health differences – developing a socioeconomic
 deprivation index for Germany. In: *Journal of Health Monitoring* 2 (2),
-98–114. DOI: 10.17886/RKI-GBE-2017-048.Rosenkötter N, Borrmann B, Arnold
+98–114. DOI: 10.17886/RKI-GBE-2017-048.
+* Rosenkötter N, Borrmann B, Arnold
 L, Böhm A (2020): Gesundheitsberichterstattung in Ländern und Kommunen:
 Public Health an der Basis. In: *Bundesgesundheitsbl.* 63, S. 1067–1075.
-DOI: 10.1007/s00103-020-03190-z.Stegmann T (2020): Lebenslagen in
+DOI: 10.1007/s00103-020-03190-z.
+* Stegmann T (2020): Lebenslagen in
 Sozialräumen auf einen Blick: Indizes in der kommunalen
 Berichterstattung. Arbeitshilfe für Kommunen und Träger. Bottrop, 2020.

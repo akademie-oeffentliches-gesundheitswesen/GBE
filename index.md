@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 ---
+![Logo](./media/image1.png)
+<big style="font-size:2em;">GESUNDHEITSBERICHTERSTATTUNG</big>
 
-**GESUNDHEITSBERICHTERSTATTUNG**
-
-**Lehrbuch für den Öffentlichen Gesundheitsdienst**
+Lehrbuch für den Öffentlichen Gesundheitsdienst
 
 Herausgegeben von der Akademie für Öffentliches Gesundheitswesen
 
@@ -31,4 +31,15 @@ Pre-Release
 </tbody>
 </table>
 
-![Logo](./media/image1.png)
+
+
+
+Hier muss noch etwas zu den folgenden Dingen stehen
+- Kurzer Teaser "oneliner"
+- Was erwartet mich in diesem Buch
+- Zielgruppe
+- Lizenz
+- Wie kann man unterstützen/mitmachen
+- Nennung von unterstützende Personen
+- Danksagung
+- Roadmap

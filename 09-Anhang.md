@@ -1,10 +1,10 @@
 ---
-layout: page
-title: 09 - Anhang
+layout: default
+title: Anhang
 permalink: 09-anhang
 nav_order: 10
 ---
-# {{page.title}}
+# Anhang
 <details markdown="block"> 
   <summary> 
       &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
@@ -119,8 +119,6 @@ Grundlagen der Statistik
   - Weiß C. (2013): Basiswissen Medizinische Statistik. 6., überarb.
     Aufl. Berlin: Springer.
 
-  - ...
-
 Handlungshilfen zur GBE
 
   - Augustin, J, Kistemann, T, Koller, D, Lentz, S, Maier, W.A, Moser,
@@ -179,8 +177,6 @@ Handlungshilfen zur GBE
   - Handlungshilfen des LGL:
     [GBE-Praxis](https://www.lgl.bayern.de/publikationen/index.htm)
 
-  - ...
-
 Datenvisualizierung und Storytelling
 
   - Alberto C (2016). The truthful art: data, charts and maps for
@@ -212,7 +208,6 @@ Datenvisualizierung und Storytelling
     empfehlenswert ist auch das digitale und frei verfügbare Buch „A
     guide to advanced data visualisation with Excel“, dass wertvolle
     Tips enthält.
-
 
 ## Glossar – wichtige Kennziffern der kommunalen Gesundheitsberichterstattung
 
@@ -370,3 +365,5 @@ siedlungsstrukturelle Merkmale, gesundheitsrelevante Einstellungen und Verhalten
 </tr>
 </tbody>
 </table>
+
+

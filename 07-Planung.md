@@ -1,10 +1,10 @@
 ---
-layout: page
-title: 07 - Planung
+layout: default
+title: 7 - Planung
 permalink: 07-planung
 nav_order: 8
 ---
-# {{page.title}}
+# 7. Planung
 <details markdown="block"> 
   <summary> 
       &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
@@ -53,9 +53,6 @@ flächendeckend und bis auf Lebensweltebene umzusetzen.
   <figcaption>Abbildung 12: Rolle der Gesundheitsplanung im Public Health Action Cycle (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine 1988)</figcaption>
 </figure> 
 
-
-Abbildung 12: Rolle der Gesundheitsplanung im Public Health Action Cycle (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine 1988)
-
 In diesem Kapitel widmet sich der erste Teil der Gesundheitsplanung im
 engeren Sinne, das heißt der federführend durch den ÖGD durchgeführten
 Planung, wie sie in einigen Bundesländern auch gesetzlich in den
@@ -64,7 +61,7 @@ nimmt dieses Kapitel auch Planungsprozesse in den Blick, die anderen
 Ressorts obliegen und durch die GBE unterstützt oder erweitert werden
 können, und erläutert dies am Beispiel der Stadtplanung.
 
-## Gesundheitsplanung im ÖGD
+## 7.1. Gesundheitsplanung im ÖGD
 
 In einer zunehmenden Zahl an Bundesländern sind dem ÖGD mittlerweile
 Planungsaufgaben landesgesetzlich zugewiesen (siehe auch Exkurs zu den
@@ -124,7 +121,7 @@ nutzen, die sich selbst in Bundesländern ergeben, in denen planerische
 einige für das Gelingen wesentliche Faktoren wird im Folgenden
 eingegangen.
 
-***Mandatierung:*** Gesundheitskonferenzen sind als beratende Gremien
+**Mandatierung:** Gesundheitskonferenzen sind als beratende Gremien
 angelegt. Um auch größere Ressourcenentscheidungen beeinflussen zu
 können, sollten Schnittstellen zu den kommunalpolitischen Gremien
 aufgebaut werden (siehe [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %})). In der KGK selbst gilt es, ihr
@@ -132,7 +129,7 @@ Mandat frühzeitig und klar zu kommunizieren, um späterer Frustration bei
 denjenigen vorzubeugen, denen die Rolle der KGK im kommunalpolitischen
 Geschehen nicht schon per Amt bekannt ist.
 
-***Planungsgegenstand:*** Die gesetzlichen Vorgaben bezüglich der
+**Planungsgegenstand:** Die gesetzlichen Vorgaben bezüglich der
 Planungsthemen sind üblicherweise vergleichsweise vage gehalten und eher
 als breite Korridore mit den übergeordneten Schwerpunkten
 Gesundheitsförderung, Prävention und Gesundheitsversorgung angelegt
@@ -164,7 +161,7 @@ kommunalen Expertinnen und Experten, Bürgerinnen und Bürgern,
 Patientinnen und Patienten sowie Informationen aus der GBE statt (siehe
 Abbildung 13).
 
-***Konkrete Zusammensetzung der Planungsgremien:*** Auch beim Aufbau
+**Konkrete Zusammensetzung der Planungsgremien:** Auch beim Aufbau
 kommunaler Gesundheitskonferenzen oder vergleichbarer
 gesundheitsbezogener, idealerweise intersektoral ansetzender Planungs-
 und Steuerungsgremien ergeben sich meist erhebliche Spielräume. Sinnvoll
@@ -194,9 +191,7 @@ veranschaulicht.
   <figcaption>Abbildung 13: Ausrichtung und Themenfindung der Gesundheitsplanung entstehen im Aushandlungsprozess zwischen den unterschiedlichen Perspektiven von Expertinnen und Experten, Bürgerinnen und Bürgern und der wissenschaftlichen Datenlage (erweitert nach Roller 2010)</figcaption>
 </figure> 
 
-
-
-***Form des Berichtswesens:*** GBE ist zwar in allen
+**Form des Berichtswesens:** GBE ist zwar in allen
 Gesundheitsdienstgesetzen der Länder verankert, sie wird aber nicht
 überall durchgeführt, und die Aufgabe ist kaum durch klare Vorgaben
 präzisiert. Nicht selten führt die Etablierung einer kommunalen
@@ -214,7 +209,7 @@ Etablierung des Fachplans Gesundheit als ein integriertes, prozess- und
 maßnahmenorientiertes kommunales Planungsinstrument diskutiert (Claßen,
 Mekel 2020), worauf in [Kapitel 8]({{ site.baseurl }}{% link 08-WowilldieGBEhin.md %}) noch genauer eingegangen wird.
 
-***Ressourcensteuerung:*** Die zunächst mal meist vagen Zuständigkeiten
+**Ressourcensteuerung:** Die zunächst mal meist vagen Zuständigkeiten
 der durch den ÖGD eingerichteten Planungsgremien spiegeln sich auch auf
 der Ressourcenebene wider (Hollederer 2015). Planung bedeutet
 themenbezogene Ressourcensteuerung, bei diesen Ressourcen handelt es
@@ -319,8 +314,6 @@ wahrgenommenen Professionalität und dem Einbezug der Öffentlichkeit:
   <figcaption>Abbildung 14: Einflussgrößen auf die Relevanz einer kommunalen Gesundheitskonferenz als Planungsgremium mit begrenzter Zuständigkeit</figcaption>
 </figure> 
 
-
-
 Auch in den Fällen, in denen die GBE nicht als planungsvorbereitendes
 Instrument im Mittelpunkt steht, liefert sie wichtige Informationen für
 übergreifende Planungen, zum Beispiel im Rahmen der Kommunal- und
@@ -336,7 +329,7 @@ dargestellt, in welchen Kontexten die GBE hilfreich bis zentral sein
 kann und welche Bedingungen ideal sind, um die GBE beispielsweise im
 Kanon städtebaulicher Planungskontexte zu positionieren und zu stärken.
 
-## Gesundheitsplanung mit dem ÖGD: Gesundheitsorientiert planen, um „Health in All Policies“ zu realisieren
+## 7.2. Gesundheitsplanung mit dem ÖGD: Gesundheitsorientiert planen, um „Health in All Policies“ zu realisieren
 
 In [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) wurde bereits beschrieben, welche unterschiedlichen
 Faktoren die menschliche Gesundheit und unser Wohlbefinden beeinflussen
@@ -385,7 +378,7 @@ bei der Gestaltung einzunehmen und diese basierend auf der GBE
 mitzugestalten. Dies entspricht auch der gesetzlich verankerten Aufgabe
 der Koordination und Steuerung innerhalb der Kommune.
 
-### Gesundheit im kommunalen Planungskontext am Beispiel der gesundheitsförderlichen Stadtentwicklung
+### 7.2.1. Gesundheit im kommunalen Planungskontext am Beispiel der gesundheitsförderlichen Stadtentwicklung
 
 Eine wesentliche Aufgabe der Kommunen liegt in der Daseinsvorsorge,
 sprich einer staatlich garantierten Grundversorgung, die als Leitprinzip
@@ -439,13 +432,10 @@ Gemeinschaft im Rahmen der Gesetze in eigener Verantwortung zu regeln*“
 (Artikel 28 Absatz 2 Grundgesetz). Bezogen auf die Gesundheitsförderung
 haben die Kommunen selbst eine Schlüsselfunktion. Demnach ist es
 
-> *„grundsätzlich Aufgabe der Kommunen, einen gesundheitsförderlichen
-> Entwicklungsprozess anzustoßen, zu koordinieren und zu leiten. In
-> diesen sind immer auch andere verantwortliche Akteure einzubinden.“*
-> *(GKV-Spitzenverband 2018, S. 31)*
+> „..grundsätzlich Aufgabe der Kommunen, einen gesundheitsförderlichen Entwicklungsprozess anzustoßen, zu koordinieren und zu leiten. In diesen sind immer auch andere verantwortliche Akteure einzubinden.“ GKV-Spitzenverband 2018, S. 31)
 
 Zusammenfassend kann man festhalten: Wenn Kommunen eine
-**gesundheitsförderliche Stadtentwicklung**\[2\] vorantreiben möchten,
+**gesundheitsförderliche Stadtentwicklung** vorantreiben möchten,
 sind einige Grundprinzipien dringend zu bedenken (LZG.NRW 2019). So
 braucht es
 
@@ -511,7 +501,7 @@ einer evidenz-informierten gesundheitsorientierten Planung auf Basis der
 GBE und im Sinne des HiAP-Ansatzes ist dies jedoch noch ein gutes Stück
 entfernt.
 
-### Städtebauliches Planungsverständnis im Wandel
+### 7.2.2. Städtebauliches Planungsverständnis im Wandel
 
 Aktuell vollzieht sich in der städtebaulichen Planungspraxis ein
 grundlegender Wandel (Claßen 2020). So sind zu den traditionellen
@@ -563,7 +553,7 @@ auf kleinräumiger (Quartiers-)Ebene und basiert idealerweise auf Daten
 der kommunalen GBE sowie weiterer Quellen integrierter Berichtssysteme
 ganz im Sinne von „Daten für Taten“.
 
-## Weiterführende Informationen
+## 7.3. Weiterführende Informationen
 
 Gesundheitsplanung im ÖGD
 
@@ -597,14 +587,14 @@ Gesundheits- und Stadtentwicklung
   - Böhme C, Kliemke C, Reimann B, Süß, W. (Hrsg., 2012): Stadtplanung
     und Gesundheit. Bern: Hans Huber.
 
-  - **Bolte G, Bunge C, Hornberg C, Köckler H. et al. (Hrsg., 2012):
+  - Bolte G, Bunge C, Hornberg C, Köckler H. et al. (Hrsg., 2012):
     Umweltgerechtigkeit. Chancengleichheit bei Umwelt und Gesundheit:
-    Konzepte, Datenlage und Handlungsperspektiven. Bern:** Hans
-    Huber**.**
+    Konzepte, Datenlage und Handlungsperspektiven. Bern: Hans
+    Huber.
 
-  - **Bucksch J, Claßen T, Budde S, Geuter G (2012): Bewegungs- und
+  - Bucksch J, Claßen T, Budde S, Geuter G (2012): Bewegungs- und
     gesundheitsförderliche Kommune. Evidenzen und Handlungskonzept für
-    die Kommunalentwicklung – ein Leitfaden. Düsseldorf.**
+    die Kommunalentwicklung – ein Leitfaden. Düsseldorf.
 
   - Fabian C, Driling M, Niermann O, Schnur, O. (2017): Quartier und
     Gesundheit. Wiesbaden: Springer.
@@ -619,71 +609,76 @@ Gesundheits- und Stadtentwicklung
     Prävention Glossar zu Konzepten, Strategien und Methoden. Köln:
     BZgA, S. 133–136.
 
-## Literaturverzeichnis Kapitel 7. – Planung
+## 7.4. Literaturverzeichnis Kapitel 7. – Planung
 
-Albrich C, Brandeis B, Erb J et al. (2017): Handlungsempfehlung für den
+* Albrich C, Brandeis B, Erb J et al. (2017): Handlungsempfehlung für den
 Aufbau einer Gesundheitsplanung im Öffentlichen Gesundheitsdienst.
 Ergebnisse eines Pilotvorhabens in Baden-Württemberg. Stuttgart,
-2017.Baumgart S, Köckler H, Ritzinger A, Rüdiger A (2018):
+2017.
+* Baumgart S, Köckler H, Ritzinger A, Rüdiger A (2018):
 Gesundheitsförderung – Ein Aktuelles Thema Für Raumplanung Und
 Gesundheitswesen. Einführung. In: Baumgart S, Köckler H, Ritzinger A und
 Rüdiger A (Hrsg.): Planung für gesundheitsfördernde Städte. Hannover:
 Akademie für Raumforschung und Landesplanung Leibniz-Forum für
-Raumwissenschaften (Forschungsberichte der ARL, 08), S. 5–19.Böhm K,
+Raumwissenschaften (Forschungsberichte der ARL, 08), S. 5–19.
+* Böhm K,
 Bräunling S, Geene R, Köckler H (Hrsg.) (2020): Gesundheit als
 gesamtgesellschaftliche Aufgabe. Das Konzept Health in All Policies und
-seine Umsetzung in Deutschland. Wiesbaden: Springer VS.Böhme C, Reimann
+seine Umsetzung in Deutschland. Wiesbaden: Springer VS.
+* Böhme C, Reimann
 B (2018): Integrierte Strategien kommunaler Gesundheitsförderung.
 Rahmenbedingungen, Steuerung und Kooperation. Ergebnisse einer
 Akteursbefragung. Berlin, 2018. Online verfügbar unter
 https://repository.difu.de/jspui/handle/difu/249465, zuletzt geprüft am
-09.02.2022.Claßen T (2020): Gesundheitsförderliche Stadtentwicklung. In:
+09.02.2022.
+* Claßen T (2020): Gesundheitsförderliche Stadtentwicklung. In:
 *Informationen zur Raumentwicklung* 47 (1), S. 4–17. Online verfügbar
 unter
 https://elibrary.steiner-verlag.de/article/99.105010/izr202001000401,
-zuletzt geprüft am 07.11.2021.Claßen T, Mekel O (2020): Fachplan
+zuletzt geprüft am 07.11.2021.
+* Claßen T, Mekel O (2020): Fachplan
 Gesundheit und Leitfaden Gesunde Stadt – Instrumente für eine
 gesundheitsorientierte kommunale Planung in Nordrhein-Westfalen. In:
 Böhm K, Bräunling S, Geene R und Köckler H (Hrsg.): Gesundheit als
 gesamtgesellschaftliche Aufgabe. Das Konzept Health in All Policies und
 seine Umsetzung in Deutschland. Wiesbaden: Springer VS, S.
 397–405.GKV-Spitzenverband (2018): Leitfaden Prävention nach § 20 Abs.
-2 SGB V und Leitfaden Prävention nach § 5 SGB XI.Hollederer A (2015):
+2 SGB V und Leitfaden Prävention nach § 5 SGB XI.
+* Hollederer A (2015):
 Gesundheitskonferenzen in Deutschland: ein Überblick. In:
 *Gesundheitswesen* 77 (3), S. 161–167. DOI:
-10.1055/s-0033-1361109.Hollederer A (2016): Regionale
+10.1055/s-0033-1361109.
+* Hollederer A (2016): Regionale
 Gesundheitskonferenzen und Gesundheitsregionen plus in Deutschland:
 Struktur-, Prozess- und Ergebnisqualitäten. In: *Public Health Forum* 24
-(1), S. 22–25. DOI: 10.1515/pubhef-2016-0008.Luthe E-W (2010): Kommunale
+(1), S. 22–25. DOI: 10.1515/pubhef-2016-0008.
+* Luthe E-W (2010): Kommunale
 Gesundheitslandschaften. Teil 1. In: *NDV*, S. 304–310.LZG.NRW (2019):
 Leitfaden Gesunde Stadt. Hinweise für Stellungnahmen zur
 Stadtentwicklung aus dem Öffentlichen Gesundheitsdienst. 2 überarbeitete
 Auflage. Unter Mitarbeit von Hendrik Baumeister, Andrea Rüdiger, Heike
 Köckler, Thomas Claßen, Jacqueline Hamilton, Mareike Rüweler et al.
-Bielefeld, 2019.Rodenstein M (2012): Stadtplanung Und Gesundheit - Ein
+Bielefeld, 2019.
+* Rodenstein M (2012): Stadtplanung Und Gesundheit - Ein
 Rückblick auf Theorie und Praxis. In: Böhme C, Kliemke C, Reimann B und
 Süß W (Hrsg.): Handbuch Stadtplanung und Gesundheit. 1. Aufl. s.l.:
-Verlag Hans Huber, S. 15–26.Starke D, Arnold L, Fertmann R, March S,
+Verlag Hans Huber, S. 15–26.
+* Starke D, Arnold L, Fertmann R, March S,
 Moebus S, Terschüren C, Szagun B (2018): Methodische Herausforderungen
 der Präventionsberichterstattung. In: *Das Gesundheitswesen* 80 (8-09),
-S. 732–740. DOI: 10.1055/a-0665-6249.Szagun B, Kiß B (2002): Der ÖGD als
+S. 732–740. DOI: 10.1055/a-0665-6249.
+* Szagun B, Kiß B (2002): Der ÖGD als
 Koordinator in der gesundheitlichen Versorgung. In: *Blickpunkt
-öffentliche Gesundheit* 18 (4), S. 1–2.Szagun B, Kuhn J, Starke D
+öffentliche Gesundheit* 18 (4), S. 1–2.
+* Szagun B, Kuhn J, Starke D
 (2016): Kommunale Gesundheitsförderungspolitik und das
 Präventionsgesetz. In: *Präv Gesundheitsf* 11 (4), S. 265–270. DOI:
-10.1007/s11553-016-0563-0.Trojan A, Süß W (2009): Prävention Und
+10.1007/s11553-016-0563-0.
+* Trojan A, Süß W (2009): Prävention Und
 Gesundheitsförderung in Kommunen. In: Hurrelmann K, Klotz T und Haisch J
 (Hrsg.): Lehrbuch Prävention und Gesundheitsförderung. 2. Aufl. Bern:
-Huber, Hans (Lehrbuch Gesundheitswissenschaften), S. 336–346.WHO (1986):
+* Huber, Hans (Lehrbuch Gesundheitswissenschaften), S. 336–346.WHO (1986):
 Ottawa-Charter for Health Promotion. In: WHO (Hrsg.). First
 international Conference on Health Promotion. Ottawa, 21.11.1986: World
-Health Organization.Wollenberg B, Reul R (2019): Gesundheit –
-Kernkompetenz der Kommunen: 3 Jahre Initiative „Gesundheit fördern –
-Versorgung stärken“. In: 69. Wissenschaftlicher Kongress des
-Bundesverbandes der Ärztinnen und Ärzte des Öffentlichen
-Gesundheitsdienstes (BVÖGD) und des Bundesverbandes der Zahnärzte des
-Öffentlichen Gesundheitsdienstes (BZÖG) in Zusammenarbeit mit der
-Gesellschaft Hygiene, Umweltmedizin und Präventivmedizin (GHUP). Der
-Öffentliche Gesundheitsdienst: Mitten in der Gesellschaft. Kassel,
-Hessen, 4/4/2019 - 4/6/2019: Georg Thieme Verlag KG (Das
-Gesundheitswesen).
+Health Organization.
+* Wollenberg B, Reul R (2019): Gesundheit – Kernkompetenz der Kommunen: 3 Jahre Initiative „Gesundheit fördern – Versorgung stärken“. In: 69. Wissenschaftlicher Kongress des Bundesverbandes der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes (BVÖGD) und des Bundesverbandes der Zahnärzte des Öffentlichen Gesundheitsdienstes (BZÖG) in Zusammenarbeit mit der Gesellschaft Hygiene, Umweltmedizin und Präventivmedizin (GHUP). Der Öffentliche Gesundheitsdienst: Mitten in der Gesellschaft. Kassel, Hessen, 4/4/2019 - 4/6/2019: Georg Thieme Verlag KG (Das Gesundheitswesen).

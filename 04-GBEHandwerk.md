@@ -1,10 +1,10 @@
 ---
-layout: page
-title: 04 - GBE Handwerk
+layout: default
+title: 4 - GBE Handwerk
 permalink: 04-handwerk
 nav_order: 5
 ---
-# {{page.title}}
+# 4. Gesundheitsberichterstattung Handwerk
 <details markdown="block"> 
   <summary> 
       &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
@@ -16,9 +16,7 @@ nav_order: 5
 <br>
  
  
-> Ich hab' echt nie verstanden, was an GBE schwer sein soll.  
-> Ein paar Daten zusammenrühren, schön bunt machen, ein bisschen texten
-> und raus damit. Hab ja auch noch andere Aufgaben ...“
+> Ich hab' echt nie verstanden, was an GBE schwer sein soll. Ein paar Daten zusammenrühren, schön bunt machen, ein bisschen texten und raus damit. Hab ja auch noch andere Aufgaben.“
 
 <table>
 <tbody>
@@ -53,7 +51,7 @@ nicht zwischen Widersprüchen und Ansprüchen zerrieben zu werden, gibt es
 „Handwerkszeug“ für eine gute GBE. Das folgende Kapitel soll hier einen
 ersten Einblick geben.
 
-## Datengrundlagen der Gesundheitsberichterstattung
+## 4.1. Datengrundlagen der Gesundheitsberichterstattung
 
  <figure>
   <img src="./media/image9.png" alt="Abbildung 7: Datenbasis der GBE " style="width:100%">
@@ -120,7 +118,7 @@ auch einige Gesundheitsindikatoren, unter anderem sind hier Daten zur
 Lebenserwartung auf Kreisebene zu finden, die es in der amtlichen
 Statistik sonst nicht gibt.
 
-### Datenquellen der Gesundheitsberichterstattung
+### 4.1.1. Datenquellen der Gesundheitsberichterstattung
 
 Einige wichtige Datenquellen der Gesundheitsberichterstattung werden im
 Folgenden kurz vorgestellt:
@@ -252,7 +250,7 @@ besser abgebildet, beispielsweise durch die verstärkte Einbindung von
 Älteren und Hochaltrigen (RKI 2019) oder Menschen mit
 Migrationshintergrund (Santos-Hövener et al. 2019).
 
-### Datenerhebungen
+### 4.1.2. Datenerhebungen
 
 Für viele Berichtsthemen sind Sekundärdaten vollkommen ausreichend,
 manchmal jedoch decken sie nicht alle Aspekte eines Berichtsthemas ab.
@@ -307,7 +305,7 @@ Verfahren geprüft werden können. Unter anderem wegen des damit
 verbundenen Aufwands ist dies im Forschungskontext häufiger als in der
 GBE gefragt.
 
-### Indikatoren in der Gesundheitsberichterstattung
+### 4.1.3. Indikatoren in der Gesundheitsberichterstattung
 
 > „The wisdom, justice, and perceived legitimacy of public decisions are
 > crucially affected by the **quality of the information** on which they
@@ -335,9 +333,6 @@ veranschaulicht:
   <figcaption>Abbildung 8: Informationen als Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)</figcaption>
 </figure> 
 
-
-Abbildung 8 Informationen als Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)
-
 Oft dienen Indikatoren als Marker für die gesundheitliche Lage,
 Ressourcen und Leistungen im Gesundheitswesen und ermöglichen auf diese
 Weise ein kontinuierliches Monitoring von Programmen, Zielen und
@@ -361,23 +356,12 @@ unterstützen. Im Idealfall kann die indikatorengestützte
 Berichterstattung somit eine evidenzinformierte Entscheidungsfindung
 unterstützen.
 
-Infobox 1 Zielsetzung und Verwendungszweck von Gesundheitsindikatoren
-(AOLG 2003, S. 13)
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Gesundheitsindikatoren …</strong></p>
-<ul>
-<li><p>sind ein wichtiges Werkzeug zur Formulierung und Umsetzung von <strong>Gesundheitspolitik</strong>.</p></li>
-<li><p>ermöglichen <strong>Fortschrittskontrolle</strong>, zum Beispiel durch Monitoring und Evaluation der gesundheitlichen Lage.</p></li>
-<li><p>stellen <strong>Maßstäbe</strong> dar und bieten so <strong>Vergleichsmöglichkeiten</strong> für Länder und Kommunen (Benchmarking).</p></li>
-<li><p>verbessern die Möglichkeit zur <strong>Kommunikation</strong> und <strong>Koordinierung</strong>.</p></li>
-<li><p>können wichtige Informationen über <strong>gesundheitspolitische Prioritäten</strong> geben.</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+> Zielsetzung und Verwendungszweck von Gesundheitsindikatoren (AOLG 2003, S. 13)
+> * sind ein wichtiges Werkzeug zur Formulierung und Umsetzung von <strong>Gesundheitspolitik</strong>.
+> * ermöglichen <strong>Fortschrittskontrolle</strong>, zum Beispiel durch Monitoring und Evaluation der gesundheitlichen Lage.
+> * stellen <strong>Maßstäbe</strong> dar und bieten so <strong>Vergleichsmöglichkeiten</strong> für Länder und Kommunen (Benchmarking).
+> * verbessern die Möglichkeit zur <strong>Kommunikation</strong> und <strong>Koordinierung</strong>.
+> * können wichtige Informationen über <strong>gesundheitspolitische Prioritäten</strong> geben.
 
 Als Grundlage für Gesundheitsrahmenberichte der Länder wurde bereits vor
 dem Aufbau einer nationalen Gesundheitsberichterstattung im Jahr 1991
@@ -412,9 +396,9 @@ Gesundheitsförderung. Neben den Indikatoren mit ihrer Definition wurden
 ebenfalls Metainformationen wie empfohlene Datenquellen und Datentyp,
 Verfügbarkeit, Vergleichbarkeit erarbeitet (Verschuuren et al. 2014).
 
-## Ergebnisdarstellung
+## 4.2. Ergebnisdarstellung
 
-### Formate der GBE
+### 4.2.1. Formate der GBE
 
 Traditionell werden in der GBE Basis- und Spezialberichte unterschieden.
 Basisberichte haben den Anspruch, die gesundheitliche Lage der
@@ -423,7 +407,7 @@ fokussiert einem Thema, etwa Gesundheit von Kindern und Jugendlichen,
 Sucht, Armut etc. Exempel unterschiedlicher kommunaler
 Gesundheitsberichte sind zum Beispiel in der nordrhein-westfälischen
 „Datenbank Kommunale GBE“ gelistet und verschlagwortet
-([<span class="underline">www.lzg.nrw.de</span>](../../../../../D:/werksatz/2021/Akademie%20Gesundheit/Book%20Sprint%20GBE_10-11-2021/www.lzg.nrw.de)).
+([<span class="underline">www.lzg.nrw.de</span>](www.lzg.nrw.de)).
 
 Zu den Produkten der GBE können jedoch nicht nur Berichte gezählt
 werden. Zur Produktpalette der GBE gehören auch regelmäßig gepflegte und
@@ -456,12 +440,10 @@ bedienen (Blessing et al. 2017):
     Bereitstellung von Wissen in geeigneten Formaten (zusammenfassende
     Instrumente, Visualisierungen, zum Beispiel in Form von Infografiken
     oder Karten)
-
   - **Pull-Mechanismen:** beispielsweise interaktive Online-Angebote wie
     Datenzusammenstellungen, Gesundheitsatlanten, Analysetools, die
     Adressatinnen und Adressaten entsprechend ihrer Bedarfe nutzen
     können
-
   - **Linkage-/Exchange-Mechanismen:** regelmäßige Foren zum Austausch
     zwischen Berichterstatterinnen und Berichterstatter sowie
     Adressatinnen und Adressaten
@@ -472,7 +454,7 @@ Gesundheitsberichterstattung
 aufgebaut, in der ein Teil der GBE-Ergebnisse veröffentlicht wird (Saß
 et al. 2018).
 
-### Was macht einen Bericht aus?
+### 4.2.2. Was macht einen Bericht aus?
 
 Die Berichterstellung gehört zu der Ebene „Wissen“ der
 Informationspyramide. Diese Ebene gliedert sich weiter auf in
@@ -525,7 +507,7 @@ verwiesen werden (van Bon-Martens et al. 2019; Cornelius-Taylor, Brand
 zu wissen, welche Aufgabe der Bericht erfüllen soll. Beispiele hierzu
 sind in [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) gelistet.
 
-### Datenvisualisierung
+### 4.2.3. Datenvisualisierung
 
 Grafiken und Karten sind ein fester Bestandteil der GBE, um Verteilungen
 und Entwicklungen zu visualisieren. Eine gute Datenvisualisierung ist
@@ -537,59 +519,53 @@ wie Muster durch eine vertiefende Datenanalyse zu identifizieren
 (Nussbaumer Knaflic 2015). Dabei sind im ersten Schritt einige einfache
 Grundregeln zu beachten (Cairo 2016; Few 2012):
 
-  - > Als **Grafikformate** sollten Balken, Säulen, Boxen, Punkte oder
-    > Linien gewählt werden.
-
-  - > Da **Flächen und Winkel** für die Leserinnen und Leser schwieriger
-    > zu interpretieren sind, sollten Flächen- oder Tortendiagramme nur
-    > in Ausnahmen gewählt werden. Die Länge von Balken, Säulen oder
-    > Boxen sowie die 2-D-Position von Punkten sind einfacher zu
-    > interpretieren.
-
-  - > Der darzustellende **Zahlenraum** sollte in der Grafik beibehalten
-    > werden. Die Distanz der Achsenbeschriftung muss einheitlich sein,
-    > die Achsenbeschriftung sollte bei null beginnen – ansonsten ist
-    > die Gefahr der Manipulation groß, da Unterschiede und Trends
-    > dramatisiert oder verharmlost werden können.
-
-  - > **3-D-Darstellungen** sind zu vermeiden, da sie häufig nicht die
-    > Lesbarkeit der Grafik verbessern.
-
-  - > Farben, typografische Elemente und Formen können helfen,
-    > **Akzente** zu setzen und bestimmte **Attribute** in der Grafik
-    > hervorzuheben.
-
-  - > **Farbnutzung**: Farbabstufungen (ein-, maximal zweifarbig) bieten
-    > sich an, um die Verteilung intervallskalierter Variablen
-    > darzustellen. Für ordinalskalierte Variablen sollten
-    > unterschiedliche Farben genutzt werden (maximal 7). Die gewählten
-    > Farben (zum Beispiel für Geschlecht) sollten im gesamten Bericht
-    > beibehalten werden. Unterschwellig vorherrschende
-    > Farbkonnotationen können helfen, die Lesbarkeit der Grafik zu
-    > verbessern – zumindest sollten sie nicht vertauscht werden.
-    > Verschiedene Onlinetools helfen, Farben so zu wählen, dass sie
-    > auch bei Farbblindheit unterschieden werden können. Bei der
-    > Farbwahl ist zu bedenken, dass Rot oft als Warnung verstanden
-    > wird. Um bestimmte Darstellungen nicht zu dramatisieren, empfehlen
-    > sich eher neutrale Farbabstufungen.
-
-  - > Vorsicht ist geboten bei **voreingestellten Standards** der
-    > Programme, mit denen Grafiken erstellt werden. Häufig beinhalten
-    > diese Standardeinstellungen Überflüssiges, oder relevante Elemente
-    > fehlen. Grafiken sollten deshalb an die jeweiligen Bedarfe
-    > angepasst und vor Aufnahme in den Bericht aufgeräumt werden.
-    > Folgende Fragen können dabei gestellt werden: Sind
-    > Gitternetzlinien notwendig oder können sie heller eingefärbt
-    > werden? Müssen die Achsen dargestellt werden oder sollte die
-    > Achsenbeschriftung angepasst werden, um die Lesbarkeit zu
-    > verbessern? Ist es sinnvoll, die Datenbeschriftung (gegebenenfalls
-    > auch nur punktuell) einzufügen? Werden Farben so genutzt, dass sie
-    > die Leserinnen und Leser an die richtige Stelle lenken und
-    > Wichtiges hervorheben? Ist es hilfreich, Erläuterungen in die
-    > Grafik einzufügen (zum Beispiel Hinweise in Zeitreihen bezüglich
-    > geänderter gesetzlicher Vorgaben)? Wäre es hilfreich, die
-    > Kernaussage der Grafik in der Überschrift zu platzieren, um
-    > Leserinnen und Leser auf relevante Muster hinzuweisen?
+  - Als **Grafikformate** sollten Balken, Säulen, Boxen, Punkte oder
+   Linien gewählt werden
+  - Da **Flächen und Winkel** für die Leserinnen und Leser schwieriger
+   zu interpretieren sind, sollten Flächen- oder Tortendiagramme nur
+   in Ausnahmen gewählt werden. Die Länge von Balken, Säulen oder
+   Boxen sowie die 2-D-Position von Punkten sind einfacher zu
+   interpretieren
+  - Der darzustellende **Zahlenraum** sollte in der Grafik beibehalten
+   werden. Die Distanz der Achsenbeschriftung muss einheitlich sein,
+   die Achsenbeschriftung sollte bei null beginnen – ansonsten ist
+   die Gefahr der Manipulation groß, da Unterschiede und Trends
+   dramatisiert oder verharmlost werden können
+  - **3-D-Darstellungen** sind zu vermeiden, da sie häufig nicht die
+   Lesbarkeit der Grafik verbessern.
+  - Farben, typografische Elemente und Formen können helfen,
+   **Akzente** zu setzen und bestimmte **Attribute** in der Grafik
+   hervorzuheben
+  - **Farbnutzung**: Farbabstufungen (ein-, maximal zweifarbig) bieten
+   sich an, um die Verteilung intervallskalierter Variablen
+   darzustellen. Für ordinalskalierte Variablen sollten
+   unterschiedliche Farben genutzt werden (maximal 7). Die gewählten
+   Farben (zum Beispiel für Geschlecht) sollten im gesamten Bericht
+   beibehalten werden. Unterschwellig vorherrschende
+   Farbkonnotationen können helfen, die Lesbarkeit der Grafik zu
+   verbessern – zumindest sollten sie nicht vertauscht werden.
+   Verschiedene Onlinetools helfen, Farben so zu wählen, dass sie
+   auch bei Farbblindheit unterschieden werden können. Bei der
+   Farbwahl ist zu bedenken, dass Rot oft als Warnung verstanden
+   wird. Um bestimmte Darstellungen nicht zu dramatisieren, empfehlen
+   sich eher neutrale Farbabstufungen
+  - Vorsicht ist geboten bei **voreingestellten Standards** der
+   Programme, mit denen Grafiken erstellt werden. Häufig beinhalten
+   diese Standardeinstellungen Überflüssiges, oder relevante Elemente
+   fehlen. Grafiken sollten deshalb an die jeweiligen Bedarfe
+   angepasst und vor Aufnahme in den Bericht aufgeräumt werden.
+   Folgende Fragen können dabei gestellt werden: Sind
+   Gitternetzlinien notwendig oder können sie heller eingefärbt
+   werden? Müssen die Achsen dargestellt werden oder sollte die
+   Achsenbeschriftung angepasst werden, um die Lesbarkeit zu
+   verbessern? Ist es sinnvoll, die Datenbeschriftung (gegebenenfalls
+   auch nur punktuell) einzufügen? Werden Farben so genutzt, dass sie
+   die Leserinnen und Leser an die richtige Stelle lenken und
+   Wichtiges hervorheben? Ist es hilfreich, Erläuterungen in die
+   Grafik einzufügen (zum Beispiel Hinweise in Zeitreihen bezüglich
+   geänderter gesetzlicher Vorgaben)? Wäre es hilfreich, die
+   Kernaussage der Grafik in der Überschrift zu platzieren, um
+   Leserinnen und Leser auf relevante Muster hinzuweisen?
 
 Bei kartografischen Darstellungen sind weitere besondere Aspekte zu
 beachten, die detailliert in der Publikation
@@ -598,37 +574,33 @@ Gesundheitswesen</span>](https://www.ssoar.info/ssoar/handle/document/52071)“
 erläutert werden (Augustin et al. 2017). Einige Aspekte werden an dieser
 Stelle exemplarisch aufgeführt:
 
-  - > Auswahl/Festlegung der darzustellenden **Raumeinheiten** und die
-    > Auswahl der geeigneten **Kartengrundlage:** Kartengrundlagen
-    > können beispielsweise im Geoportal des
-    > [<span class="underline">Bundesamts für Kartographie und
-    > Geodäsie</span>](https://www.geoportal.de/) abgerufen werden.
+  - Auswahl/Festlegung der darzustellenden **Raumeinheiten** und die
+    Auswahl der geeigneten **Kartengrundlage:** Kartengrundlagen
+    können beispielsweise im Geoportal des
+    [<span class="underline">Bundesamts für Kartographie und
+    Geodäsie</span>](https://www.geoportal.de/) abgerufen werden
+  - Auswahl des **Kartentyps:** Man unterscheidet je nach
+    darzustellendem Datentyp Diagrammkarten für quantitative, absolute
+    Daten; Choroplethenkarten für quantitative, relative Daten und
+    Standortkarten für qualitative Daten. Darüber hinaus gibt es
+    mehrschichtige Daten, die verschiedene Kartentypen vereinen
+  - **Farbgebung:** Beim Einsatz von Farben sollte deren Assoziation
+    berücksichtigt werden (zum Beispiel Rot für Gefahr), da hierdurch
+    die Aussage einer Karte beeinflusst werden kann. Quantitative
+    Daten sind durch die Variation der Helligkeit einer Farbe
+    wiederzugeben. Bei vielen Klassen kann zusätzlich der Farbton
+    verändert werden. Daten mit positiven und negativen
+    Wertebereichen oder einem Schwellenwert können in einer bipolaren
+    Farbreihe dargestellt werden. Für die Randklassen werden
+    Komplementärfarben genutzt
+  - **Klassifizierung:** Es gibt verschiedene Methoden, die Daten für
+    die kartografische Darstellung zu klassifizieren. Gebräuchliche
+    Verfahren zur Klassenzuordnung sind vor allem konstante Breite,
+    (äquidistante) Klassen und Quantile sowie Standardabweichungen
+  - **Legende und Kartenbeschriftung:** Sie können als erläuternde
+    Elemente eingefügt werden.
 
-  - > Auswahl des **Kartentyps:** Man unterscheidet je nach
-    > darzustellendem Datentyp Diagrammkarten für quantitative, absolute
-    > Daten; Choroplethenkarten für quantitative, relative Daten und
-    > Standortkarten für qualitative Daten. Darüber hinaus gibt es
-    > mehrschichtige Daten, die verschiedene Kartentypen vereinen.
-
-  - > **Farbgebung:** Beim Einsatz von Farben sollte deren Assoziation
-    > berücksichtigt werden (zum Beispiel Rot für Gefahr), da hierdurch
-    > die Aussage einer Karte beeinflusst werden kann. Quantitative
-    > Daten sind durch die Variation der Helligkeit einer Farbe
-    > wiederzugeben. Bei vielen Klassen kann zusätzlich der Farbton
-    > verändert werden. Daten mit positiven und negativen
-    > Wertebereichen oder einem Schwellenwert können in einer bipolaren
-    > Farbreihe dargestellt werden. Für die Randklassen werden
-    > Komplementärfarben genutzt.
-
-  - > **Klassifizierung:** Es gibt verschiedene Methoden, die Daten für
-    > die kartografische Darstellung zu klassifizieren. Gebräuchliche
-    > Verfahren zur Klassenzuordnung sind vor allem konstante Breite,
-    > (äquidistante) Klassen und Quantile sowie Standardabweichungen.
-
-  - > **Legende und Kartenbeschriftung:** Sie können als erläuternde
-    > Elemente eingefügt werden.
-
-## Wie erreicht die GBE einen Impact?
+## 4.3. Wie erreicht die GBE einen Impact?
 
 Natürlich möchte die GBE den Grundstein für faktenbasierte und möglichst
 evidenz-informierte Entscheidungen legen. Aber nicht immer erwachsen aus
@@ -637,20 +609,16 @@ Veränderung der gesundheitlichen Lage führen. Aber es gibt
 Zwischenschritte, die ebenfalls einen Impact der GBE zum Ausdruck
 bringen (Rosenkötter et al. 2020):
 
-  - > die **Stärke und Breite der Resonanz** nach Veröffentlichung von
-    > Gesundheitsberichten oder anderen GBE-Produkten
-
-  - > die Berücksichtigung der Ergebnisse der GBE in weiteren
-    > **Planungsprozessen**
-
-  - > die **Entwicklung von Strukturen oder Gremien** zu einem in der
-    > Berichterstattung hervorgehobenen Sachverhalt
-
-  - > die **Bereitstellung von Fördermitteln** zur Umsetzung der
-    > abgeleiteten Handlungsempfehlungen
-
-  - > die **Etablierung konkreter Maßnahmen und Programme** basierend
-    > auf den Handlungsempfehlungen der GBE
+  - die **Stärke und Breite der Resonanz** nach Veröffentlichung von
+    Gesundheitsberichten oder anderen GBE-Produkten
+ - die Berücksichtigung der Ergebnisse der GBE in weiteren
+    **Planungsprozessen**
+ - die **Entwicklung von Strukturen oder Gremien** zu einem in der
+    Berichterstattung hervorgehobenen Sachverhalt
+ - die **Bereitstellung von Fördermitteln** zur Umsetzung der
+    abgeleiteten Handlungsempfehlungen
+ - die **Etablierung konkreter Maßnahmen und Programme** basierend
+    auf den Handlungsempfehlungen der GBE
 
 Der Impact der GBE hängt auch davon ab, ob alle wesentlichen Aspekte,
 die den Impact beeinflussen, bei der Planung und Umsetzung
@@ -667,7 +635,7 @@ Veröffentlichung im politischen Prozess, das Marketing des Berichts und
 die breite Nutzbarkeit der Ergebnisse (van Bon-Martens et al. 2019;
 Rosenkötter et al. 2020).
 
-### „Vermarktung“ der GBE – Pressearbeit und Kommunikation 
+### 4.3.1. „Vermarktung“ der GBE – Pressearbeit und Kommunikation 
 
 Die „Vermarktungsstrategie“ der Produkte der GBE kann anhand der sieben
 Marketingkriterien (7 Ps) von Boom und Bitner entwickelt werden (zit.
@@ -677,66 +645,59 @@ in der GBE in der Regel keine Rolle, da die Produkte üblicherweise
 kostenfrei zur Verfügung stehen. Im Folgenden werden die sechs Kriterien
 benannt und beispielhaft Fragen gelistet, die für die Entwicklung einer
 „Vermarktungsstrategie“ relevant sein können:
+  -  **Produkte („products“):** Wäre es sinnvoll, Ihren Bericht durch
+     andere Produkte wie kurze Videos oder Infografiken zu ergänzen
+     oder eine spezifische Zusammenfassung für politische
+     Entscheidungsträger, andere Interessengruppen oder eine
+     Laienversion Ihres Berichts zu entwickeln? Haben Sie
+     Veröffentlichungen anderer Organisationen angesehen? Gibt es –
+     was das Erscheinungsbild und das Layout betrifft – etwas
+     Inspirierendes für Sie, das Ihren Bericht ansprechender und
+     moderner macht?
+  -  **Werbung („promotion“):** Wie werden Sie die Öffentlichkeit über
+     den Bericht informieren? Wie informieren Sie interessierte
+     Kolleginnen und Kollegen? Wie die Fachöffentlichkeit? Wird es eine
+     Pressekonferenz geben oder bereiten Sie in Abstimmung mit der
+     Pressestelle Ihrer Kommune eine Pressemitteilung vor? Ist der
+     Einsatz von Social Media sinnvoll? Wenn ja, entwickeln Sie einen
+     informativen News-Feed mit dem Link zu Ihrem Bericht,
+     aussagekräftigen Zahlen und relevanten inhaltlichen
+     Informationen\!
+  -  **Veröffentlichungsort („place“):** Überlegen Sie, wo der Bericht
+     zu finden ist. Kann er im Bestellsystem für gedruckte Broschüren
+     des Kreises/der Stadt, der Seite Ihres Amtes oder einer speziellen
+     Seite mit Produkten der GBE gefunden werden? Es sind verschiedene
+     Orte für die Veröffentlichung möglich. Denken Sie über einen Ort
+     nach, der am besten zu den Gewohnheiten und dem Kontext in Ihrem
+     Verwaltungsbezirk passt.
+  -  **Personen („persons“):** Unterschätzen Sie nicht die Relevanz der
+     Personen, die den Bericht geschrieben haben. Obwohl die Stadt oder
+     der Kreis normalerweise als Herausgeber fungiert, könnte es
+     hilfreich sein, renommierte und gut vernetzte Personen im
+     Autorinnen- und Autorenteam zu haben. Der Ruf des Autorinnen- und
+     Autorenteams trägt dazu bei, wie der Bericht wahrgenommen wird.
+     Darüber hinaus ist es hilfreich, wenn Mitglieder des Autorinnen-
+     und Autorenteams die Inhalte des Berichts im Rahmen von Vorträgen
+     überzeugend darstellen können.
+  -  **Verbreitung („process of delivery“):** Ganz allgemein ist es
+     ratsam, verschiedene Kanäle für die Verbreitung zu nutzen: die
+     Medien, die interessierte Fachöffentlichkeit, relevante
+     Zielgruppen (je nach Inhalt des Berichts kann es hilfreich sein,
+     nicht nur über Akteurinnen und Akteure im Gesundheitsbereich
+     nachzudenken, vielleicht ist Ihr Bericht ebenso aus
+     sozialpolitischer, bildungspolitischer oder stadtplanerischer
+     Sicht interessant), Gesundheitskonferenzen, persönliche berufliche
+     Kontakte. Denken Sie aber auch über den Zeitpunkt der
+     Veröffentlichung nach, zum Beispiel zu einem bestimmten Zeitpunkt
+     innerhalb der Legislaturperiode oder in Verbindung mit einem
+     anderen wichtigen Ereignis („window of opportunity“).
+  -  **Umfeld („physical evidence“):** Wenn Sie eine Gesamtbewertung in
+     Bezug auf die Veröffentlichung und Verbreitung des Berichts
+     vornehmen: Macht alles einen professionellen und zuverlässigen
+     Eindruck, sprich die Produkte, der Veröffentlichungsort, die
+     beteiligten Personen?
 
-  - > **Produkte („products“):** Wäre es sinnvoll, Ihren Bericht durch
-    > andere Produkte wie kurze Videos oder Infografiken zu ergänzen
-    > oder eine spezifische Zusammenfassung für politische
-    > Entscheidungsträger, andere Interessengruppen oder eine
-    > Laienversion Ihres Berichts zu entwickeln? Haben Sie
-    > Veröffentlichungen anderer Organisationen angesehen? Gibt es –
-    > was das Erscheinungsbild und das Layout betrifft – etwas
-    > Inspirierendes für Sie, das Ihren Bericht ansprechender und
-    > moderner macht?
-
-  - > **Werbung („promotion“):** Wie werden Sie die Öffentlichkeit über
-    > den Bericht informieren? Wie informieren Sie interessierte
-    > Kolleginnen und Kollegen? Wie die Fachöffentlichkeit? Wird es eine
-    > Pressekonferenz geben oder bereiten Sie in Abstimmung mit der
-    > Pressestelle Ihrer Kommune eine Pressemitteilung vor? Ist der
-    > Einsatz von Social Media sinnvoll? Wenn ja, entwickeln Sie einen
-    > informativen News-Feed mit dem Link zu Ihrem Bericht,
-    > aussagekräftigen Zahlen und relevanten inhaltlichen
-    > Informationen\!
-
-  - > **Veröffentlichungsort („place“):** Überlegen Sie, wo der Bericht
-    > zu finden ist. Kann er im Bestellsystem für gedruckte Broschüren
-    > des Kreises/der Stadt, der Seite Ihres Amtes oder einer speziellen
-    > Seite mit Produkten der GBE gefunden werden? Es sind verschiedene
-    > Orte für die Veröffentlichung möglich. Denken Sie über einen Ort
-    > nach, der am besten zu den Gewohnheiten und dem Kontext in Ihrem
-    > Verwaltungsbezirk passt.
-
-  - > **Personen („persons“):** Unterschätzen Sie nicht die Relevanz der
-    > Personen, die den Bericht geschrieben haben. Obwohl die Stadt oder
-    > der Kreis normalerweise als Herausgeber fungiert, könnte es
-    > hilfreich sein, renommierte und gut vernetzte Personen im
-    > Autorinnen- und Autorenteam zu haben. Der Ruf des Autorinnen- und
-    > Autorenteams trägt dazu bei, wie der Bericht wahrgenommen wird.
-    > Darüber hinaus ist es hilfreich, wenn Mitglieder des Autorinnen-
-    > und Autorenteams die Inhalte des Berichts im Rahmen von Vorträgen
-    > überzeugend darstellen können.
-
-  - > **Verbreitung („process of delivery“):** Ganz allgemein ist es
-    > ratsam, verschiedene Kanäle für die Verbreitung zu nutzen: die
-    > Medien, die interessierte Fachöffentlichkeit, relevante
-    > Zielgruppen (je nach Inhalt des Berichts kann es hilfreich sein,
-    > nicht nur über Akteurinnen und Akteure im Gesundheitsbereich
-    > nachzudenken, vielleicht ist Ihr Bericht ebenso aus
-    > sozialpolitischer, bildungspolitischer oder stadtplanerischer
-    > Sicht interessant), Gesundheitskonferenzen, persönliche berufliche
-    > Kontakte. Denken Sie aber auch über den Zeitpunkt der
-    > Veröffentlichung nach, zum Beispiel zu einem bestimmten Zeitpunkt
-    > innerhalb der Legislaturperiode oder in Verbindung mit einem
-    > anderen wichtigen Ereignis („window of opportunity“).
-
-  - > **Umfeld („physical evidence“):** Wenn Sie eine Gesamtbewertung in
-    > Bezug auf die Veröffentlichung und Verbreitung des Berichts
-    > vornehmen: Macht alles einen professionellen und zuverlässigen
-    > Eindruck, sprich die Produkte, der Veröffentlichungsort, die
-    > beteiligten Personen?
-
-### Methodisch-fachliche Qualifikation
-
+### 4.3.2. Methodisch-fachliche Qualifikation
 Die methodisch-fachlichen Anforderungen an Berichterstatterinnen und
 Berichterstatter sind hoch, weshalb eine Grundqualifikation im Bereich
 der Gesundheits- und Sozialwissenschaften oder in angrenzenden
@@ -795,7 +756,7 @@ da sie in ihren Ämtern oft als Einzelkämpfer unterwegs sind (zum
 Beispiel Arbeitskreis Qualitätssicherung in der GBE in Baden-Württemberg
 oder die Fachtagung Kommunale GBE in Nordrhein-Westfalen).
 
-## Weiterführende Informationen
+## 4.4. Weiterführende Informationen
 
 Datengrundlage der GBE
 
@@ -810,8 +771,6 @@ Datengrundlage der GBE
   - Szagun B (2006): Kennwerte wählen. In: Reintjes R und Klein S
     (Hrsg.): Gesundheitsberichterstattung und Surveillance. Messen,
     Entscheiden und Handeln. Bern: Hans Huber.
-
-  - ...
 
 Methodenkenntnisse in der GBE
 
@@ -828,8 +787,6 @@ Methodenkenntnisse in der GBE
   - LGL (2014): Epidemiologie und Gesundheitsberichterstattung.
     Begriffe, Methoden, Beispiele. 2. Aufl. Erlangen, 2014.
 
-  - ...
-
 GBE und Impact
 
   - Albrich C, Brandeis B, Erb J et al. (2017): Handlungsempfehlungen
@@ -841,76 +798,90 @@ GBE und Impact
     Daten aus der kommunalen Gesundheitsberichterstattung. Erlangen,
     2019 (5).
 
-  - ...
+## 4.5. Literaturverzeichnis Kapitel 4. – GBE Handwerk
 
-## Literaturverzeichnis Kapitel 4. – GBE Handwerk
-
-AOLG (2003): Indikatorensatz für die Gesundheitsberichterstattung der
+* AOLG (2003): Indikatorensatz für die Gesundheitsberichterstattung der
 Länder. Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden. 3.
-Aufl. Düsseldorf, 2003.Augustin J, Kistemann T, Koller D, Lentz S, Maier
+Aufl. Düsseldorf, 2003.
+* Augustin J, Kistemann T, Koller D, Lentz S, Maier
 W A, Moser J, Schweikart J (Hrsg.) (2017): Gute kartographische Praxis
 im Gesundheitswesen (GKPiG). Deutsche Gesellschaft für Geographie;
 Deutsche Gesellschaft für Epidemiologie; Leibniz-Institut für
 Länderkunde. Leipzig: Leibniz-Institut für Länderkunde (Forum IfL, Heft
 32). Online verfügbar unter
-http://nbn-resolving.de/urn:nbn:de:0168-ssoar-52071-9.Bardehle D, Annuss
+http://nbn-resolving.de/urn:nbn:de:0168-ssoar-52071-9.
+* Bardehle D, Annuss
 R, Hermann S, Ziese T, Böhm K (2004): Der neue Länderindikatorensatz für
 die Gesundheitsberichterstattung. In: *Bundesgesundheitsbl.* 47 (8), S.
-762–770. DOI: 10.1007/s00103-004-0872-x.Blessing V, Davé A, Varnai P
+762–770. DOI: 10.1007/s00103-004-0872-x.
+* Blessing V, Davé A, Varnai P
 (2017): Evidence on mechanisms and tools for use of health information
 for decision-making. Copenhagen, 2017 (54).Cairo A (2016): The truthful
 art. Data, charts, and maps for communication. Place of publication not
 identified: New Riders. Online verfügbar unter
-http://proquest.tech.safaribooksonline.de/9780133440492.Cornelius-Taylor
+http://proquest.tech.safaribooksonline.de/9780133440492.
+* Cornelius-Taylor
 B, Brand H (2004): European public health reports between expectations
 and reality. In: *Italian Journal of Public Health (IJPH)*, S. 13–21.
-DOI: 10.2427/6137.Diekmann A (2014): Empirische Sozialforschung.
+DOI: 10.2427/6137.
+* Diekmann A (2014): Empirische Sozialforschung.
 Grundlagen, Methoden, Anwendungen. 8. Aufl. Reinbek bei Hamburg:
-rowohlts enzyklopädie im Rowohlt Taschenbuch Verlag.Eckert O, Vogel U
+rowohlts enzyklopädie im Rowohlt Taschenbuch Verlag.
+* Eckert O, Vogel U
 (2018): Todesursachenstatistik und ICD, quo vadis? In:
 *Bundesgesundheitsbl.* 61 (7), S. 796–805. DOI:
 10.1007/s00103-018-2756-5.Few S (2012): Show me the numbers. Designing
-tables and graphs to enlighten. second edition. Burlingame, Calif.:
-Analytics Press.Hamburger Projektgruppe Gesundheitsberichterstattung
+tables and graphs to enlighten. second edition. Burlingame, Calif.: Analytics Press.
+* Hamburger Projektgruppe Gesundheitsberichterstattung
 (Hrsg.) (1998): Praxishandbuch Gesundheitsberichterstattung. Ein
 Leitfaden für GesundheitsberichterstatterInnen und solche, die es werden
 wollen. 2. aktualisierte Aufl. Düsseldorf: Akademie für Öffentliches
-Gesundheitswesen (Schriftenreihe, Band 18).Institute of Medicine (U.S.)
+Gesundheitswesen (Schriftenreihe, Band 18).
+* Institute of Medicine (U.S.)
 (Hrsg.) (1988): The Future of Public Health. Institute of Medicine. 12.
-Aufl. Washington, D.C.: National Academy Press.Kurth B M, Lange C,
-Kamtsiuris P, Hölling H (2009): Gesundheitsmonitoring am Robert
+Aufl. Washington, D.C.: National Academy Press.
+* Kurth B M, Lange C, Kamtsiuris P, Hölling H (2009): Gesundheitsmonitoring am Robert
 Koch-Institut. Sachstand und Perspektiven. In: *Bundesgesundheitsbl.* 52
-(5), S. 557–570. DOI: 10.1007/s00103-009-0843-3.Nussbaumer Knaflic C
-(2015): Storytelling with data. A data visualization guide for business
-professionals. Hoboken, New Jersey: John Wiley & Sons.RKI (2019): Studie
+(5), S. 557–570. DOI: 10.1007/s00103-009-0843-3.
+* Nussbaumer Knaflic C (2015): Storytelling with data. A data visualization guide for business
+professionals. Hoboken, New Jersey: John Wiley & Sons.
+* RKI (2019): Studie
 zur Gesundheit älterer Menschen in Deutschland - Gesundheit 65+. Die
 Studie Gesundheit 65+ wird vom Bundesministerium für Gesundheit
 gefördert (Förderkennzeichen: ZMVI1-2518FSB410). Laufzeit: 01.01.2019
 bis 30.06.2023. Hg. v. Robert Koch-Institut (RKI). Online verfügbar
 unter
 https://www.rki.de/DE/Content/Gesundheitsmonitoring/Studien/MonAge/MonAge\_node.html,
-zuletzt geprüft am 25.11.2021.Rosenkötter N, Borrmann B, Arnold L, Böhm
+zuletzt geprüft am 25.11.2021.
+* Rosenkötter N, Borrmann B, Arnold L, Böhm
 A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public
 Health an der Basis. In: *Bundesgesundheitsbl.* 63, S. 1067–1075. DOI:
-10.1007/s00103-020-03190-z.Rothman K J, Greenland S, Lash T L (2008):
+10.1007/s00103-020-03190-z.
+* Rothman K J, Greenland S, Lash T L (2008):
 Modern epidemiology. 3. ed. Philadelphia Pa. u.a.: Wolters Kluwer
-\[u.a.\].Santos-Hövener C, Schumann m, Schmich P, Gößwald A, Rommel A,
+\[u.a.\].
+* Santos-Hövener C, Schumann m, Schmich P, Gößwald A, Rommel A,
 Ziese T, Lampert T (2019): Improving the information base regarding the
 health of people with a migration background. Project description and
 initial findings from IMIRA. In: *Journal of Health Monitoring* 4 (1),
-S. 46–57. DOI: 10.25646/5874.Saß A-C, Gößwald A, Ziese T (2018):
+S. 46–57. DOI: 10.25646/5874.
+* Saß A-C, Gößwald A, Ziese T (2018):
 Gesundheitsberichterstattung und Gesundheitsmonitoring – Daten für
 Taten. In: *Public Health Forum* 26 (3), S. 266–270. DOI:
-10.1515/pubhef-2018-0055.Starke D, Tempel G, Butler J, Starker A, Zühlke
+10.1515/pubhef-2018-0055.
+* Starke D, Tempel G, Butler J, Starker A, Zühlke
 C, Borrmann B (2019): Gute Praxis Gesundheitsberichterstattung –
 Leitlinien und Empfehlungen 2.0. In: *Journal of Health Monitoring* 4
-(S1), S. 1–22.Takla A, Wichmann O, Rieck T, Matysiak-Klose D (2014):
+(S1), S. 1–22.
+* Takla A, Wichmann O, Rieck T, Matysiak-Klose D (2014):
 Measles incidence and reporting trends in Germany, 2007-2011. In:
 *Bulletin of the World Health Organization* 92 (10), S. 742–749. DOI:
-10.2471/BLT.13.135145.van Bon-Martens M, van Oers H, Verschuuren M
+10.2471/BLT.13.135145.
+* Van Bon-Martens M, van Oers H, Verschuuren M
 (2019): Population Health Reporting. In: Verschuuren M und van Oers H
 (Hrsg.): Population Health Monitoring. Cham: Springer International
-Publishing, 107-125.Verschuuren M, Achterberg P W, Kramers P G, Oers H v
+Publishing, 107-125.
+* Verschuuren M, Achterberg P W, Kramers P G, Oers H v
 (2014): Monitoring the health of the population. In: Rechel B und McKee
 M (Hrsg.): Facets of Public Health in Europe. Maidenhead: McGraw-Hill
 Education, S. 23–41.Verschuuren M, van Oers H (Hrsg.) (2019): Population

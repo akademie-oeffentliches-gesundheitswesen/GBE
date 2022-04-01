@@ -1,10 +1,10 @@
 ---
-layout: page
-title: 06 - Vernetzung in der GBE
+layout: default
+title: 6 - Vernetzung in der GBE
 permalink: 06-vernetzung-in-der-gbe
 nav_order: 7
 ---
-# {{page.title}}
+# 6. Vernetzung in der Gesundheitsberichterstattung
 <details markdown="block"> 
   <summary> 
       &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
@@ -20,7 +20,7 @@ nav_order: 7
 > weiß echt keiner, dass das so ist. Ignoranten und Ignorantinnen,
 > tolles Material und steht alles im Internet\!“
 
-## Vernetzung der verschiedenen Ebenen von Gesundheitsberichterstattung
+## 6.1. Vernetzung der verschiedenen Ebenen von Gesundheitsberichterstattung
 
 Gesundheitsberichterstattung auf kommunaler, Länder- und Bundesebene hat
 unterschiedliche Schwerpunkte, jedoch steht bei allen die Information
@@ -42,7 +42,7 @@ Prozess der Wissensgenerierung, wie in Abbildung 11 dargestellt.
 
 
 
-## GBE als Teil eines Netzwerkes
+## 6.2. GBE als Teil eines Netzwerkes
 
 Gesundheitsberichterstatterinnen und Gesundheitsberichterstatter
 bedürfen einer Reihe methodisch-fachlicher Kompetenzen (siehe [Kapitel 4]({{ site.baseurl }}{% link 04-GBEHandwerk.md %}), gleichzeitig agieren sie nicht in einem Vakuum. Berichterstattung
@@ -77,70 +77,40 @@ den gesetzlichen Rahmenbedingungen der GBE findet sich in [Kapitel 1]({{ site.ba
 **Mögliche Partnerinnen und Partner innerhalb der Verwaltung sind unter
 anderem:**
 
-  - je nach Thema Kollegen und Kolleginnen aus dem eigenen
-    Gesundheitsamt (zum Beispiel Psychiatrie- und Suchtkoordination,
-    Kinder- und Jugendgesundheitsdienst, Gesundheitsförderung,
+  - je nach Thema Kollegen und Kolleginnen aus dem eigenen Gesundheitsamt (zum Beispiel Psychiatrie- und Suchtkoordination, Kinder- und Jugendgesundheitsdienst, Gesundheitsförderung,
     Gesundheitsplanung, Infektionsschutz, Umweltmedizin)
-
   - Statistikamt
-
   - Sozialamt
-
   - Jugendamt
-
   - Umweltamt
-
   - Katasteramt
-
   - Ämter für Stadtplanung und -entwicklung
-
   - Schulverwaltungsamt/Amt für Bildung
-
   - Amt für Sport/Bewegung, Stadtsportbund
-
   - Beauftragte der Kommune für Kinder
-
   - Beauftragte der Kommune für die Belange von Menschen mit Behinderung
-
-  - Beauftragter/Beauftragte für Seniorinnen und Senioren/Beirat der
-    Seniorinnen und Senioren
-
+  - Beauftragter/Beauftragte für Seniorinnen und Senioren/Beirat der Seniorinnen und Senioren
   - Beauftragte der Kommune für Integration
-
   - Gleichstellungsbeauftragte
-
   - Pressestelle
-
   - ...
 
 **Mögliche Partner und Partnerinnen außerhalb der Verwaltung sind unter
 anderem:**
 
   - ambulante und stationäre Versorgung
-
   - Rettungsdienste
-
   - ambulante und stationäre Pflege
-
   - niedergelassene Ärztinnen und Ärzte unterschiedlicher Fachrichtungen
-
-  - Organe der Selbstverwaltung (Kassen(zahn)ärztliche Vereinigung,
-    (Zahn-)Ärztekammer, Psychotherapeutenkammer)
-
+  - Organe der Selbstverwaltung (Kassen(zahn)ärztliche Vereinigung, (Zahn-)Ärztekammer, Psychotherapeutenkammer)
   - gesetzliche und private Krankenkassen
-
   - Flüchtlingsrat
-
   - Medien
-
   - Jobcenter/Agentur für Arbeit
-
-  - bereits vorhandene Arbeitsgruppen und Arbeitskreise, zum Beispiel
-    Suchtprävention, Psychosoziale Arbeitsgemeinschaft (PSAG)
-
+  - bereits vorhandene Arbeitsgruppen und Arbeitskreise, zum Beispiel Suchtprävention, Psychosoziale Arbeitsgemeinschaft (PSAG)
   - ...
 
-### Themenbezogene Projektgruppe
+### 6.2.1. Themenbezogene Projektgruppe
 
 Für die Erstellung eines thematisch eingegrenzten Berichts bietet es
 sich gegebenenfalls an, eine temporäre Projektgruppe zum Berichtsthema
@@ -194,7 +164,7 @@ möglich, weil die Fallzahlen zu gering sind. Deshalb müssen hier
 gemeinschaftlich Lösungen für eine einheitliche Darstellung gefunden
 werden. Ein besonderes Augenmerk muss hierbei dem Datenschutz zukommen.
 
-### Politik und Entscheidungsträgerinnen und Entscheidungsträger 
+### 6.2.2. Politik und Entscheidungsträgerinnen und Entscheidungsträger 
 
 Egal, ob der Auftrag für einen Gesundheitsbericht „von oben“ erteilt
 wurde oder die Notwendigkeit für einen Bericht aus der GBE selbst kam:
@@ -205,12 +175,8 @@ werden (siehe auch [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) und [
 Dazu gehören unter anderem:
 
   - Amts- und Abteilungsleitung
-
   - Dezernent oder Dezernentin
-
-  - Landrat oder Landrätin, (Ober-)Bürgermeister oder
-    (Ober-)Bürgermeisterin
-
+  - Landrat oder Landrätin, (Ober-)Bürgermeister oder (Ober-)Bürgermeisterin
   - Gremien wie Kreistag, Stadtrat, Gemeinderat, Ortschaftsrat
 
 Die Einbindung der politischen Leitungsebene ist ohnehin notwendig, weil
@@ -229,7 +195,7 @@ Ausnahmesituationen (Corona, Migrationsdynamik etc.), Sommerpause oder
 dabei auch die Kompetenzen der Adressaten und Adressatinnen eine
 wesentliche Rolle.
 
-## Kompetenzentwicklung innerhalb des Netzwerkes (Capacity Building)
+## 6.3. Kompetenzentwicklung innerhalb des Netzwerkes (Capacity Building)
 
 In [Kapitel 4]({{ site.baseurl }}{% link 04-GBEHandwerk.md %}) ist die erforderliche methodisch-fachliche Qualifikation
 von Gesundheitsberichterstatterinnen und Gesundheitsberichterstattern
@@ -366,7 +332,7 @@ Cellospielerin oder sachkundigen Cellospieler nie klingen wird, werden
 Berichte wenig Wirkung entfalten, wenn Handlungsempfehlungen nicht auf
 Resonanzfähigkeit seitens der Akteure und Akteurinnen treffen.
 
-## Weiterführende Informationen
+## 6.4. Weiterführende Informationen
 
 Capacity Building in der GBE
 
@@ -380,40 +346,39 @@ Capacity Building in der GBE
     In: Public Health Forum 26 (1), S. 20–22. DOI:
     10.1515/pubhef-2017-0083.
 
-<!-- end list -->
-
-  - …
-
 Beteiligung und Partizipation
 
   - LGA-BW (2014): Handlungsempfehlung zur Bürgerbeteiligung bei
     Gesundheitsthemen. aus den Pilotgesundheitsdialogen im Rahmen des
     Zukunftsplans Gesundheit, Juli 2014.
 
-  - …
+## 6.5. Literaturverzeichnis Kapitel 6. – Vernetzung in der GBE
 
-## Literaturverzeichnis Kapitel 6. – Vernetzung in der GBE
-
-Augustin J, Kistemann T, Koller D, Lentz S, Maier W A, Moser J,
+* Augustin J, Kistemann T, Koller D, Lentz S, Maier W A, Moser J,
 Schweikart J (Hrsg.) (2017): Gute kartographische Praxis im
 Gesundheitswesen (GKPiG). Deutsche Gesellschaft für Geographie; Deutsche
 Gesellschaft für Epidemiologie; Leibniz-Institut für Länderkunde.
 Leipzig: Leibniz-Institut für Länderkunde (Forum IfL, Heft 32). Online
 verfügbar unter
-http://nbn-resolving.de/urn:nbn:de:0168-ssoar-52071-9.Fisher R, Ury W,
+http://nbn-resolving.de/urn:nbn:de:0168-ssoar-52071-9.
+* Fisher R, Ury W,
 Patton B (2009): Das Harvard-Konzept. Der Klassiker der
 Verhandlungstechnik. 23., durchgesehene Aufl. Frankfurt/Main, New York:
 Campus-Verl. Online verfügbar unter
-http://swb.eblib.com/patron/FullRecord.aspx?p=825186.Kuhn J, Wildner M
+http://swb.eblib.com/patron/FullRecord.aspx?p=825186.
+* Kuhn J, Wildner M
 (2019): Gesundheitsdaten verstehen. Statistiken lesen lernen – ein
 Einsteigerbuch. 2., vollständig überarbeitete und erweiterte Auflage.
-Bern: Hogrefe.Quilling E, Nicolini H J, Graf C, Starke D (2013):
+Bern: Hogrefe.
+* Quilling E, Nicolini H J, Graf C, Starke D (2013):
 Praxiswissen Netzwerkarbeit. Gemeinnützige Netzwerke erfolgreich
 gestalten. Wiesbaden, s.l.: Springer Fachmedien Wiesbaden
 (SpringerLink). Online verfügbar unter
-http://site.ebrary.com/lib/alltitles/docDetail.action?docID=10756602.Starke
+http://site.ebrary.com/lib/alltitles/docDetail.action?docID=10756602.
+* Starke
 D, Tempel G, Butler J, Starker A, Zühlke C, Borrmann B (2019): Gute
 Praxis Gesundheitsberichterstattung – Leitlinien und Empfehlungen 2.0.
-In: *Journal of Health Monitoring* 4 (S1), S. 1–22.Verschuuren M, van
+In: *Journal of Health Monitoring* 4 (S1), S. 1–22.
+* Verschuuren M, van
 Oers H (Hrsg.) (2019): Population Health Monitoring. Cham: Springer
 International Publishing.
