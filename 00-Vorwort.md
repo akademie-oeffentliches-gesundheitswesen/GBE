@@ -58,5 +58,3 @@ Ihre Rückmeldungen helfen, die Versionen 2.0 und 3.0 so zu verbessern,
 dass sie Ihnen dann ebenfalls gefallen.
 
 Berlin, 17.07.2020, Ihr Autoren- und Autorinnenteam
-
-Juhu
