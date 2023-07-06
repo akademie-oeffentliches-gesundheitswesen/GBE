@@ -39,7 +39,7 @@ Für die GBE als gesundheitspolitisches Steuerungsinstrument sind diese Gebietsk
 
 
  <figure>
-  <img src="./media/AOE-2520-Booksprints-04.png" alt="Abbildung 6: Rahmenbedingungen" style="width:100%">
+  <img src="./media/AOE-2520-Booksprints-04.png" alt="Abbildung 6: Rahmenbedingungen" style="width:60%">
   <figcaption>Abbildung 6: Rahmenbedingungen und zu berücksichtigende Institutionen, Dezernate und Akteursgruppen für die Realisierung einer erfolgreichen kommunalen Koordinationsaufgabe des ÖGD, dargestellt an einer kommunalen Gesundheitskonferenz in einer beispielhaften Verwaltungsstruktur (erweiterte Darstellung nach Szagun et al. 2016)</figcaption>
 </figure> 
 
