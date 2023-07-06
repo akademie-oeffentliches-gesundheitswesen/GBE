@@ -187,7 +187,7 @@ konstruktiv zu integrieren, wie in der nachfolgenden Abbildung
 veranschaulicht.
 
  <figure>
-  <img src="./media/image14.png" alt="Abbildung 13: Ausrichtung und Themenfindung der Gesundheitsplanung" style="width:90%">
+  <img src="./media/AOE-2520-Booksprints-17.png" alt="Abbildung 13: Ausrichtung und Themenfindung der Gesundheitsplanung" style="width:90%">
   <figcaption>Abbildung 13: Ausrichtung und Themenfindung der Gesundheitsplanung entstehen im Aushandlungsprozess zwischen den unterschiedlichen Perspektiven von Expertinnen und Experten, Bürgerinnen und Bürgern und der wissenschaftlichen Datenlage (erweitert nach Roller 2010)</figcaption>
 </figure> 
 
@@ -310,7 +310,7 @@ wahrgenommenen Professionalität und dem Einbezug der Öffentlichkeit:
 
 
  <figure>
-  <img src="./media/image15.png" alt="Abbildung 14: Einflussgrößen auf die Relevanz einer kommunalen Gesundheitskonferenz" style="width:90%">
+  <img src="./media/AOE-2520-Booksprints-16.png" alt="Abbildung 14: Einflussgrößen auf die Relevanz einer kommunalen Gesundheitskonferenz" style="width:90%">
   <figcaption>Abbildung 14: Einflussgrößen auf die Relevanz einer kommunalen Gesundheitskonferenz als Planungsgremium mit begrenzter Zuständigkeit</figcaption>
 </figure> 
 
