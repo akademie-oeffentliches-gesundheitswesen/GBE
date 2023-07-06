@@ -113,9 +113,10 @@ Routine und Arbeitsweise der Gesundheitsberichterstattung kann dabei mithilfe de
 
  <figure>
   <img src="./media/AOE-2520-Booksprints-06.png" alt="Gesundheitsinformationssysteme und Routineaufgaben der GBE" style="width:100%">
-<br>
+ </figure> 
+ 
    <figcaption>Abbildung 1: Gesundheitsinformationssysteme und Routineaufgaben der GBE (erweiterte Darstellung nach Verschuuren, van Oers 2019)</figcaption>
-</figure> 
+
 
 
 
