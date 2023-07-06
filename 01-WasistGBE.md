@@ -112,7 +112,7 @@ Auch wenn Daten einen wesentlichen Kern der GBE bilden, umfasst Berichterstattun
 Routine und Arbeitsweise der Gesundheitsberichterstattung kann dabei mithilfe der Informationspyramide von Verschuuren und Van Oers beschrieben werden. Die Pyramide basiert auf der Data-Information-Knowledge-Wisdom-(DIKW-)Hierarchie von Ackoff (1989) und lässt sich in vier Ebenen einteilen.
 
  <figure>
-  <img src="./media/AOE-2520-Booksprints-06.png" alt="Gesundheitsinformationssysteme und Routineaufgaben der GBE" style="width:60%">
+  <img src="./media/AOE-2520-Booksprints-06.png" alt="Gesundheitsinformationssysteme und Routineaufgaben der GBE" style="width:90%">
   <figcaption>Abbildung 1: Gesundheitsinformationssysteme und Routineaufgaben der GBE (erweiterte Darstellung nach Verschuuren, van Oers 2019)</figcaption> 
  </figure> 
 
