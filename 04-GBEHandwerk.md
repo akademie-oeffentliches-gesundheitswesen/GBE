@@ -468,7 +468,7 @@ relevanten Aspekte überprüft werden (Starke et al. 2019).
 
 
  <figure>
-  <img src="./media/AOE-2520-Booksprints-09.png" alt="Abbildung 9: Die Wissensebene der Informationspyramide" style="width:60%">
+  <img src="./media/AOE-2520-Booksprints-08.png" alt="Abbildung 9: Die Wissensebene der Informationspyramide" style="width:60%">
   <figcaption>Abbildung 9: Die Wissensebene der Informationspyramide bündelt relevante Aspekte der Berichterstellung in der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)
 </figcaption>
 </figure> 
