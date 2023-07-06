@@ -49,7 +49,7 @@ Verminderung sozial ungleicher Gesundheitschancen (WHO 1986)
 flächendeckend und bis auf Lebensweltebene umzusetzen.
 
  <figure>
-  <img src="./media/image13.png" alt="Abbildung 12: Rolle der Gesundheitsplanung im Public Health Action Cycle" style="width:60%">
+  <img src="./media/AOE-2520-Booksprints-01.png" alt="Abbildung 12: Rolle der Gesundheitsplanung im Public Health Action Cycle" style="width:60%">
   <figcaption>Abbildung 12: Rolle der Gesundheitsplanung im Public Health Action Cycle (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine 1988)</figcaption>
 </figure> 
 
