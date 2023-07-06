@@ -303,9 +303,13 @@ Um diesem Anspruch gerecht zu werden, ist eine gut aufgestellte GBE zur
 letztlich als Monitoringinstrument während und nach der
 Maßnahmenumsetzung extrem hilfreich (vgl. Abbildung 15).
 
-![](./media/AOE-2520-Booksprints-12.jpeg)
+ <figure>
+  <img src="./media/AOE-2520-Booksprints-12.png" alt="Abbildung 15: Komponenten bei der Entwicklung eines Fachplans Gesundheit" style="width:60%">
+  <figcaption>Abbildung 12: Komponenten bei der Entwicklung eines Fachplans Gesundheit (eigene Darstellung)</figcaption>
+</figure> 
 
-Abbildung 15 Komponenten bei der Entwicklung eines Fachplans Gesundheit
+
+
 
 **Methodik:** Zum Fachplan Gesundheit wurden Vorarbeiten (Fehr et al.
 2011) sowie zwei fiktionale Fachpläne für den fiktiven Kreis
