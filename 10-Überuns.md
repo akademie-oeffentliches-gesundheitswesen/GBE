@@ -221,17 +221,17 @@ Marburg-Biedenkopf
 
 * Dr Thomas Ziese
 
-> 1.  Die Bezeichnung „policy brief“ ist nicht einheitlich definiert.
->     Meist ist damit eine Publikationsform gemeint, die in lurzer und
->     prägnanter Form das erörterte Thema zusammenfasst. Vielfach sind
->     eigenständige Analysen und ableitende Handlungsempfehlungen
->     integriert.
+> Die Bezeichnung „policy brief“ ist nicht einheitlich definiert.
+> Meist ist damit eine Publikationsform gemeint, die in lurzer und
+> prägnanter Form das erörterte Thema zusammenfasst. Vielfach sind
+> eigenständige Analysen und ableitende Handlungsempfehlungen
+> integriert.
 > 
-> 2.  Der Begriff Stadtentwicklung versteht sich hier als Sammelbegriff im
->     Sinne der Darstellungen im Baugesetzbuch. Insofern bleiben die
->     Stadtplanung und Stadtentwicklung nicht auf städtisch-urbane Räume
->     beschränkt, sondern beziehen ausdrücklich Gemeinden und andere
->     Kommunalverbünde insbesondere in ländlichen Räumen mit ein.
->     Allerdings erstreckt sich dies nicht auf Landkreise, sondern auf
->     deren kreisangehörige Kommunen. Auf Landkreisebene greift bereits
->     die Regionalplanung.
+> Der Begriff Stadtentwicklung versteht sich hier als Sammelbegriff im
+> Sinne der Darstellungen im Baugesetzbuch. Insofern bleiben die
+> Stadtplanung und Stadtentwicklung nicht auf städtisch-urbane Räume
+> beschränkt, sondern beziehen ausdrücklich Gemeinden und andere
+> Kommunalverbünde insbesondere in ländlichen Räumen mit ein.
+> Allerdings erstreckt sich dies nicht auf Landkreise, sondern auf
+> deren kreisangehörige Kommunen. Auf Landkreisebene greift bereits
+> die Regionalplanung.
