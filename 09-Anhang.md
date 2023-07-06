@@ -14,6 +14,25 @@ nav_order: 10
 {:toc}
  </details>
 <br>
+
+## Abbreviations
+
+- **GBE**: Gesundheitsinformationssysteme und Routineaufgaben der GBE
+- **XYZ**: Some abbreviation description
+- **ABC**: Another abbreviation description
+
+<div class="abbreviations">
+  <div class="index-title">Index of Abbreviations</div>
+  <dl class="index-list">
+    <dt>GBE</dt>
+    <dd>Gesundheitsinformationssysteme und Routineaufgaben der GBE</dd>
+    <dt>XYZ</dt>
+    <dd>Some abbreviation description</dd>
+    <dt>ABC</dt>
+    <dd>Another abbreviation description</dd>
+  </dl>
+</div>
+
  
 ## Abkürzungsverzeichnis
 
