@@ -62,13 +62,11 @@ gesundheitspolitischen Planungsmodells der „Public Health Trias“
 (Institute of Medicine (U.S.) 1988) bzw. dem darauf basierenden „Public
 Health Action Cycle“ (PHAC) beschrieben (Rosenbrock 1995) und ist in
 Abbildung 3 dargestellt.
-
  <figure>
-  <img src="./media/AOE-2520-Booksprints-03.png" alt="Abbildung 3: Public Health Action Cycle" style="width:100%">
+  <img src="./media/AOE-2520-Booksprints-03.png" alt="Abbildung 3: Public Health Action Cycle" style="width:60%">
   <figcaption>Abbildung 3: „Public Health Action Cycle“ (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine (U.S.) 1988)
 </figcaption>
 </figure> 
-
 
 Ausgangspunkt des als Kreislauf angelegten Modells ist die in der Praxis
 nicht immer gegebene Voraussetzung, dass die (gesundheitliche)
