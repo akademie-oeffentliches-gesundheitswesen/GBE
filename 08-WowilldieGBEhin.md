@@ -304,7 +304,7 @@ letztlich als Monitoringinstrument während und nach der
 Maßnahmenumsetzung extrem hilfreich (vgl. Abbildung 15).
 
  <figure>
-  <img src="./media/AOE-2520-Booksprints-12.png" alt="Abbildung 15: Komponenten bei der Entwicklung eines Fachplans Gesundheit" style="width:60%">
+  <img src="./media/AOE-2520-Booksprints-12.png" alt="Abbildung 15: Komponenten bei der Entwicklung eines Fachplans Gesundheit" style="width:90%">
   <figcaption>Abbildung 12: Komponenten bei der Entwicklung eines Fachplans Gesundheit (eigene Darstellung)</figcaption>
  </figure>  
 
