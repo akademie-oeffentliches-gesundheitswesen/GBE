@@ -39,7 +39,7 @@ passgenaue Maßnahmen und Konzepte zu erarbeiten, wie in der bereits aus
 visualisiert:
 
  <figure>
-  <img src="./media/AOE-2520-Booksprints-11" alt="Routineaufgaben der GBE anhand der Informationspyramide" style="width:90%">
+  <img src="./media/AOE-2520-Booksprints-06" alt="Routineaufgaben der GBE anhand der Informationspyramide" style="width:60%">
   <figcaption>Abbildung 2: Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)
 </figcaption>
 </figure> 
