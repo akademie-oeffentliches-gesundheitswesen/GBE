@@ -32,7 +32,7 @@ are our own.“**
 > und möchte. Ich wünsche mir eine GBE die sich mit genau diesen Fragen
 > auseinandersetzt und damit Wege findet kritische Diskurse anzuregen.
 
-* Laura Arnold (M. Sc., MA), Referentin Epidemiologie und
+Laura Arnold (M. Sc., MA), Referentin Epidemiologie und
 Gesundheitsberichterstattung, Akademie für Öffentliches
 Gesundheitswesen
 
@@ -53,7 +53,7 @@ Gesundheitswesen
 > hierfür Brücken zu bauen und flexibel genug für neue Themen, zum
 > Beispiel Klima und Gesundheit, zu bleiben.
 
-* Dr. Thomas Claßen (Dipl.-Geogr.), Fachgruppe Grundsatzfragen,
+Dr. Thomas Claßen (Dipl.-Geogr.), Fachgruppe Grundsatzfragen,
 Internationale Zusammenarbeit/Fachgruppe Prävention und
 Gesundheitsförderung, Landeszentrum Gesundheit Nordrhein-Westfalen
 (LZG.NRW)
