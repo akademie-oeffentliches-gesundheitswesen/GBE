@@ -58,7 +58,7 @@ dargestellten) komplexen Wirkungspfade sich auch Ungleichheit von
 Krankheit und Tod manifestieren kann (Elkeles, Mielck 1997).
 
  <figure>
-  <img src="./media/image12.png" alt="Abbildung 10: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit" style="width:100%">
+  <img src="./media/AOE-2520-Booksprints-05.png" alt="Abbildung 10: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit" style="width:60%">
   <figcaption>Abbildung 10: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit (eigene Darstellung nach Elkeles, Mielck 1997) </figcaption>
 </figure> 
 
