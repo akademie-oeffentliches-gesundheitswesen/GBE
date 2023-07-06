@@ -92,9 +92,9 @@ für Gesundheit und Lebensmittelsicherheit
 > Dass Daten und Analysen weiterhin aktiv nachgefragt und konkret
 > genutzt werden und dass die dafür erforderlichen Voraussetzungen
 > geschaffen werden – auch über das aktuelle Pandemiegeschehen hinaus
-> und vor allem auch für andere **Gesundheits**themen. Und hier komme
+> und vor allem auch für andere Gesundheitsthemen. Und hier komme
 > ich zum zweiten Teil meiner Vision für die GBE: Ich wünsche mir eine
-> echte **Gesundheits**berichterstattung. Viel zu oft ist die GBE
+> echte Gesundheitsberichterstattung. Viel zu oft ist die GBE
 > eigentlich eine KGB, eine Krankheitsberichterstattung. Ich wünsche
 > mir, dass in der Berichterstattung die Ressourcen, die Menschen gesund
 > halten, nicht aus dem Blick geraten. Wir wollen dazu beitragen, die
