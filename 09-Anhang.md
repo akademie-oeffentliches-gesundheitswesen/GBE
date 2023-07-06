@@ -15,74 +15,30 @@ nav_order: 10
  </details>
 <br>
 
-## Abbreviations
 
-- **GBE**: Gesundheitsinformationssysteme und Routineaufgaben der GBE
-- **XYZ**: Some abbreviation description
-- **ABC**: Another abbreviation description
-
-<div class="abbreviations">
-  <div class="index-title">Index of Abbreviations</div>
-  <dl class="index-list">
-    <dt>GBE</dt>
-    <dd>Gesundheitsinformationssysteme und Routineaufgaben der GBE</dd>
-    <dt>XYZ</dt>
-    <dd>Some abbreviation description</dd>
-    <dt>ABC</dt>
-    <dd>Another abbreviation description</dd>
-  </dl>
-</div>
-
- 
 ## Abkürzungsverzeichnis
 
-AOLG - Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden
-
-DEGS - Studie zur Gesundheit Erwachsener in Deutschland des Robert
-Koch-Instituts
-
-DRG-Statistik - Fallpauschalen­bezogene Krankenhausstatistik
-
-ECHI - Europäischer Kernindikatorensatz für Gesundheit (European Core
-Health Indicators)
-
-GBE - Gesundheitsberichterstattung
-
-GDG - Gesundheitsdienstgesetzte der Länder
-
-GEDA - Gesundheit in Deutschland aktuell, Studie des Robert
-Koch-Instituts
-
-GKV-Daten - Daten der Gesetzlichen Krankenversicherungen
-
-HiAP - Health in All Policies
-
-ICD - Internationale statistische Klassifikation der Krankheiten
-
-IfSG - Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten
-beim Menschen (Infektionsschutzgesetz)
-
-INKAR – Indikatoren und Karten zur Raum- und Stadtentwicklung
-
-KiGGS - Studie zur Gesundheit von Kindern und Jugendlichen in
-Deutschland des Robert Koch-Instituts
-
-KGK - Kommunale Gesundheitskonferenz
-
-LGL - Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit
-
-ÖGD - Öffentlicher Gesundheitsdienst
-
-PHAC - Public Health Action Cycle
-
-PrävG - Gesetz zur Stärkung der Gesundheitsförderung und der Prävention
-(Präventionsgesetz)
-
-RKI - Robert Koch-Institut
-
-SEU - Schuleingangsuntersuchung
-
-WHO - Weltgesundheitsorganisation (World Health Organisation)
+- **AOLG**: Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden
+- **DEGS**: Studie zur Gesundheit Erwachsener in Deutschland des Robert Koch-Instituts
+- **DRG-Statistik**: Fallpauschalen­bezogene Krankenhausstatistik
+- **ECHI**: Europäischer Kernindikatorensatz für Gesundheit (*European Core Health Indicators*)
+- **GBE**: Gesundheitsberichterstattung
+- **GDG**: Gesundheitsdienstgesetzte der Länder
+- **GEDA**: Gesundheit in Deutschland aktuell, Studie des Robert Koch-Instituts
+- **GKV-Daten**: Daten der Gesetzlichen Krankenversicherungen
+- **HiAP**: Health in All Policies
+- **ICD**: Internationale statistische Klassifikation der Krankheiten
+- **IfSG**: Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen (Infektionsschutzgesetz)
+- **INKAR**: Indikatoren und Karten zur Raum- und Stadtentwicklung
+- **KiGGS**: Studie zur Gesundheit von Kindern und Jugendlichen in Deutschland des Robert Koch-Instituts
+- **KGK**: Kommunale Gesundheitskonferenz
+- **LGL**: Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit
+- **ÖGD**: Öffentlicher Gesundheitsdienst
+- **PHAC**: Public Health Action Cycle
+- **PrävG**: Gesetz zur Stärkung der Gesundheitsförderung und der Prävention (Präventionsgesetz)
+- **RKI**: Robert Koch-Institut
+- **SEU**: Schuleingangsuntersuchung
+- **WHO**: Weltgesundheitsorganisation (*World Health Organisation*)
 
 ## Weiterführende Literatur zum Einstieg in die GBE – eine unvollständige Sammlung aus verschiedenen Themenfeldern
 
