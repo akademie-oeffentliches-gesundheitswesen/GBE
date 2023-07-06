@@ -67,7 +67,7 @@ WHO - Weltgesundheitsorganisation (World Health Organisation)
 
 ## Weiterführende Literatur zum Einstieg in die GBE – eine unvollständige Sammlung aus verschiedenen Themenfeldern
 
-Grundlagen der Epidemiologie
+**Grundlagen der Epidemiologie**
 
   - Bonita, R, Beaglehole, R, Kjellström, T. (Hrsg.) (2008): Einführung
     in die Epidemiologie. 2. Aufl. Bern: Huber.
@@ -98,7 +98,7 @@ Grundlagen der Epidemiologie
     Epidemiologie](http://www.epiteaching.org/Catalogue-Learning-Objectives-Epi.pdf)
 
 
-Grundlagen der Statistik
+**Grundlagen der Statistik**
 
   - Altman D.G. (1999): Practical statistics for medical research. Boca
     Raton, Fla: Chapman & Hall/CRC.
@@ -119,7 +119,8 @@ Grundlagen der Statistik
   - Weiß C. (2013): Basiswissen Medizinische Statistik. 6., überarb.
     Aufl. Berlin: Springer.
 
-Handlungshilfen zur GBE
+
+**Handlungshilfen zur GBE**
 
   - Augustin, J, Kistemann, T, Koller, D, Lentz, S, Maier, W.A, Moser,
     J, Schweikart, J. (Hrsg.) (2017): Gute kartographische Praxis im
@@ -177,7 +178,7 @@ Handlungshilfen zur GBE
   - Handlungshilfen des LGL:
     [GBE-Praxis](https://www.lgl.bayern.de/publikationen/index.htm)
 
-Datenvisualizierung und Storytelling
+**Datenvisualizierung und Storytelling**
 
   - Alberto C (2016). The truthful art: data, charts and maps for
     communication. New Riders.
