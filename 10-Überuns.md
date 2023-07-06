@@ -137,8 +137,8 @@ Landeshauptstadt Stuttgart
 > Determinanten in den Fokus rücken und in die Planung von
 > gesundheitsförderlichen Maßnahmen einbezogen werden.
 
-Dr. Nicole Rosenkötter (M. Sc.), Gesundheitsberichterstatterin,
-Landeszentrum Gesundheit NRW
+Dr. Nicole Rosenkötter (M. Sc.), Referentin Gesundheitsberichterstattung, Akademie für Öffentliches
+Gesundheitswesen
 
 
 > Für die Gesundheitsberichterstattung der näheren und ferneren Zukunft
