@@ -39,7 +39,7 @@ passgenaue Maßnahmen und Konzepte zu erarbeiten, wie in der bereits aus
 visualisiert:
 
  <figure>
-  <img src="./media/image3.png" alt="Routineaufgaben der GBE anhand der Informationspyramide" style="width:90%">
+  <img src="./media/AOE-2520-Booksprints-11" alt="Routineaufgaben der GBE anhand der Informationspyramide" style="width:90%">
   <figcaption>Abbildung 2: Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)
 </figcaption>
 </figure> 
@@ -64,7 +64,7 @@ Health Action Cycle“ (PHAC) beschrieben (Rosenbrock 1995) und ist in
 Abbildung 3 dargestellt.
 
  <figure>
-  <img src="./media/image4.png" alt="Abbildung 3: Public Health Action Cycle" style="width:60%">
+  <img src="./media/AOE-2520-Booksprints-03.png" alt="Abbildung 3: Public Health Action Cycle" style="width:60%">
   <figcaption>Abbildung 3: „Public Health Action Cycle“ (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine (U.S.) 1988)
 </figcaption>
 </figure> 
@@ -298,7 +298,7 @@ wechselseitig beeinflussen und auf den Menschen gesundheitsförderlich,
 aber auch gesundheitsschädlich einwirken können (siehe Abbildung 4).
 
  <figure>
-  <img src="./media/image5.png" alt="Determinanten für Gesundheit „Regenbogenmodell" style="width:90%">
+  <img src="./media/AOE-2520-Booksprints-18.png" alt="Determinanten für Gesundheit „Regenbogenmodell" style="width:90%">
   <figcaption>Abbildung 4: Determinanten für Gesundheit „Regenbogenmodell“ (eigene Darstellung nach Dahlgren, Whitehead 1991)</figcaption>
 </figure> 
 
