@@ -305,9 +305,8 @@ Maßnahmenumsetzung extrem hilfreich (vgl. Abbildung 15).
 
  <figure>
   <img src="./media/AOE-2520-Booksprints-12.png" alt="Abbildung 15: Komponenten bei der Entwicklung eines Fachplans Gesundheit" style="width:60%">
-  <figcaption>Abbildung 12: Komponenten bei der Entwicklung eines Fachplans Gesundheit (eigene Darstellung)</figcaption>
 </figure> 
-
+*Abbildung 12: Komponenten bei der Entwicklung eines Fachplans Gesundheit (eigene Darstellung)*
 
 
 
@@ -331,9 +330,6 @@ dieses informellen Planungsinstruments liegt für den ÖGD darin
 begründet, dass sehr unterschiedliche gesundheitsrelevante
 Informationen bedarfsorientiert in der Kommune zusammengestellt werden
 können und in konkreten Handlungsempfehlungen münden.
-
-![Albuquerque, New Mexico](./media/AOE-2520-Booksprints-12.jpg)
-*A single track trail outside of Albuquerque, New Mexico.*
 
 **Aktueller Stand:** Das Konzept zum Fachplan Gesundheit wurde bereits
 mehrfach erprobt und zeigte vielfältige Potenziale gerade auch im
