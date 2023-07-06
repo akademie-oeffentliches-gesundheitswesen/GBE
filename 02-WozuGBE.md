@@ -40,9 +40,10 @@ visualisiert:
 
  <figure>
   <img src="./media/AOE-2520-Booksprints-06.png" alt="Routineaufgaben der GBE anhand der Informationspyramide" style="width:60%">
-  <figcaption>Abbildung 2: Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)
+  <figcaption>Abbildung 3: „Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)
 </figcaption>
 </figure> 
+
 
 
 ## 2.1. GBE als Instrument der wissenschaftlichen Politikberatung
