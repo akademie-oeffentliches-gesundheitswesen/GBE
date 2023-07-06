@@ -54,7 +54,7 @@ ersten Einblick geben.
 ## 4.1. Datengrundlagen der Gesundheitsberichterstattung
 
  <figure>
-  <img src="./media/image9.png" alt="Abbildung 7: Datenbasis der GBE " style="width:100%">
+  <img src="./media/AOE-2520-Booksprints-11.png" alt="Abbildung 7: Datenbasis der GBE " style="width:60%">
   <figcaption>Abbildung 7: Datenbasis der GBE in der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)</figcaption>
 </figure> 
 
@@ -329,7 +329,7 @@ Gesundheitsberichterstattung dar, wie in der nachfolgenden Abbildung
 veranschaulicht:
 
  <figure>
-  <img src="./media/image10.png" alt="Abbildung 8: Informationen als Routineaufgaben" style="width:100%">
+  <img src="./media/AOE-2520-Booksprints-10.png" alt="Abbildung 8: Informationen als Routineaufgaben" style="width:60%">
   <figcaption>Abbildung 8: Informationen als Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)</figcaption>
 </figure> 
 
@@ -468,7 +468,7 @@ relevanten Aspekte überprüft werden (Starke et al. 2019).
 
 
  <figure>
-  <img src="./media/image11.png" alt="Abbildung 9: Die Wissensebene der Informationspyramide" style="width:100%">
+  <img src="./media/AOE-2520-Booksprints-09.png" alt="Abbildung 9: Die Wissensebene der Informationspyramide" style="width:60%">
   <figcaption>Abbildung 9: Die Wissensebene der Informationspyramide bündelt relevante Aspekte der Berichterstellung in der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)
 </figcaption>
 </figure> 
