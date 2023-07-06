@@ -206,7 +206,18 @@ Gesundheitsamt Bremen
 * Dr. Birgit Wollenberg, Fachbereichsleitung Gesundheitsamt, Landkreis
 Marburg-Biedenkopf
 
-> ...work in progress...
+> Ich wünsche mir eine Person mit Vollzeitstelle und Expertise in der GBE
+> an jedem Gesundheitsamt (z.B. mit Mitteln aus dem Pakt für ÖGD), um die
+> kommunale GBE gewinnbringend für unsere Strategie Health in All Policies
+> mit all ihren Aufgaben von der Planung bei Gesundheitsförderung und
+> Versorgungskoordination bis zur Erfolgskontrolle nutzen zu können.
+> Ideal wäre es auch, wenn die Landes-GBE mit der kommunalen GBE abgestimmt
+> wäre. Abstimmung heißt für mich, eine gemeinsame Datenbank zu schaffen,
+> Themen zu priorisieren und ggf. zu regionalisieren. Von den Landes-GBEler_innen
+> wünsche ich mir eine Netzwerkkoordination und eine punktuell fachliche
+> Unterstützung auf kommunaler Ebene.
+> Da ich in einem hessischen Gesundheitsamt arbeite, ist das noch sehr visionär...
+
 
 * Dr Thomas Ziese
 
