@@ -20,7 +20,7 @@ nav_order: 4
 Der Öffentliche Gesundheitsdienst ist deutschlandweit auf den Ebenen von Bund, Bundesländern und Kommunen organisiert, in einigen Bundesländern kommen auf der Ebene zwischen Land und Kommune noch die Regierungspräsidien hinzu ([Abbildung 5](#informationen)). GBE findet vor allem auf den erstgenannten drei Ebenen statt, dies jedoch in unterschiedlicher Intensität. Die Aufgaben und Strukturen des ÖGD sind weitestgehend föderal geregelt, das heißt, für die kommunale GBE sind landesgesetzliche Regelungen in Form der Gesundheitsdienstgesetze der Länder maßgeblich (siehe Exkurs: Rechtliche Rahmenbedingungen). Für die kommunale GBE sind die übergeordneten Ebenen von Bund und Land zum Beispiel als Datenhalter, für die Datenaufbereitung und für fachliche Unterstützungsleistungen durch Landesoberbehörden, wie etwa Landesgesundheitsämter, von Bedeutung. 
 
  <figure>
-  <img src="./media/AOE-2520-Booksprints-15.png" alt="Abbildung 3: Public Health Action Cycle" style="width:60%">
+  <img src="./media/AOE-2520-Booksprints-15.png" alt="Abbildung 3: Public Health Action Cycle" style="width:90%">
   <figcaption>Abbildung 5: Zusammenspiel von Bund, Land und Kommune (eigene Abbildung)</figcaption>
 </figure> 
 
@@ -39,7 +39,7 @@ Für die GBE als gesundheitspolitisches Steuerungsinstrument sind diese Gebietsk
 
 
  <figure>
-  <img src="./media/AOE-2520-Booksprints-04.png" alt="Abbildung 6: Rahmenbedingungen" style="width:60%">
+  <img src="./media/AOE-2520-Booksprints-04.png" alt="Abbildung 6: Rahmenbedingungen" style="width:90%">
   <figcaption>Abbildung 6: Rahmenbedingungen und zu berücksichtigende Institutionen, Dezernate und Akteursgruppen für die Realisierung einer erfolgreichen kommunalen Koordinationsaufgabe des ÖGD, dargestellt an einer kommunalen Gesundheitskonferenz in einer beispielhaften Verwaltungsstruktur (erweiterte Darstellung nach Szagun et al. 2016)</figcaption>
 </figure> 
 
