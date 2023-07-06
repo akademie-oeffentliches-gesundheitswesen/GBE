@@ -58,6 +58,7 @@ Internationale Zusammenarbeit/Fachgruppe Prävention und
 Gesundheitsförderung, Landeszentrum Gesundheit Nordrhein-Westfalen
 (LZG.NRW)
 
+
 > Seit mehr als 200 Jahren gibt es nun Gesundheitsberichte. Ihre Form
 > und ihre Zielsetzung haben sich in dieser Zeit immer wieder geändert.
 > Heute sollten Gesundheitsberichte einen Beitrag zu einer
@@ -74,8 +75,9 @@ Gesundheitsförderung, Landeszentrum Gesundheit Nordrhein-Westfalen
 > Presseverlautbarungen, das wäre meine GBE-Vision für die nächsten
 > Jahre.
 
-* Dr. Joseph Kuhn, Gesundheitsberichterstattung, Bayerisches Landesamt
+Dr. Joseph Kuhn, Gesundheitsberichterstattung, Bayerisches Landesamt
 für Gesundheit und Lebensmittelsicherheit
+
 
 > Nie war die GBE gefragter als in Zeiten der COVID-19-Pandemie. Nie
 > waren einzelne Zahlenwerte wichtiger und Wege zu (kommunal)politischen
@@ -106,9 +108,10 @@ für Gesundheit und Lebensmittelsicherheit
 > Gesundheitsförderung notwendig, die in meiner Vision auf allen Ebenen
 > zusammenarbeiten und sich gegenseitig bereichern.
 
-* Annette Galante-Gottschalk (MPH und Dipl.-Soz.päd.),
+Annette Galante-Gottschalk (MPH und Dipl.-Soz.päd.),
 Gesundheitsberichterstattung und Gesundheitsplanung, Gesundheitsamt der
 Landeshauptstadt Stuttgart
+
 
 > Dass das GBE mehr ist als das Runterbeten oder Abschreiben von Zahlen,
 > die gegebenenfalls auch bei den Statistikämtern zu finden sind,
@@ -134,8 +137,9 @@ Landeshauptstadt Stuttgart
 > Determinanten in den Fokus rücken und in die Planung von
 > gesundheitsförderlichen Maßnahmen einbezogen werden.
 
-* Dr. Nicole Rosenkötter (M. Sc.), Gesundheitsberichterstatterin,
+Dr. Nicole Rosenkötter (M. Sc.), Gesundheitsberichterstatterin,
 Landeszentrum Gesundheit NRW
+
 
 > Für die Gesundheitsberichterstattung der näheren und ferneren Zukunft
 > wünsche ich mir aufgeschlossene Entscheidungsträgerinnen und
@@ -154,7 +158,7 @@ Landeszentrum Gesundheit NRW
 > und damit einen Beitrag zu einer gerechteren Politikgestaltung zu
 > leisten.
 
-* Prof.in Dr. phil. Dagmar Starke, stellv. Leiterin der Akademie für
+Prof.in Dr. phil. Dagmar Starke, komm. Leiterin der Akademie für
 Öffentliches Gesundheitswesen
 
 > Mein Wunschzettel umfasst:  
@@ -170,7 +174,7 @@ Landeszentrum Gesundheit NRW
 > irgendwann ein ebensolcher Standard wird, wie es der kommunale
 > Infektionsschutz heute schon ist;
 
-* Dr. Bertram Szagun (MPH), Professor für Gesundheit an der Hochschule
+Dr. Bertram Szagun (MPH), Professor für Gesundheit an der Hochschule
 Ravensburg-Weingarten
 
 > Mein Ziel ist eine kommunale Gesundheitsberichterstattung, die nicht
@@ -186,7 +190,7 @@ Ravensburg-Weingarten
 > zum journalistischen Ethos, Distanz und lässt sich vor keinen Karren
 > spannen, so sympathisch politische Ziele auch erscheinen mögen.
 
-* Dr. Günter Tempel, Leiter Kommunale Gesundheitsberichterstattung,
+Dr. Günter Tempel, Leiter Kommunale Gesundheitsberichterstattung,
 Gesundheitsamt Bremen
 
 > Ich wünsche mir eine Person mit Vollzeitstelle und Expertise in der
@@ -203,7 +207,7 @@ Gesundheitsamt Bremen
 > kommunaler Ebene. Da ich in einem hessischen Gesundheitsamt arbeite,
 > ist das noch sehr visionär ...
 
-* Dr. Birgit Wollenberg, Fachbereichsleitung Gesundheitsamt, Landkreis
+Dr. Birgit Wollenberg, Fachbereichsleitung Gesundheitsamt, Landkreis
 Marburg-Biedenkopf
 
 > Ich wünsche mir eine Person mit Vollzeitstelle und Expertise in der GBE
@@ -219,7 +223,7 @@ Marburg-Biedenkopf
 > Da ich in einem hessischen Gesundheitsamt arbeite, ist das noch sehr visionär...
 
 
-* Dr Thomas Ziese
+Dr Thomas Ziese
 
 > Die Bezeichnung „policy brief“ ist nicht einheitlich definiert.
 > Meist ist damit eine Publikationsform gemeint, die in lurzer und
