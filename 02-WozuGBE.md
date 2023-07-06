@@ -42,8 +42,7 @@ visualisiert:
   <img src="./media/AOE-2520-Booksprints-11" alt="Routineaufgaben der GBE anhand der Informationspyramide" style="width:90%">
   <figcaption>Abbildung 2: Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)
 </figcaption>
-<br>
- </figure> 
+</figure> 
 
 
 ## 2.1. GBE als Instrument der wissenschaftlichen Politikberatung
@@ -66,7 +65,7 @@ Abbildung 3 dargestellt.
  <figure>
   <img src="./media/AOE-2520-Booksprints-03.png" alt="Abbildung 3: Public Health Action Cycle" style="width:60%">
   <figcaption>Abbildung 3: „Public Health Action Cycle“ (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine (U.S.) 1988)
-</figcaption>
+</figcaption> <br>
 </figure> 
 
 Ausgangspunkt des als Kreislauf angelegten Modells ist die in der Praxis
