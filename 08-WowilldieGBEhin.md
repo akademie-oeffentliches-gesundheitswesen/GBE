@@ -332,7 +332,7 @@ begründet, dass sehr unterschiedliche gesundheitsrelevante
 Informationen bedarfsorientiert in der Kommune zusammengestellt werden
 können und in konkreten Handlungsempfehlungen münden.
 
-![Albuquerque, New Mexico](/assets/media/AOE-2520-Booksprints-12.jpg)
+![Albuquerque, New Mexico](./media/AOE-2520-Booksprints-12.jpg)
 *A single track trail outside of Albuquerque, New Mexico.*
 
 **Aktueller Stand:** Das Konzept zum Fachplan Gesundheit wurde bereits
