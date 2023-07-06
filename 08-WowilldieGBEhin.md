@@ -305,9 +305,10 @@ Maßnahmenumsetzung extrem hilfreich (vgl. Abbildung 15).
 
  <figure>
   <img src="./media/AOE-2520-Booksprints-12.png" alt="Abbildung 15: Komponenten bei der Entwicklung eines Fachplans Gesundheit" style="width:60%">
-</figure> 
-*Abbildung 12: Komponenten bei der Entwicklung eines Fachplans Gesundheit (eigene Darstellung)*
+  <figcaption>Abbildung 12: Komponenten bei der Entwicklung eines Fachplans Gesundheit (eigene Darstellung)</figcaption>
+ </figure>  
 
+ 
 **Methodik:** Zum Fachplan Gesundheit wurden Vorarbeiten (Fehr et al.
 2011) sowie zwei fiktionale Fachpläne für den fiktiven Kreis
 „*Gesundbrunnen“* und die ebenso fiktive Stadt „*Healthhausen“*
