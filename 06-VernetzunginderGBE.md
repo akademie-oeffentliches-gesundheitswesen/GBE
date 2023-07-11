@@ -36,8 +36,8 @@ GBE-Informationspyramide liegt hierbei ein besonderes Augenmerk auf dem
 Prozess der Wissensgenerierung, wie in Abbildung 11 dargestellt.
 
  <figure>
-  <img src="./media/AOE-2520-Booksprints-09.png" alt="Abbildung 10: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit" style="width:90%">
-  <figcaption>Abbildung 11 Prozess der Wissensgenerierung in der GBE anhand der Informationspyramide (Erweiterte erweiterte Darstellung nach Verschuuren und van Oers 2019 (Verschuuren, van Oers 2019))</figcaption>
+  <img src="./media/AOE-2520-Booksprints-09.png" alt="Abbildung 12: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit" style="width:90%">
+  <figcaption>Abbildung 12 Prozess der Wissensgenerierung in der GBE anhand der Informationspyramide (Erweiterte erweiterte Darstellung nach Verschuuren und van Oers 2019 (Verschuuren, van Oers 2019))</figcaption>
 </figure> 
 
 
