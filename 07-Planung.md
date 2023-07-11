@@ -49,8 +49,8 @@ Verminderung sozial ungleicher Gesundheitschancen (WHO 1986)
 flächendeckend und bis auf Lebensweltebene umzusetzen.
 
  <figure>
-  <img src="./media/AOE-2520-Booksprints-01.png" alt="Abbildung 12: Rolle der Gesundheitsplanung im Public Health Action Cycle" style="width:90%">
-  <figcaption>Abbildung 12: Rolle der Gesundheitsplanung im Public Health Action Cycle (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine 1988)</figcaption>
+  <img src="./media/AOE-2520-Booksprints-01.png" alt="Abbildung 13: Rolle der Gesundheitsplanung im Public Health Action Cycle" style="width:90%">
+  <figcaption>Abbildung 13: Rolle der Gesundheitsplanung im Public Health Action Cycle (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine 1988)</figcaption>
 </figure> 
 
 In diesem Kapitel widmet sich der erste Teil der Gesundheitsplanung im
@@ -187,8 +187,8 @@ konstruktiv zu integrieren, wie in der nachfolgenden Abbildung
 veranschaulicht.
 
  <figure>
-  <img src="./media/AOE-2520-Booksprints-17.png" alt="Abbildung 13: Ausrichtung und Themenfindung der Gesundheitsplanung" style="width:90%">
-  <figcaption>Abbildung 13: Ausrichtung und Themenfindung der Gesundheitsplanung entstehen im Aushandlungsprozess zwischen den unterschiedlichen Perspektiven von Expertinnen und Experten, Bürgerinnen und Bürgern und der wissenschaftlichen Datenlage (erweitert nach Roller 2010)</figcaption>
+  <img src="./media/AOE-2520-Booksprints-17.png" alt="Abbildung 14: Ausrichtung und Themenfindung der Gesundheitsplanung" style="width:90%">
+  <figcaption>Abbildung 14: Ausrichtung und Themenfindung der Gesundheitsplanung entstehen im Aushandlungsprozess zwischen den unterschiedlichen Perspektiven von Expertinnen und Experten, Bürgerinnen und Bürgern und der wissenschaftlichen Datenlage (erweitert nach Roller 2010)</figcaption>
 </figure> 
 
 **Form des Berichtswesens:** GBE ist zwar in allen
@@ -310,8 +310,8 @@ wahrgenommenen Professionalität und dem Einbezug der Öffentlichkeit:
 
 
  <figure>
-  <img src="./media/AOE-2520-Booksprints-16.png" alt="Abbildung 14: Einflussgrößen auf die Relevanz einer kommunalen Gesundheitskonferenz" style="width:90%">
-  <figcaption>Abbildung 14: Einflussgrößen auf die Relevanz einer kommunalen Gesundheitskonferenz als Planungsgremium mit begrenzter Zuständigkeit</figcaption>
+  <img src="./media/AOE-2520-Booksprints-16.png" alt="Abbildung 15: Einflussgrößen auf die Relevanz einer kommunalen Gesundheitskonferenz" style="width:90%">
+  <figcaption>Abbildung 15: Einflussgrößen auf die Relevanz einer kommunalen Gesundheitskonferenz als Planungsgremium mit begrenzter Zuständigkeit</figcaption>
 </figure> 
 
 Auch in den Fällen, in denen die GBE nicht als planungsvorbereitendes
