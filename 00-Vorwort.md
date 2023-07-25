@@ -8,16 +8,15 @@ nav_order: 1
  
 ## Was ist das für ein Buch?
 
-Das Wort „Gesundheitsberichterstattung“ hört man oft. Doch keiner weiß
+Das Wort Gesundheitsberichterstattung hört man oft. Doch keiner weiß
 so recht, was damit gemeint ist, wie man diese Berichterstattung gut
 macht und was damit erreicht werden soll. Das merken vor allem
 Einsteiger und Einsteigerinnen schnell, wenn sie „mal einen
 Gesundheitsbericht machen wollen“. Zahlreiche Fragen stellen sich: An
 wen wendet sich eigentlich so ein Bericht? Was gehört inhaltlich hinein?
 Wie soll der Stil sein? Woher kommen die Daten? Mit wem muss man sich
-abstimmen? Das alles sind Fragen, über die man am besten nicht erst dann
-nachdenkt, wenn man im ersten Anlauf schon einmal alles falsch gemacht
-hat.
+abstimmen? Das alles sind Fragen, über die man am besten nachdenkt, bevor man mit dem ersten Anlauf startet.
+
 
 Das vorliegende kleine Buch will dabei helfen, einen informativen
 Einstieg in die kommunale Gesundheitsberichterstattung (GBE) zu finden
