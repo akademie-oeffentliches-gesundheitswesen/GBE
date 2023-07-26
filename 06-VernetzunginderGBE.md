@@ -37,7 +37,7 @@ Prozess der Wissensgenerierung, wie in Abbildung 11 dargestellt.
 
  <figure>
   <img src="./media/AOE-2520-Booksprints-09.png" alt="Abbildung 12: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit" style="width:90%">
-  <figcaption>Abbildung 12 Prozess der Wissensgenerierung in der GBE anhand der Informationspyramide (Erweiterte erweiterte Darstellung nach Verschuuren und van Oers 2019 (Verschuuren, van Oers 2019))</figcaption>
+  <figcaption>Abbildung 12: Prozess der Wissensgenerierung in der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren und van Oers 2019 (Verschuuren, van Oers 2019))</figcaption>
 </figure> 
 
 
@@ -57,7 +57,7 @@ Zahnprophylaxe.
 Gesundheitsberichterstattung steht nicht für sich allein, sondern ist
 eingebettet in einen kontinuierlichen Prozess aus Problemdefinition,
 strategischer Planung, Umsetzung und Bewertung, wie einleitend bereits
-anhand des „Public Health Action Cycles“ in [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) erläutert. Weiter
+anhand des Public Health Action Cycles in [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) erläutert. Weiter
 speist sich die Gesundheitsberichterstattung aus verschiedenen Themen,
 konkret nicht nur rein medizinischen, sondern auch aus solchen mit Bezug
 zu den Lebensverhältnissen (zum Beispiel Einkommen, Kultur, Bildung),
@@ -124,7 +124,7 @@ Jugendhilfe oder der Altenhilfe sein.
 Erfahrungsgemäß gibt es häufiger Vorbehalte von einzelnen Institutionen,
 Ressorts, Ämtern oder Interessensvertreterinnen und Interessensvertreter
 gegenüber einem geplanten Gesundheitsbericht. Sie fürchten zum Beispiel,
-in einem Bericht nicht gut „dazustehen“, oder haben Sorge, sich den
+in einem Bericht nicht gut dazustehen, oder haben Sorge, sich den
 Handlungsempfehlungen nicht gewachsen zu fühlen mangels Ressourcen
 und/oder politischen Rückhalts der Verwaltung und Kommunalpolitik etc.
 Hier ist es sinnvoll, insbesondere diese Gruppen von Anfang an
@@ -191,7 +191,7 @@ niemand imstande sieht, sich der Themen anzunehmen bzw. Verantwortung zu
 übernehmen. Die zeitliche Komponente ist ebenfalls entscheidend:
 Sitzungstermine der Gremien, Haushaltsberatungen, (Kommunal-)Wahlen,
 Ausnahmesituationen (Corona, Migrationsdynamik etc.), Sommerpause oder
-„Sommerloch“ sollten immer bedacht werden. Neben dem Interesse spielen
+Sommerloch sollten immer bedacht werden. Neben dem Interesse spielen
 dabei auch die Kompetenzen der Adressaten und Adressatinnen eine
 wesentliche Rolle.
 
@@ -206,7 +206,7 @@ Netzwerkes ist die Kompetenzentwicklung ein fortlaufender Lernprozess
 aller Beteiligten. Capacity Building (Kompetenzentwicklung) beschreibt
 ein prozesshaftes Geschehen, bei dem das Voneinander-Lernen im
 Mittelpunkt steht. Hier hilft es den Berichterstatterinnen und
-Berichterstattern, „einen langen Atem zu haben“ und
+Berichterstattern, einen langen Atem zu haben und
 Frustrationserlebnisse als Teil dieses Prozesses einzuordnen sowie nicht
 den Mut zu verlieren.
 
@@ -248,7 +248,7 @@ Ergebnisse der eigenen Erhebung möglicherweise populationsspezifisch
 sind und nicht auf die Gesamtbevölkerung übertragen werden können.
 Hinsichtlich der Vergleiche eigener Beobachtungen mit Studienergebnissen
 sind die Vergleichbarkeit der untersuchten Population, der Kontext und
-die Übertragbarkeit spezifischer Ergebnisse auf die „eigene“ Bevölkerung
+die Übertragbarkeit spezifischer Ergebnisse auf die örtliche Bevölkerung
 in der Kommune zu reflektieren.
 
 GBE beschreibt die gesundheitliche Lage der Bevölkerung mittels
@@ -297,7 +297,7 @@ nicht intendierten Fehlinterpretationen den Weg ebnen, wenn mit der
 Absicht, Darstellungen zu vereinfachen, ein Format gewählt wird, dass
 etwa Unterschiede überbetont (Beispiel: Die x-Achse schneidet y-Achse
 nicht bei null.). Adressatinnen und Adressaten der GBE bedürfen der
-Kompetenz, Grafiken zu „lesen“ und zu interpretieren. Hier kann es von
+Kompetenz, Grafiken zu lesen und zu interpretieren. Hier kann es von
 Nutzen sein, unterschiedliche Darstellungen ein und desselben
 Sachverhalts exemplarisch und außerhalb des Berichts zu präsentieren, um
 ein Verständnis für die Vielfalt der Darstellungsoptionen zu entwickeln.
@@ -319,8 +319,8 @@ Verantwortung führt, statt strukturell bedingte Vulnerabilität in den
 Blick zu nehmen.
 
 Wie oben bereits angesprochen, stehen die aus den Ergebnissen des
-Berichts abgeleiteten Handlungsempfehlungen unter „besonderer
-Beobachtung“. Selbst wenn die Formulierung wissenschaftlich fundierter
+Berichts abgeleiteten Handlungsempfehlungen unter besonderer
+Beobachtung. Selbst wenn die Formulierung wissenschaftlich fundierter
 Handlungsempfehlungen durch die Berichterstatter und
 Berichterstatterinnen gemeinsam mit Expertinnen und Experten erfolgt,
 besteht die Gefahr, dass Adressaten und Adressatinnen sich diesen nicht
@@ -339,7 +339,7 @@ Capacity Building in der GBE
   - Bachinger E, Grasser G (2009): Capacity Building für
     Gesundheitsberichterstattung. In: Kuhn J und Böcken J (Hrsg.):
     Verwaltete Gesundheit. Konzepte der Gesundheitsberichterstattung in
-    der Diskussion. Frankfurt: Mabuse-Verl. (Beiträge zur politischen
+    der Diskussion. Frankfurt am Main: Mabuse-Verl. (Beiträge zur politischen
     Relevanz der Gesundheitsberichterstattung), S. 201–222.
 
   - Kuhn J, Zapf A (2018): Berufliche Aufgaben und Perspektiven im ÖGD.
