@@ -16,7 +16,7 @@ nav_order: 5
 <br>
  
  
-> Ich hab' echt nie verstanden, was an GBE schwer sein soll. Ein paar Daten zusammenrühren, schön bunt machen, ein bisschen texten und raus damit. Hab ja auch noch andere Aufgaben.“
+> Ich hab’ echt nie verstanden, was an GBE schwer sein soll. Ein paar Daten zusammenrühren, schön bunt machen, ein bisschen texten und raus damit. Hab ja auch noch andere Aufgaben.“
 
  <figure>
   <img src="./media/AOE-2520-Booksprints_Anzeige.png" alt="Abbildung 7: Stellenausschreibung einer GBE-Stelle" style="width:90%">
@@ -30,7 +30,7 @@ sich tatsächlich manchmal vor wie die berühmte eierlegende Wollmilchsau.
 GBE erfordert viele Fähigkeiten, die oftmals im Widerspruch zueinander
 stehen und auch im Studium nicht immer vermittelt werden (können). Um
 nicht zwischen Widersprüchen und Ansprüchen zerrieben zu werden, gibt es
-„Handwerkszeug“ für eine gute GBE. Das folgende Kapitel soll hier einen
+Handwerkszeug für eine gute GBE. Das folgende Kapitel soll hier einen
 ersten Einblick geben.
 
 ## 4.1. Datengrundlagen der Gesundheitsberichterstattung
@@ -106,8 +106,8 @@ Einige wichtige Datenquellen der Gesundheitsberichterstattung werden im
 Folgenden kurz vorgestellt:
 
 Die **Todesursachenstatistik** ist eine der häufig genutzten
-Datenquellen der Gesundheitsberichterstattung. Sie gehört zur „amtlichen
-Statistik“, also zu den durch Gesetz geregelten und den statistischen
+Datenquellen der Gesundheitsberichterstattung. Sie gehört zur amtlichen
+Statistik, also zu den durch Gesetz geregelten und den statistischen
 Ämtern übertragenen Statistiken. Gesetzliche Grundlage der
 Todesursachenstatistik in Deutschland ist das Gesetz über die Statistik
 der Bevölkerungsbewegung und die Fortschreibung des Bevölkerungsstandes
@@ -118,7 +118,7 @@ der Todesursachenstatistik wird nach der Internationalen statistischen
 Klassifikation der Krankheiten (ICD) codiert
 ([<span class="underline">www.dimdi.de</span>](https://www.dimdi.de/dynamic/de/klassifikationen/icd/)).
 Dabei wird in Deutschland derzeit noch eine monokausale
-Todesursachenstatistik geführt: In der Statistik wird das „Grundleiden“
+Todesursachenstatistik geführt: In der Statistik wird das Grundleiden
 codiert, also die Krankheit, die medizinisch ursächlich für den Tod ist.
 Das ist häufig nicht der unmittelbar den Tod auslösende Befund.
 Grundlage der Todesursachenstatistik sind die ärztlichen Eintragungen
@@ -242,9 +242,7 @@ akquirieren.
 
 Bei eigenen Erhebungen nutzt die Gesundheitsberichterstattung das
 methodische Instrumentarium der **empirischen Sozialforschung**. In
-aller Regel ist dies die standardisierte (quantitative) Befragung,
-andere Methoden der Datengewinnung wie die Beobachtung oder das
-Interpretieren von Texten (Inhaltsanalyse) sind ausgesprochen selten.
+aller Regel ist dies die standardisierte (quantitative) Befragung.
 Einen allgemein verständlichen Überblick über die Methoden der
 empirischen Sozialforschung gibt Diekmann (2014). In der empirischen
 Sozialforschung lassen sich zwei methodologisch unterschiedliche
@@ -254,7 +252,7 @@ der qualitative Ansatz, dessen Wurzeln in der Ethnologie und in der
 frühen stadtsoziologischen Forschung liegen. In der
 Gesundheitsberichterstattung als auch in der Gesundheitsforschung
 allgemein dominiert der quantitative Ansatz. Studien, in denen
-qualitative Methoden eine Rolle spielen, sind die Ausnahme.
+qualitative Methoden eine Rolle spielen, sind bislang die Ausnahme.
 
 Seit einiger Zeit wird in der Gesundheitsberichterstattung verstärkt
 über die Nutzung **qualitativer Verfahren** diskutiert. Daher seien an
@@ -270,7 +268,7 @@ was erhebt, setzt dieser Ansatz allerdings ein Mindestmaß an Vorwissen
 qualitative Ansatz ausdrücklich, die subjektiven Sichtweisen der
 Beforschten kennenzulernen und daraus ableitbare Handlungen zu
 verstehen. Dies erfordert eine offene Herangehensweise mit möglichst
-wenig standardisierten Methoden wie Beobachtungen oder offenen
+wenig standardisierten Methoden wie (teilnehmender) Beobachtungen oder offenen
 Interviews. Das dabei gewonnene umfangreiche Datenmaterial – Videos,
 Beobachtungsprotokolle oder transkribierte Interviewtexte – wird
 anschließend aufwendig analysiert. Von daher basieren qualitative
@@ -291,7 +289,7 @@ GBE gefragt.
 
 > „The wisdom, justice, and perceived legitimacy of public decisions are
 > crucially affected by the **quality of the information** on which they
-> are based” (Institute of Medicine (U.S.) 1988).
+> are based“ (Institute of Medicine (U.S.) 1988).
 
 Daten sprechen nicht für sich allein und müssen entsprechend
 transformiert sowie aufbereitet werden, um als Planungsgrundlage für
@@ -299,7 +297,7 @@ transformiert sowie aufbereitet werden, um als Planungsgrundlage für
 hierzu vielfach auf (Gesundheits-)Indikatoren zurück. Möchte man
 beispielsweise die Sterblichkeit infolge von Herz-Kreislauf-Erkrankungen
 in einer bestimmten Region auswerten, könnte sich hierfür die Anzahl der
-Herz-Kreislauf-Todesfälle je 100.000 Einwohner in einem bestimmten
+Herz-Kreislauf-Todesfälle je 100.000 Einwohner und Einwohnerinnen in einem bestimmten
 Zeitraum als Indikator eignen. Indikatoren sind Maßzahlen, die durch die
 Angabe einer oder mehrerer Bezugseinheiten gekennzeichnet sind und deren
 Berechnung standardisiert ist, um Vergleiche zu ermöglichen. Häufig
@@ -355,7 +353,7 @@ der bis heute gültigen dritten Version des Indikatorensatzes erfolgte
 2003 auf Beschluss der Arbeitsgemeinschaft der Obersten
 Landesgesundheitsbehörden (AOLG 2003) und im Auftrag der
 Gesundheitsministerkonferenzen (Bardehle et al. 2004). Die insgesamt 297
-Indikatoren des Indikatorensatzes verteilen sich auf diese Themenfelder:
+Indikatoren des Indikatorensatzes verteilen sich auf die Themenfelder
 Bevölkerung, wirtschaftliche und soziale Lage; Morbidität und
 Mortalität; Gesundheitsverhalten; Gesundheitsrisiken aus der
 natürlichen und technischen Umwelt; Einrichtungen des
@@ -363,9 +361,9 @@ Gesundheitswesens; Inanspruchnahme von Leistungen der
 Gesundheitsversorgung; Beschäftigte und Ausbildung; Ausgaben und Kosten
 im Gesundheitswesen. Zu jedem Indikator gibt es eine kurze
 Metadatenbeschreibung, die Auskunft gibt zum Beispiel über Datenquellen,
-Periodizität, Aussagekraft. Bis zu 80 Indikatoren (je nach Land) liegen
+Periodizität und Aussagekraft. Bis zu 80 Indikatoren (je nach Land) liegen
 auch auf Kreisebene vor. Die Indikatoren werden fortlaufend aktualisiert
-und es gibt länderspezifische Ergänzungen. Zurzeit wird ein ergänzendes
+und durch länderspezifische Ergänzungen erweitert. Zurzeit wird ein ergänzendes
 Indikatorensystem für die Präventionsberichterstattung der Länder
 entwickelt (siehe auch [Kapitel 8]({{ site.baseurl }}{% link 08-WowilldieGBEhin.md %})).
 
@@ -382,13 +380,7 @@ Verfügbarkeit, Vergleichbarkeit erarbeitet (Verschuuren et al. 2014).
 
 ### 4.2.1. Formate der GBE
 
-Traditionell werden in der GBE Basis- und Spezialberichte unterschieden.
-Basisberichte haben den Anspruch, die gesundheitliche Lage der
-Bevölkerung umfassend darzustellen. Spezialberichte widmen sich
-fokussiert einem Thema, etwa Gesundheit von Kindern und Jugendlichen,
-Sucht, Armut etc. Exempel unterschiedlicher kommunaler
-Gesundheitsberichte sind zum Beispiel in der nordrhein-westfälischen
-„Datenbank Kommunale GBE“ gelistet und verschlagwortet
+Traditionell wird in der GBE zwischen Basis- und Spezialberichten unterschieden. Basisberichte haben den Anspruch, die gesundheitliche Lage der Bevölkerung umfassend darzustellen. Spezialberichte widmen sich fokussiert einem Thema – wie Gesundheit von Kindern und Jugendlichen, Sucht, Armut etc. Beispiele unterschiedlicher kommunaler Gesundheitsberichte sind etwa in der nordrhein-westfälischen Datenbank Kommunale GBE gelistet und verschlagwortet
 ([<span class="underline">www.lzg.nrw.de</span>](www.lzg.nrw.de)).
 
 Zu den Produkten der GBE können jedoch nicht nur Berichte gezählt
@@ -398,19 +390,13 @@ und interaktive Gesundheitsatlasangebote oder Dashboards (zum Beispiel
 das [<span class="underline">Sozialmonitoring
 Stuttgart</span>](about:blank)).
 
-Auch das eigentliche Berichtsformat kann nicht mehr als klassischer
-Printbericht verstanden werden. Auch Kurzberichte, Factsheets, online
-dargestellte, erläuterte und zum Teil auch gestaltbare Inhalte,
-spezielle Aufbereitungen wie „policy briefs“\[1\], Präsentationen für
-Fachausschüsse, Stellungnahmen etc. weisen Eigenschaften der
-Berichterstattung auf, indem sie faktenbasiert die gesundheitliche Lage
-darstellen.
+Auch das eigentliche Berichtsformat kann nicht mehr nur als klassischer Printbericht verstanden werden: Kurzberichte, Factsheets, online dargestellte, erläuterte und zum Teil auch gestaltbare Inhalte, spezielle Aufbereitungen wie Policy Briefs, Präsentationen für Fachausschüsse, Stellungnahmen etc. weisen Eigenschaften der Berichterstattung auf, indem sie faktenbasiert die gesundheitliche Lage darstellen. 
 
 Je nach Ressourcenverfügbarkeit und kommunalem Kontext sind weitere
 Formate denkbar, die die Berichterstattung ergänzen können. Hierzu
 zählen Blogs, Storytelling-Ansätze, Infografiken, Erklärvideos oder
 animierte Grafiken (zum Beispiel GIFs) zur Vermittlung von Inhalten über
-Social-Media-Kanäle. Im Rahmen der englischen „Anual Report Competition“
+Social-Media-Kanäle. Im Rahmen der britischen Anual Report Competition
 können unter den platzierten Berichten häufig Formate gefunden werden,
 die mit diesen Formaten experimentieren
 ([<span class="underline">www.adph.org.uk</span>](https://www.adph.org.uk/our-work/about-dph-annual-report-competition/)).
@@ -418,7 +404,7 @@ die mit diesen Formaten experimentieren
 Zusammenfassend sollten Formate der GBE verschiedene Mechanismen
 bedienen (Blessing et al. 2017):
 
-  - **Push-Mechanismen:** adressaten- und adressatinnen-gerechte
+  - **Push-Mechanismen:** adressaten- und adressatinnengerechte
     Bereitstellung von Wissen in geeigneten Formaten (zusammenfassende
     Instrumente, Visualisierungen, zum Beispiel in Form von Infografiken
     oder Karten)
@@ -438,13 +424,12 @@ et al. 2018).
 
 ### 4.2.2. Was macht einen Bericht aus?
 
-Die Berichterstellung gehört zu der Ebene „Wissen“ der
+Die Berichterstellung gehört zu der Wissensebene der
 Informationspyramide. Diese Ebene gliedert sich weiter auf in
 inhaltliche Aspekte, den Prozess der Berichterstellung (siehe [Kapitel 6]({{ site.baseurl }}{% link 06-VernetzunginderGBE.md %}))
 und die Vermarktung des Berichts (siehe Abschnitt 4.3.1.). Eine gute
 fachliche Orientierung für die Erstellung von Gesundheitsberichten
-liefert die Publikation **„Gute Praxis Gesundheitsberichterstattung
-2.0“**. Mithilfe der Kriterienliste im Anhang der „Gute Praxis“ können
+liefert die Kriterienliste im Anhang der Publikation **„Gute Praxis Gesundheitsberichterstattung 2.0“**. Damit können
 Berichte bezüglich ihrer Vollständigkeit und der Beachtung aller
 relevanten Aspekte überprüft werden (Starke et al. 2019).
 
@@ -458,7 +443,7 @@ relevanten Aspekte überprüft werden (Starke et al. 2019).
 
 Die inhaltliche Zusammenstellung des Berichts sollte begleitet sein
 durch Diskussionen und Überlegungen zur sprachlichen Gestaltung, zur
-„Geschichte“ („storyline“) des Berichts, dem Zweck, den der Bericht
+Geschichte (Storyline) des Berichts, dem Zweck, den der Bericht
 erfüllen soll, dem Umgang mit datenbasierten Unsicherheiten und
 Limitationen sowie dem Neuigkeitsgehalt des Berichts. Einige dieser
 Aspekte werden im Folgenden kurz skizziert.
@@ -467,25 +452,24 @@ Beim Schreiben des Berichts sollten Stil und Jargon (Sprache) an die
 Adressatinnen und Adressaten angepasst und beispielsweise Fremdwörter
 und Fachsprache durch einfachere Begriffe ersetzt werden. Komplexere
 Inhalte können beispielsweise in einem Glossar näher erläutert werden.
-Darüber hinaus ist es ratsam, die „Geschichte“ („storyline“), die in dem
+Darüber hinaus ist es ratsam, die Geschichte (Storyline), die in dem
 Bericht erzählt werden soll, nicht aus dem Auge zu verlieren. Der
 Bericht ist faktenbasiert, im Fokus des Textes sollten aber nicht alle
 verfügbaren Zahlen zum Thema stehen, sondern der Inhalt an sich.
 
-Damit die „Geschichte“ verständlich und überzeugend bei den
+Damit die Geschichte verständlich und überzeugend bei den
 Adressatinnen und Adressaten ankommt, ist es empfehlenswert, die Fragen
-nach dem „Warum?“ und dem „Und jetzt?“ zu beantworten. Zur Beantwortung
-des „Warums“ sollten identifizierte Unterschiede und Trends erläutert
+nach dem Warum und dem Und-jetzt zu beantworten. Zur Beantwortung
+des Warums sollten identifizierte Unterschiede und Trends erläutert
 werden. Hierdurch werden sie für die Adressatinnen und Adressaten
 nachvollziehbar. Die Lieferung von Erläuterungen ist häufig nicht allein
 aus der GBE heraus möglich. Die Hinzuziehung wissenschaftlicher Evidenz
 kann helfen, Erklärungsansätze für die dargestellten Unterschiede und
-Trends zu identifizieren. Die Beantwortung der Frage nach dem „Und
-jetzt?“ soll mögliche Handlungsoptionen aufzeigen. Dadurch wird der
+Trends zu identifizieren. Die Beantwortung der Frage nach dem Und-jetzt? soll mögliche Handlungsoptionen aufzeigen. Dadurch wird der
 Bericht lösungsorientierter. Hierbei sollte möglichst auf
 evidenzgesicherte Maßnahmen oder etablierte Good-Practice-Beispiele
 verwiesen werden (van Bon-Martens et al. 2019; Cornelius-Taylor, Brand
-2004). Um die „Geschichte“ passgenau zu vertextlichen, ist es relevant,
+2004). Um die Geschichte passgenau zu vertextlichen, ist es relevant,
 zu wissen, welche Aufgabe der Bericht erfüllen soll. Beispiele hierzu
 sind in [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) gelistet.
 
@@ -506,14 +490,14 @@ Grundregeln zu beachten (Cairo 2016; Few 2012):
   - Da **Flächen und Winkel** für die Leserinnen und Leser schwieriger
    zu interpretieren sind, sollten Flächen- oder Tortendiagramme nur
    in Ausnahmen gewählt werden. Die Länge von Balken, Säulen oder
-   Boxen sowie die 2-D-Position von Punkten sind einfacher zu
+   Boxen sowie die 2D-Position von Punkten sind einfacher zu
    interpretieren
   - Der darzustellende **Zahlenraum** sollte in der Grafik beibehalten
    werden. Die Distanz der Achsenbeschriftung muss einheitlich sein,
    die Achsenbeschriftung sollte bei null beginnen – ansonsten ist
    die Gefahr der Manipulation groß, da Unterschiede und Trends
    dramatisiert oder verharmlost werden können
-  - **3-D-Darstellungen** sind zu vermeiden, da sie häufig nicht die
+  - **3D-Darstellungen** sind zu vermeiden, da sie häufig nicht die
    Lesbarkeit der Grafik verbessern.
   - Farben, typografische Elemente und Formen können helfen,
    **Akzente** zu setzen und bestimmte **Attribute** in der Grafik
@@ -563,7 +547,7 @@ Stelle exemplarisch aufgeführt:
     Geodäsie</span>](https://www.geoportal.de/) abgerufen werden
   - Auswahl des **Kartentyps:** Man unterscheidet je nach
     darzustellendem Datentyp Diagrammkarten für quantitative, absolute
-    Daten; Choroplethenkarten für quantitative, relative Daten und
+    Daten; Choroplethenkarten (Flächendichtekarten) für quantitative, relative Daten und
     Standortkarten für qualitative Daten. Darüber hinaus gibt es
     mehrschichtige Daten, die verschiedene Kartentypen vereinen
   - **Farbgebung:** Beim Einsatz von Farben sollte deren Assoziation
@@ -585,22 +569,22 @@ Stelle exemplarisch aufgeführt:
 ## 4.3. Wie erreicht die GBE einen Impact?
 
 Natürlich möchte die GBE den Grundstein für faktenbasierte und möglichst
-evidenz-informierte Entscheidungen legen. Aber nicht immer erwachsen aus
+evidenzinformierte Entscheidungen legen. Aber nicht immer erwachsen aus
 Berichten umfassende Modifikationen, die dann auch noch messbar zu einer
 Veränderung der gesundheitlichen Lage führen. Aber es gibt
 Zwischenschritte, die ebenfalls einen Impact der GBE zum Ausdruck
 bringen (Rosenkötter et al. 2020):
 
   - die **Stärke und Breite der Resonanz** nach Veröffentlichung von
-    Gesundheitsberichten oder anderen GBE-Produkten
+    Gesundheitsberichten oder anderen GBE-Produkten,
  - die Berücksichtigung der Ergebnisse der GBE in weiteren
-    **Planungsprozessen**
+    **Planungsprozessen**,
  - die **Entwicklung von Strukturen oder Gremien** zu einem in der
-    Berichterstattung hervorgehobenen Sachverhalt
+    Berichterstattung hervorgehobenen Sachverhalt,
  - die **Bereitstellung von Fördermitteln** zur Umsetzung der
-    abgeleiteten Handlungsempfehlungen
+    abgeleiteten Handlungsempfehlungen,
  - die **Etablierung konkreter Maßnahmen und Programme** basierend
-    auf den Handlungsempfehlungen der GBE
+    auf den Handlungsempfehlungen der GBE.
 
 Der Impact der GBE hängt auch davon ab, ob alle wesentlichen Aspekte,
 die den Impact beeinflussen, bei der Planung und Umsetzung
@@ -619,15 +603,15 @@ Rosenkötter et al. 2020).
 
 ### 4.3.1. „Vermarktung“ der GBE – Pressearbeit und Kommunikation 
 
-Die „Vermarktungsstrategie“ der Produkte der GBE kann anhand der sieben
+Die Vermarktungsstrategie der Produkte der GBE kann anhand der sieben
 Marketingkriterien (7 Ps) von Boom und Bitner entwickelt werden (zit.
 nach van Bon-Martens et al. 2019). Für die GBE sind allerdings nur sechs
 der sieben Kriterien relevant, das siebte Kriterium, der Preis, spielt
 in der GBE in der Regel keine Rolle, da die Produkte üblicherweise
 kostenfrei zur Verfügung stehen. Im Folgenden werden die sechs Kriterien
 benannt und beispielhaft Fragen gelistet, die für die Entwicklung einer
-„Vermarktungsstrategie“ relevant sein können:
-  -  **Produkte („products“):** Wäre es sinnvoll, Ihren Bericht durch
+Vermarktungsstrategie relevant sein können:
+  -  **Produkte (Products):** Wäre es sinnvoll, Ihren Bericht durch
      andere Produkte wie kurze Videos oder Infografiken zu ergänzen
      oder eine spezifische Zusammenfassung für politische
      Entscheidungsträger, andere Interessengruppen oder eine
@@ -636,32 +620,31 @@ benannt und beispielhaft Fragen gelistet, die für die Entwicklung einer
      was das Erscheinungsbild und das Layout betrifft – etwas
      Inspirierendes für Sie, das Ihren Bericht ansprechender und
      moderner macht?
-  -  **Werbung („promotion“):** Wie werden Sie die Öffentlichkeit über
+  -  **Werbung (Promotion):** Wie werden Sie die Öffentlichkeit über
      den Bericht informieren? Wie informieren Sie interessierte
      Kolleginnen und Kollegen? Wie die Fachöffentlichkeit? Wird es eine
      Pressekonferenz geben oder bereiten Sie in Abstimmung mit der
      Pressestelle Ihrer Kommune eine Pressemitteilung vor? Ist der
      Einsatz von Social Media sinnvoll? Wenn ja, entwickeln Sie einen
-     informativen News-Feed mit dem Link zu Ihrem Bericht,
+     informativen Newsfeed mit dem Link zu Ihrem Bericht,
      aussagekräftigen Zahlen und relevanten inhaltlichen
      Informationen\!
-  -  **Veröffentlichungsort („place“):** Überlegen Sie, wo der Bericht
+  -  **Veröffentlichungsort (Place):** Überlegen Sie, wo der Bericht
      zu finden ist. Kann er im Bestellsystem für gedruckte Broschüren
      des Kreises/der Stadt, der Seite Ihres Amtes oder einer speziellen
      Seite mit Produkten der GBE gefunden werden? Es sind verschiedene
      Orte für die Veröffentlichung möglich. Denken Sie über einen Ort
      nach, der am besten zu den Gewohnheiten und dem Kontext in Ihrem
      Verwaltungsbezirk passt.
-  -  **Personen („persons“):** Unterschätzen Sie nicht die Relevanz der
+  -  **Personen (Persons):** Unterschätzen Sie nicht die Relevanz der
      Personen, die den Bericht geschrieben haben. Obwohl die Stadt oder
      der Kreis normalerweise als Herausgeber fungiert, könnte es
      hilfreich sein, renommierte und gut vernetzte Personen im
      Autorinnen- und Autorenteam zu haben. Der Ruf des Autorinnen- und
      Autorenteams trägt dazu bei, wie der Bericht wahrgenommen wird.
-     Darüber hinaus ist es hilfreich, wenn Mitglieder des Autorinnen-
-     und Autorenteams die Inhalte des Berichts im Rahmen von Vorträgen
-     überzeugend darstellen können.
-  -  **Verbreitung („process of delivery“):** Ganz allgemein ist es
+     Darüber hinaus ist es hilfreich, wenn Mitglieder des Teams die Inhalte
+     des Berichts im Rahmen von Vorträgen überzeugend darstellen können.
+  -  **Verbreitung (Process of Delivery):** Ganz allgemein ist es
      ratsam, verschiedene Kanäle für die Verbreitung zu nutzen: die
      Medien, die interessierte Fachöffentlichkeit, relevante
      Zielgruppen (je nach Inhalt des Berichts kann es hilfreich sein,
@@ -672,8 +655,8 @@ benannt und beispielhaft Fragen gelistet, die für die Entwicklung einer
      Kontakte. Denken Sie aber auch über den Zeitpunkt der
      Veröffentlichung nach, zum Beispiel zu einem bestimmten Zeitpunkt
      innerhalb der Legislaturperiode oder in Verbindung mit einem
-     anderen wichtigen Ereignis („window of opportunity“).
-  -  **Umfeld („physical evidence“):** Wenn Sie eine Gesamtbewertung in
+     anderen wichtigen Ereignis (Window of Opportunity).
+  -  **Umfeld (Physical Evidence):** Wenn Sie eine Gesamtbewertung in
      Bezug auf die Veröffentlichung und Verbreitung des Berichts
      vornehmen: Macht alles einen professionellen und zuverlässigen
      Eindruck, sprich die Produkte, der Veröffentlichungsort, die
@@ -688,7 +671,7 @@ dieses Kapitel aufzeigt – den Umgang mit (gesundheitsbezogenen) Daten.
 Eine gewisse Affinität zu Zahlen ist ebenso von Vorteil wie ein
 ganzheitliches Grundverständnis von Gesundheit. Wenn
 Gesundheitsberichterstattung als Mehrwert aufgefasst wird und nicht als
-„bloßes Zusammenstellen“ von Datentabellen aus verschiedenen
+bloßes Zusammenstellen von Datentabellen aus verschiedenen
 Datenquellen, sind weitreichende Kenntnisse epidemiologischer und
 sozialwissenschaftlicher Methoden notwendig. Das Verständnis
 epidemiologischer Kennzahlen, die die Verteilung von Gesundheit in der
@@ -709,7 +692,7 @@ von Grafiken oder Karten darf nicht unterschätzt werden. Eine intensive
 Auseinandersetzung mit der Aussagekraft der Daten und den oben genannten
 Empfehlungen ist zwingend notwendig.
 
-Sobald Daten mit Daten anderer Ressorts oder Sektoren integriert werden,
+Sobald eigene Daten mit Daten anderer Ressorts oder Sektoren integriert werden,
 sind unter anderem sozialepidemiologische, arbeitssoziologische,
 planerische oder umweltbezogene Kenntnisse notwendig, um sinnvolle
 Verknüpfungen zu erstellen (siehe auch [Kapitel 5]({{ site.baseurl }}{% link 05-IntegrierteGBE.md %})). Hier ist es ratsam,
@@ -742,7 +725,7 @@ oder die Fachtagung Kommunale GBE in Nordrhein-Westfalen).
 
 Datengrundlage der GBE
 
-  - Gothe H et al. (Hrsg.) (2014): Routinedaten im Gesundheitswesen -
+  - Gothe H et al. (Hrsg.) (2014): Routinedaten im Gesundheitswesen –
     Handbuch Sekundärdatenanalyse: Grundlagen, Methoden und
     Perspektiven. 2., vollst. überarb. u. erw. Aufl. Bern: Verlag Hans
     Huber.
@@ -756,11 +739,11 @@ Datengrundlage der GBE
 
 Methodenkenntnisse in der GBE
 
-  - Kuhn J, Wildner M (2019): Gesundheitsdaten verstehen - Statistiken
+  - Kuhn J, Wildner M (2019): Gesundheitsdaten verstehen – Statistiken
     lesen lernen – ein Einsteigerbuch. 2., vollständig überarbeitete und
     erweiterte Auflage. Bern: Hogrefe.
 
-  - LGL (2008): Mediale Aspekte der Gesundheitsberichterstattung -
+  - LGL (2008): Mediale Aspekte der Gesundheitsberichterstattung –
     Handlungshilfe. Erlangen, 2008.
 
   - LGL (2011): Gesundheitsberichterstattung für die Landkreise und
@@ -773,7 +756,7 @@ GBE und Impact
 
   - Albrich C, Brandeis B, Erb J et al. (2017): Handlungsempfehlungen
     für den Aufbau einer Gesundheitsplanung im Öffentlichen
-    Gesundheitsdienst - Ergebnisse eines Pilotvorhabens in
+    Gesundheitsdienst – Ergebnisse eines Pilotvorhabens in
     Baden-Württemberg. Stuttgart, 2017.
 
   - LGL (2019): Von Daten zum Handlungsbedarf: Aufgreifkriterien für
