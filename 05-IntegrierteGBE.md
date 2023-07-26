@@ -24,9 +24,9 @@ aber nicht auf solche Einzelthemen beschränkt. Das zentrale Anliegen ist
 vielmehr, aufzuzeigen, wie gesellschaftliche Verhältnisse Gesundheit
 beeinflussen. Gesundheit hängt von vielen Faktoren ab: zum einen
 natürlich vom individuellen Verhalten, zum anderen aber auch von
-Faktoren, die in der Verantwortung vieler Politikbereiche liegen, von
+Faktoren, die in der Verantwortung mehrerer Politikbereiche liegen – von
 der Bildungspolitik über die Arbeitsmarktpolitik bis hin zum Städtebau
-und der Raumplanung. In [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) sind wir hierauf mit dem Regenmodell
+und der Raumplanung. In [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) sind wir hierauf mit dem Regenbogenmodell
 von Dahlgren und Whitehead auch schon etwas genauer eingegangen. Diese
 gesellschaftlichen Determinanten von Gesundheit können im Rahmen der
 Gesundheitsberichterstattung direkt thematisiert und analysiert werden,
@@ -84,10 +84,10 @@ sich aber auch als lohnend herausstellen, da im Rahmen der
 sektorübergreifenden Zusammenarbeit Handlungsempfehlungen auf der
 Verhältnisebene abgeleitet werden können (Näheres hierzu auch in
 [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %})). Ein hilfreiches Praxistool bietet das niedersächsische Tool
-„[<span class="underline">Kontextcheck</span>
+[<span class="underline">Kontextcheck</span>
 <span class="underline">–</span> <span class="underline">Kommunale
 Gesundheitsförderung und Prävention strategisch
-gestalten</span>](https://www.kontextcheck.de/)<span class="underline">“</span>,
+gestalten</span>](https://www.kontextcheck.de/)<span class="underline"></span>,
 welches einen Leitfaden und entsprechende Handlungshilfen beinhaltet.
 Als weiteres Praxisinstrument zur partizipativen Datenerhebung,
 Bewertung und Bedürfnisermittlung sei auf den
@@ -102,29 +102,15 @@ Informationen zur sozialen Lage enthalten, ist es jedoch oftmals
 schwierig, im Rahmen der GBE oder integrierter Berichterstattungen
 sozial bedingte gesundheitliche Ungleichheit darzustellen. In solchen
 Fällen bieten sich beispielsweise **raumbezogene Auswertungen** an, bei
-denen auf der räumlichen Ebene Gesundheitsdaten mit SozialIndizes (zum
+denen auf der räumlichen Ebene Gesundheitsdaten mit Sozialindizes (zum
 Beispiel Böhm 2007) oder Deprivationsindizes (zum Beispiel Kroll et al.
 2017) verknüpft werden. Diese Indizes sind sogenannte Proxy-Variablen,
 die die Sozialstruktur der Bevölkerung in räumlichen Einheiten abbilden,
 die der Analyse zugrunde liegen. Bei diesem Ansatz besteht allerdings
-prinzipiell die Gefahr eines ökologischen Fehlschlusses. Ein
-ökologischer Fehlschluss liegt vor, wenn von Zusammenhängen, die auf
-der Kollektivebene beobachtbar sind, fälschlicherweise auf die
-Individualebene geschlossen wird. So bedeutet die im soziologischen
-Klassiker „Le Suicide“ (Durkheim 1983) aufgezeigte Feststellung, dass in
-Ländern und Regionen mit hohen Anteilen an Protestanten in der
-Bevölkerung die Suizidrate besonders hoch ist, nicht zwingend, dass
-Protestanten häufiger Selbstmord begehen. Eine Auswertung auf der Ebene
-von Individualdatensätzen könnte nämlich zeigen, dass Suizide nicht mit
-der Konfession zusammenhängen, sondern auf andere Faktoren zurückgehen,
-wie zum Beispiel Lebenskrisen. Diese Analyse könnte sogar ergeben, dass
-es hauptsächlich Katholiken und nicht Protestanten sind, die Selbstmord
-verüben. Korrelationen, die auf der Grundlage von Aggregatkennziffern
-(Durchschnittswerte oder Anteile) berechnet wurden, sollten daher
-zurückhaltend interpretiert werden.
+prinzipiell die Gefahr eines ökologischen Fehlschlusses. Ein ökologischer Fehlschluss liegt vor, wenn von Zusammenhängen, die auf der Kollektivebene beobachtbar sind, fälschlicherweise auf die Individualebene geschlossen wird. So bedeutet Durkheims Beobachtung, dass in Ländern und Regionen mit hohen Anteilen an Protestanten in der Bevölkerung die Suizidrate besonders hoch ist,  aus dem soziologischen Klassiker „Le Suicide“ (1983) nicht zwingend, dass Protestanten häufiger Selbstmord begehen. Eine Auswertung auf der Ebene von Individualdatensätzen könnte nämlich auch zeigen, dass Suizide nicht mit der Konfession zusammenhängen, sondern auf andere Faktoren zurückgehen, wie zum Beispiel Lebenskrisen. Diese Analyse könnte sogar ergeben, dass es hauptsächlich Katholiken und nicht Protestanten sind, die Selbstmord verüben. Korrelationen, die auf der Grundlage von Aggregatkennziffern (Durchschnittswerte oder Anteile) berechnet wurden, sollten daher zurückhaltend interpretiert werden.
 
-Der „[German Index of socio-economic
-Deprivation](https://lekroll.github.io/GISD/)“ ist ein Beispiel für
+Der [German Index of socio-economic
+Deprivation](https://lekroll.github.io/GISD/) ist ein Beispiel für
 einen Deprivationsindex, in dem Indikatoren zu Bildung, Arbeit und
 Einkommen zusammengeführt werden (Kroll et al. 2017). Dieser Index liegt
 bis auf Städte- und Gemeindeebene vor
@@ -171,13 +157,13 @@ kreisfreien Stadt liefern (Rosenkötter et al. 2020).
 
   - Galante-Gottschalk A, Pott S, Fischer C, Erb J, Ohm H, Reichhardt G,
     Ehehalt S, Spatz S, Tropp H (2016): Integrierte Gesundheits- und
-    Sozialberichterstattung - Das Sozialmonitoring der Landeshauptstadt
+    Sozialberichterstattung – Das Sozialmonitoring der Landeshauptstadt
     Stuttgart. In: Das Gesundheitswesen 78 (04). DOI:
     10.1055/s-0036-1578958.
 
   - Landesinstitut für den Öffentlichen Gesundheitsdienst des Landes
     Nordrhein-Westfalen (lögd) (Hrsg.) (2004): Integrierte
-    Basis-Berichterstattung für gesündere Städte und Kommunen - Quellen,
+    Basis-Berichterstattung für gesündere Städte und Kommunen – Quellen,
     Auswahlprozess und Profile für einen Indikatorensatz. Bielefeld:
     lögd (Wissenschaftliche Reihe, 17).
 
@@ -187,7 +173,7 @@ kreisfreien Stadt liefern (Rosenkötter et al. 2020).
     zuletzt geprüft am 13.02.2020.
 
   - Süß W, Schäfer I, Trojan A (Hrsg.) (2007): Integrierte
-    (Gesundheits-) Berichte - Konzeptionelle Überlegungen und
+    (Gesundheits-) Berichte – Konzeptionelle Überlegungen und
     Umsetzungserfahrungen. 1. Auflage. Aachen: Shaker Verlag (Berichte
     aus der Medizin).
 
