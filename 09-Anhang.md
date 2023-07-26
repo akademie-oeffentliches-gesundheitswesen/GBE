@@ -18,27 +18,35 @@ nav_order: 10
 
 ## Abkürzungsverzeichnis
 
-- **AOLG**: Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden
-- **DEGS**: Studie zur Gesundheit Erwachsener in Deutschland des Robert Koch-Instituts
-- **DRG-Statistik**: Fallpauschalen­bezogene Krankenhausstatistik
-- **ECHI**: Europäischer Kernindikatorensatz für Gesundheit (*European Core Health Indicators*)
-- **GBE**: Gesundheitsberichterstattung
-- **GDG**: Gesundheitsdienstgesetzte der Länder
-- **GEDA**: Gesundheit in Deutschland aktuell, Studie des Robert Koch-Instituts
-- **GKV-Daten**: Daten der Gesetzlichen Krankenversicherungen
-- **HiAP**: Health in All Policies
-- **ICD**: Internationale statistische Klassifikation der Krankheiten
-- **IfSG**: Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen (Infektionsschutzgesetz)
-- **INKAR**: Indikatoren und Karten zur Raum- und Stadtentwicklung
-- **KiGGS**: Studie zur Gesundheit von Kindern und Jugendlichen in Deutschland des Robert Koch-Instituts
-- **KGK**: Kommunale Gesundheitskonferenz
-- **LGL**: Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit
-- **ÖGD**: Öffentlicher Gesundheitsdienst
-- **PHAC**: Public Health Action Cycle
-- **PrävG**: Gesetz zur Stärkung der Gesundheitsförderung und der Prävention (Präventionsgesetz)
-- **RKI**: Robert Koch-Institut
-- **SEU**: Schuleingangsuntersuchung
-- **WHO**: Weltgesundheitsorganisation (*World Health Organisation*)
+- **AÖGW** – Akademie für Öffentliches Gesundheitswesen
+- **AOLG** – Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden
+- **AV-ÖGDG** – Ausführungsverordnung zum Gesetz über den Öffentlichen Gesundheitsdienst
+- **(NRW)DEGS** – Studie zur Gesundheit Erwachsener in Deutschland des Robert Koch-Instituts
+- **DIKW** – Data-Information-Knowledge-Wisdom
+- **DRG-Statistik** – Fallpauschalen­bezogene Krankenhausstatistik
+- **ECHI** – Europäischer Kernindikatorensatz für Gesundheit (European Core Health Indicators)
+- **EPHO** - Essential Public Health OperationsGBE – Gesundheitsberichterstattung
+- **GDG** – Gesundheitsdienstgesetzte der Länder
+- **GDVG** - Gesundheitsdienst- und Verbraucherschutzgesetz
+- **GEDA** – Gesundheit in Deutschland aktuell, Studie des Robert Koch-Instituts
+- **GKV** – Gesetzliche KrankversicherungGKV-Daten – Daten der Gesetzlichen Krankenversicherungen
+- **GPRS AOLG** – Arbeitsgruppe Gesundheitsberichterstattung, Prävention, Rehabilitation und Sozialmedizin der Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden 
+- **HiAP** – Health in All Policies
+- **ICD** – Internationale statistische Klassifikation der Krankheiten 
+- **IfSG** – Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen (Infektionsschutzgesetz)
+- **IS-GBE** – Informationssystem der Gesundheitsberichterstattung des BundesINKAR – Indikatoren und Karten zur Raum- und Stadtentwicklung
+- **KiGGS** – Studie zur Gesundheit von Kindern und Jugendlichen in Deutschland des Robert Koch-Instituts
+- **KGK** – Kommunale Gesundheitskonferenz
+- **LGL** – Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit
+- **LZG.NRW** – Landeszentrum Gesundheit Nordrhein-Westfalen
+- **ÖGD** – Öffentlicher Gesundheitsdienst
+- **PHAC** – Public Health Action Cycle
+- **PrävG** – Gesetz zur Stärkung der Gesundheitsförderung und der Prävention (Präventionsgesetz)
+- **PSAG** – Psychosoziale Arbeitsgemeinschaft
+- **RKI** – Robert Koch-Institut
+- **WHO** – Weltgesundheitsorganisation (World Health Organisation)
+- **ZfPH** – Zukunftsforum Public Health
+
 
 ## Weiterführende Literatur zum Einstieg in die GBE – eine unvollständige Sammlung aus verschiedenen Themenfeldern
 
@@ -110,7 +118,7 @@ nav_order: 10
 
   - Bardehle D, Annuß R (2012). Gesundheitsberichterstattung. in:
     Hurrelmann, Razum (Hrsg.) Handbuch Gesundheitswissenschaften.
-    Juventa Verlag, Weinheim, 403-440.
+    Juventa Verlag, Weinheim, 403–440.
 
   - Deutsche Gesellschaft für Epidemiologie (DGEpi) (2008): Leitlinien
     und Empfehlungen zur Sicherung von Guter Epidemiologischer Praxis
@@ -123,7 +131,7 @@ nav_order: 10
     erweiterte Auflage. Bern: Hogrefe.Gesundheitsministerkonferenz
     (2018). Leitbild für einen modernen öffentlichen Gesundheitsdienst
     (ÖGD) – „Der ÖGD: Public Health vor Ort“. Gesundheitswesen 80,
-    679-681.
+    679–681.
 
   - Kuhn 2016, Gesundheitsberichterstattung, in Schröder-Bäck/Kuhn:
     Ethik in den Gesundheitswissenschaften, Juventa, S. 384 ff.
@@ -133,22 +141,22 @@ nav_order: 10
 
   - Schräder W, Loos S (2006). Ökonomische Steuerung durch
     Gesundheitsberichterstattung. In: Kuhn J, Busch R (Hrsg.) Gesundheit
-    zwischen Staat und Politik. Mabuse Verlag, Frankfurt, 252-253.
+    zwischen Staat und Politik. Mabuse Verlag, Frankfurt am Main, 252–253.
 
   - Stockmann S et al. (2009). Der Public Health-Kontext der kommunalen
     Gesundheitsberichterstattung in Deutschland. In: Kuhn J, Böcken J
     (Hrsg.) Verwaltete Gesundheit – Konzepte der
     Gesundheitsberichterstattung in der Diskussion. Mabuse-Verlag,
-    Frankfurt, 239-256.
+    Frankfurt am Main, 239–256.
 
   - Szagun B, Starke D (2005). Prävention und
     Gesundheitsberichterstattung im ÖGD. Bedingungen und Chancen.
-    Bundesgesundheitsbl - Gesundheitsforsch - Gesundheitsschutz
+    Bundesgesundheitsbl – Gesundheitsforsch – Gesundheitsschutz
     48:1125–1129
 
   - Starke D. et al. (2019): Gute Praxis Gesundheitsberichterstattung –
     Leitlinien und Empfehlungen. Journal of Health Monitoring 4 (S1),
-    1-22.
+    1–22.
 
   - Handlungshilfen des LGL:
     [GBE-Praxis](https://www.lgl.bayern.de/publikationen/index.htm)
@@ -209,7 +217,7 @@ gesundheitliches Merkmal?).
 
 **Risikomaße:** Inzidenzen lassen sich auch als absolutes
 Erkrankungsrisiko lesen. Setzt man die Inzidenzen zweier Gruppen in
-Relation, spricht man vom „Relativen Risiko“. Es gibt einen Hinweis
+Relation, spricht man vom relativen Risiko. Es gibt einen Hinweis
 darauf, ob eine Gruppe stärker von einer Erkrankung betroffen ist als
 eine andere. Es gibt eine Vielzahl spezieller Risikomaße, auf die hier
 nicht näher eingegangen werden soll, dazu sei auf die Literatur zur
@@ -224,7 +232,7 @@ Unterschied des Altersaufbaus beider Gruppen statistisch bereinigen.
 Auch hier sei auf die Literatur zur Epidemiologie verwiesen. Eine
 allgemein verständliche Einführung liefert die GBE-Handlungshilfe 2
 „[Epidemiologie und
-Gesundheitsberichterstattung](https://www.lgl.bayern.de/gesundheit/gesundheitsberichterstattung/methoden_handlungshilfen/index.htm)„
+Gesundheitsberichterstattung](https://www.lgl.bayern.de/gesundheit/gesundheitsberichterstattung/methoden_handlungshilfen/index.htm)“
 des Bayerischen Landesamtes für Gesundheit und Lebensmittelsicherheit.
 
 ## Übersicht Datenquellen der GBE (exemplarische Auswahl) 
@@ -235,7 +243,7 @@ des Bayerischen Landesamtes für Gesundheit und Lebensmittelsicherheit.
 <th><strong>Themenbereich</strong></th>
 <th><strong>Datenquellen</strong></th>
 <th><strong>Indikatorenbeispiele</strong></th>
-<th><strong>Abrufbar bei</strong></th>
+<th><strong>abrufbar bei</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -270,7 +278,7 @@ Kostennachweis der Krankenhäuser, ...</td>
 <td></td>
 <td>GKV-Routinedaten<br />
 (KV 45, KJ 1, KM 1)</td>
-<td>stationäre Behandlungsfälle (Morbidität), Diagnosen, Prozeduren, verordnete Arzneimittel, Angaben zur Arbeitsunfähigkeit, Arbeitsunfähigkeitsdiagnosen /-Tage, Inanspruchnahme Vorsorgeuntersuchungen/ Früherkennungsuntersuchungen, ...</td>
+<td>stationäre Behandlungsfälle (Morbidität), Diagnosen, Prozeduren, verordnete Arzneimittel, Angaben zur Arbeitsunfähigkeit, Arbeitsunfähigkeitsdiagnosen/-Tage, Inanspruchnahme Vorsorgeuntersuchungen/Früherkennungsuntersuchungen, ...</td>
 <td>in NRW nur AU-Daten der BKKen kommunal routinemäßig nutzbar</td>
 </tr>
 <tr class="even">
@@ -304,7 +312,7 @@ Kostennachweis der Krankenhäuser, ...</td>
 <td><a href="http://www.gbe-bund.de/"><span class="underline">www.gbe-bund.de</span></a></td>
 </tr>
 <tr class="odd">
-<td>Demografische Daten</td>
+<td>demografische Daten</td>
 <td>Fortschreibung des Bevölkerungsstandes (zum Beispiel Statistisches Jahrbuch), Bevölkerungsstatistiken (zum Beispiel Statistische Ämter), …</td>
 <td>Bevölkerungszahl, Geschlecht<br />
 Alter, Migration, ausländische Bevölkerung, Bevölkerungsentwicklung, …</td>
@@ -317,7 +325,7 @@ Alter, Migration, ausländische Bevölkerung, Bevölkerungsentwicklung, …</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td>Regionale Daten/Daten auf Stadt- und Kreisebene</td>
+<td>regionale Daten/Daten auf Stadt- und Kreisebene</td>
 <td>Indikatoren und Karten zur Raum- und Stadtentwicklung (INKAR)</td>
 <td>Bildungsabschlüsse, Einkommen, Erwerbsbeteiligung, Flächennutzung, Lebenserwartung, vorzeitige Sterblichkeit, Arztdichte und weitere Indikatoren, …</td>
 <td>Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR)</td>
