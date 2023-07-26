@@ -19,11 +19,11 @@ Autoren dar und auf Twitter hätten wir vermutlich ergänzt: **„All views
 are our own.“**
 
 > Gesundheitsberichterstattung stellt für mich eine wesentliche
-> Voraussetzung für evidenz-informiertes Handeln dar. Dabei ist die GBE
+> Voraussetzung für evidenzinformiertes Handeln dar. Dabei ist die GBE
 > weder Allheilmittel noch Mittel zum Zweck. Es geht nicht nur um einen
-> „einfachen“ Wissenstransfer, sondern auch um ein aktives Einbringen
+> einfachen Wissenstransfer, sondern auch um ein aktives Einbringen
 > in und Mitausgestalten von Entscheidungsfindungsprozessen. Damit dies
-> gelingt braucht es neben „Zeit, Geld und Muße“, Knowhow und eine
+> gelingt braucht es neben Zeit, Geld und Muße, Know-how und eine
 > gehörige Portion Mut auf Seiten der GBE. Die Aufbereitung und
 > Darstellung komplexer Sachverhalte kann nur auf einer soliden,
 > transparenten und gut aufbereiteten Datenbasis funktionieren. Damit
@@ -113,7 +113,7 @@ Gesundheitsberichterstattung und Gesundheitsplanung, Gesundheitsamt der
 Landeshauptstadt Stuttgart
 
 
-> Dass das GBE mehr ist als das Runterbeten oder Abschreiben von Zahlen,
+> Dass die GBE mehr ist als das Runterbeten oder Abschreiben von Zahlen,
 > die gegebenenfalls auch bei den Statistikämtern zu finden sind,
 > konnten wir in diesem Buch sehr gut verdeutlichen. Ich wünsche mir,
 > dass diese Erkenntnis in den Stellenplänen und bei der Bereitstellung
@@ -130,8 +130,7 @@ Landeshauptstadt Stuttgart
 > Öffnung der GBE: dass sie sich nicht nur als eigenständige Disziplin
 > begreift, sondern auch als Dienstleister für andere
 > Berichterstattungssysteme und bestenfalls als Teil einer integrierten
-> Berichterstattung agiert. Ganz im Sinne des „*Health in All
-> Policies“*-Ansatzes bietet diese Öffnung die Chance, dass neben dem
+> Berichterstattung agiert. Ganz im Sinne des Health-in-All-Policies-Ansatzes bietet diese Öffnung die Chance, dass neben dem
 > klassischen Themenspektrum auch die Lebensverhältnisse und das
 > Lebensumfeld der Menschen sowie die politischen und kommerziellen
 > Determinanten in den Fokus rücken und in die Planung von
@@ -144,13 +143,12 @@ Gesundheitswesen
 > Für die Gesundheitsberichterstattung der näheren und ferneren Zukunft
 > wünsche ich mir aufgeschlossene Entscheidungsträgerinnen und
 > Entscheidungsträger, die gut aufbereitete, verlässliche Daten als
-> Handlungsgrundlage (mit) berücksichtigen. Ich stelle mir eine
-> Berichterstattung vor, die integriert erfolgt gemäß des „Health in All
-> Policies“-Ansatzes und die nicht davor zurückschreckt, Empfehlungen
+> Handlungsgrundlage (mit-)berücksichtigen. Ich stelle mir eine
+> Berichterstattung vor, die integriert erfolgt gemäß des Health-in-All
+> Policies-Ansatzes und die nicht davor zurückschreckt, Empfehlungen
 > auszusprechen, die verschiedene politische Handlungsebenen betreffen.
 > Dafür braucht es gut qualifizierte und gut fortgebildete GBElerinnen
-> und GBEler – und an dieser Stelle hoffe ich auf mutige und
-> entschlossene Leitungen, Stellen entsprechend zu besetzen, eine
+> und GBEler – und an dieser Stelle hoffe ich auf Leitungen mit dem Mut und der Entschlossenheit, Stellen entsprechend zu besetzen – eine
 > Stellenausschreibung haben wir dafür schon entworfen. Schließlich ist
 > es mein Ziel, die Weiterentwicklung der Gesundheitsberichterstattung
 > und der Berichterstattung insgesamt so zu begleiten, dass Kolleginnen
@@ -162,10 +160,10 @@ Prof.in Dr. phil. Dagmar Starke, komm. Leiterin der Akademie für
 Öffentliches Gesundheitswesen
 
 > Mein Wunschzettel umfasst:  
-> 1\. Dass ein Teil der im „Pakt für den ÖGD“ geplanten Verstärkung des
+> 1\. Dass ein Teil der im Pakt für den ÖGD geplanten Verstärkung des
 > kommunalen ÖGD in den Zeiten zwischen den Pandemien den
 > Zukunftsaufgaben wie der GBE einen flächendeckenden Anschub gibt;  
-> 2\. Dass sich „nach Corona“ ein Teil des gesellschaftlichen Interesses
+> 2\. Dass sich nach Corona ein Teil des gesellschaftlichen Interesses
 > für öffentliche Gesundheit und die Datenbasis unserer Entscheidungen
 > für die Gesundheit verstetigen wird;  
 > 3\. Dass der pandemiebedingte (unter anderem medienseitige) Schub in
@@ -196,7 +194,7 @@ Gesundheitsamt Bremen
 > Ich wünsche mir eine Person mit Vollzeitstelle und Expertise in der
 > GBE an jedem Gesundheitsamt (zum Beispiel mit Mitteln aus dem Pakt für
 > ÖGD), um die kommunale GBE gewinnbringend für unsere Strategie
-> „*Health in All Policies“* mit all ihren Aufgaben von der Planung
+> Health in All Policies mit all ihren Aufgaben von der Planung
 > bei Gesundheitsförderung und Versorgungskoordination bis zur
 > Erfolgskontrolle nutzen zu können. Ideal wäre es auch, wenn die
 > Landes-GBE mit der kommunalen GBE abgestimmt wäre. Abstimmung heißt
