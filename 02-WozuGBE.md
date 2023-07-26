@@ -59,13 +59,13 @@ Auf Bundes-, Landes- und kommunaler Ebene dient die GBE als Instrument
 der wissenschaftlichen Politikberatung und ist wichtige Ausgangsbasis
 für die Gesundheitsplanung (siehe auch [Kapitel 7]({{ site.baseurl }}{% link 07-Planung.md %})). Dieses umfangreiche
 Aufgaben- und Funktionsprofil wird häufig anhand des
-gesundheitspolitischen Planungsmodells der „Public Health Trias“
-(Institute of Medicine (U.S.) 1988) bzw. dem darauf basierenden „Public
-Health Action Cycle“ (PHAC) beschrieben (Rosenbrock 1995) und ist in
+gesundheitspolitischen Planungsmodells der Public Health Trias
+(Institute of Medicine (U.S.) 1988) bzw. dem darauf basierenden Public
+Health Action Cycle (PHAC) beschrieben (Rosenbrock 1995) und ist in
 Abbildung 3 dargestellt.
  <figure>
   <img src="./media/AOE-2520-Booksprints-03.png" alt="Abbildung 3: Public Health Action Cycle" style="width:90%">
-  <figcaption>Abbildung 3: „Public Health Action Cycle“ (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine (U.S.) 1988)
+  <figcaption>Abbildung 3: Public Health Action Cycle (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine (U.S.) 1988)
 </figcaption>
 </figure> 
 
@@ -124,15 +124,8 @@ die im Folgenden skizziert werden.
 
 ## 2.2. Entstehungshintergründe und Ziele der GBE 
 
-Vor der Erstellung eines Gesundheitsberichtes ist die Frage, warum und
-für wen der Bericht erstellt wird, jedes Mal gründlich zu reflektieren.
-Aus den Antworten leiten sich unter anderem der Umfang des Berichts und
-der Sprachstil, aber auch die Mitwirkenden am Bericht und insbesondere
-die Handlungsempfehlungen und die Zeitplanung ab. Auf den
-unterschiedlichen administrativen Ebenen (Bund, Länder, Kommunen) gibt
-es stark variierende Anlässe zur Erstellung von Gesundheitsberichten.
-Anlässe für kommunale Gesundheitsberichte können beispielsweise eine
-Grundlage sein für
+Vor der Erstellung eines Gesundheitsberichtes sollte jedes Mal gründlich reflektiert werden, warum und für wen der Bericht erstellt wird. Hieraus ergibt sich unter anderem der Umfang des Berichts und der Sprachstil. Darüber hinaus lässt sich hieraus auch ableiten, wer bei der Berichterstellung mitwirken kann und sollte. Perspektivisch haben die Informationen über Intention und Zielgruppe eine große Bedeutung für die Ableitung von Handlungsempfehlungen und die Zeitplanung der Berichterstellung. Auf den unterschiedlichen administrativen Ebenen (Bund, Länder, Kommunen) gibt es stark variierende Anlässe zur Erstellung von Gesundheitsberichten. Anlässe für kommunale Gesundheitsberichte können beispielsweise eine Grundlage sein für
+
 
 1.  **Meinungsbildung und Entscheidungsfindung auf der jeweiligen
     politischen Ebene, beispielsweise dem Kreistag oder der
