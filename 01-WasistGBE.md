@@ -19,69 +19,14 @@ nav_order: 2
 
 ## 1.1. Was ist Gesundheitsberichterstattung?
 
-Gesundheitsberichterstattung (GBE) bezeichnet ein strukturiertes und
-datengestütztes Verfahren zur Beschreibung der gesundheitlichen
-Situation der Bevölkerung oder einer Bevölkerungsgruppe. Eine allgemein
-verbindliche Definition der Gesundheitsberichterstattung mit einer
-klaren Abgrenzung gegenüber anderen datengestützten Berichtsformen gibt
-es jedoch nicht. Was eher als Gesundheitsbericht und was eher als
-Aufklärungsbroschüre, Situationsbericht, amtliche Mitteilung oder
-Gutachten zu klassifizieren ist, kann im Einzelfall also strittig sein.
+Gesundheitsberichterstattung (GBE) bezeichnet ein strukturiertes und datengestütztes Verfahren zur Beschreibung der gesundheitlichen Situation der Bevölkerung oder einer Bevölkerungsgruppe. Eine allgemein verbindliche Definition der Gesundheitsberichterstattung mit einer klaren Abgrenzung gegenüber anderen datengestützten Berichtsformen gibt es jedoch nicht. Was eher als Gesundheitsbericht und was eher als Aufklärungsbroschüre, Situationsbericht, amtliche Mitteilung oder Gutachten zu klassifizieren ist, kann im Einzelfall also strittig sein. 
+Gesundheitsberichte werden von unterschiedlichen Institutionen erstellt. Es gibt beispielsweise Gesundheitsberichte der Weltgesundheitsorganisation (WHO), der Europäischen Union (EU), des Robert Koch-Instituts (RKI), der Gesundheitsämter auf Landes- oder kommunaler Ebene, des Weiteren Gesundheitsberichte von Krankenkassen sowie auch betriebliche Gesundheitsberichte. In diesem Lehrbuch stehen amtliche Gesundheitsberichte auf der kommunalen Ebene im Mittelpunkt, also Gesundheitsberichte, die von Gesundheitsämtern oder anderen kommunalen Einrichtungen erstellt werden. An dieser Stelle sei kurz darauf hingewiesen, dass die Gesundheitsämter in der Regel auf kommunaler Ebene organisiert sind. Eine Ausnahme stellt Bayern dar: Es gibt in Bayern 71 staatliche und fünf kommunale Gesundheitsämter (München, Augsburg, Nürnberg, Ingolstadt und Memmingen).
+Rechtliche Grundlage der Gesundheitsberichterstattung sind die Gesundheitsdienstgesetze (GDG) der Länder. In Deutschland regeln die Bundesländer die Aufgaben des Öffentlichen Gesundheitsdienstes (ÖGD). Jedes Bundesland hat ein solches GDG (in Thüringen gibt es analog eine Rechtsverordnung). Darin wird die Gesundheitsberichterstattung für nahezu alle Länder als Pflichtaufgabe des Öffentlichen Gesundheitsdienstes umschrieben, häufig mit der Zielsetzung, Maßnahmen der Gesundheitsförderung und Prävention zu unterstützen. In Bayern heißt es beispielsweise in Artikel 10 des Gesundheitsdienst- und Verbraucherschutzgesetzes (GDVG) zur Gesundheitsberichterstattung: 
+     
+> „Als fachliche Grundlage für die Planung und Durchführung von Maßnahmen, welche die Gesundheit fördern und Krankheiten verhüten, beobachten die Behörden für Gesundheit, Veterinärwesen, Ernährung und Verbraucherschutz aller Verwaltungsstufen sowie das Landesamt die gesundheitlichen Verhältnisse von Menschen einschließlich der Ernährung und der Auswirkungen der Umwelteinflüsse auf die Gesundheit, sammeln darüber Erkenntnisse und nichtpersonenbezogene Daten, bereiten sie auf und werten sie aus“ *(GDVG. Bayern 2003).*
 
-Gesundheitsberichte werden von unterschiedlichen Institutionen erstellt.
-Es gibt beispielsweise Gesundheitsberichte der
-Weltgesundheitsorganisation (WHO), der Europäischen Union (EU), des
-Robert Koch-Instituts (RKI), der Gesundheitsämter auf Landes- oder
-kommunaler Ebene, des Weiteren Gesundheitsberichte von Krankenkassen
-sowie auch betriebliche Gesundheitsberichte. In diesem Lehrbuch stehen
-amtliche Gesundheitsberichte auf der kommunalen Ebene im Mittelpunkt,
-also Gesundheitsberichte, die von Gesundheitsämtern oder anderen
-kommunalen Einrichtungen erstellt werden. An dieser Stelle sei kurz
-darauf hingewiesen, dass die Gesundheitsämter in der Regel auf
-kommunaler Ebene organisiert sind. Eine Ausnahme stellt Bayern dar: Es
-gibt in Bayern 71 staatliche und fünf kommunale Gesundheitsämter (München,
-Augsburg, Nürnberg, Ingolstadt und Memmingen).
-
-Rechtliche Grundlage der Gesundheitsberichterstattung sind die
-Gesundheitsdienstgesetze (GDG) der Länder. In Deutschland regeln die
-Bundesländer die Aufgaben des Öffentlichen Gesundheitsdienstes (ÖGD).
-Jedes Bundesland hat ein solches GDG (in Thüringen
-gibt es analog eine Rechtsverordnung). Darin wird die
-Gesundheitsberichterstattung für nahezu alle Länder als Pflichtaufgabe
-des Öffentlichen Gesundheitsdienstes umschrieben, häufig mit der
-Zielsetzung, Maßnahmen der Gesundheitsförderung und Prävention zu
-unterstützen. In Bayern heißt es beispielsweise in Artikel 10 des
-Gesundheitsdienst- und Verbraucherschutzgesetzes (GDVG) zur
-Gesundheitsberichterstattung:
-
-> „Als fachliche Grundlage für die Planung und Durchführung von
-> Maßnahmen, welche die Gesundheit fördern und Krankheiten verhüten,
-> beobachten die Behörden für Gesundheit, Veterinärwesen, Ernährung und
-> Verbraucherschutz aller Verwaltungsstufen sowie das Landesamt die
-> gesundheitlichen Verhältnisse von Menschen einschließlich der
-> Ernährung und der Auswirkungen der Umwelteinflüsse auf die
-> Gesundheit, sammeln darüber Erkenntnisse und nichtpersonenbezogene
-> Daten, bereiten sie auf und werten sie aus“ *(GDVG. Bayern 2003).*
-
-Auf rechtliche Rahmenbedingungen der Gesundheitsberichterstattung wird
-in [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %}) noch genauer eingegangen. Aus dem GDVG Bayern geht hervor,
-dass die Gesundheitsberichterstattung in erster Linie als Grundlage für
-die Planung und Durchführung gesundheitsförderlicher Maßnahmen dient.
-Zugleich soll die Gesundheitsberichterstattung gesundheitspolitisches
-Handeln transparent und nachvollziehbar machen. Sie erfüllt also nicht
-nur eine **Planungs- und Evaluationsfunktion**, sondern auch eine
-**Kommunikationsfunktion**. Neben dem gesetzlich vorgegebenen Rahmen
-hängen alle diese Funktionen auch davon ab, dass die
-Gesundheitsberichterstattung relevante Themen aufgreift, auf der
-bestmöglichen Datenbasis beruht, diese Daten auf wissenschaftlich
-adäquatem Niveau aufbereitet und auswertet sowie anschließend in einer
-allgemein verständlichen und den Bedarfen der verschiedenen Nutzer- und
-Nutzerinnengruppen entsprechenden Form präsentiert. Sie soll dies in
-einer sachlich neutralen Form tun, also nicht manipulativ oder
-überredend, sondern den aktuellen Kenntnisstand als möglichst „sauberes
-Wissen“ anbieten. Mit dieser datengestützten Vorgehensweise verschreibt
-sich die Gesundheitsberichterstattung dem **Leitprinzip der
-Evidenzbasierung**.
+Auf rechtliche Rahmenbedingungen der Gesundheitsberichterstattung wird in [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %}) noch genauer eingegangen. Aus dem GDVG Bayern geht hervor, dass die Gesundheitsberichterstattung in erster Linie als Grundlage für die Planung und Durchführung gesundheitsförderlicher Maßnahmen dient. Zugleich soll die Gesundheitsberichterstattung gesundheitspolitisches Handeln transparent und nachvollziehbar machen. Sie erfüllt also nicht nur eine **Planungs- und Evaluationsfunktion**, sondern auch eine **Kommunikationsfunktion**. Neben dem gesetzlich vorgegebenen Rahmen hängen alle diese Funktionen auch davon ab, dass die Gesundheitsberichterstattung relevante Themen aufgreift, auf der bestmöglichen Datenbasis beruht, diese Daten auf wissenschaftlich adäquatem Niveau aufbereitet und auswertet sowie anschließend in einer allgemein verständlichen und den Bedarfen der verschiedenen Nutzer- und Nutzerinnengruppen entsprechenden Form präsentiert. Sie soll dies in
+einer sachlich neutralen Form tun, also nicht manipulativ oder überredend, sondern den aktuellen Kenntnisstand als möglichst „sauberes Wissen“ anbieten. Mit dieser datengestützten Vorgehensweise verschreibt sich die Gesundheitsberichterstattung dem **Leitprinzip der Evidenzbasierung**.
 
 <table>
 <tbody>
@@ -114,31 +59,34 @@ Routine und Arbeitsweise der Gesundheitsberichterstattung kann dabei mithilfe de
   <figcaption>Abbildung 1: Gesundheitsinformationssysteme und Routineaufgaben der GBE (erweiterte Darstellung nach Verschuuren, van Oers 2019)</figcaption> 
  </figure> 
 
-
-  
 Im Idealfall beginnt der GBE-Zyklus mit einer umfassenden **GBE-Strategie**. Sie gibt dem Bericht einen konzeptionellen Rahmen und kann zur Identifikation planungsrelevanter Bedürfnisse und Bedarfe in der Kommune herangezogen werden. Darauf aufbauend werden geeignete Routinedatenquellen identifiziert bzw. fehlende Daten gesammelt **(Ebene der Daten)**, aufbereitet und analysiert, mit Informationen aus anderen Quellen zur Validierung und Anreicherung der Erkenntnisse integriert **(Ebene der Informationen)** und in einem auf die Adressaten und Adressatinnen zugeschnittenen Format berichtet **(Ebene des Wissens)**. Dabei sollten die vorliegenden Informationen in einer breiteren politik- und praxisrelevanten Perspektive betrachtet werden, indem sie mit Erkenntnissen aus verschiedenen Bereichen (zum Beispiel Gesundheitssystemforschung, Gesundheitswesen, (Sozial-)Epidemiologie, (klinische) Medizin, Gesundheitspsychologie oder auch Medizinsoziologie) kombiniert werden, bevor sie auf **Ebene der evidenzinformierten Entscheidung** aktiv in den politischen Entscheidungsprozess eingebracht werden. Die Ergebnisse und Erfahrungen der so erreichten Monitoring-Runde sollten im Idealfall wieder in die grundlegende GBE-Strategie zurückfließen (siehe Abbildung 1). So können zum Beispiel politische Maßnahmen umgesetzt worden sein, deren Auswertung eine zusätzliche Datenerhebung erfordert; oder im Rahmen der Basisgesundheitsberichterstattung ist deutlich geworden, dass Daten zu wichtigen Aspekten des Gesundheitsverhaltens oder der Inanspruchnahme der Gesundheitsversorgung fehlen oder unzureichend sind, was eine entsprechende Datenerhebung notwendig macht.
 
 Im Folgenden geben wir einen kurzen Überblick darüber, was sich hinter den einzelnen Elementen der Informationspyramide verbirgt und welche GBE-Aktivitäten jeweils damit verknüpft sind.
 
 ### 1.3.1. Konzeptioneller Rahmen
+
 Der konzeptionelle Rahmen steckt die Inhalte eines Gesundheitsberichtes ab: Was soll im Rahmen der GBE dargestellt werden und warum? Beispiele für konzeptionelle Rahmenmodelle können das Health Field Concept von Lalonde (1974) oder auch das Modell zur Erklärung gesundheitlicher Ungleichheit von Mielck (2005) sein. Die Festlegung auf einen konzeptionellen Rahmen trägt dazu bei, die GBE nicht nur im Sinne der klassischen Medizinalstatistik aus Sicht der Datenverfügbarkeit zu denken, sondern insbesondere auch bedarfsorientiert die relevanten Themen für (gesundheits-)politische Entscheidungen auf kommunaler Ebene im Blick zu behalten. Der konzeptionelle Rahmen kann dabei behilflich sein, etwaige Informationsdefizite aufzuzeigen, was wiederum die Generierung alternativer Datenquellen notwendig machen kann, um diese Inhalte adäquat abbilden zu können. Weitere Informationen zum konzeptionellen Rahmen finden sich in [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}). 
 
 ### 1.3.2. Daten
+
 Die allgemeine Datenbasis der GBE besteht aus repräsentativen Routinestatistiken. Viele der genutzten Daten stammen aus amtlichen Statistiken (zum Beispiel Bevölkerungsstatistik, Todesursachenstatistik, Krankenhausdiagnosestatistik, Mikrozensus). Diese werden in der Regel nicht für den Zweck der GBE generiert, sie haben ihre eigenen Charakteristika, Anwendungsgebiete, Limitationen und Fehlerquellen, welche den Gesundheitsberichterstattern und Gesundheitsberichterstatterinnen sowie den Rezipienten und Rezipientinnen bekannt sein müssen, um Fehlinterpretationen zu vermeiden. Darüber hinaus können auch amtseigene Daten – beispielsweise Ergebnisse der Schuleingangsuntersuchungen, die von den Gesundheitsämtern direkt erhoben werden – oder Survey-Daten genutzt werden.
 
 Die Daten werden häufig anhand festgelegter Standards in Indikatoren (zum Beispiel mittlere Lebenserwartung, Säuglingssterblichkeit) überführt. Der Indikatorensatz der Ländergesundheitsberichterstattung, der auch Indikatoren auf Ebene der Kreise und kreisfreien Städte enthält, bildet in Deutschland die Grundlage für die GBE (AOLG 2003). Weitere Informationen zur Datenbasis der GBE finden sich im Handwerkskapitel [Kapitel 4]({{ site.baseurl }}{% link 04-GBEHandwerk.md %}).
 
 ### 1.3.3. Informationen
+
 Damit aus Daten und Indikatoren relevante Informationen werden, müssen sie in einen passenden Kontext gesetzt werden. Neben Zeitreihen, regionalen Vergleichen und Vergleichen verschiedener Bevölkerungsgruppen können themenabhängig viele weitere Kontexte relevant sein. Oftmals ergeben sich aus den Vergleichen, die im Rahmen des Monitorings routinehaft erfolgen, Informationen zu gesundheitlichen Unterschieden oder Vulnerabilitäten, die im Rahmen der Berichterstattung weiter aufbereitet werden können. Viele Landesämter und ebenso einige Kommunen stellen hierfür auch interaktive Tools wie Gesundheitsatlanten auf ihren Internetseiten bereit.
 
 Das Kontextualisieren kann nicht nur auf inhaltlicher Ebene geschehen. Neben der inhaltlichen Dimension ist es außerdem wichtig, die jeweiligen Prozesse im Blick zu behalten. So können beispielsweise Veränderungen in der Generierung der Statistik nicht nur die Aufbereitung der Daten, sondern auch ihre Interpretation beeinflussen. Neben gesetzlichen Veränderungen können hier auch Änderungen der Codierung der Todesursachenstatistik in den Landesstatistikämtern (Eckert, Vogel 2018) oder die Einführung des Erinnerungsverfahrens zur Teilnahme an den Früherkennungsuntersuchungen für Kinder (oft nur als Us oder U-Untersuchungen abgekürzt) (Thaiss et al. 2010) beispielhaft genannt werden.
 
 ### 1.3.4. Wissen
+
 In der dritten Stufe der Informationspyramide geht es um die Generierung von Wissen. In diesem Schritt soll die Nutzbarkeit für die Adressaten und Adressatinnen verbessert und wissenschaftliche Evidenz ergänzt werden, indem die aufbereiteten Daten und Indikatoren kontextualisiert werden. Leitende Fragen sind zum Beispiel erstens, warum gesundheitliche Unterschiede zu beobachten sind, und zweitens, was getan werden kann, um die gesundheitliche Chancengleichheit zu verbessern. Durch die Kontextualisierung grenzt sich die Gesundheitsberichterstattung von der klassischen Medizinalstatistik ab.
 
 In dieser Phase entsteht der eigentliche Gesundheitsbericht, in dem nformationen und Wissen adressaten- und adressatinnengerecht räsentiert und kommuniziert werden. Auf die verschiedenen Formate der BE werden wir ebenfalls im GBE-Handwerkskapitel [Kapitel 4]({{ site.baseurl }}{% link 04-GBEHandwerk.md %}) noch einmal genauer eingehen. 
 
 ### 1.3.5. Evidenzbasierte (-informierte) Entscheidungen 
+
 Damit Gesundheitsberichterstattung Wirkung erzielt, ist jedoch viel mehr nötig als die Erstellung eines Berichts. Das im Rahmen der Berichterstattung (neu) generierte Wissen muss über unterschiedliche Kanäle transportiert und kommuniziert werden. Abhängig vom Ziel und Zweck der GBE (Auftragslage, Zielgruppe und politisches Mandat) gibt es hierzu unterschiedliche Ansätze, die von den eher klassischen Evidence Briefs bzw. Policy Briefs bis hin zu neueren interaktiven Ansätzen des sogenannten Serious Gamings reichen – und oftmals unter dem Schlagwort Knowledge Translation oder Wissenstransfer verortet werden können. 
 
 Dabei ist die GBE jedoch kein Selbstzweck, sondern verfolgt das klare Ziel, so gesicherte und „saubere“ Informationen wie möglich für die Planung, Umsetzung und idealerweise auch das Monitoring gesundheitsschützender sowie gesundheitsförderlicher Maßnahmen bereitzustellen. Damit liefert die GBE Wissen und Erkenntnisse, um Entscheidungen auf Basis der besten zur Verfügung stehenden Evidenz treffen zu können. Dem Selbstverständnis nach liefert die GBE „Daten für Taten“, um evidenzinformierte Entscheidungen zu fördern und unterstützen. Dem Anspruch der Planungsrelevanz kann die GBE jedoch nur gerecht werden, wenn die bestehenden Planungskontexte, -ziele, -strukturen und -ebenen von Beginn des GBE-Prozesses an im Blick behalten werden. Auf die Planungsrelevanz der GBE und der damit einhergehenden Chancen und Herausforderungen wird in [Kapitel 7]({{ site.baseurl }}{% link 07-Planung.md %}) detaillierter eingegangen.
@@ -147,10 +95,7 @@ Dabei ist die GBE jedoch kein Selbstzweck, sondern verfolgt das klare Ziel, so g
 
 Geschichte der Gesundheitsberichterstattung
 
-  - Kuhn J (2007): Die historische Entwicklung der kommunalen
-    Gesundheitsberichterstattung – Eine Forschungslücke. Das
-    Gesundheitswesen 69:507–513.
-    <span class="underline">https://doi.org/10.1055/s-2007-992160</span>
+  - Kuhn J (2007): Die historische Entwicklung der kommunalen Gesundheitsberichterstattung – Eine Forschungslücke. Das Gesundheitswesen 69:507–513. <span class="underline">https://doi.org/10.1055  /s-2007-992160</span>
 
   - Pieper A (2003): Johann Peter Frank. Vom Arzt zum
     Gesundheitspolitiker – Eine europäische Karriere zwischen
