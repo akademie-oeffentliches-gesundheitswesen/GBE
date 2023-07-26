@@ -15,9 +15,7 @@ nav_order: 2
  </details>
 <br>
  
-> „GBE steht für ‚ganz besonders einfach‘. Weil, das ist so etwa das
-> Simpelste, was man im ÖGD machen kann. Keine Ahnung, warum die hier so
-> ein Bohei darum machen.“
+> „GBE steht für ‚ganz besonders einfach‘. Weil, das ist so etwa das Simpelste, was man im ÖGD machen kann. Keine Ahnung, warum die hier so ein Bohei darum machen.“
 
 ## 1.1. Was ist Gesundheitsberichterstattung?
 
