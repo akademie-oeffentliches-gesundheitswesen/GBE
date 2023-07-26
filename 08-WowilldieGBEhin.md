@@ -450,17 +450,17 @@ entspricht. Der Abschnitt im Entwurf des Strategiepapiers beginnt so:
 > einem umfassenden konzeptionellen Ansatz, verfügt über ausreichende
 > Ressourcen und eine gute Infrastruktur.“ (Arnold et al. 2021)
 
-In dem Maße, in dem sich eine Nationale Public-Health-Strategie
+In dem Maße, in dem sich eine nationale Public-Health-Strategie
 konkretisieren und auch politisch auf den Weg bringen lässt, bekommt
 auch die Gesundheitsberichterstattung eine systematischere Anbindung an
 die Gesundheitspolitik. Das Robert Koch-Institut nutzt mit dieser
 Perspektive derzeit die Erfahrungen, die es im Projekt
-„Diabetes-Surveillance“ gewonnen hat, für eine Erweiterung seiner
+Diabetes-Surveillance gewonnen hat, für eine Erweiterung seiner
 Aktivitäten in der Gesundheitsberichterstattung hin zu einer umfassenden
 Public-Health-Surveillance (Reitzle et al. 2020). Die Perspektiven der
 Gesundheitsberichterstattung sind untrennbar mit den Perspektiven von
 Public Health insgesamt in Deutschland verbunden. Bereits Ende der
-1990er-Jahre hatte der damalige Brandenburgische
+1990er Jahre hatte der damalige Brandenburgische
 Gesundheitsstaatssekretär Affeld diesen Zusammenhang betont:
 
 > „Wenn die Gesundheitsberichterstattung der 90er Jahre trotz ihrer
@@ -484,7 +484,7 @@ Sinne:
 **Trauen Sie sich, mit Gesundheitsberichten die Welt ein klein wenig
 besser zu machen\!**
 
-## 8.4. Literaturverzeichnis Kapitel 8. - Wo will die GBE hin?
+## 8.4. Literaturverzeichnis Kapitel 8. – Wo will die GBE hin?
 
 * Arnold L, Kuhn J, Ziese T (2021): Surveillance. Fakten als Wegbereiter
 für mehr gesundheitliche Chancengleichheit (EPHO 1). In: Zukunftsforum
