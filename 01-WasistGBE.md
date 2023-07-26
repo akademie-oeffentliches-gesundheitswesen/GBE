@@ -15,7 +15,7 @@ nav_order: 2
  </details>
 <br>
  
-> „GBE steht für ,ganz besonders einfachʻ. Weil, das ist so etwa das
+> „GBE steht für ‚ganz besonders einfach‘. Weil, das ist so etwa das
 > Simpelste, was man im ÖGD machen kann. Keine Ahnung, warum die hier so
 > ein Bohei darum machen.“
 
@@ -41,13 +41,13 @@ also Gesundheitsberichte, die von Gesundheitsämtern oder anderen
 kommunalen Einrichtungen erstellt werden. An dieser Stelle sei kurz
 darauf hingewiesen, dass die Gesundheitsämter in der Regel auf
 kommunaler Ebene organisiert sind. Eine Ausnahme stellt Bayern dar: Es
-gibt in Bayern 71 staatliche und 5 kommunale Gesundheitsämter (München,
+gibt in Bayern 71 staatliche und fünf kommunale Gesundheitsämter (München,
 Augsburg, Nürnberg, Ingolstadt und Memmingen).
 
 Rechtliche Grundlage der Gesundheitsberichterstattung sind die
-Gesundheitsdienstgesetze der Länder. In Deutschland regeln die
+Gesundheitsdienstgesetze (GDG) der Länder. In Deutschland regeln die
 Bundesländer die Aufgaben des Öffentlichen Gesundheitsdienstes (ÖGD).
-Jedes Bundesland hat ein solches Gesundheitsdienstgesetz (in Thüringen
+Jedes Bundesland hat ein solches GDG (in Thüringen
 gibt es analog eine Rechtsverordnung). Darin wird die
 Gesundheitsberichterstattung für nahezu alle Länder als Pflichtaufgabe
 des Öffentlichen Gesundheitsdienstes umschrieben, häufig mit der
@@ -56,14 +56,14 @@ unterstützen. In Bayern heißt es beispielsweise in Artikel 10 des
 Gesundheitsdienst- und Verbraucherschutzgesetzes (GDVG) zur
 Gesundheitsberichterstattung:
 
-> Als fachliche Grundlage für die Planung und Durchführung von
+> „Als fachliche Grundlage für die Planung und Durchführung von
 > Maßnahmen, welche die Gesundheit fördern und Krankheiten verhüten,
 > beobachten die Behörden für Gesundheit, Veterinärwesen, Ernährung und
 > Verbraucherschutz aller Verwaltungsstufen sowie das Landesamt die
 > gesundheitlichen Verhältnisse von Menschen einschließlich der
 > Ernährung und der Auswirkungen der Umwelteinflüsse auf die
 > Gesundheit, sammeln darüber Erkenntnisse und nichtpersonenbezogene
-> Daten, bereiten sie auf und werten sie aus. *(GDVG. Bayern 2003)*
+> Daten, bereiten sie auf und werten sie aus“ *(GDVG. Bayern 2003).*
 
 Auf rechtliche Rahmenbedingungen der Gesundheitsberichterstattung wird
 in [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %}) noch genauer eingegangen. Aus dem GDVG Bayern geht hervor,
@@ -90,7 +90,7 @@ Evidenzbasierung**.
 <tr class="odd">
 <td><h5 id="exkurs-geschichte-der-gesundheitsberichterstattung" class="list-paragraph">Exkurs: Geschichte der Gesundheitsberichterstattung</h5>
 <p>Gesundheitsberichterstattung ist ein modernes Planungs- und Kommunikationsinstrument. Sie hilft, gesundheitliche Probleme datengestützt zu identifizieren, auf die kommunalpolitische Agenda zu setzen und gegebenenfalls auch implementierte Maßnahmen zu evaluieren. Die Gesundheitsberichterstattung ist aber auch alt: Ihre Ursprünge reichen mehr als 200 Jahre zurück. Johann Peter Frank (1745–1821), der „Stammvater“ der Sozialmedizin in Deutschland, hat in seinem bekannten Werk „System einer vollständigen medicinischen Polizey“ dazu aufgerufen, medizinische Ortsbeschreibungen (sogenannte medizinische Topografien) zu erstellen (Frank 1792). Sie sollten Informationen zum Klima, zur örtlichen Geologie und Pflanzenwelt, den Wohnverhältnissen, zu Kleidung und Ernährung sowie den sonstigen Lebensbedingungen dokumentieren. Ortsbeschreibungen dieser Art entstanden Ende des 18. Jahrhunderts und Anfang des 19. Jahrhunderts in vielen europäischen Städten und auch darüber hinaus. Sie wurden in Buchform publiziert. Dieses Format verschwand im 19. Jahrhundert zunehmend wieder. Stattdessen wurden in den Kreisarztgesetzen der deutschen Länder „Jahresgesundheitsberichte“ verpflichtend, deren Grundstruktur die amtliche Medizinalstatistik bis weit in die zweite Hälfte des 20. Jahrhunderts geprägt haben. In der Weimarer Zeit haben die Jahresgesundheitsberichte Aufschluss über die Tätigkeiten der Kreisärzte und später der Gesundheitsämter gegeben.</p>
-<p>Einen gravierenden Einbruch für die Gesundheitsberichterstattung brachte der Nationalsozialismus mit sich. Die mit dem „Gesetz zur Vereinheitlichung des Gesundheitswesens“ 1934 flächendeckend eingerichteten Gesundheitsämter waren Teil der nationalsozialistischen Selektions- und Mordmaschinerie. Dies schlug sich auch in der Funktion der Jahresgesundheitsberichte und ihrer Dokumentation des „gesunden Volkskörpers“ nieder. Nach dem Krieg wurden vor diesem Hintergrund die Befugnisse der Gesundheitsämter stark eingeschränkt und die amtliche Medizinalstatistik verlor weitgehend ihre praktische Relevanz. Erst in den 1990er-Jahren kam es zu einer Wiederbelebung der Gesundheitsberichterstattung als Planungsinstrument, zeitgleich zur politischen Renaissance der akademischen Public-Health-Strukturen in Deutschland (Kuhn, Ziese 2012).</p></td>
+<p>Einen gravierenden Einbruch für die Gesundheitsberichterstattung brachte der Nationalsozialismus mit sich. Die mit dem „Gesetz zur Vereinheitlichung des Gesundheitswesens“ 1934 flächendeckend eingerichteten Gesundheitsämter waren Teil der nationalsozialistischen Selektions- und Mordmaschinerie. Dies schlug sich auch in der Funktion der Jahresgesundheitsberichte und ihrer Dokumentation des „gesunden Volkskörpers“ nieder. Nach dem Krieg wurden vor diesem Hintergrund die Befugnisse der Gesundheitsämter stark eingeschränkt und die amtliche Medizinalstatistik verlor weitgehend ihre praktische Relevanz. Erst in den 1990er Jahren kam es zu einer Wiederbelebung der Gesundheitsberichterstattung als Planungsinstrument, zeitgleich zur politischen Renaissance der akademischen Public-Health-Strukturen in Deutschland (Kuhn, Ziese 2012).</p></td>
 </tr>
 </tbody>
 </table>
@@ -101,15 +101,15 @@ Gesundheitsberichterstattung soll handlungsorientiert sein. Damit sind unvermeid
 
 In dem Maße, in dem Gesundheitsberichterstattung zum Beispiel präventive Programme unterstützt, sollte darauf geachtet werden, dass Gesundheitsberichte primär eine **informative Funktion** haben, weniger eine persuasive. Das unterscheidet Gesundheitsberichte beispielsweise von Broschüren mit Hinweisen zum „richtigen“ Gesundheitsverhalten. Inwiefern Gesundheitsberichte also dazu beitragen sollen, direkt das Gesundheitsverhalten der Bevölkerung so zu beeinflussen, wie es oft gesundheitspolitisch gewollt oder gesundheitswissenschaftlich für richtig gehalten wird, muss kritisch reflektiert werden.
 
-Ein weiterer Aspekt, der hier anzusprechen ist, ist die **Ambivalenz des Sichtbarmachens** von gesundheitlichen Problemen einerseits und der Gefahr, damit andererseits Personen zu stigmatisieren. Beispiel: Im Prozess der GBE und des fertigen GBE-Produkts sollen die Lebenssituationen und unterschiedlichen sozialen Milieus berücksichtigt werden, ohne dabei zu diskriminieren. Wenn über adipöse Kinder berichtet wird, soll einerseits ein ernstes gesundheitliches Problem zur Sprache gebracht werden, andererseits sollen die betroffenen Kinder nicht zusätzlich stigmatisiert werden. In gleicher Weise ist darauf zu achten, dass gesundheitliche Probleme etwa bei Menschen mit Migrationshintergrund nicht zur Verstärkung gesellschaftlicher Ausgrenzungstendenzen beitragen.
+Ein weiterer Aspekt ist die **Ambivalenz des Sichtbarmachens** von gesundheitlichen Problemen einerseits und der Gefahr, damit andererseits Personen zu stigmatisieren. Beispiel: Im Prozess der GBE und des fertigen GBE-Produkts sollen die Lebenssituationen und unterschiedlichen sozialen Milieus berücksichtigt werden, ohne dabei zu diskriminieren. Wenn über adipöse Kinder berichtet wird, soll einerseits ein ernstes gesundheitliches Problem zur Sprache gebracht werden, andererseits sollen die betroffenen Kinder nicht zusätzlich stigmatisiert werden. In gleicher Weise ist darauf zu achten, dass gesundheitliche Probleme etwa bei Menschen mit Migrationshintergrund nicht zur Verstärkung gesellschaftlicher Ausgrenzungstendenzen beitragen.
 
 ## 1.3. Gesundheitsberichterstattung – nur ein Bericht oder steckt da doch mehr dahinter?
 
-Auch wenn Daten einen wesentlichen Kern der GBE bilden, umfasst Berichterstattung doch weit mehr als die bloße Sammlung, Aufbereitung und Analyse selbiger. GBE ist vielmehr als ein Zyklus aufeinanderfolgender und miteinander verbundener Aktivitäten zu betrachten, die im Idealfall auf einer umfassenden Gesamtstrategie basieren. In der „Guten Praxis Gesundheitsberichterstattung 2.0“ wird dies wie folgt zusammengefasst:
+Auch wenn Daten einen wesentlichen Kern der GBE bilden, umfasst Berichterstattung doch weit mehr als deren bloße Sammlung, Aufbereitung und Analyse. GBE ist vielmehr als ein Zyklus aufeinanderfolgender und miteinander verbundener Aktivitäten zu betrachten, die im Idealfall auf einer umfassenden Gesamtstrategie basieren. In der „Gute[n] Praxis Gesundheitsberichterstattung 2.0“ wird dies wie folgt zusammengefasst:
 
 > „Gesundheitsberichterstattung beschreibt die gesundheitliche Lage der Bevölkerung, analysiert Problemlagen und zeigt Handlungsbedarfe für die Gesundheitsversorgung, Gesundheitsförderung und Prävention auf. Sie bietet damit eine rationale Grundlage für partizipative Prozesse und gesundheitspolitische Entscheidungen“ (Starke et al. 2019).
 
-Routine und Arbeitsweise der Gesundheitsberichterstattung kann dabei mithilfe der Informationspyramide von Verschuuren und Van Oers beschrieben werden. Die Pyramide basiert auf der Data-Information-Knowledge-Wisdom-(DIKW-)Hierarchie von Ackoff (1989) und lässt sich in vier Ebenen einteilen.
+Routine und Arbeitsweise der Gesundheitsberichterstattung kann dabei mithilfe der Informationspyramide von Verschuuren und van Oers beschrieben werden. Die Pyramide basiert auf der Data-Information-Knowledge-Wisdom-(DIKW-)Hierarchie von Ackoff (1989) und lässt sich in vier Ebenen einteilen.
 
  <figure>
   <img src="./media/AOE-2520-Booksprints-06.png" alt="Gesundheitsinformationssysteme und Routineaufgaben der GBE" style="width:90%">
