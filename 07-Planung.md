@@ -26,19 +26,19 @@ gesicherte und „saubere“ Informationen wie möglich für die Planung und
 Umsetzung sowie idealerweise das Monitoring gesundheitsschützender sowie
 gesundheitsförderlicher Maßnahmen bereitzustellen. GBE grenzt sich von
 der Medizinalstatistik gerade auch durch ihren Handlungsbezug ab, das
-heißt, dem Selbstverständnis nach sollten Daten für Taten generiert und
-interpretiert werden (siehe auch [Kapitel 1]({{ site.baseurl }}{% link 01-WasistGBE.md %})). Ihr Anspruch der
+heißt, dem Selbstverständnis nach sollten „Daten für Taten“ generiert und
+interpretiert werden (siehe auch [Kapitel 1]({{ site.baseurl }}{% link 01-WasistGBE.md %})). Ihr Anspruch auf
 Planungsrelevanz macht es erforderlich, die bestehenden
 Planungskontexte, -ziele, -strukturen und -ebenen im Blick zu haben. In
 dem in [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) vorgestellten Public Health Action Cycle wird die
 Rolle der GBE im Planungsprozess visualisiert. Als
 Gesundheitsberichterstatterin und Gesundheitsberichterstatter gilt es,
-den Planungsprozess zu kennen und immer „mitzudenken“, ähnlich wie
+den Planungsprozess zu kennen und immer mitzudenken, ähnlich wie
 Akteurinnen und Akteure aus der Planung die GBE als Assessment- und
 Evaluationsinstrument mitdenken sollten. Dies gilt sowohl für die
 Gesundheitsplanung an sich als auch andere kommunale Planungen.
-Abbildung 12 kann entnommen werden, dass die GBE in wichtige
-Handlungskonzepte von Public Health und speziell der
+Abbildung 12 zeigt, dass die GBE in wichtige
+Handlungskonzepte von Public Health und insbesondere auch der
 Weltgesundheitsorganisation eingebettet ist. Durch ein integriertes,
 kleinräumiges und verständliches Berichtswesen sollen partizipative
 Prozesse der Entscheidungsfindung in den verschiedenen
@@ -53,10 +53,10 @@ flächendeckend und bis auf Lebensweltebene umzusetzen.
   <figcaption>Abbildung 13: Rolle der Gesundheitsplanung im Public Health Action Cycle (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine 1988)</figcaption>
 </figure> 
 
-In diesem Kapitel widmet sich der erste Teil der Gesundheitsplanung im
+Der erste Teil dieses Kapitels widmet sich der Gesundheitsplanung im
 engeren Sinne, das heißt der federführend durch den ÖGD durchgeführten
 Planung, wie sie in einigen Bundesländern auch gesetzlich in den
-Gesundheitsdienstgesetzen der Länder verankert ist. Im zweiten Teil
+Gesundheitsdienstgesetzen (GDG) der Länder verankert ist. Im zweiten Teil
 nimmt dieses Kapitel auch Planungsprozesse in den Blick, die anderen
 Ressorts obliegen und durch die GBE unterstützt oder erweitert werden
 können, und erläutert dies am Beispiel der Stadtplanung.
@@ -96,7 +96,7 @@ ist deshalb normalerweise beratend, auch wenn nicht wenige nach einer
 gewissen Etablierung über ein vergleichsweise begrenztes Budget
 verfügen, das eigenständig verplant werden kann. Aufgrund des Fehlens
 strenger Vorgaben variiert die Zusammensetzung der kommunalen
-Gesundheitskonferenzen etwas, aber die Expertinnen und Experten
+Gesundheitskonferenzen, aber die Expertinnen und Experten
 entstammen üblicherweise den Feldern Gesundheitsversorgung, Prävention
 und Gesundheitsförderung. Entsprechend umfangreich ist auch die
 thematische Breite, denen sich die Planungsgremien widmen. In der
@@ -113,11 +113,11 @@ Kenntnisse über die strukturellen Bedingungen vor Ort zu gewinnen (siehe
 auch [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %})) und sich aktiv zu vernetzen (siehe auch [Kapitel 6]({{ site.baseurl }}{% link 06-VernetzunginderGBE.md %})).
 Eine GBE-Basis kann einen wichtigen Ausgangspunkt für den Aufbau einer
 Gesundheitsplanung darstellen, anderenfalls wird fast immer im Laufe der
-Zeit aus diesen Strukturen der Ruf nach Daten für Taten laut, das heißt,
+Zeit aus diesen Strukturen der Ruf nach „Daten für Taten“ laut, das heißt,
 die Planung stellt die Ausgangsbasis für die GBE. Um die Planung
 nachhaltig erfolgreich zu gestalten, gilt es, Gestaltungsspielräume zu
 nutzen, die sich selbst in Bundesländern ergeben, in denen planerische
-ÖGD-Aufgaben in den Gesundheitsdienstgesetzen definiert sind. Auf
+ÖGD-Aufgaben in den GDG definiert sind. Auf
 einige für das Gelingen wesentliche Faktoren wird im Folgenden
 eingegangen.
 
@@ -141,7 +141,7 @@ im Rahmen der GBE ermittelten lokalen Bedarfslage setzen zu können. Der
 Gesundheitsplanung fehlt dadurch andererseits jedoch eine klare
 Zuständigkeit für ein Themenfeld, was jede Themenwahl potenziell
 beliebig und Planungen dadurch weniger durchsetzungsstark macht. Für die
-Themenwahl ist es daher günstig, diese einerseits datenbasiert zu
+Themenwahl ist es daher günstig, diese datenbasiert zu
 legitimieren, das heißt auf GBE-Basis. Sinnvoll ist es darüber hinaus,
 die lokalen Strukturen zu berücksichtigen, das heißt konkret die
 Ausrichtung des zuständigen kommunalpolitischen Ausschusses im
@@ -149,7 +149,7 @@ Ausrichtung des zuständigen kommunalpolitischen Ausschusses im
 und Expertengremiums wie beispielsweise der kommunalen
 Gesundheitskonferenz, sofern dieses bereits etabliert ist (siehe [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %})). Bestehende kommunalpolitische gesundheitsbezogene
 Schwerpunktsetzungen können einen wesentlichen Ausgangspunkt darstellen
-(zum Beispiel lokale Gesundheitsziele oder Leitbild „Gesunde Kommune“,
+(zum Beispiel lokale Gesundheitsziele oder Leitbild Gesunde Kommune,
 gegebenenfalls Mitgliedschaft im Gesunde Städte-Netzwerk Deutschland,
 mehr hierzu auch im Exkurs: Gesunde Städte-Netzwerk)). Im Sinne von HiAP
 ist es sinnvoll, auch bei der Themenfindung stets Integrationspotenziale
@@ -192,7 +192,7 @@ veranschaulicht.
 </figure> 
 
 **Form des Berichtswesens:** GBE ist zwar in allen
-Gesundheitsdienstgesetzen der Länder verankert, sie wird aber nicht
+GDG der Länder verankert, sie wird aber nicht
 überall durchgeführt, und die Aufgabe ist kaum durch klare Vorgaben
 präzisiert. Nicht selten führt die Etablierung einer kommunalen
 Gesundheitsplanung im zweiten Schritt zur Intensivierung der GBE, da die
@@ -228,7 +228,7 @@ zuständigkeitshalber in den kommunalpolitischen Gremien entschieden
 wird (siehe auch [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %}) und [Kapitel 7]({{ site.baseurl }}{% link 07-Planung.md %})). Nicht selten werden darüber
 hinaus themenbezogen Ressourcen einzelner Mitglieder der KGK akquiriert,
 häufig gelingt es auch, Mischfinanzierungen aus mehreren der genannten
-Quellen anzustoßen. Eine wertvolle Möglichkeit hat sich diesbezüglich
+Quellen zu realisieren. Eine wertvolle Möglichkeit hat sich diesbezüglich
 durch das Präventionsgesetz (PrävG) ergeben, indem gesetzliche
 Krankenversicherungen einen Teil ihrer PrävG-Mittel über einen
 Verfügungsfond in Präventionsprojekte der KGK einspeisen können. Dies
@@ -238,8 +238,8 @@ durch den ÖGD betriebenen Planungsgremien wäre eine bundesweite
 Institutionalisierung sehr wertvoll, da damit eine eindeutige
 Zuständigkeit der Planungsgremien für eine umgrenzte
 Ressourcensteuerung fixiert würde. Da der kommunale ÖGD als größter
-Public-Health-Akteur einen direkten Zugang zu wesentlichen Lebenswelten
-ermöglicht, wäre dies ebenso inhaltlich zu begrüßen. Darüber hinaus
+Public-Health-Akteur über einen direkten Zugang zu wesentlichen Lebenswelten
+verfügt, wäre dies ebenso inhaltlich zu begrüßen. Darüber hinaus
 würde diese Struktur auch einen nachhaltigen Betrieb der KGK deutlich
 vereinfachen und die Etablierung bundesweiter Standards für die Planung
 ermöglichen (Szagun et al. 2016; Starke et al. 2018).
@@ -255,7 +255,7 @@ Folgendes:
 > nur konsensual in eigener Zuständigkeit über die Einflussmöglichkeiten
 > ihrer Mitglieder abmildern. Die Gesundheitskonferenzen ergänzen
 > lediglich die vorhandenen Steuerungssysteme und Strukturen. Sie
-> benötigen als ,harteʻ Einflussfaktoren ausreichende
+> benötigen als ‚harteʻ Einflussfaktoren ausreichende
 > Anschubinvestitionen, Ressourcen und günstige Rahmenbedingungen. Der
 > Erfolg ist darüber hinaus stark von ,weichenʻ Faktoren wie Vorsitz und
 > Führung, Moderation, Geschäftsstelle sowie vom Agenda-Setting
@@ -329,7 +329,7 @@ dargestellt, in welchen Kontexten die GBE hilfreich bis zentral sein
 kann und welche Bedingungen ideal sind, um die GBE beispielsweise im
 Kanon städtebaulicher Planungskontexte zu positionieren und zu stärken.
 
-## 7.2. Gesundheitsplanung mit dem ÖGD: Gesundheitsorientiert planen, um „Health in All Policies“ zu realisieren
+## 7.2. Gesundheitsplanung mit dem ÖGD: Gesundheitsorientiert planen, um Health in All Policies zu realisieren
 
 In [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) wurde bereits beschrieben, welche unterschiedlichen
 Faktoren die menschliche Gesundheit und unser Wohlbefinden beeinflussen
@@ -355,8 +355,7 @@ getroffen, die von hoher Relevanz für Gesundheit und Wohlbefinden der
 Bevölkerung sein können. Dieses Dilemma wurde bereits in der
 Ottawa-Charta der WHO (1986) beschrieben und mündete in der Benennung
 unterschiedlicher lebensweltlicher Zugänge (Settings, unter anderem das
-Setting Kommune, vgl. [Kapitel 7]({{ site.baseurl }}{% link 07-Planung.md %})) sowie in der Forderung des „Health
-in All Policies“-Ansatzes (HiAP), auf den wir in [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) schon kurz
+Setting Kommune, vgl. [Kapitel 7]({{ site.baseurl }}{% link 07-Planung.md %})) sowie in der Forderung des Health-in-All-Policies-Ansatzes (HiAP), auf den wir in [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) schon kurz
 eingegangen sind.
 
 HiAP ist letztlich eine Strategie, um gesundheitsrelevante Prozesse und
@@ -366,14 +365,14 @@ gesundheitsrelevante Auswirkungen, sowohl gesundheitsförderliche wie
 gesundheitsabträgliche, bei Entscheidungen quer durch alle Politikfelder
 mit zu berücksichtigen. Gleichzeitig sollen idealerweise Wege aufgezeigt
 werden, wie eine verbesserte Gesundheitsförderung oder -versorgung
-anderen Politikfeldern helfen kann, ihre eigenen Zielsetzungen zu
+in anderen Politikfeldern helfen kann, die jeweiligen Zielsetzungen zu
 erreichen und damit eine Win-win-Situation für alle beteiligten Partner
 herzustellen. Übergreifendes Ziel ist eine gesundheitsförderliche
 Gesamtpolitik, um die Gesundheit der Bevölkerung und gesundheitliche
 Chancengleichheit zu verbessern (Böhme, Reimann 2018; Böhm et al. 2020).
 
 HiAP und der Anspruch einer gesundheitsfördernden Gesamtplanung eröffnen
-dem ÖGD gleich einer „Spinne im Netz“ die Möglichkeit, eine aktive Rolle
+dem ÖGD gleich einer Spinne im Netz die Möglichkeit, eine aktive Rolle
 bei der Gestaltung einzunehmen und diese basierend auf der GBE
 mitzugestalten. Dies entspricht auch der gesetzlich verankerten Aufgabe
 der Koordination und Steuerung innerhalb der Kommune.
@@ -383,7 +382,7 @@ der Koordination und Steuerung innerhalb der Kommune.
 Eine wesentliche Aufgabe der Kommunen liegt in der Daseinsvorsorge,
 sprich einer staatlich garantierten Grundversorgung, die als Leitprinzip
 auf dem Gedanken der in Artikel 72 im Grundgesetz festgehaltenen
-„*Gleichwertigkeit der Lebensverhältnisse*“ basiert. In allen
+Gleichwertigkeit der Lebensverhältnisse basiert. In allen
 Lebensphasen gilt es, gesundheitliche Chancengleichheit für alle
 Bevölkerungsgruppen anzustreben und hierbei insbesondere sozial
 benachteiligte Gruppen in den Blick zu nehmen. Kommunen sind insofern
@@ -398,9 +397,9 @@ heißt auf der kleinräumigen Ebene von Städten und Gemeinden, des Stadt-
 und Ortsteils oder des Quartiers, gibt es teilweise große Unterschiede.
 Allerdings darf bei dieser Betrachtung nicht übersehen werden, dass es
 auch zwischen Kommunen und insbesondere zwischen verschiedenen
-Verwaltungseinheiten zum Teil erhebliche Unterschiede gibt, zum Beispiel
+Verwaltungseinheiten zum Teil erhebliche Unterschiede gibt – zum Beispiel
 bezüglich Datenquantität und -qualität, Informationsdichte oder
-verfügbare Netzwerke. Stets sollte geprüft werden, welche Potenziale
+verfügbaren Netzwerken. Stets sollte geprüft werden, welche Potenziale
 bestehen im Hinblick auf eine Datenintegration, eine integrierte
 Berichterstattung und letztlich eine integrierte Planungsaktivität. Umso
 bedeutsamer sind der Auf- und Ausbau der Gesundheitsberichterstattung
@@ -415,7 +414,7 @@ können. Gleichzeitig ist möglichst frühzeitig zu klären, welche Rolle
 dem kommunalen öffentlichen Gesundheitsdienst und weiteren
 gesundheitsbezogenen Dienstleistern zukommt. Vor diesem Hintergrund wird
 in der jüngeren Vergangenheit die Kommune vermehrt als Dachsetting mit
-dem Begriff „Setting Kommune“ thematisiert, um zu verdeutlichen, dass
+dem Begriff Setting Kommune thematisiert, um zu verdeutlichen, dass
 die Kommune ein gesellschaftspolitischer Handlungsraum ist, mit dem
 Ziel, die Gesundheitschancen in einer Kommune nachhaltig zu verbessern.
 
@@ -461,9 +460,9 @@ für das Gelingen einer erfolgreichen gesundheitsförderlichen
 Kommunalentwicklung. Diese Idee wird oft von Kommunen aufgegriffen, die
 Mitglied im deutschen [**Gesunde
 Städte-Netzwerk**](https://gesunde-staedte-netzwerk.de/) sind (siehe
-auch „Exkurs: Gesunde Städte-Netzwerk“). Um das Setting Kommune in
+auch Exkurs: Gesunde Städte-Netzwerk). Um das Setting Kommune in
 diesem Sinne weiterentwickeln zu können, ist eine an die jeweilige
-Ausgangslage angepasste, evidenz-informierte und gut durchdachte
+Ausgangslage angepasste, evidenzinformierte und gut durchdachte
 strategische Planung und Steuerung unerlässlich. Hierzu müssen die
 ermittelten gesundheitlichen Belange, Bedürfnisse und Bedarfe der
 Bewohner der Kommune aufgegriffen, ganz im Sinne der GBE in ihrer
@@ -472,14 +471,14 @@ priorisiert und in kommunalpolitisch abgestimmte, realistische Ziele,
 Strategien und Maßnahmenplanungen überführt werden. Um ein
 gesundheitsförderliches Setting Kommune als Zielgröße realisieren und
 bespielen zu können, ist es sehr hilfreich, eine gesundheitsfördernde
-kommunale Gesamtpolitik entsprechend der Zielsetzung von „Health in All
-Policies“ zu stärken (Böhme, Reimann 2018; Trojan, Süß 2009).
+kommunale Gesamtpolitik entsprechend der Zielsetzung von Health in All
+Policies zu stärken (Böhme, Reimann 2018; Trojan, Süß 2009).
 
 <table>
 <tbody>
 <tr class="odd">
 <td><h5 id="exkurs-gesunde-städte-netzwerk">Exkurs: Gesunde Städte-Netzwerk</h5>
-<p>Im Juni 1989 in Frankfurt am Main von zehn Städten und einem Kreis gegründet, umfasst das Gesunde Städte-Netzwerk der Bundesrepublik Deutschland im Jahr 2021 90 Mitgliedskommunen, darunter 45 Großstädte, 9 Berliner Bezirke, eine Region, 12 Landkreise, 27 mittlere Städte und Gemeinden, mit insgesamt über 24 Millionen Einwohnerinnen und Einwohnern (<a href="https://gesunde-staedte-netzwerk.de/das-netzwerk/ueber-uns/"><span class="underline">Über uns – Das Gesunde Städte-Netzwerk (gesunde-staedte-netzwerk.de)</span></a>. Die Ziele des Gesunde Städte-Netzwerks basieren auf der Ottawa-Charta, dem Pamphlet der ersten internationalen Konferenz zur Gesundheitsförderung vom 21. November 1986 (WHO 1986).</p>
+<p>Im Juni 1989 in Frankfurt am Main von zehn Städten und einem Kreis gegründet, umfasst das Gesunde Städte-Netzwerk der Bundesrepublik Deutschland im Jahr 2021 90 Mitgliedskommunen, darunter 45 Großstädte, 9 Berliner Bezirke, eine Region, 12 Landkreise, 27 mittlere Städte und Gemeinden, mit insgesamt über 24 Millionen Einwohnerinnen und Einwohnern (<a href="https://gesunde-staedte-netzwerk.de/das-netzwerk/ueber-uns/"><span class="underline">Über uns – Das Gesunde Städte-Netzwerk (gesunde-staedte-netzwerk.de)</span></a>. Die Ziele des Gesunde Städte-Netzwerks basieren auf der Ottawa-Charta, dem Dokument der ersten internationalen Konferenz zur Gesundheitsförderung vom 21. November 1986 (WHO 1986).</p>
 <p>Das Gesunde Städte-Netzwerk der Bundesrepublik Deutschland ist ein freiwilliger Zusammenschluss von Kommunen und dient als Lern-, Aktions- und Diskussionsinstrument, mit dem die beteiligten Kommunen ihre eigene Arbeit unterstützen und sich gegenseitig bereichern können.</p></td>
 </tr>
 </tbody>
@@ -497,7 +496,7 @@ die benannten Aspekte bislang vor allem den Gesundheitsschutz wider und
 dienen insofern vornehmlich der Gefahrenabwehr oder Gefahrenminimierung.
 Insofern können diese Planungen am ehesten als **gesundheitssensible
 Planungen** (gegebenenfalls mit ÖGD-Beteiligung) betitelt werden. Von
-einer evidenz-informierten gesundheitsorientierten Planung auf Basis der
+einer evidenzinformierten gesundheitsorientierten Planung auf Basis der
 GBE und im Sinne des HiAP-Ansatzes ist dies jedoch noch ein gutes Stück
 entfernt.
 
@@ -508,7 +507,7 @@ grundlegender Wandel (Claßen 2020). So sind zu den traditionellen
 Planungsinstrumenten der Stadtplanung und -erneuerung weitere, zumeist
 integrierte und integrierende Ansätze hinzugetreten.
 Städtebauförderungsprogramme (zum Beispiel das Bund-Länder-Programm
-„Soziale Stadt“ bzw. seit 2020 „Sozialer Zusammenhalt“) fordern
+Soziale Stadt bzw. seit 2020 Sozialer Zusammenhalt) fordern
 zunehmend auch die Schaffung sozial gerechter und
 gesundheitsförderlicher Lebensbedingungen, insbesondere in Quartieren.
 Folglich werden Kooperationen mit anderen kommunal planenden Akteuren
@@ -520,7 +519,7 @@ Beispiel eine gesunde Kommune und die Orientierung an einem
 Gesundheitszieleprozess explizite Leitbilder sind. In diesen Fällen
 vollzieht sich der Wandel von einer primär gesundheitssensiblen zu einer
 gesundheitsförderlich ausgerichteten, gleichwohl Risiken und Chancen
-adressierenden und damit dem „Health in All Policies“-Ansatz
+adressierenden und damit dem Health-in-All-Policies-Ansatz
 nahestehenden gesundheitsorientierten Planung. Da überall schnell die
 Frage nach der Verfügbarkeit und vor allem Interpretationshilfe
 kleinräumiger gesundheitsbezogener Daten und Informationen aufkommt,
@@ -528,17 +527,17 @@ bietet dies eine große Chance für die kommunale GBE, sich als
 Dienstleister, aber ebenso als zentrale planungsvorbereitende Instanz in
 Position zu bringen.
 
-Über Jahrzehnte waren Setting-bezogene Ansätze der Verhältnisprävention
+Über Jahrzehnte waren settingbezogene Ansätze der Verhältnisprävention
 und Gesundheitsförderung aufgrund der schwierigen
 Gesetzgebungskompetenzen im deutschen Gesundheitssektor weitestgehend
 nicht rechtsverbindlich geregelt. Mit Inkrafttreten des
 Präventionsgesetzes 2015 und mit dem novellierten Leitfaden
-„Prävention“ des Spitzenverbandes der Gesetzlichen Krankenkassen
+Prävention des Spitzenverbandes der Gesetzlichen Krankenkassen
 wird der Kommune insgesamt sowie auch den kommunalen Quartieren als
-übergreifendem „Setting Kommune“ besondere Aufmerksamkeit geschenkt
+übergreifendem Setting Kommune besondere Aufmerksamkeit geschenkt
 (GKV-Spitzenverband 2018). Das ermöglicht dem ÖGD und insbesondere den
-kommunalen Gesundheitsämtern, das Thema Gesundheit im Sinne von „Health
-in All Policies“ mancherorts mit eigenen Fördermitteln im Rahmen
+kommunalen Gesundheitsämtern, das Thema Gesundheit im Sinne von Health
+in All Policies mancherorts mit eigenen Fördermitteln im Rahmen
 integrierter kommunaler Entwicklungsstrategien einzubringen und als
 wichtiger Akteur einer raumwirksamen gesundheitsorientierten Planung
 wahrgenommen zu werden (Böhme, Reimann 2018).
@@ -603,8 +602,7 @@ Gesundheits- und Stadtentwicklung
     Prävention und Gesundheitsförderung in der Stadtteilentwicklung.
     Berlin (Edition Difu, Bd. 9).
 
-  - Trojan A, Süß W. (2011): Gesundheitsfördernde Gesamtpolitik /
-    Healthy Public Policy. In: Bundeszentrale für gesundheitliche
+  - Trojan A, Süß W. (2011): Gesundheitsfördernde Gesamtpolitik/Healthy Public Policy.      In: Bundeszentrale für gesundheitliche
     Aufklärung (Hrsg.): Leitbegriffe der Gesundheitsförderung und
     Prävention Glossar zu Konzepten, Strategien und Methoden. Köln:
     BZgA, S. 133–136.
