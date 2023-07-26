@@ -132,7 +132,7 @@ Vor der Erstellung eines Gesundheitsberichtes sollte jedes Mal gründlich reflek
     Stadtverordnetenversammlung:**  
     Oftmals hat diese Form der Berichterstattung das Ziel, Ressourcen zu
     steuern, zum Beispiel, um universelle Maßnahmen im Sinne des
-    „proportionate universalism“ an kommunale Bedarfe anzupassen
+    Proportionate Universalism an kommunale Bedarfe anzupassen
     (Marmot 2010), oder um die Bewilligung bzw. Beendigung konkreter
     Maßnahmen voranzutreiben, beispielsweise Personalstellen oder
     Sachmittel.  
@@ -148,7 +148,7 @@ Vor der Erstellung eines Gesundheitsberichtes sollte jedes Mal gründlich reflek
     Faktencheck zu erweitern.  
     *Beispiel: Handlungsempfehlung für die kommunale Suchtprävention
     der örtlichen Arbeitsgemeinschaft Suchtprävention*
-3.  **die Festlegung kommunaler Gesundheitsziele/prioritärer
+3.  **Festlegung kommunaler Gesundheitsziele/prioritärer
     Handlungsfelder, zum Beispiel in kommunalen
     Gesundheitskonferenzen:**  
     Die Verständigung unter den (kommunalen) Akteuren und Akteurinnen
@@ -163,21 +163,21 @@ Vor der Erstellung eines Gesundheitsberichtes sollte jedes Mal gründlich reflek
     bei sozialen und gesundheitsfördernden Aktivitäten. Das kommunale
     Gesundheitsziel: „Die körperliche Aktivität und Teilhabe an der
     Gesellschaft bei älteren Menschen ist gestärkt“ wird festgelegt.*
-4.  **die Messung der Zielerreichung eines Gesundheitszieles:**  
+4.  **Messung der Zielerreichung eines Gesundheitszieles:**  
     Diese Berichtsform zielt auf die Evaluation von Maßnahmen
     hinsichtlich der Erreichung eines konkreten Gesundheitszieles
     ab.  
     *Beispiel: Die GBE erhält den Auftrag herauszufinden, wie sich die
     gesundheitliche Lage zehn Jahre nach Einführung eines
     Gesundheitszieles entwickelt hat.*
-5.  **die kommunale Beteiligung bei der Versorgungsplanung:**  
+5.  **Kommunale Beteiligung bei der Versorgungsplanung:**  
     Das Ziel dieser GBE-Form ist, neben der Lage auch die
     Zuständigkeiten und Gestaltungsmöglichkeiten der kommunalen
     Akteure und Akteurinnen transparent zu machen.  
     *Beispiel: Die hausärztliche Versorgungsstruktur in den Gemeinden
     und kleineren Städten und die verschiedenen Fördermöglichkeiten
     und deren Nutzung werden aufgezeigt.*
-6.  **die Bereitstellung** **gesicherter und unabhängiger
+6.  **Bereitstellung** **gesicherter und unabhängiger
     Informationen für die Bevölkerung, die Fachöffentlichkeit sowie
     Entscheidungsträger und Entscheidungsträgerinnen zu
     gesundheitspolitisch bedeutsamen Entwicklungen:**  
@@ -186,30 +186,31 @@ Vor der Erstellung eines Gesundheitsberichtes sollte jedes Mal gründlich reflek
     *Beispiel: eine anlassbezogene Berichterstattung zur „Gesundheit
     bei Asylsuchenden“*
 
-Aus der kurzen und sicher nicht vollständigen Aufzählung soll
-ersichtlich werden, dass Gesundheitsberichte aus unterschiedlichen
+Aus der kurzen und sicher nicht vollständigen Aufzählung wird
+ersichtlich, dass Gesundheitsberichte aus unterschiedlichen
 Kontexten heraus entstehen, was gerade Neulinge im Berufsfeld vor nicht
 unerhebliche Herausforderungen stellen kann (Weiteres hierzu auch in
-[Kapitel 6]({{ site.baseurl }}{% link 06-VernetzunginderGBE.md %})). Damit ein Gesundheitsbericht nicht das Dasein eines
-„zahnlosen“, ungelesen in Schubladen vegetierenden Papiertigers
+[Kapitel 6]({{ site.baseurl }}{% link 06-VernetzunginderGBE.md %})). Damit 
+ein Gesundheitsbericht nicht das Dasein eines
+zahnlosen, ungelesen in Schubladen vegetierenden Papiertigers
 fristet, sollte die Auftragslage frühestmöglich geklärt sein. GBE dient
 im Idealfall in erster Linie der Unterstützung einer evidenzinformierten
 Entscheidungsfindung. Damit dies gelingen kann, ist eine (politische)
 Legitimation der Berichterstattung erforderlich. Hierfür ist es
-essenziell, zu klären, „wer“ die Gesundheitsberichterstattung auf
-kommunaler Ebene „zu welchem Zweck“ beauftragt hat.
+essenziell, zu klären, wer die Gesundheitsberichterstattung auf
+kommunaler Ebene zu welchem Zweck beauftragt hat.
 
 Aufträge, einen Gesundheitsbericht zu erstellen, können sowohl von der
-fachlichen Ebene als auch intersektoral veranlasst werden sowie „intern“
-oder „extern“ vergeben werden. Gerade bei einer internen Auftragsvergabe
+fachlichen Ebene als auch intersektoral veranlasst werden sowie intern
+oder extern vergeben werden. Gerade bei einer internen Auftragsvergabe
 müssen Themen und Berichtsschwerpunkte gut abgestimmt werden. Dies ist
-insbesondere dann der Fall, wenn Gesundheitsberichte als Auftrag von
-„oben“ aus der Verwaltungsleitung oder der Politik kommen und zur
+insbesondere dann der Fall, wenn Gesundheitsberichte als Auftrag „von
+oben“ aus der Verwaltungsleitung oder der Politik kommen und zur
 Umsetzung intern an die Fachebene vergeben werden. In [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %}) wird
 auch noch einmal genauer auf die hierfür relevanten ÖGD-Strukturen
 eingegangen.
 
-## 2.3. Determinanten von Gesundheit zur Kontextualisierung der Upstream-Perspektive in der GBE 
+## 2.3. Upstream-Perspektive in der GBE: Welche Determinanten bestimmen die Gesundheit? 
 
 Im Idealfall hat die GBE einen klar formulierten (politischen) Auftrag
 und kann auf einen entsprechenden Outcome fokussieren. Gerade wenn die
@@ -225,9 +226,10 @@ Bedingungen und Strukturen zu identifizieren, die entweder einen großen
 Einfluss auf die Bevölkerungsgesundheit haben oder mit verhältnismäßig
 einfachen Mitteln verändert werden könnten. Damit richtet GBE – wie auch
 der Public-Health-Bereich insgesamt – den Blick vor allem auf die
-grundlegenden **Determinanten von Gesundheit**, indem sie den Blick
-„flussaufwärts“ orientiert, um den komplexen Zusammenhang von
-Gesundheit und gesundheitlichen Rahmenbedingungen abbilden zu können.
+grundlegenden **Determinanten von Gesundheit**, indem sie den Blick 
+„stromaufwärts“, in Richtung der Quelle richtet, um den komplexen 
+Zusammenhang von Gesundheit und gesundheitlichen Rahmenbedingungen 
+abbilden zu können.
 
 Gesundheit wird von Menschen in ihrer alltäglichen Umwelt geschaffen und
 gelebt: dort, wo sie spielen, lernen, arbeiten und lieben – kurz, dort
@@ -268,8 +270,8 @@ Ursache-Wirkungs-Beziehungen von Gesundheit und Krankheit zu
 visualisieren und sich daran zu erinnern, wie wichtig es ist, den Blick
 immer wieder stromaufwärts auf die zugrunde liegenden Ursachen zu
 richten. Aufmerksamkeit und Mittel sind im Gesundheitswesen ungleich
-zwischen kurativen (unten am Fluss, „downstream“) und präventiven bzw.
-gesundheitsförderlichen (oben am Fluss, „upstream“) Ansätzen verteilt.
+zwischen kurativen (Richtung Mündung, downstream) und präventiven bzw.
+gesundheitsförderlichen (Richtung Quelle, upstream) Ansätzen verteilt.
 Der Blick ist teils ressourcenbedingt, teils aufgrund einseitiger
 Perspektive oft nicht auf weiter upstream liegende
 Gesundheitsdeterminanten gerichtet. Auch für das GBE-Assessment stellt
@@ -291,14 +293,14 @@ aber auch gesundheitsschädlich einwirken können (siehe Abbildung 4).
 
  <figure>
   <img src="./media/AOE-2520-Booksprints-18.png" alt="Determinanten für Gesundheit „Regenbogenmodell" style="width:90%">
-  <figcaption>Abbildung 4: Determinanten für Gesundheit „Regenbogenmodell“ (eigene Darstellung nach Dahlgren, Whitehead 1991)</figcaption>
+  <figcaption>Abbildung 4: Determinanten für Gesundheit – Regenbogenmodell (eigene Darstellung nach Dahlgren, Whitehead 1991)</figcaption>
 </figure> 
 
 
 
-Im Mittelpunkt befinden sich der Mensch und seine individuellen Faktoren
-wie Alter, Geschlecht und konstitutionelle Merkmale, die zwar einen
-direkten Einfluss auf die Gesundheit der oder des Einzelnen haben,
+Im Mittelpunkt befindet sich der Mensch mit seinen individuellen Faktoren
+wie Alter, Geschlecht und konstitutionelle Merkmale, die zwar 
+direkten Einfluss auf seine Gesundheit haben,
 allerdings relativ unveränderlich sind. Diese nahezu unveränderlichen
 Determinanten von Gesundheit sind in einen sozialen, ökologischen und
 ökonomischen Rahmen eingebettet, der (zumindest theoretisch) auf
@@ -344,39 +346,35 @@ fallen oder sich gegebenenfalls selbst aus dem Wasser retten können.
 Mittel- und langfristig sind gerade diejenigen Ansätze erstrebenswert,
 die auf eine gesundheitsförderliche Gestaltung von Verhältnissen setzen.
 Sie können nicht nur wesentlich zur Ermöglichung gesundheitlicher
-Chancengleichheit beitragen, sondern auch dabei unterstützen, dass „der
-Gesundheit förderliche Entscheidungen“ zur „einfacheren Entscheidung“
+Chancengleichheit beitragen, sondern auch dabei unterstützen, dass der
+Gesundheit förderliche Entscheidungen zur einfacheren Entscheidung
 werden.
 
 Für die Gesundheitsberichterstattung ist das auf zwei Ebenen relevant:
 einerseits auf Ebene der berichteten Kennzahlen für Gesundheit
-(**Assessment**) und andererseits auf Ebene der Planung und Ableitung
-entsprechender Handlungsempfehlungen (**Policy Formulation**). Unter den
+**(Assessment)** und andererseits auf Ebene der Planung und Ableitung
+entsprechender Handlungsempfehlungen **(Policy Formulation)**. Unter den
 Kennzahlen für Gesundheit finden sich diverse Indikatoren, die nicht
 direkt den Gesundheitszustand, sondern den Zustand definierter
-Determinanten für Gesundheit abbilden (siehe auch [Kapitel 4]({{ site.baseurl }}{% link 04-GBEHandwerk.md %})). GBE kann
-dem Namen „Gesundheitsberichterstattung“ eigentlich nur gerecht werden,
+Determinanten für Gesundheit abbilden (siehe auch [Kapitel 4]({{ site.baseurl }}{% link 04-GBEHandwerk.md %})). GBE ihrem Namen eigentlich nur gerecht werden,
 wenn sie sich eben nicht nur darauf beschränkt, die Häufigkeiten von
-Krankheit und Tod mehr oder weniger „downstream“ zu berichten, sondern
+Krankheit und Tod mehr oder weniger downstream zu berichten, sondern
 auch über die wesentlichen Upstream-Faktoren berichtet, von denen
 wissenschaftlich belegt ist, dass sie erheblichen Einfluss auf die
-Geschehnisse weiter unten am Fluss („downstream“) haben. Im
+Geschehnisse weiter unten am Fluss (downstream) haben. Im
 Planungskontext heißt eine solch breite Perspektive auf Gesundheit, dass
 explizit versucht werden muss, auf Planungsfelder über den engeren
 Gesundheitsbereich hinaus einzuwirken. Gerade auf kommunaler Ebene
 stehen die Chancen dafür nicht schlecht, da der ÖGD hier in eine
 Kommunalverwaltung eingebunden ist, die direkt oder indirekt für eine
 Vielzahl upstream gelegener gesundheitsrelevanter Faktoren zuständig
-ist. Dies bietet die Chance, dem Thema „Gesundheit“ in umliegenden
-gesundheitsrelevanten Planungsfeldern mehr Gewicht zu verleihen, das
-heißt zur Umsetzung des **„Health in All Policies“-Ansatzes** - im
-Idealfall koordiniert durch den ÖGD.
+ist. Dies bietet die Chance, dem Thema Gesundheit in umliegenden gesundheitsrelevanten Planungsfeldern mehr Gewicht zu verleihen und einen **Health-in-All-Policies-Ansatz** zu verfolgen – im Idealfall koordiniert durch den ÖGD.
 
 <table>
 <tbody>
 <tr class="odd">
 <td><h5 id="exkurs-health-in-all-policies-hiap">Exkurs: Health in All Policies (HiAP)</h5>
-<p>Da die Verhältnisse, in denen Menschen aufwachsen und leben, mittel- und langfristig das Verhalten von Individuen und Bevölkerungsgruppen substanziell beeinflussen können, stehen verhältnispräventive Maßnahmen stark im Fokus von Prävention und Gesundheitsförderung und münden oftmals in Aktivitäten der Gesundheitsplanung (Näheres hierzu auch in [Kapitel 7]({{ site.baseurl }}{% link 07-Planung.md %}) ). Der „Health in All Policies“-Ansatz (im Deutschen: Gesundheit in allen Politikbereichen) beinhaltet, gesundheitsrelevante Prozesse und Entscheidungen auf unterschiedlichen gesellschaftspolitischen Ebenen systematisch zu erfassen, sichtbar zu machen und darauf hinzuwirken, gesundheitsrelevante Auswirkungen, sowohl gesundheitsförderliche als auch -schädliche, bei Entscheidungen quer durch alle Politikfelder mit zu berücksichtigen. Übergreifendes Ziel ist eine gesundheitsförderliche Gesamtpolitik, um die Gesundheit der Bevölkerung und gesundheitliche Chancengleichheit zu verbessern (Böhme, Reimann 2018; Geene et al. 2020).</p></td>
+<p>Da die Verhältnisse, in denen Menschen aufwachsen und leben, mittel- und langfristig das Verhalten von Individuen und Bevölkerungsgruppen substanziell beeinflussen können, stehen verhältnispräventive Maßnahmen stark im Fokus von Prävention und Gesundheitsförderung und münden oftmals in Aktivitäten der Gesundheitsplanung (Näheres hierzu auch in [Kapitel 7]({{ site.baseurl }}{% link 07-Planung.md %}) ). Der Health-in-All-Policies-Ansatz (Gesundheit in allen Politikbereichen) beinhaltet, gesundheitsrelevante Prozesse und Entscheidungen auf unterschiedlichen gesellschaftspolitischen Ebenen systematisch zu erfassen, sichtbar zu machen und darauf hinzuwirken, gesundheitsrelevante Auswirkungen, sowohl gesundheitsförderliche als auch -schädliche, bei Entscheidungen quer durch alle Politikfelder mit zu berücksichtigen. Übergreifendes Ziel ist eine gesundheitsförderliche Gesamtpolitik, um die Gesundheit der Bevölkerung und gesundheitliche Chancengleichheit zu verbessern (Böhme, Reimann 2018; Geene et al. 2020).</p></td>
 </tr>
 </tbody>
 </table>
@@ -399,13 +397,13 @@ Schuldzuweisungen an bestimmte Bevölkerungsgruppen (siehe auch [Kapitel 1]({{ s
 Auf Handlungsebene sind soziale Determinanten nicht nur aufgrund ihrer
 übergeordneten Bedeutung für Gesundheit relevant, sondern auch ganz
 praktisch, da auf kommunaler Ebene viele soziale Zuständigkeiten
-gebündelt vorliegen. Viele der im Modell eher außen angesiedelten
+gebündelt sind. Viele der im Modell eher außen angesiedelten
 Determinanten sind zwar grundsätzlich planbar, befinden sich allerdings
 oft nicht im direkten Zugriff des Gesundheitsamtes. Um eine
 entsprechende Upstream-Perspektive in die Berichterstattung und Planung
 integrieren zu können, ist daher häufig eine integrierte,
 ressortübergreifende Planung im Sinne einer gesundheitsförderlichen
-kommunalen Gesamtpolitik gemäß des „Health in All Policies“-Ansatzes
+kommunalen Gesamtpolitik gemäß des Health-in-All-Policies-Ansatzes
 notwendig. Die strukturelle Anbindung des kommunalen ÖGD innerhalb der
 Kommunalverwaltung spielt dabei eine wichtige Rolle. Ist der ÖGD
 beispielsweise gemeinsam mit der Sozial- oder Jugendhilfeverwaltung in
@@ -464,12 +462,12 @@ Michelsen 2007; Kurth 2006):
 
 1.  **Technokratisches Modell:** Nach diesem Modell folgt die Politik
     der Wissenschaft und ihren Empfehlungen, es kommt zu einer
-    „Verwissenschaftlichung der Politik“. Dieses Modell passt vor
+    Verwissenschaftlichung der Politik. Dieses Modell passt vor
     allem zu Prozessen, die vorab weitgehend festgelegt sind, wie dies
     etwa bei Ausbrüchen von Infektionskrankheiten und den im
     Infektionsschutzgesetz (IfSG) festgelegten Abläufen der Fall ist.
     Für Prozesse, deren Verlauf weitgehend offen ist, ist dieses Modell
-    eher ungeeignet, da die politische Entscheidungsfindung durch meist
+    eher ungeeignet, da die politische Entscheidung durch meist
     demokratisch legitimierte Mandatsträger und Mandatsträgerinnen
     getroffen wird. GBEler und GBElerinnen stammen meist aus
     akademischen Kontexten und haben gelernt, Prozesse möglichst
@@ -478,8 +476,8 @@ Michelsen 2007; Kurth 2006):
     vergegenwärtigen, dass über die weite Mehrzahl aller Maßnahmen
     nicht rein technokratisch, evidenzbasiert entschieden wird, sondern
     dass darüber hinaus eine Vielzahl weiterer Faktoren berücksichtigt
-    wird, deren Auswahl auch nicht immer auf den ersten Blick
-    nachvollziehbar ist.
+    werden, deren Auswahl unter rein wissenschaftlichen Gesichtspunkt nicht
+    immer nachvollziehbar ist.
 
 2.  **Dezisionistisches Modell:** Nach diesem Modell berät eine
     wertfreie Wissenschaft eine Politik, die auf Basis von Werten und
@@ -496,16 +494,16 @@ Michelsen 2007; Kurth 2006):
     Wertorientierungen des GBElers oder der GBElerin etwa im Sinne
     eines Leitwerts Gesundheit oder der HiAP-Ziele werden im
     Beratungsprozess nicht ausgeblendet, sondern sind Teil dessen.
-.  **Pragmatistisches Modell:** Nach diesem Modell wird eine wertende
+3.  **Pragmatistisches Modell:** Nach diesem Modell wird eine wertende
     Wissenschaft postuliert, welche Politik berät und aufgrund der
     eigenen Wertorientierung gleichzeitig in den Diskurs mit ihr
     tritt. Entscheidungen werden somit in einem Wechselspiel zwischen
     Politik und Wissenschaft getroffen. Der GBEler oder die GBElerin
-    wird im Normalfall durchaus für die eigenen Werte „streiten“, wie
+    wird im Normalfall durchaus für die eigenen Werte streiten, wie
     es in diesem Modell hinterlegt ist. Inwieweit die
     Entscheidungsprozesse dann eher dezisionistisch oder
     pragmatistisch stattfinden, hängt von seiner oder ihrer Rolle ab
-    sowie vom Kontext, der ja durch eine Vielzahl weiterer Akteure zum
+    sowie vom Kontext, der ja durch eine Vielzahl weiterer Akteure und Akteurinnen zum
     Beispiel aus Kommunalpolitik oder Gremien von Experten und
     Expertinnen beeinflusst wird (Weiteres zu den Strukturen auch in
     [Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %})).
@@ -554,16 +552,16 @@ GBE und Politik
 Determinanten von Gesundheit
 
   - Dahlgren G, Whitehead M (2007): Policies and strategies to promote
-    social equity in health - Background document to WHO – Strategy
+    social equity in health – Background document to WHO – Strategy
     paper for Europe. 14. Aufl., 2007.
 
-  - Marmot M (2010): Fair Society Healthy Lives - The Marmot Review:
+  - Marmot M (2010): Fair Society Healthy Lives – The Marmot Review:
     Executive Summary. London, 2010.
 
   - Marmot M G (2005): Social determinants of health inequalities. In:
     *The Lancet* 365, S. 1099–1104.
 
-  - WHO Europe (2003): The solid facts - Social determinants of health.
+  - WHO Europe (2003): The solid facts – Social determinants of health.
     2nd ed. Copenhagen, 2003.
 
 GBE und Planung
@@ -575,12 +573,12 @@ GBE und Planung
 
   - Szagun B, Wasel W (2006): Kommunale Gesundheitsplanung zwischen
     WHO-Konzept, gesetzlichem Auftrag und struktureller Rationierung.
-    In: *Gesundheits- und Sozialpolitik* (7-8), S. 51–56.
+    In: *Gesundheits- und Sozialpolitik* (7–8), S. 51–56.
 
 Health in All Policies (HiAP)
 
   - Böhm K et al. (Hrsg.) (2020): Gesundheit als gesamtgesellschaftliche
-    Aufgabe - Das Konzept Health in All Policies und seine Umsetzung in
+    Aufgabe – Das Konzept Health in All Policies und seine Umsetzung in
     Deutschland. 1st ed. 2020. Wiesbaden: Springer Fachmedien Wiesbaden;
     Imprint: Springer VS.
 
