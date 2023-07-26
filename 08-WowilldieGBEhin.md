@@ -30,7 +30,7 @@ ist eine wichtige Ressource, wenn es darum geht, Präventionsmaßnahmen
 evidenz-informiert abzuleiten und gemeinsam mit der Bevölkerung
 umzusetzen. Dazu ist Vertrauen in die Informationen, die Behörden
 liefern, unverzichtbar. Gute Daten und ihre wissenschaftlich fundierte
-Aufarbeitung sind eine Voraussetzung dazu. So gesehen kann die
+Aufarbeitung sind eine Voraussetzung dafür. So gesehen kann die
 Gesundheitsberichterstattung nicht nur Daten für Gesundheitspolitik
 bereitstellen, sondern auch die Gesundheitskompetenz der Bürgerinnen und
 Bürger unterstützen.
@@ -69,14 +69,13 @@ Nutzerinnen und Nutzern nach gemeinsamen Standards genutzt werden.
 Auch für die **gemeinsame Erstellung von Berichten** bieten sich
 unterschiedliche Plattformen an, um gemeinsam Projekte zu planen, zu
 analysieren und zu publizieren. Denkbar wären hier ebenso
-vergleichsweise neue Konzepte wie beispielsweise ein „book sprint“ zur
+vergleichsweise neue Konzepte wie beispielsweise ein Book Sprint zur
 gemeinsamen Erstellung eines Gesundheitsberichts. Darüber hinaus
 bestehen **Schnittstellen zu möglichen anderen Berichtsformaten**, zum
 Beispiel Blogs, die den Leserinnen und Lesern neue Möglichkeiten zur
-Beteiligung an der gesellschaftlichen Debatte über die Frage: „Wie geht
-es den Menschen“ einräumt. Die neuen medialen Instrumente könnten so
-auch einen Beitrag zur Realisierung der Idee einer „partizipativen
-Gesundheitsberichterstattung“ leisten. Die GBE muss außerdem die
+Beteiligung an der gesellschaftlichen Debatte darüber ggibt, wie es den Menschen geht.  Die neuen medialen Instrumente könnten so
+auch einen Beitrag zur Realisierung der Idee einer partizipativen
+Gesundheitsberichterstattung leisten. Die GBE muss außerdem die
 sozialen Medien und verschiedene Plattformen stärker für die
 Ergebnisdisseminierung nutzen. Zum einen werden so zusätzliche
 Nutzerinnen und Nutzer der GBE erreicht, zum anderen könnte so die GBE
@@ -113,33 +112,32 @@ Lebensumfelds der Bürgerinnen und Bürger in einem standardisierten
 Verfahren zu sammeln und prioritäre Handlungsfelder für
 verhältnispräventive Maßnahmen zu identifizieren. Das Tool ist bereits
 in vielen europäischen Ländern auf Anerkennung gestoßen
-\[[<span class="underline">Talking „place” – a public health
+\([<span class="underline">Talking „place“ – a public health
 conversation for
-everyone?</span>](https://eurohealthnet-magazine.eu/talking-place-a-public-health-conversation-for-everyone/)\].
+everyone?</span>](https://eurohealthnet-magazine.eu/talking-place-a-public-health-conversation-for-everyone/)\).
 In Deutschland wurde das Tool von der Bundeszentrale für gesundheitliche
 Aufklärung in Kooperation mit den Ländern Baden-Württemberg und
 Nordrhein-Westfalen sowie vier Pilotkommunen übersetzt und erprobt und
 steht als
 [<span class="underline">StadtRaumMonitor</span>](https://www.bzga.de/aktuelles/2020-09-24-stadtraummonitor-wie-lebenswert-finde-ich-meine-umgebung/)
-ab dem Sommer 2022 bundesweit zur Verfügung.
+seit dem Sommer 2022 bundesweit zur Verfügung.
 
 Die Gesundheitsministerkonferenz hat 2018 ein **modernes Leitbild für
-den ÖGD** verabschiedet (länderoffene Projektgruppe „Leitbild ÖGD“
+den ÖGD** verabschiedet (länderoffene Projektgruppe Leitbild ÖGD
 2018). Es soll dabei helfen, dem ÖGD ein zukunftsorientiertes Profil zu
 geben und dabei neben den klassischen Aufgaben der Überwachung und
 Kontrolle, etwa im Infektionsschutz oder in der Krankenhaushygiene, auch
 den Aufgaben der Koordination, Vernetzung und Planung mehr Stellenwert
-zuzumessen. Dabei gehört der Bereich „Kommunikation, Moderation,
-Anwaltschaft und Politikberatung“ ebenfalls zu den Kernaufgaben des ÖGD.
-Die Gesundheitsberichterstattung ist dabei ein wichtiges Instrument
-dieser Kernaufgaben. Mit ihren unterschiedlichen und neuen
+zuzumessen. Dabei gehört der Bereich Kommunikation, Moderation,
+Anwaltschaft und Politikberatung ebenfalls zu den Kernaufgaben des ÖGD.
+Die Gesundheitsberichterstattung ist in diesem Zusammenhang ein wichtiges Instrument, um diese Aufgaben zu erfüllgen. Mit ihren unterschiedlichen und neuen
 Kommunikationskanälen kann die GBE noch besser dazu beitragen, die
 **Evidenzbasierung der (gesundheits-)politischen Willensbildung und
 Entscheidungen** zu stärken.
 
 In letztgenanntem Sinne wäre es wünschenswert, wenn dem kommunalen ÖGD
 mehr Steuerungsaufgaben zugeschrieben würden, sei es in den
-Gesundheitsdienstgesetzen der Länder oder bei der Umsetzung
+Gesundheitsdienstgesetzen (GDG) der Länder oder bei der Umsetzung
 übergeordneter Gesetze wie dem Präventionsgesetz. Wer kommunal
 gesundheitspolitisch steuern will, benötigt dafür mindestens
 mittelfristig eine solide Informationsbasis, das heißt eine kommunale
@@ -151,12 +149,12 @@ Maß hinaus zu homogenisieren.
 Die Weiterentwicklung der Gesundheitsberichterstattung mit der Nutzung
 neuer Möglichkeiten und als Antwort auf neue Anforderungen ist eine
 Zukunftsaufgabe, die nicht mit den bestehenden Kapazitäten der
-Gesundheitsberichterstattung realisiert werden könnte. Um auch weiterhin
+Gesundheitsberichterstattung realisiert werden kann. Um auch weiterhin
 verlässliche Informationen zur Gesundheit für unterschiedliche
 Nutzerinnen und Nutzern bereitstellen zu können, ist ein Ausbau der
 Gesundheitsberichterstattung auf allen Ebenen (Bund, Länder, Kommunen)
-erforderlich. Ein starkes Public-Health-System und
-Gesundheitsberichterstattung als dessen fester Bestandteil sind
+erforderlich. Ein starkes Public-Health-System mit
+Gesundheitsberichterstattung als festem Bestandteil ist
 erforderlich, um die Gesundheit aller Menschen in Deutschland zu
 schützen und zu verbessern.
 
@@ -164,8 +162,10 @@ schützen und zu verbessern.
 <tbody>
 <tr class="odd">
 <td><h5 id="exkurs-gbe-während-der-corona-pandemie" class="list-paragraph">Exkurs: GBE während der Corona-Pandemie</h5>
-<p>Ganz aktuell steht die (kommunale) GBE vor Aufgaben, die die COVID-19-Pandemie mit sich bringt: Politische Entscheidungsträger benötigen einen tagesaktuellen Überblick über Infektionszahlen, Inzidenzraten, Hotspots der Pandemie und besonders betroffene Bevölkerungsgruppen. Die Herausforderung besteht hier in der <strong>kurzfristigen, täglichen Berichterstattung</strong>, für die herkömmliche GBE-Formate nicht geeignet sind. Die zeitnahe Datenbereitstellung für Politik und Öffentlichkeit erfolgt daher oft über andere Wege, wobei die Gesundheitsberichterstattung aber mittelbar tangiert sein kann. Automatisierte Datenabfragen und die automatisierte Erstellung von Statistiken, die Einspeisung von Daten in Dashboards und andere interaktive Datenpräsentationen sind für kommunale GBElerinnen und GBEler zumeist neue Aufgaben. Sofern sie im Zusammenhang mit Corona in diese Abläufe eingebunden werden, können diese Erfahrungen und gegebenenfalls auch die Tools später für die „reguläre“ GBE genutzt werden. Eine eigenständige GBE-Aufgabe könnte es sein, im Nachgang zur Krise einen Gesundheitsbericht über Corona zu erstellen, mit den gesamten Verlaufsdaten zur Epidemie und ergänzenden Daten zum Beispiel aus dem Versorgungssystem. Aber auch eine Berichterstattung, die mögliche gesundheitlich relevante Folgen der Pandemie und die Bekämpfungsstrategien analysiert und aufzeichnet, wäre denkbar.</p>
-<p>Auch hier gilt es wieder für die Gesundheitsberichterstatterin oder den Gesundheitsberichterstatter, Vernetzungsstrukturen aufzubauen und interdisziplinäres Arbeiten zu praktizieren: Infektionsepidemiologinnen und Infektionsepidemiologen, IT-Expertinnen und IT-Experten und die Pressestelle der Kommune stehen hier neben vielen weiteren wichtige Ansprechpersonen, mit denen die Anforderungen gemeinsam gelöst werden können.</p></td>
+<p>Während der COVID-19-Pandemie stand die (kommunale) GBE vor besonderen Aufgaben: Politische Entscheidungsträger benötigen einen tagesaktuellen Überblick über Infektionszahlen, Inzidenzraten, Hotspots der Pandemie und besonders betroffene Bevölkerungsgruppen. Die Herausforderung bestand hier in der <strong>kurzfristigen, täglichen Berichterstattung</strong>, für die herkömmliche GBE-Formate bis heute nicht geeignet sind. Die zeitnahe Datenbereitstellung für Politik und Öffentlichkeit erfolgte daher oft über andere Wege, wobei die GBE aber oftmals mittelbar tangiert war. Automatisierte Datenabfragen und die automatisierte Erstellung von Statistiken, die Einspeisung von Daten in Dashboards und andere interaktive Datenpräsentationen waren für kommunale GBElerinnen und GBEler zumeist neue Aufgaben. Nun gilt es zu prüfen, inwiefern diese Erfahrungen und gegebenenfalls auch das neu erworbene Wissen sowie die verwendeten Tools für die „reguläre“ GBE genutzt werden. 
+Eine weitere eigenständige GBE-Aufgabe könnte es sein, im Nachgang zur Krise einen Gesundheitsbericht über Corona zu erstellen, mit den gesamten Verlaufsdaten zur Epidemie und ergänzenden Daten zum Beispiel aus dem Versorgungssystem. Aber auch eine Berichterstattung, die mögliche gesundheitlich relevante Folgen der Pandemie und die Bekämpfungsstrategien analysiert und aufzeichnet, ist denkbar.
+In beiden Fällen gilt es wieder für die Gesundheitsberichterstatterin oder den Gesundheitsberichterstatter, Vernetzungsstrukturen aufzubauen und interdisziplinäres Arbeiten zu praktizieren: Infektionsepidemiologinnen und Infektionsepidemiologen, IT-Expertinnen und IT-Experten und die Pressestelle der Kommune stehen hier neben vielen weiteren wichtige Ansprechpersonen, mit denen die Anforderungen gemeinsam gelöst werden können.
+</p></td>
 </tr>
 </tbody>
 </table>
@@ -176,7 +176,7 @@ schützen und zu verbessern.
 
 Kommunale Steuerungsaufgaben wie die GBE sind landesgesetzlich und somit
 heterogen geregelt. GBE als gesetzliche Aufgabe findet sich wie in
-[Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %}) beschrieben in nahezu allen Gesundheitsdienstgesetzen der
+[Kapitel 3]({{ site.baseurl }}{% link 03-GBEStrukturen.md %}) beschrieben in nahezu allen GDG der
 Länder als Aufgabe des kommunalen ÖGD, jedoch in unterschiedlicher
 Ausprägung, Präzisierung und Kopplung mit Planungsprozessen (Rosenkötter
 et al. 2020). Die Umsetzung der kommunalen GBE als weisungsfreie
@@ -186,14 +186,13 @@ der Kommunen sehr unterschiedlichen strukturellen Rahmenbedingungen im
 ÖGD (Arnold et al. 2020). Diese Diversität ist gekoppelt mit einem
 eklatanten Forschungs- und Transparenzdefizit, welches sich unter
 anderem aus der mangelnden Verankerung ÖGD-relevanter Forschungsfragen
-in der Public-Health-Wissenschaft (zum Beispiel fehlende ÖGD-Lehrstühle)
-sowie aus Informationsdefiziten über die kommunale Ebene ergibt.
+in der Public-Health-Wissenschaft sowie aus Informationsdefiziten über die kommunale Ebene ergibt.
 Entsprechend sind fast alle Analysen zur kommunalen GBE regional oder
 thematisch begrenzt (Fertmann et al. 2004; Süß et al. 2007; Murza et al.
 2005). Einzig in der Münchener GBE-Studie wurden 2007 alle kommunalen
 Gesundheitsämter deutschlandweit zum Stand der kommunalen GBE befragt
 (Stockmann et al. 2008): Aus dem verwertbaren Rücklauf von 195 Ämtern
-(47 %) gaben 75 % an, in den letzten 5 Jahren Gesundheitsberichte
+(47 %) gaben 75 % an, in den letzten fünf Jahren Gesundheitsberichte
 erstellt zu haben. Tiefergehende Analysen etwa zum Einfluss
 landesgesetzlicher Vorgaben auf die GBE waren aufgrund der
 Rahmenbedingungen der Befragung nicht möglich.
@@ -204,7 +203,7 @@ am beschriebenen Wissensdefizit und den zugrunde liegenden methodischen
 Problemen an. Im Jahre 2019 begonnen wurde eine bundesweite
 längsschnittliche Erhebung der kommunalen Gesundheitsberichte, die
 erstmalig ein repräsentatives Bild zur kommunalen GBE liefern und
-umfangreiche Analysen ermöglichen wird. Wichtige Fragen wären etwa,
+umfangreiche Analysen ermöglichen wird. Wichtige Fragen sind etwa,
 welche Kontextbedingungen mit welchen Berichtstypen, welchem
 Integrationsgrad sowie Gender-, Soziallage- und Handlungsbezug der
 kommunalen GBE assoziiert sind. Da bisherige Leuchtturmprojekte zur
@@ -220,7 +219,7 @@ umfasste somit 358 kommunale ÖGD-Einheiten, von denen 252 auf
 Landkreise, 65 auf Stadtkreise (inklusive Stadtstaaten) und 41 auf
 kumulierte ÖGD-Einheiten über mehrere Land- oder Stadtkreise entfielen.
 Erhoben wurde, ob kommunale Gesundheitsberichte seit dem Jahr 2010
-existierten. Sofern möglich, wurden mindestens die letzten 3 verfügbaren
+existierten. Sofern möglich, wurden mindestens die letzten drei verfügbaren
 Berichte seit dem Jahr 2010 heruntergeladen und als Berichtspool
 abgelegt. Ebenfalls erhoben wurden Strukturinformationen zur kommunalen
 Anbindung des ÖGD an übergeordnete Dezernate bzw. Abteilungen, indem das
@@ -232,7 +231,7 @@ Online-Screening-Verfahrens zu prüfen, wurde aus den kommunalen
 gefunden wurde, eine Zufallsstichprobe von 80 Einheiten gezogen. Bei
 diesen Ämtern erfolgten im Februar 2020 teilstandardisierte
 Telefoninterviews zur Frage, ob im Zeitraum der letzten zehn Jahre
-Gesundheitsberichterstattung durchgeführt wurde. Aufgrund der
+Gesundheitsberichterstattung durchgeführt wurde. Während der
 Corona-Krise konnten insgesamt 72 Ämter befragt werden. Von dieser
 Gesamtstichprobe wurden die Fragen zur GBE von 60 Ämtern (83,3 %)
 beantwortet. Von diesen wurde jeweils vier Mal angegeben, dass GBE in
@@ -276,7 +275,7 @@ Gesundheit vorgestellt, welches seit 2009 in Nordrhein-Westfalen stetig
 weiterentwickelt und erprobt wird.
 
 Der Fachplan Gesundheit ist methodisch stark an andere, seit Langem zum
-Teil auch gesetzlich verankerten Fachplanungen (zum Beispiel
+Teil auch gesetzlich verankerte Fachplanungen (zum Beispiel
 Lärmaktionsplanung, Luftreinhalteplan, Landschaftsplanung,
 Bauleitplanung, aber auch örtliche Pflegeplanung) und Strategien (etwa
 Klimafolgenanpassungsstrategien, integrierte kommunale
@@ -369,11 +368,11 @@ Länder-Arbeitsgruppe hat sich zwischenzeitlich auf ein Set an
 Indikatoren zur Präventionsberichterstattung verständigt.
 
 Durch das Präventionsgesetz und die dadurch angeregten
-„Präventionsberichte“ ist allerdings kein völliges Neuland für die
+Präventionsberichte ist allerdings kein völliges Neuland für die
 Gesundheitsberichterstattung betreten worden. Auch in der Vergangenheit
 war die Gesundheitsberichterstattung bereits stark auf präventive und
 gesundheitsförderliche Planungen ausgerichtet. In vielen
-Gesundheitsdienstgesetzen der Länder ist der Präventionsbezug explizit
+GDG der Länder ist der Präventionsbezug explizit
 verankert. Des Weiteren sind viele Gesundheitsberichte thematisch auf
 Präventionsthemen fokussiert, etwa, wenn über Übergewicht bei Kindern,
 über Rauchgewohnheiten oder über Themen wie Ernährung und Bewegung
@@ -387,7 +386,7 @@ GBE kann man diese Berichte ebenfalls als Gesundheitsberichte ansehen –
 eben von anderen Akteuren.
 
 **Aktueller Stand:** Wie sich die Präventionsberichterstattung auf der
-Ebene der Länder und Kommunen weiter entwickelt, bleibt abzuwarten. Hier
+Ebene der Länder und Kommunen weiterentwickelt, bleibt abzuwarten. Hier
 stellen sich eigene Methodenfragen, die es zu lösen gilt. 2019 fand dazu
 beim Robert Koch-Institut (RKI) ein erster Workshop statt, dessen
 Ergebnisse auch im Rahmen der Gesundheitsberichterstattung des Bundes
@@ -403,31 +402,31 @@ Akteurinnen und Akteuren des Gesundheitswesens beitragen soll –
 letztlich, dass sie den viel zitierten Public Health Action Cycle mit
 dem nötigen Datentreibstoff versorgt. Mit der Perspektive einer
 integrierten Berichterstattung verbindet sich dabei der Blick auf den
-Ansatz „Health in All Policies“ der WHO und auf eine umfassende
+Ansatz Health in All Policies der WHO und auf eine umfassende
 Public-Health-Strategie.
 
 Eine solche umfassende Public-Health-Strategie gibt es in Deutschland
-erst seit Kurzen. Im Rahmen des Projekts „gesundheitsziele.de“ haben
+erst seit Kurzen. Im Rahmen des Projekts gesundheitsziele.de haben
 viele Akteure an der Formulierung von Zielsetzungen und dazu geeigneten
 Maßnahmen auch jenseits der klassischen Gesundheitsversorgung
 gearbeitet, aber eine systematische nationale Public-Health-Strategie
 ist daraus zunächst nicht entstanden. 2015 haben die
 Wissenschaftsakademien eine gemeinsame Stellungnahme zu Public Health in
 Deutschland veröffentlicht (Leopoldina 2015). Sie hat den Aufbau des
-„[<span class="underline">Zukunftsforums Public
-Health</span>](https://zukunftsforum-public-health.de/)„ ausgelöst.
+[<span class="underline">Zukunftsforums Public
+Health</span>](https://zukunftsforum-public-health.de/) ausgelöst.
 Unter diesem – für die Mitwirkung aller Interessierter offenen – Dach
-erarbeiten wichtige PublicHealth-Akteurinnen und -Akteure in Deutschland
+erarbeiten wichtige Public-Health-Akteurinnen und -Akteure in Deutschland
 eine Nationalen Public-Health-Strategie.
 
 Der Entwurf der Strategie hat einen öffentlichen Konsultationsprozess
 durchlaufen und konnte 2021 als Eckpunktepapier abgeschlossen werden
-(ZfPH 2021). Es orientiert sich an den 10 zentralen Maßnahmen für die
+(ZfPH 2021). Es orientiert sich an den zehn zentralen Maßnahmen für die
 öffentliche Gesundheit
 ([<span class="underline">EPHOs</span>](https://www.euro.who.int/en/health-topics/Health-systems/public-health-services/policy/the-10-essential-public-health-operations)),
 die von der WHO 2012 veröffentlicht wurden (WHO 2012). In **EPHO 1**
-geht es dabei um Surveillance – und zwar in einem Verständnis, das dem
-hier beschriebenen Verständnis der Gesundheitsberichterstattung
+geht es dabei um Surveillance – und zwar in einem Verständnis, das dem der
+hier beschriebenen Gesundheitsberichterstattung
 entspricht. Der Abschnitt im Entwurf des Strategiepapiers beginnt so:
 
 > „Public Health Surveillance – und die damit eng verbundene
