@@ -95,49 +95,29 @@ Dabei ist die GBE jedoch kein Selbstzweck, sondern verfolgt das klare Ziel, so g
 
 Geschichte der Gesundheitsberichterstattung
 
-  - Kuhn J (2007): Die historische Entwicklung der kommunalen Gesundheitsberichterstattung – Eine Forschungslücke. Das Gesundheitswesen 69:507–513. <span class="underline">https://doi.org/10.1055  /s-2007-992160</span>
+- Kuhn J (2007): Die historische Entwicklung der kommunalen Gesundheitsberichterstattung – Eine Forschungslücke. Das Gesundheitswesen 69:507–513. <span class="underline">https://doi.org/10.1055  /s-2007-992160</span>
 
-  - Pieper A (2003): Johann Peter Frank. Vom Arzt zum
-    Gesundheitspolitiker – Eine europäische Karriere zwischen
-    Aufklärung, Revolution und Reaktion. In: Deutsches Ärzteblatt 100,
-    S. 28–29.
+- Pieper A (2003): Johann Peter Frank. Vom Arzt zum Gesundheitspolitiker – Eine europäische Karriere zwischen Aufklärung, Revolution und Reaktion. In: Deutsches Ärzteblatt 100, S. 28–29.
 
 Ethik und Verantwortung:
 
-  - Schröder-Bäck P, Kuhn J (Hrsg.) (2016): Ethik in den
-    Gesundheitswissenschaften – Eine Einführung. Weinheim: Beltz
-    (Grundlagentexte Gesundheitwissenschaften).
+- Schröder-Bäck P, Kuhn J (Hrsg.) (2016): Ethik in den Gesundheitswissenschaften – Eine Einführung. Weinheim: Beltz (Grundlagentexte Gesundheitwissenschaften).
 
-  - Leitlinie 1 (Ethik), in: Gute Praxis GBE.2.0.
+- Leitlinie 1 (Ethik), in: Gute Praxis GBE.2.0.
 
 Grundlagen der Gesundheitsberichterstattung
 
-  - Hamburger Projektgruppe Gesundheitsberichterstattung (1998): Ein
-    Leitfaden für GesundheitsberichterstatterInnen und solche, die es
-    werden wollen. Edition Praxishandbuch Gesundheitsberichterstattung,
-    Akademie für Öffentliches Gesundheitswesen, Düsseldorf.
+- Hamburger Projektgruppe Gesundheitsberichterstattung (1998): Ein Leitfaden für GesundheitsberichterstatterInnen und solche, die es werden wollen. Edition Praxishandbuch Gesundheitsberichterstattung, Akademie für Öffentliches Gesundheitswesen, Düsseldorf.
 
-  - LGL (2014): Epidemiologie und Gesundheitsberichterstattung.
-    Begriffe, Methoden, Beispiele. Edition Handlungshilfe: GBE-Praxis 2,
-    Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit,
-    Erlangen.
+- LGL (2014): Epidemiologie und Gesundheitsberichterstattung. Begriffe, Methoden, Beispiele. Edition Handlungshilfe: GBE-Praxis 2, Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit, Erlangen.
 
-  - LGL (2011): Gesundheitsberichterstattung für die Landkreise und
-    kreisfreien Städte Bayerns. Edition Handlungshilfe: GBE-Praxis 1,
-    Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit,
-    Erlangen.
+- LGL (2011): Gesundheitsberichterstattung für die Landkreise und kreisfreien Städte Bayerns. Edition Handlungshilfe: GBE-Praxis 1, Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit, Erlangen.
 
-  - Rosenkötter N, Borrmann B, Arnold L, Böhm A (2020):
-    Gesundheitsberichterstattung in Ländern und Kommunen: Public Health
-    an der Basis. In: Bundesgesundheitsbl. 63, S. 1067–1075. DOI:
-    10.1007/s00103-020-03190-z.
+- Rosenkötter N, Borrmann B, Arnold L, Böhm A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z.
 
-  - Starke D, Tempel G, Butler J, Starker A, Zühlke C, Borrmann B
-    (2019): Gute Praxis Gesundheitsberichterstattung – Leitlinien und
-    Empfehlungen 2.0. In: Journal of Health Monitoring 4 (S1), S. 1–22.
+- Starke D, Tempel G, Butler J, Starker A, Zühlke C, Borrmann B (2019): Gute Praxis Gesundheitsberichterstattung – Leitlinien und Empfehlungen 2.0. In: Journal of Health Monitoring 4 (S1), S. 1–22.
 
-  - Verschuuren M, van Oers H (Hrsg., 2019): *Population Health
-    Monitoring*. Springer International Publishing, Cham.
+- Verschuuren M, van Oers H (Hrsg., 2019): *Population Health Monitoring*. Springer International Publishing, Cham.
 
 ## 1.5 Literaturverzeichnis Kapitel 1. – Was ist GBE?
 
