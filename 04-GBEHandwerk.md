@@ -78,12 +78,18 @@ Daten sprechen nicht für sich allein und müssen entsprechend transformiert sow
 Oft dienen Indikatoren als Marker für die gesundheitliche Lage, Ressourcen und Leistungen im Gesundheitswesen und ermöglichen auf diese Weise ein kontinuierliches Monitoring von Programmen, Zielen und Maßnahmen (AOLG 2003). Dabei liefern Indikatoren ein Maximum an Informationsverdichtung zu einem bestimmten Interessensgebiet und umfassen häufig auch Interessensbereiche für (politische) Maßnahmen oder dienen der (politischen) Zielsetzung. Ein Beispiel: Ein kommunales Gesundheitsziel zielt darauf ab, den prozentualen Anteil jugendlicher Raucherinnen und Raucher auf weniger als 20 % zu reduzieren. Indikatoren sollten dies auf möglichst effiziente Weise darstellen, das heißt eine möglichst einfache Darstellung liefern (Kramers 2005, zit. nach Verschuuren et al. 2014). Traditionell wird hierzu auf numerische Darstellungsformen zurückgegriffen, in den letzten Jahren finden aber auch zunehmend visuelle Aufbereitungen Anklang. 
 Ziel und Zweck einer indikatorengestützten Gesundheitsberichterstattung ist die kompakte Darstellung (gesundheits-)relevanter Themen um Informationsdefiziten entgegenzuwirken, Problem- sowie Optionsfelder aufzuzeigen und prioritäre gesundheitspolitische Entscheidungshilfen zu unterstützen. Im Idealfall kann die indikatorengestützte Berichterstattung somit eine evidenzinformierte Entscheidungsfindung unterstützen. 
 
-> Zielsetzung und Verwendungszweck von Gesundheitsindikatoren (AOLG 2003, S. 13) 
-> * sind ein wichtiges Werkzeug zur Formulierung und Umsetzung von <strong>Gesundheitspolitik</strong>.
-> * ermöglichen <strong>Fortschrittskontrolle</strong>, zum Beispiel durch Monitoring und Evaluation der gesundheitlichen Lage. 
-> * stellen <strong>Maßstäbe</strong> dar und bieten so <strong>Vergleichsmöglichkeiten</strong> für Länder und Kommunen (Benchmarking).
-> * verbessern die Möglichkeit zur <strong>Kommunikation</strong> und <strong>Koordinierung</strong>. 
-> * können wichtige Informationen über <strong>gesundheitspolitische Prioritäten</strong> geben. 
+<table>
+<tbody>
+<tr class="odd">
+<td><h5 id="zielsetzung-und-verwendungszweck-von-gesundheitsindikatoren"><strong>Zielsetzung und Verwendungszweck von Gesundheitsindikatoren (AOLG 2003, S. 13)</strong></h5>
+<p></p>* sind ein wichtiges Werkzeug zur Formulierung und Umsetzung von <strong>Gesundheitspolitik</strong>.
+* ermöglichen <strong>Fortschrittskontrolle</strong>, zum Beispiel durch Monitoring und Evaluation der gesundheitlichen Lage. 
+* stellen <strong>Maßstäbe</strong> dar und bieten so <strong>Vergleichsmöglichkeiten</strong> für Länder und Kommunen (Benchmarking).
+* verbessern die Möglichkeit zur <strong>Kommunikation</strong> und <strong>Koordinierung</strong>. 
+* können wichtige Informationen über <strong>gesundheitspolitische Prioritäten</strong> geben.</p> 
+</tr>
+</tbody>
+</table>
 
 Als Grundlage für Gesundheitsrahmenberichte der Länder wurde bereits vor dem Aufbau einer nationalen Gesundheitsberichterstattung im Jahr 1991 die erste Version eines **Indikatorensatzes für die Gesundheitsberichterstattung der Länder** mit 190 Indikatoren veröffentlicht. Fünf Jahre später wurde nach ersten Erfahrungen eine überarbeitete und gekürzte Version verabschiedet. Die Veröffentlichung der bis heute gültigen dritten Version des Indikatorensatzes erfolgte 2003 auf Beschluss der Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden (AOLG 2003) und im Auftrag der Gesundheitsministerkonferenzen (Bardehle et al. 2004). Die insgesamt 297 Indikatoren des Indikatorensatzes verteilen sich auf die Themenfelder Bevölkerung, wirtschaftliche und soziale Lage; Morbidität und Mortalität; Gesundheitsverhalten; Gesundheitsrisiken aus der natürlichen und technischen Umwelt; Einrichtungen des Gesundheitswesens; Inanspruchnahme von Leistungen der Gesundheitsversorgung; Beschäftigte und Ausbildung; Ausgaben und Kosten im Gesundheitswesen. Zu jedem Indikator gibt es eine kurze Metadatenbeschreibung, die Auskunft gibt zum Beispiel über Datenquellen, Periodizität und Aussagekraft. Bis zu 80 Indikatoren (je nach Land) liegen auch auf Kreisebene vor. Die Indikatoren werden fortlaufend aktualisiert und durch länderspezifische Ergänzungen erweitert. Zurzeit wird ein ergänzendes Indikatorensystem für die Präventionsberichterstattung der Länder entwickelt (siehe auch [Kapitel 8]({{ site.baseurl }}{% link 08-WowilldieGBEhin.md %})). 
 
