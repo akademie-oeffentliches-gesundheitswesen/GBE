@@ -72,8 +72,6 @@ Auf der Ebene des Bundes ist das Robert Koch-Institut zusammen mit dem Statistis
 
 Akteure und Akteurinnen im Gesundheitswesen, der Gesundheitswissenschaft sowie Datenhalter und Datenhalterinnen und internationale Experten und Expertinnen werden über die Kommission Gesundheitsberichterstattung und Gesundheitsmonitoring am Robert Koch-Institut in die Arbeit der Gesundheitsberichterstattung des Bundes einbezogen. Die Berichterstatter und Berichterstatterinnen des RKI arbeiten in zahlreichen gesundheitspolitischen und wissenschaftlichen Gremien und Prozessen auf nationaler sowie internationaler Ebene mit, sodass auch auf diesem Wege ein ständiger Austausch mit Politik, Forschung und Praxis sichergestellt wird (Lampert et al. 2010).
 
-## 3.4. Exkurs: Rechtliche Rahmenbedingungen
-
 <table>
 <tbody>
 <tr class="odd">
