@@ -123,27 +123,27 @@ Wichtig für das Selbstverständnis der meist akademisch-wissenschaftlich geprä
 <table>
 <tbody>
 <tr>
-<th>empty</th>
+<th>&nbsp;</th>
 <th>Wissenschaft</th>
 <th>Politik</th>
 </tr>
 <tr>
-<td>Sprache</td>
+<td><strong>Sprache</strong></td>
 <td>Fachspezifisch, für Nichtwissenschaftler und Nichtwissenschaftlerinnen schwer zu verstehen</td>
 <td>Oft vereinfachend und populistisch, soll von der ganzen Bevölkerung verstanden werden</td>
 </tr>
 <tr>
-<td>Zeitplanung</td>
+<td><strong>Zeitplanung</strong></td>
 <td>Ansammlung von Spezialkenntnissen und Expertise über einen langen Zeitraum</td>
 <td>Einhaltung eines Zeitplans geht häufig über Qualität</td>
 </tr>
 <tr>
-<td>Aufmerksamkeitsspanne</td>
+<td><strong>Aufmerksamkeitsspanne</strong></td>
 <td>Lang: kumulativer Prozess der Erkenntnisfindung</td>
 <td>Kurz: Suche nach schnell verfügbaren Informationen zu einer Vielfalt wechselnder Themen</td>
 </tr>
 <tr>
-<td>Ziele (PPP)</td>
+<td><strong>Ziele (PPP)</strong></td>
 <td>Fortschritt der Wissenschaft, <strong>P</strong>ublikationen (Impact-Faktor), <strong>P</strong>atente, <strong>P</strong>rofessuren (PPP)</td>
 <td>Krisenmanagement, öffentliche Unterstützung, <strong>P</strong>olitik, <strong>P</strong>raxis, <strong>P</strong>opularität (PPP)</td>
 </tr>
