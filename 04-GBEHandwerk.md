@@ -87,6 +87,7 @@ ermöglichen <strong>Fortschrittskontrolle</strong>, zum Beispiel durch Monitori
 stellen <strong>Maßstäbe</strong> dar und bieten so <strong>Vergleichsmöglichkeiten</strong> für Länder und Kommunen (Benchmarking).
 verbessern die Möglichkeit zur <strong>Kommunikation</strong> und <strong>Koordinierung</strong>. 
 können wichtige Informationen über <strong>gesundheitspolitische Prioritäten</strong> geben.</p> 
+</td>
 </tr>
 </tbody>
 </table>
