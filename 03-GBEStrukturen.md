@@ -84,9 +84,10 @@ Akteure und Akteurinnen im Gesundheitswesen, der Gesundheitswissenschaft sowie D
 </tbody>
 </table>
 
-<p>Tabelle 2: Verankerung von Gesundheitsberichterstattung in den Gesundheitsdienstgesetzen der Länder (eigene Analyse, Stand 02/2020), publiziert in: (Rosenkötter et al. 2020))</p>
+<figure>
+<figcaption>Tabelle 2: Verankerung von Gesundheitsberichterstattung in den Gesundheitsdienstgesetzen der Länder (eigene Analyse, Stand 02/2020), publiziert in: (Rosenkötter et al. 2020))</figcaption>
 <img src="./media/Tabelle_2.png" style="width:8.29931in;height:5.06111in" />
-
+</figure>
 
 ## 3.4. Weiterführende Informationen
 
