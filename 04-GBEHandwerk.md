@@ -82,11 +82,11 @@ Ziel und Zweck einer indikatorengestützten Gesundheitsberichterstattung ist die
 <tbody>
 <tr class="odd">
 <td><h5 id="zielsetzung-und-verwendungszweck-von-gesundheitsindikatoren"><strong>Zielsetzung und Verwendungszweck von Gesundheitsindikatoren (AOLG 2003, S. 13)</strong></h5>
-<p>* sind ein wichtiges Werkzeug zur Formulierung und Umsetzung von <strong>Gesundheitspolitik</strong>.
-* ermöglichen <strong>Fortschrittskontrolle</strong>, zum Beispiel durch Monitoring und Evaluation der gesundheitlichen Lage. 
-* stellen <strong>Maßstäbe</strong> dar und bieten so <strong>Vergleichsmöglichkeiten</strong> für Länder und Kommunen (Benchmarking).
-* verbessern die Möglichkeit zur <strong>Kommunikation</strong> und <strong>Koordinierung</strong>. 
-* können wichtige Informationen über <strong>gesundheitspolitische Prioritäten</strong> geben.</p> 
+<p>sind ein wichtiges Werkzeug zur Formulierung und Umsetzung von <strong>Gesundheitspolitik</strong>.
+ermöglichen <strong>Fortschrittskontrolle</strong>, zum Beispiel durch Monitoring und Evaluation der gesundheitlichen Lage. 
+stellen <strong>Maßstäbe</strong> dar und bieten so <strong>Vergleichsmöglichkeiten</strong> für Länder und Kommunen (Benchmarking).
+verbessern die Möglichkeit zur <strong>Kommunikation</strong> und <strong>Koordinierung</strong>. 
+können wichtige Informationen über <strong>gesundheitspolitische Prioritäten</strong> geben.</p> 
 </tr>
 </tbody>
 </table>
