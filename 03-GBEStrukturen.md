@@ -54,7 +54,7 @@ Abhängig von der Gesetzeslage für den ÖGD im jeweiligen Bundesland sind auf k
 <table>
 <tbody>
 <tr class="odd">
-<td><h5 id="exkurs-empfehlung-zur-gbe-struktur-innerhalb-des-kommunalen-ögd">Exkurs: Empfehlung zur GBE-Struktur innerhalb des kommunalen ÖGD</h5>
+<td><h5 id="exkurs-empfehlung-zur-gbe-struktur-innerhalb-des-kommunalen-ögd"><strong>Exkurs: Empfehlung zur GBE-Struktur innerhalb des kommunalen ÖGD</strong></h5>
 <p>Grundsätzlich reichen Steuerungsaufgaben wie GBE und Planung immer über das Gesundheitsamt hinaus. Die Amtsleitung ist stets mehr oder weniger in sie eingebunden, sei es durch die entstehende Öffentlichkeit, die Diskussionen in kommunalpolitischen Gremien oder in kommunalen Gesundheitskonferenzen. Das macht eine Unterstützung dieser Aufgaben durch die Amtsleitung einerseits zur unabdingbaren Voraussetzung, andererseits sollte die Ansiedlung dieser Aufgabenbereiche die notwendige Interaktion ermöglichen und befördern. Abhängig von der Größe des Aufgabengebiets ist daher eine Installation als Abteilung, Sachgebiet oder Stabsstelle direkt unterhalb der Leitungsebene sinnvoll. Darüber hinaus ist es hilfreich, wenn die Arbeitsfelder Planung und GBE möglichst in einer gemeinsamen Struktur integriert sind. Falls Gesundheitsförderung und Prävention prioritäre Planungsthemen darstellen, sind integrierte Arbeitseinheiten für GBE, Planung, Prävention und Gesundheitsförderung eine sinnvolle Lösung, die sich vielerorts bewährt hat.</p></td>
 </tr>
 </tbody>
