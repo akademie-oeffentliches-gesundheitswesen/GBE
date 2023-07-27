@@ -38,13 +38,11 @@ passgenaue Maßnahmen und Konzepte zu erarbeiten, wie in der bereits aus
 [Kapitel 1]({{ site.baseurl }}{% link 01-WasistGBE.md %}) bekannten Informationspyramide im Folgenden noch einmal
 visualisiert:
 
- <figure>
+<figure>
   <img src="./media/AOE-2520-Booksprints-06.png" alt="Routineaufgaben der GBE anhand der Informationspyramide" style="width:90%">
   <figcaption>Abbildung 3: „Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)
 </figcaption>
 </figure> 
-
-
 
 ## 2.1. GBE als Instrument der wissenschaftlichen Politikberatung
 
@@ -63,7 +61,8 @@ gesundheitspolitischen Planungsmodells der Public Health Trias
 (Institute of Medicine (U.S.) 1988) bzw. dem darauf basierenden Public
 Health Action Cycle (PHAC) beschrieben (Rosenbrock 1995) und ist in
 Abbildung 3 dargestellt.
- <figure>
+
+<figure>
   <img src="./media/AOE-2520-Booksprints-03.png" alt="Abbildung 3: Public Health Action Cycle" style="width:90%">
   <figcaption>Abbildung 3: Public Health Action Cycle (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine (U.S.) 1988)
 </figcaption>
@@ -126,7 +125,6 @@ die im Folgenden skizziert werden.
 
 Vor der Erstellung eines Gesundheitsberichtes sollte jedes Mal gründlich reflektiert werden, warum und für wen der Bericht erstellt wird. Hieraus ergibt sich unter anderem der Umfang des Berichts und der Sprachstil. Darüber hinaus lässt sich hieraus auch ableiten, wer bei der Berichterstellung mitwirken kann und sollte. Perspektivisch haben die Informationen über Intention und Zielgruppe eine große Bedeutung für die Ableitung von Handlungsempfehlungen und die Zeitplanung der Berichterstellung. Auf den unterschiedlichen administrativen Ebenen (Bund, Länder, Kommunen) gibt es stark variierende Anlässe zur Erstellung von Gesundheitsberichten. Anlässe für kommunale Gesundheitsberichte können beispielsweise eine Grundlage sein für
 
-
 1.  **Meinungsbildung und Entscheidungsfindung auf der jeweiligen
     politischen Ebene, beispielsweise dem Kreistag oder der
     Stadtverordnetenversammlung:**  
@@ -148,6 +146,7 @@ Vor der Erstellung eines Gesundheitsberichtes sollte jedes Mal gründlich reflek
     Faktencheck zu erweitern.  
     *Beispiel: Handlungsempfehlung für die kommunale Suchtprävention
     der örtlichen Arbeitsgemeinschaft Suchtprävention*
+    
 3.  **Festlegung kommunaler Gesundheitsziele/prioritärer
     Handlungsfelder, zum Beispiel in kommunalen
     Gesundheitskonferenzen:**  
@@ -163,6 +162,7 @@ Vor der Erstellung eines Gesundheitsberichtes sollte jedes Mal gründlich reflek
     bei sozialen und gesundheitsfördernden Aktivitäten. Das kommunale
     Gesundheitsziel: „Die körperliche Aktivität und Teilhabe an der
     Gesellschaft bei älteren Menschen ist gestärkt“ wird festgelegt.*
+    
 4.  **Messung der Zielerreichung eines Gesundheitszieles:**  
     Diese Berichtsform zielt auf die Evaluation von Maßnahmen
     hinsichtlich der Erreichung eines konkreten Gesundheitszieles
@@ -170,6 +170,7 @@ Vor der Erstellung eines Gesundheitsberichtes sollte jedes Mal gründlich reflek
     *Beispiel: Die GBE erhält den Auftrag herauszufinden, wie sich die
     gesundheitliche Lage zehn Jahre nach Einführung eines
     Gesundheitszieles entwickelt hat.*
+
 5.  **Kommunale Beteiligung bei der Versorgungsplanung:**  
     Das Ziel dieser GBE-Form ist, neben der Lage auch die
     Zuständigkeiten und Gestaltungsmöglichkeiten der kommunalen
@@ -177,6 +178,7 @@ Vor der Erstellung eines Gesundheitsberichtes sollte jedes Mal gründlich reflek
     *Beispiel: Die hausärztliche Versorgungsstruktur in den Gemeinden
     und kleineren Städten und die verschiedenen Fördermöglichkeiten
     und deren Nutzung werden aufgezeigt.*
+
 6.  **Bereitstellung** **gesicherter und unabhängiger
     Informationen für die Bevölkerung, die Fachöffentlichkeit sowie
     Entscheidungsträger und Entscheidungsträgerinnen zu
@@ -291,12 +293,10 @@ Das Modell führt beispielhaft vielfältige Faktoren auf, die sich
 wechselseitig beeinflussen und auf den Menschen gesundheitsförderlich,
 aber auch gesundheitsschädlich einwirken können (siehe Abbildung 4).
 
- <figure>
+<figure>
   <img src="./media/AOE-2520-Booksprints-18.png" alt="Determinanten für Gesundheit „Regenbogenmodell" style="width:90%">
   <figcaption>Abbildung 4: Determinanten für Gesundheit – Regenbogenmodell (eigene Darstellung nach Dahlgren, Whitehead 1991)</figcaption>
 </figure> 
-
-
 
 Im Mittelpunkt befindet sich der Mensch mit seinen individuellen Faktoren
 wie Alter, Geschlecht und konstitutionelle Merkmale, die zwar 
@@ -494,6 +494,7 @@ Michelsen 2007; Kurth 2006):
     Wertorientierungen des GBElers oder der GBElerin etwa im Sinne
     eines Leitwerts Gesundheit oder der HiAP-Ziele werden im
     Beratungsprozess nicht ausgeblendet, sondern sind Teil dessen.
+
 3.  **Pragmatistisches Modell:** Nach diesem Modell wird eine wertende
     Wissenschaft postuliert, welche Politik berät und aufgrund der
     eigenen Wertorientierung gleichzeitig in den Diskurs mit ihr
@@ -533,59 +534,35 @@ Kurth 2006)
 
 GBE und Politik
 
-  - Borrmann B, Rosenkötter N (2014): Steuerungspotenziale des ÖGD –
-    Gesundheitsberichterstattung. In: *Public Health Forum* 22 (4), S.
-    183. DOI: 10.1016/j.phf.2014.09.002.
+* Borrmann B, Rosenkötter N (2014): Steuerungspotenziale des ÖGD – Gesundheitsberichterstattung. In: *Public Health Forum* 22 (4), S. 183. DOI: 10.1016/j.phf.2014.09.002.
 
-  - Brand H, Michelsen K (2007): Politikberatung durch
-    Gesundheitsberichterstattung? In: *Das Gesundheitswesen* 69 (10), S.
-    527–533. DOI: 10.1055/s-2007-992163.
+* Brand H, Michelsen K (2007): Politikberatung durch Gesundheitsberichterstattung? In: *Das Gesundheitswesen* 69 (10), S. 527–533. DOI: 10.1055/s-2007-992163.
 
-  - Kuhn J, Busch R (Hrsg., 2006): Gesundheit zwischen Statistik und
-    Politik. Beiträge zur politischen Relevanz der
-    Gesundheitsberichterstattung. Mabuse-Verlag, Frankfurt am Main.
+* Kuhn J, Busch R (Hrsg., 2006): Gesundheit zwischen Statistik und Politik. Beiträge zur politischen Relevanz der Gesundheitsberichterstattung. Mabuse-Verlag, Frankfurt am Main.
 
-  - Kurth BM (2006): Epidemiologie und Gesundheitspolitik. In:
-    *Bundesgesundheitsbl.* 49, S. 637–647. DOI:
-    10.1007/s00103-006-1291-y.
+* Kurth BM (2006): Epidemiologie und Gesundheitspolitik. In: *Bundesgesundheitsbl.* 49, S. 637–647. DOI: 10.1007/s00103-006-1291-y.
 
 Determinanten von Gesundheit
 
-  - Dahlgren G, Whitehead M (2007): Policies and strategies to promote
-    social equity in health – Background document to WHO – Strategy
-    paper for Europe. 14. Aufl., 2007.
+* Dahlgren G, Whitehead M (2007): Policies and strategies to promote social equity in health – Background document to WHO – Strategy paper for Europe. 14. Aufl., 2007.
 
-  - Marmot M (2010): Fair Society Healthy Lives – The Marmot Review:
-    Executive Summary. London, 2010.
+* Marmot M (2010): Fair Society Healthy Lives – The Marmot Review: Executive Summary. London, 2010.
 
-  - Marmot M G (2005): Social determinants of health inequalities. In:
-    *The Lancet* 365, S. 1099–1104.
+* Marmot M G (2005): Social determinants of health inequalities. In: *The Lancet* 365, S. 1099–1104.
 
-  - WHO Europe (2003): The solid facts – Social determinants of health.
-    2nd ed. Copenhagen, 2003.
+* WHO Europe (2003): The solid facts – Social determinants of health. 2nd ed. Copenhagen, 2003.
 
 GBE und Planung
 
-  - Feldhoff K H, Groschopp C, Blank K, Ziemer, B. (2001): Kommunale
-    Gesundheitsberichterstattung als Instrument zur Weiterentwicklung
-    von Handlungsempfehlungen auf kommunaler Ebene. In: *Das
-    Gesundheitswesen* 63, S. 61–65.
+* Feldhoff K H, Groschopp C, Blank K, Ziemer, B. (2001): Kommunale Gesundheitsberichterstattung als Instrument zur Weiterentwicklung von Handlungsempfehlungen auf kommunaler Ebene. In: *Das Gesundheitswesen* 63, S. 61–65.
 
-  - Szagun B, Wasel W (2006): Kommunale Gesundheitsplanung zwischen
-    WHO-Konzept, gesetzlichem Auftrag und struktureller Rationierung.
-    In: *Gesundheits- und Sozialpolitik* (7–8), S. 51–56.
+* Szagun B, Wasel W (2006): Kommunale Gesundheitsplanung zwischen WHO-Konzept, gesetzlichem Auftrag und struktureller Rationierung. In: *Gesundheits- und Sozialpolitik* (7–8), S. 51–56.
 
 Health in All Policies (HiAP)
 
-  - Böhm K et al. (Hrsg.) (2020): Gesundheit als gesamtgesellschaftliche
-    Aufgabe – Das Konzept Health in All Policies und seine Umsetzung in
-    Deutschland. 1st ed. 2020. Wiesbaden: Springer Fachmedien Wiesbaden;
-    Imprint: Springer VS.
+* Böhm K et al. (Hrsg.) (2020): Gesundheit als gesamtgesellschaftliche Aufgabe – Das Konzept Health in All Policies und seine Umsetzung in Deutschland. 1st ed. 2020. Wiesbaden: Springer Fachmedien Wiesbaden; Imprint: Springer VS.
 
-  - WHO (2013): The Helsinki Statement on Health in All Policies.
-    Helsinki, 10.06.2013. Online verfügbar unter
-    https://www.who.int/healthpromotion/conferences/8gchp/en/, zuletzt
-    geprüft am 10.10.2019.
+* WHO (2013): The Helsinki Statement on Health in All Policies. Helsinki, 10.06.2013. Online verfügbar unter https://www.who.int/healthpromotion/conferences/8gchp/en/, zuletzt geprüft am 10.10.2019.
 
 ## 2.6. Literaturverzeichnis Kapitel 2. – Wozu GBE?
 
