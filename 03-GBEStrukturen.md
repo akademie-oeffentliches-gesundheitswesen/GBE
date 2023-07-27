@@ -19,11 +19,10 @@ nav_order: 4
 
 Der Öffentliche Gesundheitsdienst ist deutschlandweit auf den Ebenen von Bund, Bundesländern und Kommunen organisiert, in einigen Bundesländern kommen auf der Ebene zwischen Land und Kommune noch die Regierungspräsidien hinzu ([Abbildung 5](#informationen)). GBE findet vor allem auf den erstgenannten drei Ebenen statt, dies jedoch in unterschiedlicher Intensität. Die Aufgaben und Strukturen des ÖGD sind weitestgehend föderal geregelt, das heißt, für die kommunale GBE sind landesgesetzliche Regelungen in Form der Gesundheitsdienstgesetze (GDG) der Länder maßgeblich (siehe Exkurs: Rechtliche Rahmenbedingungen). Für die kommunale GBE sind die übergeordneten Ebenen von Bund und Land zum Beispiel als Datenhalter, für die Datenaufbereitung und für fachliche Unterstützungsleistungen durch Landesoberbehörden, wie etwa Landesgesundheitsämter, von Bedeutung. 
 
- <figure>
+<figure>
   <img src="./media/AOE-2520-Booksprints-15.png" alt="Abbildung 3: Public Health Action Cycle" style="width:90%">
   <figcaption>Abbildung 5: Zusammenspiel von Bund, Land und Kommune (eigene Abbildung)</figcaption>
 </figure> 
-
 
 ## 3.1. Kommunale Ebene
 
@@ -37,14 +36,10 @@ Auf der Ebene der Kommunalverwaltung ist der ÖGD zum weit überwiegenden Teil i
 
 Für die GBE als gesundheitspolitisches Steuerungsinstrument sind diese Gebietskörperschaften relevant, da Vielzahl und Komplexität der zu berücksichtigenden politischen Entscheidungsebenen auch den für die GBE wesentlichen Prozessen mehr Komplexität verleihen. Gegenüber Städten gilt es schon in Landkreisen deutlich mehr politische Akteure und Akteurinnen zu berücksichtigen. Der höchste Komplexitätsgrad herrscht, wenn ein ÖGD für mehrere Kreise zuständig ist, da die Kommunalpolitik mehrerer Kreise bzw. Städte und dazu meist eine Vielzahl an Gemeindeverwaltungen zu berücksichtigen sind. Innerhalb der Kommunalverwaltung ist die GBE als Aufgabe des ÖGD meist im Gesundheitsamt bzw. Fachbereich Gesundheit oder ähnlichen Bereichen angesiedelt. Der ÖGD wiederum ist meist einem mehrere Ämter umfassenden Dezernat oder einer Abteilung zugeordnet, wie auch in Abbildung 6 veranschaulicht.
 
-
- <figure>
+<figure>
   <img src="./media/AOE-2520-Booksprints-04.png" alt="Abbildung 6: Rahmenbedingungen" style="width:90%">
   <figcaption>Abbildung 6: Rahmenbedingungen und zu berücksichtigende Institutionen, Dezernate und Akteursgruppen für die Realisierung einer erfolgreichen kommunalen Koordinationsaufgabe des ÖGD, dargestellt an einer kommunalen Gesundheitskonferenz in einer beispielhaften Verwaltungsstruktur (erweiterte Darstellung nach Szagun et al. 2016)</figcaption>
 </figure> 
-
-
-
 
 Den unterschiedlichen Dezernaten oder Abteilungen steht die kommunale Spitze vor, das heißt Landrätin oder Landrat bzw. Oberbürgermeisterin oder Oberbürgermeister. Gleichzeitig gilt es zu berücksichtigen, dass Landkreis oder Stadt auch politische Einheiten darstellen und kommunalpolitische Entscheidungen zum Beispiel bezüglich Ressourcen von den gewählten Vertretern und Vertreterinnen des Kreistags oder städtischen Parlaments getroffen werden. Den einzelnen Dezernaten oder Abteilungen sind meist spezifische Unterausschüsse des Kreistags oder Stadtparlaments (Stadtrates) zugeordnet, in denen fachliche Fragen erörtert werden. Auch der ÖGD und die GBE sind meist einem solchen politischen Fachausschuss zugeordnet und bringen ihre spezifischen Belange dort ein, etwa einen Gesundheitsbericht.
 
@@ -77,8 +72,8 @@ Auf der Ebene des Bundes ist das Robert Koch-Institut zusammen mit dem Statistis
 
 Akteure und Akteurinnen im Gesundheitswesen, der Gesundheitswissenschaft sowie Datenhalter und Datenhalterinnen und internationale Experten und Expertinnen werden über die Kommission Gesundheitsberichterstattung und Gesundheitsmonitoring am Robert Koch-Institut in die Arbeit der Gesundheitsberichterstattung des Bundes einbezogen. Die Berichterstatter und Berichterstatterinnen des RKI arbeiten in zahlreichen gesundheitspolitischen und wissenschaftlichen Gremien und Prozessen auf nationaler sowie internationaler Ebene mit, sodass auch auf diesem Wege ein ständiger Austausch mit Politik, Forschung und Praxis sichergestellt wird (Lampert et al. 2010).
 
-
 ## 3.4. Exkurs: Rechtliche Rahmenbedingungen
+
 Die jeweilige Ausgestaltung sowie der vorgeschriebene Grad an Verbindlichkeit und Rahmen, in dem Gesundheitsberichterstattung erfolgen soll, variieren zum Teil erheblich. Dies zeigt sich insbesondere, wenn man die Gesetzestexte vergleichend gegenüberstellt (siehe Tabelle 2): In manchen Bundesländern, etwa Nordrhein-Westfalen, Baden-Württemberg oder Berlin, gibt es ausführlichere Vorgaben für die Gesundheitsberichterstattung sowie auch Verknüpfungen zu kommunalen Gesundheitskonferenzen (KGK) oder kommunalen Gesundheitszielen. In einzelnen Bundesländern existiert hingegen lediglich eine Rahmenverordnung zur Beobachtung und Bewertung des allgemeinen Gesundheitszustandes der Bevölkerung, ohne jedwede Konkretisierung oder Spezifizierung hinsichtlich gesetzlicher Zuständigkeit, Periodizität des Berichtswesens oder inhaltlichen Vorgaben zu relevanten Datenquellen oder Indikatoren (Weiteres hierzu auch in [Kapitel 4]({{ site.baseurl }}{% link 04-GBEHandwerk.md %})). Betrachtet man zudem die gesetzlichen Vorgaben für die Landesebene und kommunale Ebene separat, zeigt sich eine noch deutlichere Heterogenität in der Ausgestaltung und den damit verbundenen Freiheitsgraden. Knapp die Hälfte aller Gesundheitsdienstgesetze (GDG) beinhaltet Vorgaben zur Periodizität bzw. dem Berichtsturnus auf Landesebene, auf kommunaler Ebene bzw. Bezirksebene findet sich das vor allem in den Stadtstaaten. Inhaltliche Vorgaben wie Regelungen zur Datenweitergabe, aufzunehmende Themenfelder oder auch Angaben zur gewünschten Aggregationsebene sind sowohl auf Landes- als auch auf kommunaler Ebene in knapp der Hälfte aller Gesetzestexte enthalten. Auf Landes- sowie auf kommunaler Ebene attestiert die weit überwiegende Mehrheit aller GDG der Gesundheitsberichterstattung eine gesundheitspolitische Steuerungsfunktion, wie in der nachfolgenden Tabelle 2 ersichtlich.</p>
 
 <p>Tabelle 2: Verankerung von Gesundheitsberichterstattung in den Gesundheitsdienstgesetzen der Länder (eigene Analyse, Stand 02/2020), publiziert in: (Rosenkötter et al. 2020))</p>
@@ -87,62 +82,36 @@ Die jeweilige Ausgestaltung sowie der vorgeschriebene Grad an Verbindlichkeit un
 </tbody>
 </table>
 
-
 ## 3.4. Weiterführende Informationen
 
 GBE auf kommunaler und Landesebene
 
-  - Jacob R, Michels H (2000): Regionale und kommunale
-    Gesundheitsberichterstattung. In: Bundesgesundheitsbl. 43 (8), S.
-    615–623.
+* Jacob R, Michels H (2000): Regionale und kommunale Gesundheitsberichterstattung. In: Bundesgesundheitsbl. 43 (8), S. 615–623.
 
-  - Rosenkötter N, Borrmann B, Arnold L, Böhm A (2020):
-    Gesundheitsberichterstattung in Ländern und Kommunen: Public Health
-    an der Basis. In: Bundesgesundheitsbl. 63, S. 1067–1075. DOI:
-    10.1007/s00103-020-03190-z.
+* Rosenkötter N, Borrmann B, Arnold L, Böhm A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z.
 
-  - Stockmann S, Kuhn J, Zirngibl A, Mansmann U (2008): Kommunale
-    Gesundheitsberichterstattung in Deutschland: eine empirische
-    Erhebung. In: Das Gesundheitswesen 70 (11), S. 679–683. DOI:
-    10.1055/s-0028-1100402.
+* Stockmann S, Kuhn J, Zirngibl A, Mansmann U (2008): Kommunale Gesundheitsberichterstattung in Deutschland: eine empirische Erhebung. In: Das Gesundheitswesen 70 (11), S. 679–683. DOI: 10.1055/s-0028-1100402.
 
 GBE auf Bundesebene
 
-  - Kurth B-M, Ziese T, Tiemann F (2005): Gesundheitsmonitoring auf
-    Bundesebene. In: Bundesgesundheitsbl. 48 (3), S. 261–272. DOI:
-    10.1007/s00103-004-1001-6.
+* Kurth B-M, Ziese T, Tiemann F (2005): Gesundheitsmonitoring auf Bundesebene. In: Bundesgesundheitsbl. 48 (3), S. 261–272. DOI: 10.1007/s00103-004-1001-6.
 
-  - Kurth B-M, Lange C, Kamtsiuris P, Hölling H (2009):
-    Gesundheitsmonitoring am Robert Koch-Institut. Sachstand und
-    Perspektiven. In: Bundesgesundheitsbl. 52 (5), S. 557–570. DOI:
-    10.1007/s00103-009-0843-3.
+* Kurth B-M, Lange C, Kamtsiuris P, Hölling H (2009): Gesundheitsmonitoring am Robert Koch-Institut. Sachstand und Perspektiven. In: Bundesgesundheitsbl. 52 (5), S. 557–570. DOI: 10.1007/s00103-009-0843-3.
 
 Rechtliche Hintergründe der GBE
 
-  - Kuhn J (2007): Die historische Entwicklung der kommunalen
-    Gesundheitsberichterstattung – Eine Forschungslücke. In: Das
-    Gesundheitswesen 69 (10), S. 507–513. DOI: 10.1055/s-2007-992160.
+* Kuhn J (2007): Die historische Entwicklung der kommunalen Gesundheitsberichterstattung – Eine Forschungslücke. In: Das Gesundheitswesen 69 (10), S. 507–513. DOI: 10.1055/s-2007-992160.
 
-  - Rosenkötter N, Borrmann B, Arnold L, Böhm A (2020):
-    Gesundheitsberichterstattung in Ländern und Kommunen: Public Health
-    an der Basis. In: Bundesgesundheitsbl. 63, S. 1067–1075. DOI:
-    10.1007/s00103-020-03190-z.
+* Rosenkötter N, Borrmann B, Arnold L, Böhm A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z.
 
 ## 3.5. Literaturverzeichnis Kapitel 3. – GBE-Strukturen
 
-* Albrich C, Brandeis B, Erb J et al. (2017): Handlungsempfehlung für den
-Aufbau einer Gesundheitsplanung im Öffentlichen Gesundheitsdienst.
-Ergebnisse eines Pilotvorhabens in Baden-Württemberg. Stuttgart,
-2017.
-* Lampert T, Horch K, List S (2010): Gesundheitsberichterstattung des
-Bundes: Ziele, Aufgaben und Nutzungsmöglichkeiten. Berlin, 2010 (1).
-Online verfügbar unter www.rki.de/gbe-kompakt.
-* Rosenkötter N, Borrmann B,
-* Arnold L, Böhm A (2020): Gesundheitsberichterstattung in Ländern und
-Kommunen: Public Health an der Basis. In: *Bundesgesundheitsbl.* 63, S.
-1067–1075. DOI: 10.1007/s00103-020-03190-z.
-* Szagun B, Kuhn J, Starke D
-(2016): Kommunale Gesundheitsförderungspolitik und das
-Präventionsgesetz. In: *Präv Gesundheitsf* 11 (4), S. 265–270. DOI:
-10.1007/s11553-016-0563-0.
+* Albrich C, Brandeis B, Erb J et al. (2017): Handlungsempfehlung für den Aufbau einer Gesundheitsplanung im Öffentlichen Gesundheitsdienst. Ergebnisse eines Pilotvorhabens in Baden-Württemberg. Stuttgart, 2017.
+
+* Lampert T, Horch K, List S (2010): Gesundheitsberichterstattung des Bundes: Ziele, Aufgaben und Nutzungsmöglichkeiten. Berlin, 2010 (1). Online verfügbar unter www.rki.de/gbe-kompakt.
+
+* Rosenkötter N, Borrmann B, Arnold L, Böhm A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: *Bundesgesundheitsbl.* 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z.
+
+* Szagun B, Kuhn J, Starke D (2016): Kommunale Gesundheitsförderungspolitik und das Präventionsgesetz. In: *Präv Gesundheitsf* 11 (4), S. 265–270. DOI: 10.1007/s11553-016-0563-0.
+
 * Ziese T (2000): Beginn der Routinephase. In: *Bundesgesundheitsbl.* 43 (8), S. 600–604. DOI: 10.1007/s001030070018.
