@@ -127,131 +127,65 @@ Aktuell vollzieht sich in der städtebaulichen Planungspraxis ein grundlegender 
 Alles in allem lassen sich die aktuellen Entwicklungen in der gesundheitsorientierten Planung in der Kommune auf diese verkürzte Formel bringen**: Die Stadtplanung nimmt eine ressourcenschonende, gesundheitssensible Stadterneuerung im Bestand in den Blick, während im öffentlichen Gesundheitsdienst die Gesundheitsförderung im Setting Kommune als Aufgabe den Gesundheitsschutz ergänzt.** Beides trifft sich auf kleinräumiger (Quartiers-)Ebene und basiert idealerweise auf Daten der kommunalen GBE sowie weiterer Quellen integrierter Berichtssysteme ganz im Sinne von „Daten für Taten“. 
 
 
-## 7.3. Weiterführende Informationen
+## 7.3. Weiterführende Informationen 
 
-Gesundheitsplanung im ÖGD
+Gesundheitsplanung im ÖGD 
 
-  - Albrich C, Brandeis B, Erb J et al. (2017): Handlungsempfehlungen
-    für den Aufbau einer Gesundheitsplanung im Öffentlichen
-    Gesundheitsdienst. Ergebnisse eines Pilotvorhabens in
-    Baden-Württemberg. Stuttgart, 2017.
+* Albrich C, Brandeis B, Erb J et al. (2017): Handlungsempfehlungen für den Aufbau einer Gesundheitsplanung im Öffentlichen Gesundheitsdienst. Ergebnisse eines Pilotvorhabens in Baden-Württemberg. Stuttgart, 2017. 
 
-  - Hollederer A (2015): Gesundheitskonferenzen in Deutschland: ein
-    Überblick. In: Gesundheitswesen 77 (3), S. 161–167. DOI:
-    10.1055/s-0033-1361109.
+* Hollederer A (2015): Gesundheitskonferenzen in Deutschland: ein Überblick. In: Gesundheitswesen 77 (3), S. 161–167. DOI: 10.1055/s-0033-1361109. 
 
-  - Rosenbrock R (1995): Public Health als Soziale Innovation. In: Das
-    Gesundheitswesen 57 (3), S. 140–144.
+* Rosenbrock R (1995): Public Health als Soziale Innovation. In: Das Gesundheitswesen 57 (3), S. 140–144. 
 
-Gesundheits- und Stadtentwicklung
+Gesundheits- und Stadtentwicklung 
 
-  - AGGSE – Arbeitsgruppe gesundheitsfördernde Gemeinde- und
-    Stadtentwicklung (2020): Empfehlungen für eine gesundheitsfördernde
-    und nachhaltige Stadtentwicklung: Fünf Thesen. Berlin. Zugriff:
-    [<span class="underline">https://difu.de/sites/default/files/archiv/projekte/aggse\_thesen\_2020-03-09.pdf</span>](https://difu.de/sites/default/files/archiv/projekte/aggse_thesen_2020-03-09.pdf).
+* AGGSE – Arbeitsgruppe gesundheitsfördernde Gemeinde- und Stadtentwicklung (2020): Empfehlungen für eine gesundheitsfördernde und nachhaltige Stadtentwicklung: Fünf Thesen. Berlin. Zugriff: [<span class="underline">https://difu.de/sites/default/files/archiv/projekte/aggse\_thesen\_2020-03-09.pdf</span>](https://difu.de/sites/default/files/archiv/projekte/aggse_thesen_2020-03-09.pdf). 
+* Bär G, Böhme C, Reimann B (2009): Kinder- und jugendbezogene Gesundheitsförderung im Stadtteil. Berlin: Deutsches Institut für Urbanistik. 
 
-  - Bär G, Böhme C, Reimann B (2009): Kinder- und jugendbezogene
-    Gesundheitsförderung im Stadtteil. Berlin: Deutsches Institut für
-    Urbanistik.
+* Baumgart S, Köckler H, Ritzinger A, Rüdiger A (Hrsg.) (2018): ARL-Forschungsbericht „Planung für gesundheitsfördernde Städte“. Hannover (Forschungsberichte der ARL, 08). 
 
-  - Baumgart S, Köckler H, Ritzinger A, Rüdiger A (Hrsg.) (2018):
-    ARL-Forschungsbericht „Planung für gesundheitsfördernde Städte“.
-    Hannover (Forschungsberichte der ARL, 08).
+* Böhme C, Kliemke C, Reimann B, Süß, W. (Hrsg., 2012): Stadtplanung und Gesundheit. Bern: Hans Huber. 
 
-  - Böhme C, Kliemke C, Reimann B, Süß, W. (Hrsg., 2012): Stadtplanung
-    und Gesundheit. Bern: Hans Huber.
+* Bolte G, Bunge C, Hornberg C, Köckler H. et al. (Hrsg., 2012): Umweltgerechtigkeit. Chancengleichheit bei Umwelt und Gesundheit: Konzepte, Datenlage und Handlungsperspektiven. Bern: Hans Huber. 
 
-  - Bolte G, Bunge C, Hornberg C, Köckler H. et al. (Hrsg., 2012):
-    Umweltgerechtigkeit. Chancengleichheit bei Umwelt und Gesundheit:
-    Konzepte, Datenlage und Handlungsperspektiven. Bern: Hans
-    Huber.
+* Bucksch J, Claßen T, Budde S, Geuter G (2012): Bewegungs- und gesundheitsförderliche Kommune. Evidenzen und Handlungskonzept für die Kommunalentwicklung – ein Leitfaden. Düsseldorf. 
 
-  - Bucksch J, Claßen T, Budde S, Geuter G (2012): Bewegungs- und
-    gesundheitsförderliche Kommune. Evidenzen und Handlungskonzept für
-    die Kommunalentwicklung – ein Leitfaden. Düsseldorf.
+* Fabian C, Driling M, Niermann O, Schnur, O. (2017): Quartier und Gesundheit. Wiesbaden: Springer. 
 
-  - Fabian C, Driling M, Niermann O, Schnur, O. (2017): Quartier und
-    Gesundheit. Wiesbaden: Springer.
+* Reimann B, Böhme C, Bär G. (2010): Mehr Gesundheit im Quartier. Prävention und Gesundheitsförderung in der Stadtteilentwicklung. Berlin (Edition Difu, Bd. 9). 
 
-  - Reimann B, Böhme C, Bär G. (2010): Mehr Gesundheit im Quartier.
-    Prävention und Gesundheitsförderung in der Stadtteilentwicklung.
-    Berlin (Edition Difu, Bd. 9).
+* Trojan A, Süß W. (2011): Gesundheitsfördernde Gesamtpolitik/Healthy Public Policy. In: Bundeszentrale für gesundheitliche Aufklärung (Hrsg.): Leitbegriffe der Gesundheitsförderung und Prävention Glossar zu Konzepten, Strategien und Methoden. Köln: BZgA, S. 133–136. 
 
-  - Trojan A, Süß W. (2011): Gesundheitsfördernde Gesamtpolitik/Healthy Public Policy.      In: Bundeszentrale für gesundheitliche
-    Aufklärung (Hrsg.): Leitbegriffe der Gesundheitsförderung und
-    Prävention Glossar zu Konzepten, Strategien und Methoden. Köln:
-    BZgA, S. 133–136.
+## 7.4. Literaturverzeichnis Kapitel 7. – Planung 
 
-## 7.4. Literaturverzeichnis Kapitel 7. – Planung
+* Albrich C, Brandeis B, Erb J et al. (2017): Handlungsempfehlung für den Aufbau einer Gesundheitsplanung im Öffentlichen Gesundheitsdienst. Ergebnisse eines Pilotvorhabens in Baden-Württemberg. Stuttgart, 2017. 
 
-* Albrich C, Brandeis B, Erb J et al. (2017): Handlungsempfehlung für den
-Aufbau einer Gesundheitsplanung im Öffentlichen Gesundheitsdienst.
-Ergebnisse eines Pilotvorhabens in Baden-Württemberg. Stuttgart,
-2017.
-* Baumgart S, Köckler H, Ritzinger A, Rüdiger A (2018):
-Gesundheitsförderung – Ein Aktuelles Thema Für Raumplanung Und
-Gesundheitswesen. Einführung. In: Baumgart S, Köckler H, Ritzinger A und
-Rüdiger A (Hrsg.): Planung für gesundheitsfördernde Städte. Hannover:
-Akademie für Raumforschung und Landesplanung Leibniz-Forum für
-Raumwissenschaften (Forschungsberichte der ARL, 08), S. 5–19.
-* Böhm K,
-Bräunling S, Geene R, Köckler H (Hrsg.) (2020): Gesundheit als
-gesamtgesellschaftliche Aufgabe. Das Konzept Health in All Policies und
-seine Umsetzung in Deutschland. Wiesbaden: Springer VS.
-* Böhme C, Reimann
-B (2018): Integrierte Strategien kommunaler Gesundheitsförderung.
-Rahmenbedingungen, Steuerung und Kooperation. Ergebnisse einer
-Akteursbefragung. Berlin, 2018. Online verfügbar unter
-https://repository.difu.de/jspui/handle/difu/249465, zuletzt geprüft am
-09.02.2022.
-* Claßen T (2020): Gesundheitsförderliche Stadtentwicklung. In:
-*Informationen zur Raumentwicklung* 47 (1), S. 4–17. Online verfügbar
-unter
-https://elibrary.steiner-verlag.de/article/99.105010/izr202001000401,
-zuletzt geprüft am 07.11.2021.
-* Claßen T, Mekel O (2020): Fachplan
-Gesundheit und Leitfaden Gesunde Stadt – Instrumente für eine
-gesundheitsorientierte kommunale Planung in Nordrhein-Westfalen. In:
-Böhm K, Bräunling S, Geene R und Köckler H (Hrsg.): Gesundheit als
-gesamtgesellschaftliche Aufgabe. Das Konzept Health in All Policies und
-seine Umsetzung in Deutschland. Wiesbaden: Springer VS, S.
-397–405.GKV-Spitzenverband (2018): Leitfaden Prävention nach § 20 Abs.
-2 SGB V und Leitfaden Prävention nach § 5 SGB XI.
-* Hollederer A (2015):
-Gesundheitskonferenzen in Deutschland: ein Überblick. In:
-*Gesundheitswesen* 77 (3), S. 161–167. DOI:
-10.1055/s-0033-1361109.
-* Hollederer A (2016): Regionale
-Gesundheitskonferenzen und Gesundheitsregionen plus in Deutschland:
-Struktur-, Prozess- und Ergebnisqualitäten. In: *Public Health Forum* 24
-(1), S. 22–25. DOI: 10.1515/pubhef-2016-0008.
-* Luthe E-W (2010): Kommunale
-Gesundheitslandschaften. Teil 1. In: *NDV*, S. 304–310.LZG.NRW (2019):
-Leitfaden Gesunde Stadt. Hinweise für Stellungnahmen zur
-Stadtentwicklung aus dem Öffentlichen Gesundheitsdienst. 2 überarbeitete
-Auflage. Unter Mitarbeit von Hendrik Baumeister, Andrea Rüdiger, Heike
-Köckler, Thomas Claßen, Jacqueline Hamilton, Mareike Rüweler et al.
-Bielefeld, 2019.
-* Rodenstein M (2012): Stadtplanung Und Gesundheit - Ein
-Rückblick auf Theorie und Praxis. In: Böhme C, Kliemke C, Reimann B und
-Süß W (Hrsg.): Handbuch Stadtplanung und Gesundheit. 1. Aufl. s.l.:
-Verlag Hans Huber, S. 15–26.
-* Starke D, Arnold L, Fertmann R, March S,
-Moebus S, Terschüren C, Szagun B (2018): Methodische Herausforderungen
-der Präventionsberichterstattung. In: *Das Gesundheitswesen* 80 (8-09),
-S. 732–740. DOI: 10.1055/a-0665-6249.
-* Szagun B, Kiß B (2002): Der ÖGD als
-Koordinator in der gesundheitlichen Versorgung. In: *Blickpunkt
-öffentliche Gesundheit* 18 (4), S. 1–2.
-* Szagun B, Kuhn J, Starke D
-(2016): Kommunale Gesundheitsförderungspolitik und das
-Präventionsgesetz. In: *Präv Gesundheitsf* 11 (4), S. 265–270. DOI:
-10.1007/s11553-016-0563-0.
-* Trojan A, Süß W (2009): Prävention Und
-Gesundheitsförderung in Kommunen. In: Hurrelmann K, Klotz T und Haisch J
-(Hrsg.): Lehrbuch Prävention und Gesundheitsförderung. 2. Aufl. Bern:
-* Huber, Hans (Lehrbuch Gesundheitswissenschaften), S. 336–346.WHO (1986):
-Ottawa-Charter for Health Promotion. In: WHO (Hrsg.). First
-international Conference on Health Promotion. Ottawa, 21.11.1986: World
-Health Organization.
-* Wollenberg B, Reul R (2019): Gesundheit – Kernkompetenz der Kommunen: 3 Jahre Initiative „Gesundheit fördern – Versorgung stärken“. In: 69. Wissenschaftlicher Kongress des Bundesverbandes der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes (BVÖGD) und des Bundesverbandes der Zahnärzte des Öffentlichen Gesundheitsdienstes (BZÖG) in Zusammenarbeit mit der Gesellschaft Hygiene, Umweltmedizin und Präventivmedizin (GHUP). Der Öffentliche Gesundheitsdienst: Mitten in der Gesellschaft. Kassel, Hessen, 4/4/2019 - 4/6/2019: Georg Thieme Verlag KG (Das Gesundheitswesen).
+* Baumgart S, Köckler H, Ritzinger A, Rüdiger A (2018): Gesundheitsförderung – Ein Aktuelles Thema Für Raumplanung Und Gesundheitswesen. Einführung. In: Baumgart S, Köckler H, Ritzinger A und Rüdiger A (Hrsg.): Planung für gesundheitsfördernde Städte. Hannover: Akademie für Raumforschung und Landesplanung Leibniz-Forum für Raumwissenschaften (Forschungsberichte der ARL, 08), S. 5–19. 
+
+* Böhm K, Bräunling S, Geene R, Köckler H (Hrsg.) (2020): Gesundheit als gesamtgesellschaftliche Aufgabe. Das Konzept Health in All Policies und seine Umsetzung in Deutschland. Wiesbaden: Springer VS. 
+
+* Böhme C, Reimann B (2018): Integrierte Strategien kommunaler Gesundheitsförderung. Rahmenbedingungen, Steuerung und Kooperation. Ergebnisse einer Akteursbefragung. Berlin, 2018. Online verfügbar unter https://repository.difu.de/jspui/handle/difu/249465, zuletzt geprüft am 09.02.2022. 
+
+* Claßen T (2020): Gesundheitsförderliche Stadtentwicklung. In: *Informationen zur Raumentwicklung* 47 (1), S. 4–17. Online verfügbar unter https://elibrary.steiner-verlag.de/article/99.105010/izr202001000401, zuletzt geprüft am 07.11.2021. 
+
+* Claßen T, Mekel O (2020): Fachplan Gesundheit und Leitfaden Gesunde Stadt – Instrumente für eine gesundheitsorientierte kommunale Planung in Nordrhein-Westfalen. In: Böhm K, Bräunling S, Geene R und Köckler H (Hrsg.): Gesundheit als gesamtgesellschaftliche Aufgabe. Das Konzept Health in All Policies und seine Umsetzung in Deutschland. Wiesbaden: Springer VS, S. 397–405.GKV-Spitzenverband (2018): Leitfaden Prävention nach § 20 Abs. 2 SGB V und Leitfaden Prävention nach § 5 SGB XI. 
+
+* Hollederer A (2015): Gesundheitskonferenzen in Deutschland: ein Überblick. In: *Gesundheitswesen* 77 (3), S. 161–167. DOI: 10.1055/s-0033-1361109. 
+
+* Hollederer A (2016): Regionale Gesundheitskonferenzen und Gesundheitsregionen plus in Deutschland: Struktur-, Prozess- und Ergebnisqualitäten. In: *Public Health Forum* 24 (1), S. 22–25. DOI: 10.1515/pubhef-2016-0008. 
+
+* Luthe E-W (2010): Kommunale Gesundheitslandschaften. Teil 1. In: *NDV*, S. 304–310.LZG.NRW (2019): Leitfaden Gesunde Stadt. Hinweise für Stellungnahmen zur Stadtentwicklung aus dem Öffentlichen Gesundheitsdienst. 2 überarbeitete Auflage. Unter Mitarbeit von Hendrik Baumeister, Andrea Rüdiger, Heike Köckler, Thomas Claßen, Jacqueline Hamilton, Mareike Rüweler et al. Bielefeld, 2019. 
+
+* Rodenstein M (2012): Stadtplanung Und Gesundheit - Ein Rückblick auf Theorie und Praxis. In: Böhme C, Kliemke C, Reimann B und Süß W (Hrsg.): Handbuch Stadtplanung und Gesundheit. 1. Aufl. s.l.: Verlag Hans Huber, S. 15–26. 
+
+* Starke D, Arnold L, Fertmann R, March S, Moebus S, Terschüren C, Szagun B (2018): Methodische Herausforderungen der Präventionsberichterstattung. In: *Das Gesundheitswesen* 80 (8-09), S. 732–740. DOI: 10.1055/a-0665-6249. 
+
+* Szagun B, Kiß B (2002): Der ÖGD als Koordinator in der gesundheitlichen Versorgung. In: *Blickpunkt öffentliche Gesundheit* 18 (4), S. 1–2. 
+
+* Szagun B, Kuhn J, Starke D (2016): Kommunale Gesundheitsförderungspolitik und das Präventionsgesetz. In: *Präv Gesundheitsf* 11 (4), S. 265–270. DOI: 10.1007/s11553-016-0563-0. 
+
+* Trojan A, Süß W (2009): Prävention Und Gesundheitsförderung in Kommunen. In: Hurrelmann K, Klotz T und Haisch J (Hrsg.): Lehrbuch Prävention und Gesundheitsförderung. 2. Aufl. Bern: 
+
+* Huber, Hans (Lehrbuch Gesundheitswissenschaften), S. 336–346.WHO (1986): Ottawa-Charter for Health Promotion. In: WHO (Hrsg.). First international Conference on Health Promotion. Ottawa, 21.11.1986: World Health Organization. 
+
+* Wollenberg B, Reul R (2019): Gesundheit – Kernkompetenz der Kommunen: 3 Jahre Initiative „Gesundheit fördern – Versorgung stärken“. In: 69. Wissenschaftlicher Kongress des Bundesverbandes der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes (BVÖGD) und des Bundesverbandes der Zahnärzte des Öffentlichen Gesundheitsdienstes (BZÖG) in Zusammenarbeit mit der Gesellschaft Hygiene, Umweltmedizin und Präventivmedizin (GHUP). Der Öffentliche Gesundheitsdienst: Mitten in der Gesellschaft. Kassel, Hessen, 4/4/2019 - 4/6/2019: Georg Thieme Verlag KG (Das Gesundheitswesen). 
