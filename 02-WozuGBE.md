@@ -15,28 +15,9 @@ nav_order: 3
  </details>
 <br>
  
-> „GBE steht halt im Gesetz, darum mach ich das.  
-> Wüsste nicht, dass da ein tieferer Sinn hinter ist ...“
+> „GBE steht halt im Gesetz, darum mach ich das.  Wüsste nicht, dass da ein tieferer Sinn hinter ist ...“
 
-Veränderungen im Krankheitsspektrum, demografischer Wandel, Klimawandel
-und die Zunahme sozialer wie gesundheitlicher Ungleichheiten sind
-weltweit sich gegenseitig bedingende Herausforderungen für die
-Gesellschaft und Public Health und stellen keinesfalls eine erschöpfende
-Aufzählung dar. Verlässliche und gut aufbereitete
-Gesundheitsinformationen sind zentrale Voraussetzungen für die
-Entwicklung passgenauer Strategien und Maßnahmen, um auf diese
-Herausforderungen angemessen zu reagieren und die Bedingungen für
-Gesundheit in jeder Alters- und Bevölkerungsgruppe zu fördern und zu
-stärken. Gesundheitsberichterstattung ist dabei das zentrale Instrument
-für die Bereitstellung gesundheitsrelevanter Informationen, kann
-gleichzeitig aber nicht auf die bloße Aufbereitung von Daten reduziert
-werden. Basierend auf einer übergeordneten (bzw. im Bild der
-Informationspyramide untergeordneten) Gesamtstrategie kann die GBE
-maßgeblich dazu beitragen, relevante Gesundheitsinformationen
-wissenschaftlich aufzubereiten und für den (kommunalen) Bedarf
-passgenaue Maßnahmen und Konzepte zu erarbeiten, wie in der bereits aus
-[Kapitel 1]({{ site.baseurl }}{% link 01-WasistGBE.md %}) bekannten Informationspyramide im Folgenden noch einmal
-visualisiert:
+Veränderungen im Krankheitsspektrum, demografischer Wandel, Klimawandelund die Zunahme sozialer wie gesundheitlicher Ungleichheiten sindweltweit sich gegenseitig bedingende Herausforderungen für dieGesellschaft und Public Health und stellen keinesfalls eine erschöpfendeAufzählung dar. Verlässliche und gut aufbereiteteGesundheitsinformationen sind zentrale Voraussetzungen für dieEntwicklung passgenauer Strategien und Maßnahmen, um auf dieseHerausforderungen angemessen zu reagieren und die Bedingungen fürGesundheit in jeder Alters- und Bevölkerungsgruppe zu fördern und zustärken. Gesundheitsberichterstattung ist dabei das zentrale Instrumentfür die Bereitstellung gesundheitsrelevanter Informationen, kanngleichzeitig aber nicht auf die bloße Aufbereitung von Daten reduziertwerden. Basierend auf einer übergeordneten (bzw. im Bild derInformationspyramide untergeordneten) Gesamtstrategie kann die GBEmaßgeblich dazu beitragen, relevante Gesundheitsinformationenwissenschaftlich aufzubereiten und für den (kommunalen) Bedarfpassgenaue Maßnahmen und Konzepte zu erarbeiten, wie in der bereits aus[Kapitel 1]({{ site.baseurl }}{% link 01-WasistGBE.md %}) bekannten Informationspyramide im Folgenden noch einmalvisualisiert:
 
 <figure>
   <img src="./media/AOE-2520-Booksprints-06.png" alt="Routineaufgaben der GBE anhand der Informationspyramide" style="width:90%">
