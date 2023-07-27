@@ -120,12 +120,36 @@ Wichtig für das Selbstverständnis der meist akademisch-wissenschaftlich geprä
 
  <figcaption>Tabelle 1: Unterschiede zwischen Wissenschaft und Politik (entnommen aus Kurth 2006)</figcaption>
 
-|                       | **Wissenschaft**                     | **Politik**                            |
-| --------------------- | ---------------------------------------------------- | ---------------------------- |
-| Sprache               | Fachspezifisch, für Nichtwissenschaftler und Nichtwissenschaftlerinnen schwer zu verstehen    | Oft vereinfachend und populistisch, soll von der ganzen Bevölkerung verstanden werden   |
-| Zeitplanung           | Ansammlung von Spezialkenntnissen und Expertise über einen langen Zeitraum                    | Einhaltung eines Zeitplans geht häufig über Qualität                                    |
-| Aufmerksamkeitsspanne | Lang: kumulativer Prozess der Erkenntnisfindung                                               | Kurz: Suche nach schnell verfügbaren Informationen zu einer Vielfalt wechselnder Themen |
-| Ziele (PPP)           | Fortschritt der Wissenschaft, **P**ublikationen (Impact-Faktor), **P**atente, **P**rofessuren | Krisenmanagement, öffentliche Unterstützung, **P**olitik, **P**raxis, **P**opularität   |
+<table>
+<tbody>
+<tr>
+<th>empty</th>
+<th>Wissenschaft</th>
+<th>Politik</th>
+</tr>
+<tr>
+<td>Sprache</td>
+<td>Fachspezifisch, für Nichtwissenschaftler und Nichtwissenschaftlerinnen schwer zu verstehen</td>
+<td>Oft vereinfachend und populistisch, soll von der ganzen Bevölkerung verstanden werden</td>
+</tr>
+<tr>
+<td>Zeitplanung</td>
+<td>Ansammlung von Spezialkenntnissen und Expertise über einen langen Zeitraum</td>
+<td>Einhaltung eines Zeitplans geht häufig über Qualität</td>
+</tr>
+<tr>
+<td>Aufmerksamkeitsspanne</td>
+<td>Lang: kumulativer Prozess der Erkenntnisfindung</td>
+<td>Kurz: Suche nach schnell verfügbaren Informationen zu einer Vielfalt wechselnder Themen</td>
+</tr>
+<tr>
+<td>Ziele (PPP)</td>
+<td>Fortschritt der Wissenschaft, <strong>P</strong>ublikationen (Impact-Faktor), <strong>P</strong>atente, <strong>P</strong>rofessuren (PPP)</td>
+<td>Krisenmanagement, öffentliche Unterstützung, <strong>P</strong>olitik, <strong>P</strong>raxis, <strong>P</strong>opularität (PPP)</td>
+</tr>
+</tbody>
+</table>
+
 
 ## 2.5. Weiterführende Informationen
 
