@@ -118,7 +118,7 @@ Um die eigene Rolle als GBEler und GBElerin in der Politikberatung zu finden, is
 Wichtig für das Selbstverständnis der meist akademisch-wissenschaftlich geprägten GBEler und GBElerinnen ist es, die Unterschiedlichkeit der Rationalitäten von Wissenschaft und Politik zu realisieren. Ihre jeweilige Sprache ist auf die unterschiedlichen Adressaten und Adressatinnen abgestimmt, ihre Planung ist von sehr unterschiedlichen Zeitabläufen bestimmt, und sie verfolgen rollengemäß ganz unterschiedliche Ziele (siehe Tabelle 1). Für eine nachhaltig erfolgreiche GBE gilt es, sich an der Schnittstelle zwischen Wissenschaft und Politik mit politischen Rationalitäten vertraut zu machen und diese, wenn möglich, auch entsprechend zu berücksichtigen. 
 
 
-Tabelle 1: Unterschiede zwischen Wissenschaft und Politik (entnommen aus Kurth 2006)
+ <figcaption>Tabelle 1: Unterschiede zwischen Wissenschaft und Politik (entnommen aus Kurth 2006)</figcaption>
 
 |                       | **Wissenschaft**                     | **Politik**                            |
 | --------------------- | ---------------------------------------------------- | ---------------------------- |
