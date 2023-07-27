@@ -89,7 +89,7 @@ Für die Gesundheitsberichterstattung ist das auf zwei Ebenen relevant: einersei
 <table>
 <tbody>
 <tr class="odd">
-<td><h5 id="exkurs-health-in-all-policies-hiap">Exkurs: Health in All Policies (HiAP)</h5>
+<td><h5 id="exkurs-health-in-all-policies-hiap"><strong>Exkurs: Health in All Policies (HiAP)</strong></h5>
 <p>Da die Verhältnisse, in denen Menschen aufwachsen und leben, mittel- und langfristig das Verhalten von Individuen und Bevölkerungsgruppen substanziell beeinflussen können, stehen verhältnispräventive Maßnahmen stark im Fokus von Prävention und Gesundheitsförderung und münden oftmals in Aktivitäten der Gesundheitsplanung (Näheres hierzu auch in [Kapitel 7]({{ site.baseurl }}{% link 07-Planung.md %}) ). Der Health-in-All-Policies-Ansatz (Gesundheit in allen Politikbereichen) beinhaltet, gesundheitsrelevante Prozesse und Entscheidungen auf unterschiedlichen gesellschaftspolitischen Ebenen systematisch zu erfassen, sichtbar zu machen und darauf hinzuwirken, gesundheitsrelevante Auswirkungen, sowohl gesundheitsförderliche als auch -schädliche, bei Entscheidungen quer durch alle Politikfelder mit zu berücksichtigen. Übergreifendes Ziel ist eine gesundheitsförderliche Gesamtpolitik, um die Gesundheit der Bevölkerung und gesundheitliche Chancengleichheit zu verbessern (Böhme, Reimann 2018; Geene et al. 2020).</p></td>
 </tr>
 </tbody>
