@@ -88,7 +88,7 @@ Ziel und Zweck einer indikatorengestützten Gesundheitsberichterstattung ist die
 <li>stellen <strong>Maßstäbe</strong> dar und bieten so <strong>Vergleichsmöglichkeiten</strong> für Länder und Kommunen (Benchmarking).</li>
 <li>verbessern die Möglichkeit zur <strong>Kommunikation</strong> und <strong>Koordinierung</strong>.</li> 
 <li>können wichtige Informationen über <strong>gesundheitspolitische Prioritäten</strong> geben.</li> 
-<ul>
+</ul>
 </td>
 </tr>
 </tbody>
