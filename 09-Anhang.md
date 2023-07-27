@@ -18,222 +18,146 @@ nav_order: 10
 
 ## Abkürzungsverzeichnis
 
-- **AÖGW** – Akademie für Öffentliches Gesundheitswesen
-- **AOLG** – Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden
-- **AV-ÖGDG** – Ausführungsverordnung zum Gesetz über den Öffentlichen Gesundheitsdienst
-- **(NRW)DEGS** – Studie zur Gesundheit Erwachsener in Deutschland des Robert Koch-Instituts
-- **DIKW** – Data-Information-Knowledge-Wisdom
-- **DRG-Statistik** – Fallpauschalen­bezogene Krankenhausstatistik
-- **ECHI** – Europäischer Kernindikatorensatz für Gesundheit (European Core Health Indicators)
-- **EPHO** - Essential Public Health OperationsGBE – Gesundheitsberichterstattung
-- **GDG** – Gesundheitsdienstgesetzte der Länder
-- **GDVG** - Gesundheitsdienst- und Verbraucherschutzgesetz
-- **GEDA** – Gesundheit in Deutschland aktuell, Studie des Robert Koch-Instituts
-- **GKV** – Gesetzliche KrankversicherungGKV-Daten – Daten der Gesetzlichen Krankenversicherungen
-- **GPRS AOLG** – Arbeitsgruppe Gesundheitsberichterstattung, Prävention, Rehabilitation und Sozialmedizin der Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden 
-- **HiAP** – Health in All Policies
-- **ICD** – Internationale statistische Klassifikation der Krankheiten 
-- **IfSG** – Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen (Infektionsschutzgesetz)
-- **IS-GBE** – Informationssystem der Gesundheitsberichterstattung des BundesINKAR – Indikatoren und Karten zur Raum- und Stadtentwicklung
-- **KiGGS** – Studie zur Gesundheit von Kindern und Jugendlichen in Deutschland des Robert Koch-Instituts
-- **KGK** – Kommunale Gesundheitskonferenz
-- **LGL** – Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit
-- **LZG.NRW** – Landeszentrum Gesundheit Nordrhein-Westfalen
-- **ÖGD** – Öffentlicher Gesundheitsdienst
-- **PHAC** – Public Health Action Cycle
-- **PrävG** – Gesetz zur Stärkung der Gesundheitsförderung und der Prävention (Präventionsgesetz)
-- **PSAG** – Psychosoziale Arbeitsgemeinschaft
-- **RKI** – Robert Koch-Institut
-- **WHO** – Weltgesundheitsorganisation (World Health Organisation)
-- **ZfPH** – Zukunftsforum Public Health
+* **AÖGW** – Akademie für Öffentliches Gesundheitswesen
 
+* **AOLG** – Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden
+
+* **AV-ÖGDG** – Ausführungsverordnung zum Gesetz über den Öffentlichen Gesundheitsdienst
+
+* **(NRW)DEGS** – Studie zur Gesundheit Erwachsener in Deutschland des Robert Koch-Instituts
+
+* **DIKW** – Data-Information-Knowledge-Wisdom
+
+* **DRG-Statistik** – Fallpauschalen­bezogene Krankenhausstatistik
+
+* **ECHI** – Europäischer Kernindikatorensatz für Gesundheit (European Core Health Indicators)
+
+* **EPHO** - Essential Public Health OperationsGBE – Gesundheitsberichterstattung
+
+* **GDG** – Gesundheitsdienstgesetzte der Länder
+
+* **GDVG** - Gesundheitsdienst- und Verbraucherschutzgesetz
+
+* **GEDA** – Gesundheit in Deutschland aktuell, Studie des Robert Koch-Instituts
+
+* **GKV** – Gesetzliche KrankversicherungGKV-Daten – Daten der Gesetzlichen Krankenversicherungen
+
+* **GPRS AOLG** – Arbeitsgruppe Gesundheitsberichterstattung, Prävention, Rehabilitation und Sozialmedizin der Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden 
+
+* **HiAP** – Health in All Policies
+
+* **ICD** – Internationale statistische Klassifikation der Krankheiten 
+
+* **IfSG** – Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen (Infektionsschutzgesetz)
+
+* **IS-GBE** – Informationssystem der Gesundheitsberichterstattung des BundesINKAR – Indikatoren und Karten zur Raum- und Stadtentwicklung
+
+* **KiGGS** – Studie zur Gesundheit von Kindern und Jugendlichen in Deutschland des Robert Koch-Instituts
+
+* **KGK** – Kommunale Gesundheitskonferenz
+
+* **LGL** – Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit
+
+* **LZG.NRW** – Landeszentrum Gesundheit Nordrhein-Westfalen
+
+* **ÖGD** – Öffentlicher Gesundheitsdienst
+
+* **PHAC** – Public Health Action Cycle
+
+* **PrävG** – Gesetz zur Stärkung der Gesundheitsförderung und der Prävention (Präventionsgesetz)
+
+* **PSAG** – Psychosoziale Arbeitsgemeinschaft
+
+* **RKI** – Robert Koch-Institut
+
+* **WHO** – Weltgesundheitsorganisation (World Health Organisation)
+
+* **ZfPH** – Zukunftsforum Public Health
 
 ## Weiterführende Literatur zum Einstieg in die GBE – eine unvollständige Sammlung aus verschiedenen Themenfeldern
 
-**Grundlagen der Epidemiologie**
+**Grundlagen der Epidemiologie** 
 
-  - Bonita, R, Beaglehole, R, Kjellström, T. (Hrsg.) (2008): Einführung
-    in die Epidemiologie. 2. Aufl. Bern: Huber.
+* Bonita, R, Beaglehole, R, Kjellström, T. (Hrsg.) (2008): Einführung in die Epidemiologie. 2. Aufl. Bern: Huber. 
 
-  - Centers for Disease Control and Prevention (CDC) (2012): Principles
-    of Epidemiology in Public Health Practice. Principles of
-    Epidemiology in Public Health Practice An Introduction to Applied
-    Epidemiology and Biostatistics. Self-Study Course SS1978. 3. Aufl.
-    U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES (Hrsg.). Attlanta,
-    2012.
+* Centers for Disease Control and Prevention (CDC) (2012): Principles of Epidemiology in Public Health Practice. Principles of Epidemiology in Public Health Practice An Introduction to Applied Epidemiology and Biostatistics. Self-Study Course SS1978. 3. Aufl. U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES (Hrsg.). Attlanta, 2012. 
 
-  - Gordis L. (2014): Epidemiology. 5. ed. Philadelphia: Elsevier
-    Saunders.
+* Gordis L. (2014): Epidemiology. 5. ed. Philadelphia: Elsevier Saunders. 
 
-  - Kreienbrock L, Pigeot I, Ahrens W (2012): Epidemiologische Methoden.
-    5. Auflage. Heidelberg: Springer.
+* Kreienbrock L, Pigeot I, Ahrens W (2012): Epidemiologische Methoden. 5. Auflage. Heidelberg: Springer. 
 
-  - Rothman KJ, Greenland S, Lash TL (2008): Modern epidemiology. 3. ed.
-    Philadelphia: Wolters Kluwer.
+* Rothman KJ, Greenland S, Lash TL (2008): Modern epidemiology. 3. ed. Philadelphia: Wolters Kluwer. 
 
-  - Szklo, M, Nieto, F.J. (Hrsg.) (2019): Epidemiology. Beyond the
-    basics. Fourth Edition. Burlington, MA: Jones & Bartlett Learning.
+* Szklo, M, Nieto, F.J. (Hrsg.) (2019): Epidemiology. Beyond the basics. Fourth Edition. Burlington, MA: Jones & Bartlett Learning. 
 
-  - Working Group Teaching in Epidemiology, GMDS, DGEpi (2019):
-    Catalogue of Learning Objectives Epidemiology – Basics of
-    Epidemiology, 2019. In deutscher und englischer Sprache verfügbar
-    unter: [Lernzielkatalog
-    Epidemiologie](http://www.epiteaching.org/Catalogue-Learning-Objectives-Epi.pdf)
+* Working Group Teaching in Epidemiology, GMDS, DGEpi (2019): Catalogue of Learning Objectives Epidemiology – Basics of Epidemiology, 2019. In deutscher und englischer Sprache verfügbar unter: [Lernzielkatalog Epidemiologie](http://www.epiteaching.org/Catalogue-Learning-Objectives-Epi.pdf) 
 
+**Grundlagen der Statistik** 
 
-**Grundlagen der Statistik**
+* Altman D.G. (1999): Practical statistics for medical research. Boca Raton, Fla: Chapman & Hall/CRC. 
 
-  - Altman D.G. (1999): Practical statistics for medical research. Boca
-    Raton, Fla: Chapman & Hall/CRC.
+* Bortz J, Schuster C. (2010): Statistik für Human- und Sozialwissenschaftler. 7. Aufl. Berlin, Heidelberg: Springer. 
 
-  - Bortz J, Schuster C. (2010): Statistik für Human- und
-    Sozialwissenschaftler. 7. Aufl. Berlin, Heidelberg: Springer.
+* Döring N, Bortz J. (2016): Forschungsmethoden und Evaluation in den Sozial- und Humanwissenschaften. 5. vollst. überarb., aktualisierte und erw. Aufl. Berlin: SPRINGER (Springer-Lehrbuch). 
 
-  - Döring N, Bortz J. (2016): Forschungsmethoden und Evaluation in den
-    Sozial- und Humanwissenschaften. 5. vollst. überarb., aktualisierte
-    und erw. Aufl. Berlin: SPRINGER (Springer-Lehrbuch).
+* Eid M, Gollwitzer M, Schmitt M. (2017): Statistik und Forschungsmethoden. 5., korrigierte Auflage. Weinheim, Basel: Beltz. 
 
-  - Eid M, Gollwitzer M, Schmitt M. (2017): Statistik und
-    Forschungsmethoden. 5., korrigierte Auflage. Weinheim, Basel: Beltz.
+* Field A. (2016): An adventure in statistics. The reality enigma. Los Angeles, London, New Delhi: SAGE. 
 
-  - Field A. (2016): An adventure in statistics. The reality enigma. Los
-    Angeles, London, New Delhi: SAGE.
+* Weiß C. (2013): Basiswissen Medizinische Statistik. 6., überarb. Aufl. Berlin: Springer. 
 
-  - Weiß C. (2013): Basiswissen Medizinische Statistik. 6., überarb.
-    Aufl. Berlin: Springer.
+**Handlungshilfen zur GBE** 
 
+* Augustin, J, Kistemann, T, Koller, D, Lentz, S, Maier, W.A, Moser, J, Schweikart, J. (Hrsg.) (2017): Gute kartographische Praxis im Gesundheitswesen (GKPiG). Deutsche Gesellschaft für Geographie; Deutsche Gesellschaft für Epidemiologie; Leibniz-Institut für Länderkunde. Leipzig: Leibniz-Institut für Länderkunde (Forum IfL, Heft 32). 
 
-**Handlungshilfen zur GBE**
+* Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden (AOLG) (2003). Indikatorensatz für die Gesundheitsberichterstattung der Länder, dritte neu bearbeitete Fassung. AOLG, Bielefeld. 
 
-  - Augustin, J, Kistemann, T, Koller, D, Lentz, S, Maier, W.A, Moser,
-    J, Schweikart, J. (Hrsg.) (2017): Gute kartographische Praxis im
-    Gesundheitswesen (GKPiG). Deutsche Gesellschaft für Geographie;
-    Deutsche Gesellschaft für Epidemiologie; Leibniz-Institut für
-    Länderkunde. Leipzig: Leibniz-Institut für Länderkunde (Forum IfL,
-    Heft 32).
+* Bardehle D, Annuß R (2012). Gesundheitsberichterstattung. in: Hurrelmann, Razum (Hrsg.) Handbuch Gesundheitswissenschaften. Juventa Verlag, Weinheim, 403–440. 
 
-  - Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden (AOLG)
-    (2003). Indikatorensatz für die Gesundheitsberichterstattung der
-    Länder, dritte neu bearbeitete Fassung. AOLG, Bielefeld.
+* Deutsche Gesellschaft für Epidemiologie (DGEpi) (2008): Leitlinien und Empfehlungen zur Sicherung von Guter Epidemiologischer Praxis (GEP). Langversion. Deutsche Gesellschaft für Epidemiologie. in Zusammenarbeit mit der GMDS, der DGSMP und der DR-IBS. Deutsche Gesellschaft für Epidemiologie (DGEpi) (Hrsg.), 2008. 
 
-  - Bardehle D, Annuß R (2012). Gesundheitsberichterstattung. in:
-    Hurrelmann, Razum (Hrsg.) Handbuch Gesundheitswissenschaften.
-    Juventa Verlag, Weinheim, 403–440.
+* Kuhn J, Wildner M. (2019): Gesundheitsdaten verstehen. Statistiken lesen lernen – ein Einsteigerbuch. 2., vollständig überarbeitete und erweiterte Auflage. Bern: Hogrefe.Gesundheitsministerkonferenz (2018). Leitbild für einen modernen öffentlichen Gesundheitsdienst (ÖGD) – „Der ÖGD: Public Health vor Ort“. Gesundheitswesen 80, 679–681. 
 
-  - Deutsche Gesellschaft für Epidemiologie (DGEpi) (2008): Leitlinien
-    und Empfehlungen zur Sicherung von Guter Epidemiologischer Praxis
-    (GEP). Langversion. Deutsche Gesellschaft für Epidemiologie. in
-    Zusammenarbeit mit der GMDS, der DGSMP und der DR-IBS. Deutsche
-    Gesellschaft für Epidemiologie (DGEpi) (Hrsg.), 2008.
+* Kuhn 2016, Gesundheitsberichterstattung, in Schröder-Bäck/Kuhn: Ethik in den Gesundheitswissenschaften, Juventa, S. 384 ff. 
 
-  - Kuhn J, Wildner M. (2019): Gesundheitsdaten verstehen. Statistiken
-    lesen lernen – ein Einsteigerbuch. 2., vollständig überarbeitete und
-    erweiterte Auflage. Bern: Hogrefe.Gesundheitsministerkonferenz
-    (2018). Leitbild für einen modernen öffentlichen Gesundheitsdienst
-    (ÖGD) – „Der ÖGD: Public Health vor Ort“. Gesundheitswesen 80,
-    679–681.
+* Nanz P, Fritsche M (2012). Handbuch Bürgerbeteiligung. Bundeszentrale für politische Bildung, Bonn. 
 
-  - Kuhn 2016, Gesundheitsberichterstattung, in Schröder-Bäck/Kuhn:
-    Ethik in den Gesundheitswissenschaften, Juventa, S. 384 ff.
+* Schräder W, Loos S (2006). Ökonomische Steuerung durch Gesundheitsberichterstattung. In: Kuhn J, Busch R (Hrsg.) Gesundheit zwischen Staat und Politik. Mabuse Verlag, Frankfurt am Main, 252–253. 
 
-  - Nanz P, Fritsche M (2012). Handbuch Bürgerbeteiligung.
-    Bundeszentrale für politische Bildung, Bonn.
+* Stockmann S et al. (2009). Der Public Health-Kontext der kommunalen Gesundheitsberichterstattung in Deutschland. In: Kuhn J, Böcken J (Hrsg.) Verwaltete Gesundheit – Konzepte der Gesundheitsberichterstattung in der Diskussion. Mabuse-Verlag, Frankfurt am Main, 239–256. 
 
-  - Schräder W, Loos S (2006). Ökonomische Steuerung durch
-    Gesundheitsberichterstattung. In: Kuhn J, Busch R (Hrsg.) Gesundheit
-    zwischen Staat und Politik. Mabuse Verlag, Frankfurt am Main, 252–253.
+* Szagun B, Starke D (2005). Prävention und Gesundheitsberichterstattung im ÖGD. Bedingungen und Chancen. Bundesgesundheitsbl – Gesundheitsforsch – Gesundheitsschutz 48:1125–1129 
 
-  - Stockmann S et al. (2009). Der Public Health-Kontext der kommunalen
-    Gesundheitsberichterstattung in Deutschland. In: Kuhn J, Böcken J
-    (Hrsg.) Verwaltete Gesundheit – Konzepte der
-    Gesundheitsberichterstattung in der Diskussion. Mabuse-Verlag,
-    Frankfurt am Main, 239–256.
+* Starke D. et al. (2019): Gute Praxis Gesundheitsberichterstattung – Leitlinien und Empfehlungen. Journal of Health Monitoring 4 (S1), 1–22. 
 
-  - Szagun B, Starke D (2005). Prävention und
-    Gesundheitsberichterstattung im ÖGD. Bedingungen und Chancen.
-    Bundesgesundheitsbl – Gesundheitsforsch – Gesundheitsschutz
-    48:1125–1129
+* Handlungshilfen des LGL: [GBE-Praxis](https://www.lgl.bayern.de/publikationen/index.htm) 
 
-  - Starke D. et al. (2019): Gute Praxis Gesundheitsberichterstattung –
-    Leitlinien und Empfehlungen. Journal of Health Monitoring 4 (S1),
-    1–22.
+**Datenvisualizierung und Storytelling** 
 
-  - Handlungshilfen des LGL:
-    [GBE-Praxis](https://www.lgl.bayern.de/publikationen/index.htm)
+* Alberto C (2016). The truthful art: data, charts and maps for communication. New Riders. 
 
-**Datenvisualizierung und Storytelling**
+* Kuhn J et al. (2008). Mediale Aspekte der Gesundheitsberichterstattung. Band 4 der Schriftenreihe GBE-Praxis. Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit, Erlangen. 
 
-  - Alberto C (2016). The truthful art: data, charts and maps for
-    communication. New Riders.
+* Nussbaumer Knaflic C (2015). Storytelling with data: a data viszualisation guide for business professionals. Hoboken, New Jersey: John Wiley and Sons Inc Storytellung with data: [http://www.storytellingwithdata.com](http://www.storytellingwithdata.com/) 
 
-  - Kuhn J et al. (2008). Mediale Aspekte der
-    Gesundheitsberichterstattung. Band 4 der Schriftenreihe GBE-Praxis.
-    Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit,
-    Erlangen.
+* Our world in data: [https://ourworldindata.org](https://ourworldindata.org/) Online-Publikation, die über die historische Entwicklung der Lebensverhältnisse weltweit informiert. Neben demographischen, entwicklungsökonomischen und geographischen Aspekten werden auch kulturelle sowie gesundheitliche Aspekte betrachtet. 
 
-  - Nussbaumer Knaflic C (2015). Storytelling with data: a data
-    viszualisation guide for business professionals. Hoboken, New
-    Jersey: John Wiley and Sons Inc  
-    Storytellung with data:
-    [http://www.storytellingwithdata.com](http://www.storytellingwithdata.com/)
+* Gapminder: [https://www.gapminder.org](https://www.gapminder.org/) Informationsvisualisierung-Software zur Animation von Statistiken. 
 
-  - Our world in data:
-    [https://ourworldindata.org](https://ourworldindata.org/)  
-    Online-Publikation, die über die historische Entwicklung der
-    Lebensverhältnisse weltweit informiert. Neben demographischen,
-    entwicklungsökonomischen und geographischen Aspekten werden auch
-    kulturelle sowie gesundheitliche Aspekte betrachtet.
-
-  - Gapminder: [https://www.gapminder.org](https://www.gapminder.org/)  
-    Informationsvisualisierung-Software zur Animation von Statistiken.
-
-  - PolicyWiz: [https://policyviz.com](https://policyviz.com/)  
-    Website hilfreichen Übersichten zur Datenvisualisierung,
-    empfehlenswert ist auch das digitale und frei verfügbare Buch „A
-    guide to advanced data visualisation with Excel“, dass wertvolle
-    Tips enthält.
+* PolicyWiz: [https://policyviz.com](https://policyviz.com/) Website hilfreichen Übersichten zur Datenvisualisierung, empfehlenswert ist auch das digitale und frei verfügbare Buch „A guide to advanced data visualisation with Excel“, dass wertvolle Tips enthält. 
 
 ## Glossar – wichtige Kennziffern der kommunalen Gesundheitsberichterstattung
 
-**Absolute Fälle:** Absolute Fallzahlen sind oft für die
-Gesundheitsplanung wichtig. Sie geben Aufschluss über Mengengerüste, zum
-Beispiel über die Größe eines Adressatinnen- und Adressatenkreises für
-Präventionsmaßnahmen, den Bedarf an Versorgungsleistungen oder
-vorzuhaltende Ressourcen.
+**Absolute Fälle:** Absolute Fallzahlen sind oft für die Gesundheitsplanung wichtig. Sie geben Aufschluss über Mengengerüste, zum Beispiel über die Größe eines Adressatinnen- und Adressatenkreises für Präventionsmaßnahmen, den Bedarf an Versorgungsleistungen oder vorzuhaltende Ressourcen.
 
-**Prävalenz:** Die Prävalenz bezeichnet die Häufigkeit einer Erkrankung,
-meist in Form einer Quote. So gibt beispielsweise der Krankenstand den
-Anteil der zu einer bestimmten Zeit krankgeschriebenen Beschäftigten an.
-Bei der Prävalenz ist der Zeitbezug wichtig. Eine Punktprävalenz
-beschreibt die Quote der Kranken zu einem Zeitpunkt, die
-30-Tage-Prävalenz die Quote derer, die im Zeitraum von 30 Tagen krank
-waren, die Lebenszeitprävalenz den Anteil derer, die je in ihrem Leben
-einmal unter der Erkrankung gelitten haben.
+**Prävalenz:** Die Prävalenz bezeichnet die Häufigkeit einer Erkrankung, meist in Form einer Quote. So gibt beispielsweise der Krankenstand den Anteil der zu einer bestimmten Zeit krankgeschriebenen Beschäftigten an. Bei der Prävalenz ist der Zeitbezug wichtig. Eine Punktprävalenz beschreibt die Quote der Kranken zu einem Zeitpunkt, die 30-Tage-Prävalenz die Quote derer, die im Zeitraum von 30 Tagen krank waren, die Lebenszeitprävalenz den Anteil derer, die je in ihrem Leben einmal unter der Erkrankung gelitten haben.
 
-**Inzidenz:** Die Inzidenz bezeichnet die Neuerkrankungsrate. Auch hier
-ist der Zeitbezug wichtig. Manche gesundheitlichen Merkmale gibt es nur
-als Inzidenzen: Unfälle etwa oder Sterbefälle (Sterbefall als
-gesundheitliches Merkmal?).
+**Inzidenz:** Die Inzidenz bezeichnet die Neuerkrankungsrate. Auch hier ist der Zeitbezug wichtig. Manche gesundheitlichen Merkmale gibt es nur als Inzidenzen: Unfälle etwa oder Sterbefälle (Sterbefall als gesundheitliches Merkmal?).
 
-**Risikomaße:** Inzidenzen lassen sich auch als absolutes
-Erkrankungsrisiko lesen. Setzt man die Inzidenzen zweier Gruppen in
-Relation, spricht man vom relativen Risiko. Es gibt einen Hinweis
-darauf, ob eine Gruppe stärker von einer Erkrankung betroffen ist als
-eine andere. Es gibt eine Vielzahl spezieller Risikomaße, auf die hier
-nicht näher eingegangen werden soll, dazu sei auf die Literatur zur
-Epidemiologie verwiesen.
+**Risikomaße:** Inzidenzen lassen sich auch als absolutes Erkrankungsrisiko lesen. Setzt man die Inzidenzen zweier Gruppen in Relation, spricht man vom relativen Risiko. Es gibt einen Hinweis darauf, ob eine Gruppe stärker von einer Erkrankung betroffen ist als eine andere. Es gibt eine Vielzahl spezieller Risikomaße, auf die hier nicht näher eingegangen werden soll, dazu sei auf die Literatur zur Epidemiologie verwiesen.
 
-**Rohe und altersstandardisierte Größen:** Viele gesundheitliche
-Merkmale hängen stark vom Alter ab, zum Beispiel Krankheitshäufigkeiten
-wie Bluthochdruck, Demenzen, Herzkreislauferkrankungen, oder die
-Sterblichkeit. Wenn man beim Vergleich zweier Gruppen wissen will, ob
-sie unabhängig vom Alter unterschiedlich betroffen sind, muss man den
-Unterschied des Altersaufbaus beider Gruppen statistisch bereinigen.
-Auch hier sei auf die Literatur zur Epidemiologie verwiesen. Eine
-allgemein verständliche Einführung liefert die GBE-Handlungshilfe 2
-„[Epidemiologie und
-Gesundheitsberichterstattung](https://www.lgl.bayern.de/gesundheit/gesundheitsberichterstattung/methoden_handlungshilfen/index.htm)“
-des Bayerischen Landesamtes für Gesundheit und Lebensmittelsicherheit.
+**Rohe und altersstandardisierte Größen:** Viele gesundheitliche Merkmale hängen stark vom Alter ab, zum Beispiel Krankheitshäufigkeiten wie Bluthochdruck, Demenzen, Herzkreislauferkrankungen, oder die Sterblichkeit. Wenn man beim Vergleich zweier Gruppen wissen will, ob sie unabhängig vom Alter unterschiedlich betroffen sind, muss man den Unterschied des Altersaufbaus beider Gruppen statistisch bereinigen. Auch hier sei auf die Literatur zur Epidemiologie verwiesen. Eine allgemein verständliche Einführung liefert die GBE-Handlungshilfe 2 „[Epidemiologie und Gesundheitsberichterstattung](https://www.lgl.bayern.de/gesundheit/gesundheitsberichterstattung/methoden_handlungshilfen/index.htm)“ des Bayerischen Landesamtes für Gesundheit und Lebensmittelsicherheit.
+
 
 ## Übersicht Datenquellen der GBE (exemplarische Auswahl) 
 
