@@ -137,49 +137,24 @@ Wie oben bereits angesprochen, stehen die aus den Ergebnissen des Berichts abgel
 
 Capacity Building in der GBE
 
-  - Bachinger E, Grasser G (2009): Capacity Building für
-    Gesundheitsberichterstattung. In: Kuhn J und Böcken J (Hrsg.):
-    Verwaltete Gesundheit. Konzepte der Gesundheitsberichterstattung in
-    der Diskussion. Frankfurt am Main: Mabuse-Verl. (Beiträge zur politischen
-    Relevanz der Gesundheitsberichterstattung), S. 201–222.
+* Bachinger E, Grasser G (2009): Capacity Building für Gesundheitsberichterstattung. In: Kuhn J und Böcken J (Hrsg.): Verwaltete Gesundheit. Konzepte der Gesundheitsberichterstattung in der Diskussion. Frankfurt am Main: Mabuse-Verl. (Beiträge zur politischen Relevanz der Gesundheitsberichterstattung), S. 201–222.
 
-  - Kuhn J, Zapf A (2018): Berufliche Aufgaben und Perspektiven im ÖGD.
-    In: Public Health Forum 26 (1), S. 20–22. DOI:
-    10.1515/pubhef-2017-0083.
+* Kuhn J, Zapf A (2018): Berufliche Aufgaben und Perspektiven im ÖGD. In: Public Health Forum 26 (1), S. 20–22. DOI: 10.1515/pubhef-2017-0083.
 
 Beteiligung und Partizipation
 
-  - LGA-BW (2014): Handlungsempfehlung zur Bürgerbeteiligung bei
-    Gesundheitsthemen. aus den Pilotgesundheitsdialogen im Rahmen des
-    Zukunftsplans Gesundheit, Juli 2014.
+* LGA-BW (2014): Handlungsempfehlung zur Bürgerbeteiligung bei Gesundheitsthemen. aus den Pilotgesundheitsdialogen im Rahmen des Zukunftsplans Gesundheit, Juli 2014.
 
 ## 6.5. Literaturverzeichnis Kapitel 6. – Vernetzung in der GBE
 
-* Augustin J, Kistemann T, Koller D, Lentz S, Maier W A, Moser J,
-Schweikart J (Hrsg.) (2017): Gute kartographische Praxis im
-Gesundheitswesen (GKPiG). Deutsche Gesellschaft für Geographie; Deutsche
-Gesellschaft für Epidemiologie; Leibniz-Institut für Länderkunde.
-Leipzig: Leibniz-Institut für Länderkunde (Forum IfL, Heft 32). Online
-verfügbar unter
-http://nbn-resolving.de/urn:nbn:de:0168-ssoar-52071-9.
-* Fisher R, Ury W,
-Patton B (2009): Das Harvard-Konzept. Der Klassiker der
-Verhandlungstechnik. 23., durchgesehene Aufl. Frankfurt/Main, New York:
-Campus-Verl. Online verfügbar unter
-http://swb.eblib.com/patron/FullRecord.aspx?p=825186.
-* Kuhn J, Wildner M
-(2019): Gesundheitsdaten verstehen. Statistiken lesen lernen – ein
-Einsteigerbuch. 2., vollständig überarbeitete und erweiterte Auflage.
-Bern: Hogrefe.
-* Quilling E, Nicolini H J, Graf C, Starke D (2013):
-Praxiswissen Netzwerkarbeit. Gemeinnützige Netzwerke erfolgreich
-gestalten. Wiesbaden, s.l.: Springer Fachmedien Wiesbaden
-(SpringerLink). Online verfügbar unter
-http://site.ebrary.com/lib/alltitles/docDetail.action?docID=10756602.
-* Starke
-D, Tempel G, Butler J, Starker A, Zühlke C, Borrmann B (2019): Gute
-Praxis Gesundheitsberichterstattung – Leitlinien und Empfehlungen 2.0.
-In: *Journal of Health Monitoring* 4 (S1), S. 1–22.
-* Verschuuren M, van
-Oers H (Hrsg.) (2019): Population Health Monitoring. Cham: Springer
-International Publishing.
+* Augustin J, Kistemann T, Koller D, Lentz S, Maier W A, Moser J, Schweikart J (Hrsg.) (2017): Gute kartographische Praxis im Gesundheitswesen (GKPiG). Deutsche Gesellschaft für Geographie; Deutsche Gesellschaft für Epidemiologie; Leibniz-Institut für Länderkunde. Leipzig: Leibniz-Institut für Länderkunde (Forum IfL, Heft 32). Online verfügbar unter http://nbn-resolving.de/urn:nbn:de:0168-ssoar-52071-9.
+
+* Fisher R, Ury W, Patton B (2009): Das Harvard-Konzept. Der Klassiker der Verhandlungstechnik. 23., durchgesehene Aufl. Frankfurt/Main, New York: Campus-Verl. Online verfügbar unter http://swb.eblib.com/patron/FullRecord.aspx?p=825186.
+
+* Kuhn J, Wildner M (2019): Gesundheitsdaten verstehen. Statistiken lesen lernen – ein Einsteigerbuch. 2., vollständig überarbeitete und erweiterte Auflage. Bern: Hogrefe.
+
+* Quilling E, Nicolini H J, Graf C, Starke D (2013): Praxiswissen Netzwerkarbeit. Gemeinnützige Netzwerke erfolgreich gestalten. Wiesbaden, s.l.: Springer Fachmedien Wiesbaden (SpringerLink). Online verfügbar unter http://site.ebrary.com/lib/alltitles/docDetail.action?docID=10756602.
+
+* Starke D, Tempel G, Butler J, Starker A, Zühlke C, Borrmann B (2019): Gute Praxis Gesundheitsberichterstattung – Leitlinien und Empfehlungen 2.0. In: *Journal of Health Monitoring* 4 (S1), S. 1–22.
+
+* Verschuuren M, van Oers H (Hrsg.) (2019): Population Health Monitoring. Cham: Springer International Publishing.
