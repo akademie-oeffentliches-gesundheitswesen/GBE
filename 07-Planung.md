@@ -112,7 +112,7 @@ Letztlich braucht es eine gesundheitsfördernde kommunale Gesamtpolitik für das
 <td><h5 id="exkurs-gesunde-städte-netzwerk"><strong>Exkurs: Gesunde Städte-Netzwerk</strong></h5>
 <p>Im Juni 1989 in Frankfurt am Main von zehn Städten und einem Kreis gegründet, umfasst das Gesunde Städte-Netzwerk der Bundesrepublik Deutschland im Jahr 2021 90 Mitgliedskommunen, darunter 45 Großstädte, 9 Berliner Bezirke, eine Region, 12 Landkreise, 27 mittlere Städte und Gemeinden, mit insgesamt über 24 Millionen Einwohnerinnen und Einwohnern. Die Ziele des Gesunde Städte-Netzwerks basieren auf der Ottawa-Charta, dem Dokument der ersten internationalen Konferenz zur Gesundheitsförderung vom 21. November 1986 (WHO 1986).</p>
 <p>Das Gesunde Städte-Netzwerk der Bundesrepublik Deutschland ist ein freiwilliger Zusammenschluss von Kommunen und dient als Lern-, Aktions- und Diskussionsinstrument, mit dem die beteiligten Kommunen ihre eigene Arbeit unterstützen und sich gegenseitig bereichern können.</p>
-<p></p><a href="https://gesunde-staedte-netzwerk.de/das-netzwerk/ueber-uns/"><span class="underline">Über uns – Das Gesunde Städte-Netzwerk (gesunde-staedte-netzwerk.de)</span></a></p>
+<p><a href="https://gesunde-staedte-netzwerk.de/das-netzwerk/ueber-uns/"><span class="underline">Über uns – Das Gesunde Städte-Netzwerk (gesunde-staedte-netzwerk.de)</span></a></p>
 </td>
 </tr>
 </tbody>
