@@ -122,19 +122,19 @@ Grundlagen der Gesundheitsberichterstattung
 ## 1.5 Literaturverzeichnis Kapitel 1. – Was ist GBE?
 
 * Ackoff R (1989): From data to wisdom. In: *Journal of Applied Systems Analysis* 16, S. 3–9.AOLG (2003): Indikatorensatz für die Gesundheitsberichterstattung der Länder. Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden. 3. Aufl. Düsseldorf, 2003.GDVG.
-  
+
 * Bayern 2003: Gesetz über den öffentlichen Gesundheits- und Veterinärdienst, die Ernährung und den Verbraucherschutz sowie die Lebensmittelüberwachung (Gesundheitsdienst- und Verbraucherschutzgesetz), vom zuletzt durch § 1 Abs. 145 der Verordnung vom 26.03.2019 (GVBl. S. 98) geändert worden. Fundstelle: GVBl. S. 452, 752. Online verfügbar unter http://www.gesetze-bayern.de/Content/Document/BayGDVG/true, zuletzt geprüft am 30.04.2019.
-  
+
 * Eckert O, Vogel U (2018): Todesursachenstatistik und ICD, quo vadis? In: *Bundesgesundheitsbl.* 61 (7), S. 796–805. DOI: 10.1007/s00103-018-2756-5.
-  
+
 * Frank J P (1792): System einer vollständigen medizinischen Polizey. Berlin.Kuhn J, Ziese T (2012): Gesundheitsberichterstattung und ihre Indikatorensysteme. In: Schwartz
-  
+
 * F, Walter U, Siegrist J et al. (Hrsg.): Public Health. Gesundheit und Gesundheitswesen. 3. Aufl. München: Elsevier, S. 60–70.
-  
+
 * Lalonde M (1974): A new perspective on the health of Canadians. A working document. Ottawa, 1974.
-  
+
 * Mielck A (2005): Soziale Ungleichheit und Gesundheit. Einführung in die aktuelle Diskussion. Bern: Verlag Hans Huber.
-  
+
 * Starke D, Tempel G, Butler J, Starker A, Zühlke C, Borrmann B (2019): Gute Praxis Gesundheitsberichterstattung – Leitlinien und Empfehlungen 2.0. In: *Journal of Health Monitoring* 4 (S1), S. 1–22.
   
 * Thaiss H, Klein R, Schumann E C, Ellsässer G, Breitkopf H, Reinecke H, Zimmermann E (2010): Früherkennungsuntersuchungen als Instrument im Kinderschutz. Erste Erfahrungen der Länder bei der Implementation appellativer Verfahren. In: *Bundesgesundheitsbl.* 53 (10), S. 1029–1047. DOI: 10.1007/s00103-010-1134-8.
