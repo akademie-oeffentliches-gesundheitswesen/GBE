@@ -566,63 +566,31 @@ Health in All Policies (HiAP)
 
 ## 2.6. Literaturverzeichnis Kapitel 2. – Wozu GBE?
 
-* Böhme C, Reimann B (2018): Integrierte Strategien kommunaler
-Gesundheitsförderung. Rahmenbedingungen, Steuerung und Kooperation.
-Ergebnisse einer Akteursbefragung. Berlin, 2018. Online verfügbar unter
-https://repository.difu.de/jspui/handle/difu/249465, zuletzt geprüft am
-09.02.2022.
-* Brand H, Evans D (1998): Öffentlicher Gesundheitsdienst und
-Gesundheitsberichterstattung. In: Hamburger Projektgruppe
-Gesundheitsberichterstattung (Hrsg.): Praxishandbuch
-Gesundheitsberichterstattung. Ein Leitfaden für
-GesundheitsberichterstatterInnen und solche, die es werden wollen. 2.
-aktualisierte Aufl. Düsseldorf: Akademie für Öffentliches
-Gesundheitswesen (Schriftenreihe, Band 18), S. 25–34.
-* Brand H, Michelsen K (2007): Politikberatung durch Gesundheitsberichterstattung? In: *Das
-Gesundheitswesen* 69 (10), S. 527–533. DOI:
-10.1055/s-2007-992163.
-* Bucksch J, Claßen T, Budde S, Geuter G (2012):
-Bewegungs- und gesundheitsförderliche Kommune. Evidenzen und
-Handlungskonzept für die Kommunalentwicklung - ein Leitfaden.
-Bielefeld.
-* Claßen T (2020): Gesundheitsförderliche Stadtentwicklung. In:
-*Informationen zur Raumentwicklung* 47 (1), S. 4–17. Online verfügbar
-unter
-https://elibrary.steiner-verlag.de/article/99.105010/izr202001000401,
-zuletzt geprüft am 07.11.2021.
+* Böhme C, Reimann B (2018): Integrierte Strategien kommunaler Gesundheitsförderung. Rahmenbedingungen, Steuerung und Kooperation. Ergebnisse einer Akteursbefragung. Berlin, 2018. Online verfügbar unter https://repository.difu.de/jspui/handle/difu/249465, zuletzt geprüft am 09.02.2022.
+
+* Brand H, Evans D (1998): Öffentlicher Gesundheitsdienst und Gesundheitsberichterstattung. In: Hamburger Projektgruppe Gesundheitsberichterstattung (Hrsg.): Praxishandbuch Gesundheitsberichterstattung. Ein Leitfaden für GesundheitsberichterstatterInnen und solche, die es werden wollen. 2. aktualisierte Aufl. Düsseldorf: Akademie für Öffentliches Gesundheitswesen (Schriftenreihe, Band 18), S. 25–34.
+
+* Brand H, Michelsen K (2007): Politikberatung durch Gesundheitsberichterstattung? In: *DasGesundheitswesen* 69 (10), S. 527–533. DOI:10.1055/s-2007-992163.
+
+* Bucksch J, Claßen T, Budde S, Geuter G (2012):Bewegungs- und gesundheitsförderliche Kommune. Evidenzen undHandlungskonzept für die Kommunalentwicklung - ein Leitfaden.Bielefeld.
+
+* Claßen T (2020): Gesundheitsförderliche Stadtentwicklung. In:*Informationen zur Raumentwicklung* 47 (1), S. 4–17. Online verfügbarunterhttps://elibrary.steiner-verlag.de/article/99.105010/izr202001000401,zuletzt geprüft am 07.11.2021.
+
 * Dahlgren G, Whitehead M (1991): Policies and strategies to promote social equity in health. Background document to WHO-Strategy paper for Europe. Sweden: Institute for Future Studies, 1991. Online verfügbar unter https://ideas.repec.org/p/hhs/ifswps/2007\_014.html, zuletzt geprüft am 07.11.2021.
-* Dahlgren G, Whitehead M (2007): Policies and strategies to
-promote social equity in health. Background document to WHO – Strategy
-paper for Europe. 14. Aufl., 2007.
-* Geene R, Kurth B M, Matusall S (2020):
-Health in All Policies – Entwicklungen, Schwerpunkte und
-Umsetzungsstrategien für Deutschland. In: *Das Gesundheitswesen* 82 (7),
-e72-e76. DOI: 10.1055/a-1138-0389.Institute of Medicine (U.S.) (Hrsg.)
-(1988): The Future of Public Health. Institute of Medicine. 12. Aufl.
-Washington, D.C.: National Academy Press.
-* Kuhn J (2005):
-Gesundheitsberichterstattung als Staatsaufgabe. In: *prävention* (2), S.
-57–63.
-* Kurth B M (2006): Epidemiologie und Gesundheitspolitik. In:
-*Bundesgesundheitsbl.* 49, S. 637–647. DOI:
-10.1007/s00103-006-1291-y.
-* Marmot M (2010): Fair Society Healthy Lives.
-The Marmot Review: Executive Summary. London, 2010.Rosenbrock R (1995):
-Public Health als Soziale Innovation. In: *Das Gesundheitswesen* 57 (3),
-S. 140–144.
-* Rosenbrock R (2001): Was ist New Public Health? In:
-*Bundesgesundheitsbl.* 44 (8), S. 753–762. DOI:
-10.1007/s001030100231.
-* Rushmer R, Ward V, Nguyen T, Kuchenmüller T
-(2019): Knowledge Translation: Key Concepts, Terms and Activities. In:
-Verschuuren M und van Oers H (Hrsg.): Population Health Monitoring.
-Cham: Springer International Publishing, S. 127–150.
-* Starke D, Tempel G,
-Butler J, Starker A, Zühlke C, Borrmann B (2019): Gute Praxis
-Gesundheitsberichterstattung – Leitlinien und Empfehlungen 2.0. In:
-*Journal of Health Monitoring* 4 (S1), S. 1–22.
-* Verschuuren M, van Oers H
-(Hrsg.) (2019): Population Health Monitoring. Cham: Springer
-International Publishing.WHO (1986): Ottawa-Charter for Health
-Promotion. In: WHO (Hrsg.). First international Conference on Health
-Promotion. Ottawa, 21.11.1986: World Health Organization.
+
+* Dahlgren G, Whitehead M (2007): Policies and strategies topromote social equity in health. Background document to WHO – Strategypaper for Europe. 14. Aufl., 2007.
+
+* Geene R, Kurth B M, Matusall S (2020):Health in All Policies – Entwicklungen, Schwerpunkte undUmsetzungsstrategien für Deutschland. In: *Das Gesundheitswesen* 82 (7),e72-e76. DOI: 10.1055/a-1138-0389.Institute of Medicine (U.S.) (Hrsg.)(1988): The Future of Public Health. Institute of Medicine. 12. Aufl.Washington, D.C.: National Academy Press.
+
+* Kuhn J (2005):Gesundheitsberichterstattung als Staatsaufgabe. In: *prävention* (2), S.57–63.* Kurth B M (2006): Epidemiologie und Gesundheitspolitik. In:*Bundesgesundheitsbl.* 49, S. 637–647. DOI:10.1007/s00103-006-1291-y.
+
+* Marmot M (2010): Fair Society Healthy Lives.The Marmot Review: Executive Summary. London, 2010.Rosenbrock R (1995):Public Health als Soziale Innovation. In: *Das Gesundheitswesen* 57 (3),S. 140–144.
+
+* Rosenbrock R (2001): Was ist New Public Health? In:*Bundesgesundheitsbl.* 44 (8), S. 753–762. DOI:10.1007/s001030100231.
+
+* Rushmer R, Ward V, Nguyen T, Kuchenmüller T(2019): Knowledge Translation: Key Concepts, Terms and Activities. In:Verschuuren M und van Oers H (Hrsg.): Population Health Monitoring.Cham: Springer International Publishing, S. 127–150.
+
+* Starke D, Tempel G,Butler J, Starker A, Zühlke C, Borrmann B (2019): Gute PraxisGesundheitsberichterstattung – Leitlinien und Empfehlungen 2.0. In:*Journal of Health Monitoring* 4 (S1), S. 1–22.
+
+* Verschuuren M, van Oers H(Hrsg.) (2019): Population Health Monitoring. Cham: SpringerInternational Publishing.WHO (1986): Ottawa-Charter for HealthPromotion. In: WHO (Hrsg.). First international Conference on HealthPromotion. Ottawa, 21.11.1986: World Health Organization.
+
