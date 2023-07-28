@@ -30,7 +30,7 @@ Veränderungen im Krankheitsspektrum, demografischer Wandel, Klimawandel und die
 Gesundheitsberichterstattung gibt nicht nur einen Überblick über die gesundheitliche Lage der Bevölkerung, sie dient auch explizit der Analyse von Problemlagen und dem Aufzeigen von Handlungsbedarfen und im Idealfall von Handlungsoptionen (Starke et al. 2019). In den letzten 35 Jahren hat sich die GBE damit zu einem zentralen Element gesundheitspolitischer Entscheidungen sowie zu einer wesentlichen Grundlage für partizipative Prozesse entwickelt (Brand, Michelsen 2007). Auf Bundes-, Landes- und kommunaler Ebene dient die GBE als Instrument der wissenschaftlichen Politikberatung und ist wichtige Ausgangsbasis für die Gesundheitsplanung (siehe auch [Kapitel 7]({{ site.baseurl }}{% link 07-Planung.md %})). Dieses umfangreiche Aufgaben- und Funktionsprofil wird häufig anhand des gesundheitspolitischen Planungsmodells der Public Health Trias (Institute of Medicine (U.S.) 1988) bzw. dem darauf basierenden Public Health Action Cycle (PHAC) beschrieben (Rosenbrock 1995) und ist in Abbildung 3 dargestellt.
 
 <figure>
-  <img src="./media/AOE-2520-Booksprints-03.png" alt="Abbildung 3: Public Health Action Cycle" style="width:90%">
+  <img src="./media/GBE_ABB_03.png" alt="Abbildung 3: Public Health Action Cycle" style="width:90%">
   <figcaption>Abbildung 3: Public Health Action Cycle (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine (U.S.) 1988)
 </figcaption>
 </figure> 
@@ -74,7 +74,7 @@ Diese Parabel ist gut geeignet, um die engen Ursache-Wirkungs-Beziehungen von Ge
 Bevor Maßnahmen passgenau auf die zugrunde liegenden Ursachen abgestimmt werden können, müssen diejenigen Mechanismen verstanden werden, die zu den gesundheitlichen oder sozialen Ungleichheiten führen. Ein erster hilfreicher Schritt ist hierbei, sich zunächst einen Überblick über die vielfältigen Determinanten von Gesundheit zu verschaffen. Hierzu bietet sich das von Dahlgren und Whitehead (1991) entwickelte **Regenbogenmodell** zur Beschreibung von Gesundheitsdeterminanten an. Das Modell führt beispielhaft vielfältige Faktoren auf, die sich wechselseitig beeinflussen und auf den Menschen gesundheitsförderlich, aber auch gesundheitsschädlich einwirken können (siehe Abbildung 4).
 
 <figure>
-  <img src="./media/AOE-2520-Booksprints-18.png" alt="Determinanten für Gesundheit „Regenbogenmodell" style="width:90%">
+  <img src="./media/GBE_ABB_04.png" alt="Determinanten für Gesundheit „Regenbogenmodell" style="width:90%">
   <figcaption>Abbildung 4: Determinanten für Gesundheit – Regenbogenmodell (eigene Darstellung nach Dahlgren, Whitehead 1991)</figcaption>
 </figure> 
 
