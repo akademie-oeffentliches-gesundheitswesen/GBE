@@ -19,7 +19,7 @@ nav_order: 5
 > Ich hab’ echt nie verstanden, was an GBE schwer sein soll. Ein paar Daten zusammenrühren, schön bunt machen, ein bisschen texten und raus damit. Hab ja auch noch andere Aufgaben.“ 
 
 <figure>
-<img src="./media/AOE-2520-Booksprints_Anzeige.png" alt="Abbildung 7: Stellenausschreibung einer GBE-Stelle" style="width:90%"> 
+<img src="./media/GBE_ABB_07.png" alt="Abbildung 7: Stellenausschreibung einer GBE-Stelle" style="width:90%"> 
 <figcaption>Abbildung 7: Stellenausschreibung einer GBE-Stelle</figcaption> 
 </figure> 
 
@@ -28,7 +28,7 @@ Diese Stellenbeschreibung ist natürlich bewusst überspitzt formuliert. Dennoch
 ## 4.1. Datengrundlagen der Gesundheitsberichterstattung
 
 <figure>
-<img src="./media/AOE-2520-Booksprints-11.png" alt="Abbildung 8: Datenbasis der GBE " style="width:90%">
+<img src="./media/GBE_ABB_08" alt="Abbildung 8: Datenbasis der GBE " style="width:90%">
 <figcaption>Abbildung 8: Datenbasis der GBE in der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ Die jeweiligen Stärken beider Ansätze lassen sich innerhalb von **Mixed-Method
 Daten sprechen nicht für sich allein und müssen entsprechend transformiert sowie aufbereitet werden, um als Planungsgrundlage für (gesundheits-)politische Entscheidungen zu dienen. In der GBE greift man hierzu vielfach auf (Gesundheits-)Indikatoren zurück. Möchte man beispielsweise die Sterblichkeit infolge von Herz-Kreislauf-Erkrankungen in einer bestimmten Region auswerten, könnte sich hierfür die Anzahl der Herz-Kreislauf-Todesfälle je 100.000 Einwohner und Einwohnerinnen in einem bestimmten Zeitraum als Indikator eignen. Indikatoren sind Maßzahlen, die durch die Angabe einer oder mehrerer Bezugseinheiten gekennzeichnet sind und deren Berechnung standardisiert ist, um Vergleiche zu ermöglichen. Häufig werden Indikatoren nach verschiedenen bevölkerungsbezogenen, räumlichen oder auch zeitlichen Bezugseinheiten variiert (Hamburger Projektgruppe Gesundheitsberichterstattung 1998). Diese Kontextualisierung von Daten und Indikatoren stellt somit die Informationsbasis der Gesundheitsberichterstattung dar, wie in der nachfolgenden Abbildung veranschaulicht: 
 
 <figure>
-<img src="./media/AOE-2520-Booksprints-10.png" alt="Abbildung 9: Informationen als Routineaufgaben" style="width:90%">
+<img src="./media/GBE_ABB_09.png" alt="Abbildung 9: Informationen als Routineaufgaben" style="width:90%">
 <figcaption>Abbildung 9: Informationen als Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)</figcaption>
 </figure> 
 
@@ -126,7 +126,7 @@ Auf Bundesebene wurde vom RKI eine Fachzeitschrift für Gesundheitsberichterstat
 Die Berichterstellung gehört zu der Wissensebene der Informationspyramide. Diese Ebene gliedert sich weiter auf in inhaltliche Aspekte, den Prozess der Berichterstellung (siehe [Kapitel 6]({{ site.baseurl }}{% link 06-VernetzunginderGBE.md %})) und die Vermarktung des Berichts (siehe Abschnitt 4.3.1.). Eine gute fachliche Orientierung für die Erstellung von Gesundheitsberichten liefert die Kriterienliste im Anhang der Publikation **„Gute Praxis Gesundheitsberichterstattung 2.0“**. Damit können Berichte bezüglich ihrer Vollständigkeit und der Beachtung aller relevanten Aspekte überprüft werden (Starke et al. 2019). 
 
 <figure>
-<img src="./media/AOE-2520-Booksprints-08.png" alt="Abbildung 10: Die Wissensebene der Informationspyramide" style="width:90%">
+<img src="./media/GBE_ABB_10.png" alt="Abbildung 10: Die Wissensebene der Informationspyramide" style="width:90%">
 <figcaption>Abbildung 10: Die Wissensebene der Informationspyramide bündelt relevante Aspekte der Berichterstellung in der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)</figcaption>
 </figure> 
 
