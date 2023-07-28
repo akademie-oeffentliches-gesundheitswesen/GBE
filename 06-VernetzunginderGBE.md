@@ -20,8 +20,9 @@ nav_order: 7
 ## 6.1. Vernetzung der verschiedenen Ebenen von Gesundheitsberichterstattung
 
 Gesundheitsberichterstattung auf kommunaler, Länder- und Bundesebene hat unterschiedliche Schwerpunkte, jedoch steht bei allen die Information zur Verbesserung der Gesundheit im Vordergrund. Daher ist es wichtig, dass die unterschiedlichen Ebenen sowohl horizontal (innerhalb der Kommune und zwischen Kommunen) als auch vertikal (etwa die Zusammenarbeit von Länder- und Bundes-GBE) zusammenarbeiten. Zu dieser Zusammenarbeit gehören vor allem die Harmonisierung der Datenquellen und Indikatoren sowie die gemeinsame Definition von Verfahren. Daneben ist eine gemeinsame thematische Schwerpunktsetzung oder die Zusammenarbeit bei der Berichterstellung denkbar. Innerhalb der GBE-Informationspyramide liegt hierbei ein besonderes Augenmerk auf dem Prozess der Wissensgenerierung, wie in Abbildung 12 dargestellt. 
+
 <figure>
-<img src="./media/AOE-2520-Booksprints-09.png" alt="Abbildung 12: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit" style="width:90%">
+<img src="./media/GBE_ABB_12.png" alt="Abbildung 12: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit" style="width:90%">
 <figcaption>Abbildung 12: Prozess der Wissensgenerierung in der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren und van Oers 2019 (Verschuuren, van Oers 2019))</figcaption>
 </figure>
 
@@ -113,7 +114,7 @@ Dazu gehören unter anderem:
 
 * Gremien wie Kreistag, Stadtrat, Gemeinderat, Ortschaftsrat
 
- Die Einbindung der politischen Leitungsebene ist ohnehin notwendig, weil ein Gesundheitsbericht in der Regel nicht vom GBE-Team veröffentlicht wird, sondern vom Landratsamt oder der Stadt. Die politische Leitung muss den Bericht also vertreten. Hinzu kommt, dass Partnerinnen und Partner für die Verbreitung eines Berichts gebraucht werden. Die Wahrnehmung der Berichterstattung hängt ganz entscheidend davon ab, wie gut der Weg vorher bereitet wurde. Im schlimmsten Fall kann es passieren, dass ein Bericht in der Schublade verschwindet oder sich niemand imstande sieht, sich der Themen anzunehmen bzw. Verantwortung zu übernehmen. Die zeitliche Komponente ist ebenfalls entscheidend: Sitzungstermine der Gremien, Haushaltsberatungen, (Kommunal-)Wahlen, Ausnahmesituationen (Corona, Migrationsdynamik etc.), Sommerpause oder Sommerloch sollten immer bedacht werden. Neben dem Interesse spielen dabei auch die Kompetenzen der Adressaten und Adressatinnen eine wesentliche Rolle.
+Die Einbindung der politischen Leitungsebene ist ohnehin notwendig, weil ein Gesundheitsbericht in der Regel nicht vom GBE-Team veröffentlicht wird, sondern vom Landratsamt oder der Stadt. Die politische Leitung muss den Bericht also vertreten. Hinzu kommt, dass Partnerinnen und Partner für die Verbreitung eines Berichts gebraucht werden. Die Wahrnehmung der Berichterstattung hängt ganz entscheidend davon ab, wie gut der Weg vorher bereitet wurde. Im schlimmsten Fall kann es passieren, dass ein Bericht in der Schublade verschwindet oder sich niemand imstande sieht, sich der Themen anzunehmen bzw. Verantwortung zu übernehmen. Die zeitliche Komponente ist ebenfalls entscheidend: Sitzungstermine der Gremien, Haushaltsberatungen, (Kommunal-)Wahlen, Ausnahmesituationen (Corona, Migrationsdynamik etc.), Sommerpause oder Sommerloch sollten immer bedacht werden. Neben dem Interesse spielen dabei auch die Kompetenzen der Adressaten und Adressatinnen eine wesentliche Rolle.
 
 ## 6.3. Kompetenzentwicklung innerhalb des Netzwerkes (Capacity Building)
 
