@@ -84,7 +84,7 @@ Der Fachplan Gesundheit ist methodisch stark an andere, seit Langem zum Teil auc
 Um diesem Anspruch gerecht zu werden, ist eine gut aufgestellte GBE zur (integrierten) Bestandsanalyse, Bedarfs- und Bedürfnisbestimmung und letztlich als Monitoringinstrument während und nach der Maßnahmenumsetzung extrem hilfreich (vgl. Abbildung 16).
 
 <figure>
-<img src="./media/AOE-2520-Booksprints-12.png" alt="Abbildung 16: Komponenten bei der Entwicklung eines Fachplans Gesundheit" style="width:90%">
+<img src="./media/GBE_ABB_16.png" alt="Abbildung 16: Komponenten bei der Entwicklung eines Fachplans Gesundheit" style="width:90%">
 <figcaption>Abbildung 16: Komponenten bei der Entwicklung eines Fachplans Gesundheit (eigene Darstellung)</figcaption>
 </figure>
 
