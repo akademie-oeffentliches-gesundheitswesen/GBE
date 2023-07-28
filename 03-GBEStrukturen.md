@@ -20,7 +20,7 @@ nav_order: 4
 Der Öffentliche Gesundheitsdienst ist deutschlandweit auf den Ebenen von Bund, Bundesländern und Kommunen organisiert, in einigen Bundesländern kommen auf der Ebene zwischen Land und Kommune noch die Regierungspräsidien hinzu ([Abbildung 5](#informationen)). GBE findet vor allem auf den erstgenannten drei Ebenen statt, dies jedoch in unterschiedlicher Intensität. Die Aufgaben und Strukturen des ÖGD sind weitestgehend föderal geregelt, das heißt, für die kommunale GBE sind landesgesetzliche Regelungen in Form der Gesundheitsdienstgesetze (GDG) der Länder maßgeblich (siehe Exkurs: Rechtliche Rahmenbedingungen). Für die kommunale GBE sind die übergeordneten Ebenen von Bund und Land zum Beispiel als Datenhalter, für die Datenaufbereitung und für fachliche Unterstützungsleistungen durch Landesoberbehörden, wie etwa Landesgesundheitsämter, von Bedeutung. 
 
 <figure>
-  <img src="./media/AOE-2520-Booksprints-15.png" alt="Abbildung 3: Public Health Action Cycle" style="width:90%">
+  <img src="./media/GBE_ABB_05.png" alt="Abbildung 3: Public Health Action Cycle" style="width:90%">
   <figcaption>Abbildung 5: Zusammenspiel von Bund, Land und Kommune (eigene Abbildung)</figcaption>
 </figure> 
 
@@ -37,7 +37,7 @@ Auf der Ebene der Kommunalverwaltung ist der ÖGD zum weit überwiegenden Teil i
 Für die GBE als gesundheitspolitisches Steuerungsinstrument sind diese Gebietskörperschaften relevant, da Vielzahl und Komplexität der zu berücksichtigenden politischen Entscheidungsebenen auch den für die GBE wesentlichen Prozessen mehr Komplexität verleihen. Gegenüber Städten gilt es schon in Landkreisen deutlich mehr politische Akteure und Akteurinnen zu berücksichtigen. Der höchste Komplexitätsgrad herrscht, wenn ein ÖGD für mehrere Kreise zuständig ist, da die Kommunalpolitik mehrerer Kreise bzw. Städte und dazu meist eine Vielzahl an Gemeindeverwaltungen zu berücksichtigen sind. Innerhalb der Kommunalverwaltung ist die GBE als Aufgabe des ÖGD meist im Gesundheitsamt bzw. Fachbereich Gesundheit oder ähnlichen Bereichen angesiedelt. Der ÖGD wiederum ist meist einem mehrere Ämter umfassenden Dezernat oder einer Abteilung zugeordnet, wie auch in Abbildung 6 veranschaulicht.
 
 <figure>
-  <img src="./media/AOE-2520-Booksprints-04.png" alt="Abbildung 6: Rahmenbedingungen" style="width:90%">
+  <img src="./media/GBE_ABB_06.png" alt="Abbildung 6: Rahmenbedingungen" style="width:90%">
   <figcaption>Abbildung 6: Rahmenbedingungen und zu berücksichtigende Institutionen, Dezernate und Akteursgruppen für die Realisierung einer erfolgreichen kommunalen Koordinationsaufgabe des ÖGD, dargestellt an einer kommunalen Gesundheitskonferenz in einer beispielhaften Verwaltungsstruktur (erweiterte Darstellung nach Szagun et al. 2016)</figcaption>
 </figure> 
 
@@ -84,7 +84,7 @@ Akteure und Akteurinnen im Gesundheitswesen, der Gesundheitswissenschaft sowie D
 
 <figure>
 <figcaption>Tabelle 2: Verankerung von Gesundheitsberichterstattung in den Gesundheitsdienstgesetzen der Länder (eigene Analyse, Stand 02/2020), publiziert in: (Rosenkötter et al. 2020))</figcaption>
-<img src="./media/Tabelle_2.png" style="width:8.29931in;height:5.06111in" />
+<img src="./media/GBE_TAB_02.png" style="width:8.29931in;height:5.06111in" />
 </figure>
 
 ## 3.4. Weiterführende Informationen
