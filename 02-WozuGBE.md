@@ -21,7 +21,7 @@ Veränderungen im Krankheitsspektrum, demografischer Wandel, Klimawandel und die
 
 <figure>
   <img src="./media/AOE-2520-Booksprints-06.png" alt="Routineaufgaben der GBE anhand der Informationspyramide" style="width:90%">
-  <figcaption>Abbildung 3: „Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)
+  <figcaption>Abbildung 2: „Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)
 </figcaption>
 </figure> 
 
