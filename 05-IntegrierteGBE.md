@@ -23,7 +23,7 @@ Die Chance auf ein gesundes Leben ist eng mit sozialstrukturellen Faktoren verbu
 
 <figure>
 <img src="./media/GBE_ABB_11" alt="Abbildung 11: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit" style="width:90%">
-<figcaption>Abbildung 11: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit (eigene Darstellung nach Elkeles, Mielck 1997) </figcaption>
+<figcaption>Abbildung 11: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit (eigene Darstellung nach Elkeles, Mielck 1997) © Marion Burbulla</figcaption>
 </figure> 
 
 ## 5.2. Integrierte Berichterstattung 
