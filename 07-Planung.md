@@ -21,7 +21,7 @@ Die GBE ist kein Selbstzweck, sondern sie verfolgt das Ziel, so gesicherte und �
 
 <figure>
 <img src="./media/GBE_ABB_13.png" alt="Abbildung 13: Rolle der Gesundheitsplanung im Public Health Action Cycle" style="width:90%">
-<figcaption>Abbildung 13: Rolle der Gesundheitsplanung im Public Health Action Cycle (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine 1988)</figcaption>
+<figcaption>Abbildung 13: Rolle der Gesundheitsplanung im Public Health Action Cycle (eigene Darstellung nach Rosenbrock 1995 und Institute of Medicine 1988) © Marion Burbulla</figcaption>
 </figure>
 
 Der erste Teil dieses Kapitels widmet sich der Gesundheitsplanung im engeren Sinne, das heißt der federführend durch den ÖGD durchgeführten Planung, wie sie in einigen Bundesländern auch gesetzlich in den Gesundheitsdienstgesetzen (GDG) der Länder verankert ist. Im zweiten Teil nimmt dieses Kapitel auch Planungsprozesse in den Blick, die anderen Ressorts obliegen und durch die GBE unterstützt oder erweitert werden können, und erläutert dies am Beispiel der Stadtplanung.
@@ -46,7 +46,7 @@ Für den Aufbau einer Gesundheitsplanung ist es wichtig, möglichst gute Kenntni
 
 <figure>
 <img src="./media/GBE_ABB_14.png" alt="Abbildung 14: Ausrichtung und Themenfindung der Gesundheitsplanung" style="width:90%">
-<figcaption>Abbildung 14: Ausrichtung und Themenfindung der Gesundheitsplanung entstehen im Aushandlungsprozess zwischen den unterschiedlichen Perspektiven von Expertinnen und Experten, Bürgerinnen und Bürgern und der wissenschaftlichen Datenlage (erweitert nach Roller 2010)</figcaption>
+<figcaption>Abbildung 14: Ausrichtung und Themenfindung der Gesundheitsplanung entstehen im Aushandlungsprozess zwischen den unterschiedlichen Perspektiven von Expertinnen und Experten, Bürgerinnen und Bürgern und der wissenschaftlichen Datenlage (erweitert nach Roller 2010) © Marion Burbulla </figcaption>
 </figure>
 
 **Form des Berichtswesens:** GBE ist zwar in allen GDG der Länder verankert, sie wird aber nicht überall durchgeführt, und die Aufgabe ist kaum durch klare Vorgaben präzisiert. Nicht selten führt die Etablierung einer kommunalen Gesundheitsplanung im zweiten Schritt zur Intensivierung der GBE, da die vage thematische Zuständigkeit der Planungsgremien dadurch erheblich an rationaler Legitimation gewinnt. Sinnvoll ist häufig ein Zusammenspiel sowohl fachlicher als auch politischer Gremien und GBE, indem Berichtsimpulse aus den Gremien aufgenommen und Berichte wiederum zum Beispiel an die Gesundheitskonferenz, den Stadtrat oder Landkreistag adressiert werden. Abhängig von der Zusammensetzung der Gremien ist es dennoch sinnvoll, sich in der GBE Freiheitsgrade zu erhalten, um auch anderweitige Impulse geben zu können. In diesem Zusammenhang wird seit einigen Jahren auch – analog zu anderen kommunalen Fachplanungen – die Etablierung des Fachplans Gesundheit als ein integriertes, prozess- und maßnahmenorientiertes kommunales Planungsinstrument diskutiert (Claßen, Mekel 2020), worauf in [Kapitel 8]({{ site.baseurl }}{% link 08-WowilldieGBEhin.md %}) noch genauer eingegangen wird. 
@@ -67,7 +67,7 @@ Entsprechend gilt es für den nachhaltigen Betrieb einer Gesundheitskonferenz, v
 
 <figure>
 <img src="./media/GBE_ABB_15.png" alt="Abbildung 15: Einflussgrößen auf die Relevanz einer kommunalen Gesundheitskonferenz" style="width:90%">
-<figcaption>Abbildung 15: Einflussgrößen auf die Relevanz einer kommunalen Gesundheitskonferenz als Planungsgremium mit begrenzter Zuständigkeit</figcaption>
+<figcaption>Abbildung 15: Einflussgrößen auf die Relevanz einer kommunalen Gesundheitskonferenz als Planungsgremium mit begrenzter Zuständigkeit © Marion Burbulla</figcaption>
 </figure>
 
 Auch in den Fällen, in denen die GBE nicht als planungsvorbereitendes Instrument im Mittelpunkt steht, liefert sie wichtige Informationen für übergreifende Planungen, zum Beispiel im Rahmen der Kommunal- und Quartiersentwicklung oder der Umwelt-, Sozial- und Jugendhilfeplanung (siehe auch [Kapitel 5]({{ site.baseurl }}{% link 05-IntegrierteGBE.md %})). Um sich adäquat in diese Planungen einbringen zu können, sollten Gesundheitsberichterstatterinnen und Gesundheitsberichterstatter die bestehenden Planungskontexte, -ziele, -strukturen und -ebenen nicht nur im Blick haben, sondern auch entsprechend zu bewerten wissen.
@@ -96,7 +96,7 @@ Zudem wird zunehmend auf das grundgesetzlich verbriefte Recht aller Kommunen in 
 
 > „..grundsätzlich Aufgabe der Kommunen, einen gesundheitsförderlichen Entwicklungsprozess anzustoßen, zu koordinieren und zu leiten. In diesen sind immer auch andere verantwortliche Akteure einzubinden.“ GKV-Spitzenverband 2018, S. 31) 
 
-Zusammenfassend kann man festhalten: Wenn Kommunen eine **gesundheitsförderliche Stadtentwicklung** vorantreiben möchten, sind einige Grundprinzipien dringend zu bedenken (LZG.NRW 2019). So braucht es 
+Zusammenfassend kann man festhalten: Wenn Kommunen eine **gesundheitsförderliche Stadtentwicklung** in urbanen Räumen, Gemeinden und anderen Verbünden vorantreiben möchten, sind einige Grundprinzipien dringend zu bedenken (LZG.NRW 2019). So braucht es 
 
 * das **Bewusstsein**, dass die Auswirkungen von Planungsaktivitäten auf Mensch und Umwelt im Zentrum umfassender Betrachtungen und Interventionen stehen müssen, da jede Maßnahme letztendlich gesundheitsbedeutsam ist. Dabei stellt sich die grundsätzliche Frage, wie sich Strategien, Planungen und die Umsetzung konkreter Maßnahmen auf das Wohlbefinden, die Gesundheit und die Lebensqualität von Individuen und Bevölkerungsgruppen auswirken; 
 
