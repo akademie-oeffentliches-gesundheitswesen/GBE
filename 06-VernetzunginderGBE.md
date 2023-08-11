@@ -23,7 +23,7 @@ Gesundheitsberichterstattung auf kommunaler, Länder- und Bundesebene hat unters
 
 <figure>
 <img src="./media/GBE_ABB_12.png" alt="Abbildung 12: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit" style="width:90%">
-<figcaption>Abbildung 12: Prozess der Wissensgenerierung in der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren und van Oers 2019 (Verschuuren, van Oers 2019))</figcaption>
+<figcaption>Abbildung 12: Prozess der Wissensgenerierung in der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren und van Oers 2019 (Verschuuren, van Oers 2019)) © Marion Burbulla</figcaption>
 </figure>
 
 ## 6.2. GBE als Teil eines Netzwerkes
