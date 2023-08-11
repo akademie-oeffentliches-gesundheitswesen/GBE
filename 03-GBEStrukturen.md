@@ -21,7 +21,7 @@ Der Öffentliche Gesundheitsdienst ist deutschlandweit auf den Ebenen von Bund, 
 
 <figure>
   <img src="./media/GBE_ABB_05.png" alt="Abbildung 3: Public Health Action Cycle" style="width:90%">
-  <figcaption>Abbildung 5: Zusammenspiel von Bund, Land und Kommune (eigene Abbildung)</figcaption>
+  <figcaption>Abbildung 5: Zusammenspiel von Bund, Land und Kommune (eigene Abbildung) © Marion Burbulla</figcaption>
 </figure> 
 
 ## 3.1. Kommunale Ebene
@@ -38,7 +38,7 @@ Für die GBE als gesundheitspolitisches Steuerungsinstrument sind diese Gebietsk
 
 <figure>
   <img src="./media/GBE_ABB_06.png" alt="Abbildung 6: Rahmenbedingungen" style="width:90%">
-  <figcaption>Abbildung 6: Rahmenbedingungen und zu berücksichtigende Institutionen, Dezernate und Akteursgruppen für die Realisierung einer erfolgreichen kommunalen Koordinationsaufgabe des ÖGD, dargestellt an einer kommunalen Gesundheitskonferenz in einer beispielhaften Verwaltungsstruktur (erweiterte Darstellung nach Szagun et al. 2016)</figcaption>
+  <figcaption>Abbildung 6: Rahmenbedingungen und zu berücksichtigende Institutionen, Dezernate und Akteursgruppen für die Realisierung einer erfolgreichen kommunalen Koordinationsaufgabe des ÖGD, dargestellt an einer kommunalen Gesundheitskonferenz in einer beispielhaften Verwaltungsstruktur (erweiterte Darstellung nach Szagun et al. 2016)© Marion Burbulla</figcaption>
 </figure> 
 
 Den unterschiedlichen Dezernaten oder Abteilungen steht die kommunale Spitze vor, das heißt Landrätin oder Landrat bzw. Oberbürgermeisterin oder Oberbürgermeister. Gleichzeitig gilt es zu berücksichtigen, dass Landkreis oder Stadt auch politische Einheiten darstellen und kommunalpolitische Entscheidungen zum Beispiel bezüglich Ressourcen von den gewählten Vertretern und Vertreterinnen des Kreistags oder städtischen Parlaments getroffen werden. Den einzelnen Dezernaten oder Abteilungen sind meist spezifische Unterausschüsse des Kreistags oder Stadtparlaments (Stadtrates) zugeordnet, in denen fachliche Fragen erörtert werden. Auch der ÖGD und die GBE sind meist einem solchen politischen Fachausschuss zugeordnet und bringen ihre spezifischen Belange dort ein, etwa einen Gesundheitsbericht.
@@ -83,7 +83,7 @@ Akteure und Akteurinnen im Gesundheitswesen, der Gesundheitswissenschaft sowie D
 </table>
 
 <figure>
-<figcaption>Tabelle 2: Verankerung von Gesundheitsberichterstattung in den Gesundheitsdienstgesetzen der Länder (eigene Analyse, Stand 02/2020), publiziert in: (Rosenkötter et al. 2020))</figcaption>
+<figcaption>Tabelle 2: Verankerung von Gesundheitsberichterstattung in den Gesundheitsdienstgesetzen der Länder (eigene Analyse, Stand 02/2020), publiziert in: (Rosenkötter et al. 2020)) © Marion Burbulla</figcaption>
 <img src="./media/GBE_TAB_02.png" style="width:8.29931in;height:5.06111in" />
 </figure>
 
