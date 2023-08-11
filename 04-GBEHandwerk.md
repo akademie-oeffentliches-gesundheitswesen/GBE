@@ -20,7 +20,7 @@ nav_order: 5
 
 <figure>
 <img src="./media/GBE_ABB_07.png" alt="Abbildung 7: Stellenausschreibung einer GBE-Stelle" style="width:90%"> 
-<figcaption>Abbildung 7: Stellenausschreibung einer GBE-Stelle</figcaption> 
+<figcaption>Abbildung 7: Stellenausschreibung einer GBE-Stelle © Marion Burbulla</figcaption> 
 </figure> 
 
 Diese Stellenbeschreibung ist natürlich bewusst überspitzt formuliert. Dennoch enthält sie viele Körnchen Wahrheit, denn als Gesundheitsberichterstatter und Gesundheitsberichterstatterin kommt man sich tatsächlich manchmal vor wie die berühmte eierlegende Wollmilchsau. GBE erfordert viele Fähigkeiten, die oftmals im Widerspruch zueinander stehen und auch im Studium nicht immer vermittelt werden (können). Um nicht zwischen Widersprüchen und Ansprüchen zerrieben zu werden, gibt es Handwerkszeug für eine gute GBE. Das folgende Kapitel soll hier einen ersten Einblick geben. 
@@ -29,7 +29,7 @@ Diese Stellenbeschreibung ist natürlich bewusst überspitzt formuliert. Dennoch
 
 <figure>
 <img src="./media/GBE_ABB_08" alt="Abbildung 8: Datenbasis der GBE " style="width:90%">
-<figcaption>Abbildung 8: Datenbasis der GBE in der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)</figcaption>
+<figcaption>Abbildung 8: Datenbasis der GBE in der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019) © Marion Burbulla</figcaption>
 </figure>
 
 Gesundheitsberichterstattung arbeitet zumeist mit sogenannten **Sekundärdaten**. Als Sekundärdaten bezeichnet man Daten, die in anderen Zusammenhängen entstanden bzw. die für andere Zwecke erhoben worden sind. Beispiele sind amtliche Statistiken wie Bevölkerungsstatistiken, die Todesursachenstatistik oder die obligatorischen Statistiken der Gesetzlichen Krankenversicherung (KV 45, KJ 1, KM 1, weitere Informationen unter: [<span class="underline">Link</span>](https://www.gkv-spitzenverband.de/service/zahlen_und_grafiken/gkv_kennzahlen/gkv_kennzahlen.jsp)) und der Krankenhäuser. Zu den für die GBE nutzbaren Sekundärdaten zählen auch Registerdaten (zum Beispiel Krebsregister, Herzinfarktregister) sowie Routinedaten und prozessgenerierte Daten. Routinedaten bzw. prozessgenerierte Daten sind Informationen, die Behörden, Organisationen und Unternehmen im Zuge ihrer Aktivitäten erheben. Bekannte Beispiele sind die Daten aus den Schuleingangsuntersuchungen der Gesundheitsämter oder die gemäß dem Infektionsschutzgesetz (IfSG) erhobenen Informationen. Auch die Daten der Sozialversicherungen und der Kassenärztlichen Vereinigungen können für die Gesundheitsberichterstattung von Bedeutung sein. Weitere Datenquellen für die Gesundheitsberichterstattung sind wissenschaftliche Studien, beispielsweise die Studie zur Gesundheit von Kindern und Jugendlichen in Deutschland (KiGGS), die häufig als sogenannte Public-Use-Files zur Verfügung stehen (Weiteres hierzu auch in [Kapitel 6]({{ site.baseurl }}{% link 06-VernetzunginderGBE.md %})). Public-Use-Files sind Daten, die von verschiedenen Instituten der Forschungsinfrastruktur für öffentliche und/oder wissenschaftliche Zwecke zur Verfügung gestellt werden. Sie können für eigene statistische Auswertungen genutzt werden, um zu neuen, für den Berichtsgegenstand relevanten Erkenntnissen zu gelangen.
@@ -72,7 +72,7 @@ Daten sprechen nicht für sich allein und müssen entsprechend transformiert sow
 
 <figure>
 <img src="./media/GBE_ABB_09.png" alt="Abbildung 9: Informationen als Routineaufgaben" style="width:90%">
-<figcaption>Abbildung 9: Informationen als Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)</figcaption>
+<figcaption>Abbildung 9: Informationen als Routineaufgaben der GBE anhand der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019) © Marion Burbulla</figcaption>
 </figure> 
 
 Oft dienen Indikatoren als Marker für die gesundheitliche Lage, Ressourcen und Leistungen im Gesundheitswesen und ermöglichen auf diese Weise ein kontinuierliches Monitoring von Programmen, Zielen und Maßnahmen (AOLG 2003). Dabei liefern Indikatoren ein Maximum an Informationsverdichtung zu einem bestimmten Interessensgebiet und umfassen häufig auch Interessensbereiche für (politische) Maßnahmen oder dienen der (politischen) Zielsetzung. Ein Beispiel: Ein kommunales Gesundheitsziel zielt darauf ab, den prozentualen Anteil jugendlicher Raucherinnen und Raucher auf weniger als 20 % zu reduzieren. Indikatoren sollten dies auf möglichst effiziente Weise darstellen, das heißt eine möglichst einfache Darstellung liefern (Kramers 2005, zit. nach Verschuuren et al. 2014). Traditionell wird hierzu auf numerische Darstellungsformen zurückgegriffen, in den letzten Jahren finden aber auch zunehmend visuelle Aufbereitungen Anklang. 
@@ -107,7 +107,7 @@ Traditionell wird in der GBE zwischen Basis- und Spezialberichten unterschieden.
 
 Zu den Produkten der GBE können jedoch nicht nur Berichte gezählt werden. Zur Produktpalette der GBE gehören auch regelmäßig gepflegte und online zur Verfügung gestellte Indikatorensysteme, Metadaten, Grafiken und interaktive Gesundheitsatlasangebote oder Dashboards (zum Beispiel das [<span class="underline">Sozialmonitoring Stuttgart</span>](about:blank)).
 
-Auch das eigentliche Berichtsformat kann nicht mehr nur als klassischer Printbericht verstanden werden: Kurzberichte, Factsheets, online dargestellte, erläuterte und zum Teil auch gestaltbare Inhalte, spezielle Aufbereitungen wie Policy Briefs, Präsentationen für Fachausschüsse, Stellungnahmen etc. weisen Eigenschaften der Berichterstattung auf, indem sie faktenbasiert die gesundheitliche Lage darstellen. 
+Auch das eigentliche Berichtsformat kann nicht mehr nur als klassischer Printbericht verstanden werden: Kurzberichte, Factsheets, online dargestellte, erläuterte und zum Teil auch gestaltbare Inhalte, spezielle Aufbereitungen wie Policy Briefs (prägnante Zusammenfassungen, oft mit eigenständigen Analysen und Handlungsempfehlungen), Präsentationen für Fachausschüsse, Stellungnahmen etc. weisen Eigenschaften der Berichterstattung auf, indem sie faktenbasiert die gesundheitliche Lage darstellen. 
 
 Je nach Ressourcenverfügbarkeit und kommunalem Kontext sind weitere Formate denkbar, die die Berichterstattung ergänzen können. Hierzu zählen Blogs, Storytelling-Ansätze, Infografiken, Erklärvideos oder animierte Grafiken (zum Beispiel GIFs) zur Vermittlung von Inhalten über Social-Media-Kanäle. Im Rahmen der britischen Anual Report Competition können unter den platzierten Berichten häufig Formate gefunden werden, die mit diesen Formaten experimentieren ([<span class="underline">www.adph.org.uk</span>](https://www.adph.org.uk/our-work/about-dph-annual-report-competition/)). 
 
@@ -127,7 +127,7 @@ Die Berichterstellung gehört zu der Wissensebene der Informationspyramide. Dies
 
 <figure>
 <img src="./media/GBE_ABB_10.png" alt="Abbildung 10: Die Wissensebene der Informationspyramide" style="width:90%">
-<figcaption>Abbildung 10: Die Wissensebene der Informationspyramide bündelt relevante Aspekte der Berichterstellung in der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019)</figcaption>
+<figcaption>Abbildung 10: Die Wissensebene der Informationspyramide bündelt relevante Aspekte der Berichterstellung in der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019) © Marion Burbulla</figcaption>
 </figure> 
 
 Die inhaltliche Zusammenstellung des Berichts sollte begleitet sein durch Diskussionen und Überlegungen zur sprachlichen Gestaltung, zur Erzählung (Storyline) des Berichts, dem Zweck, den der Bericht erfüllen soll, dem Umgang mit datenbasierten Unsicherheiten und Limitationen sowie dem Neuigkeitsgehalt des Berichts. Einige dieser Aspekte werden im Folgenden kurz skizziert.
@@ -182,7 +182,7 @@ Der Impact der GBE hängt auch davon ab, ob alle wesentlichen Aspekte, die den I
 
 ### 4.3.1. „Vermarktung“ der GBE – Pressearbeit und Kommunikation
 
-Die Vermarktungsstrategie der Produkte der GBE kann anhand der sieben Marketingkriterien (7 Ps) von Boom und Bitner entwickelt werden (zit. nach van Bon-Martens et al. 2019). Für die GBE sind allerdings nur sechs der sieben Kriterien relevant, das siebte Kriterium, der Preis, spielt in der GBE in der Regel keine Rolle, da die Produkte üblicherweise kostenfrei zur Verfügung stehen. Im Folgenden werden die sechs Kriterien benannt und beispielhaft Fragen gelistet, die für die Entwicklung einer Vermarktungsstrategie relevant sein können:
+Auch wenn die GBE kein Produkt im klassischen Sinne ist, muss sie doch in ähnlicher Weise verbreitet und bekannt gemacht werden, um wirksam zu sein. Die Vermarktungsstrategie kann anhand der sieben Marketingkriterien (7 Ps) von Boom und Bitner entwickelt werden (zit. nach van Bon-Martens et al. 2019). Für die GBE sind allerdings nur sechs der sieben Kriterien relevant, das siebte Kriterium, der Preis, spielt in der GBE in der Regel keine Rolle, da die Produkte üblicherweise kostenfrei zur Verfügung stehen. Im Folgenden werden die sechs Kriterien benannt und beispielhaft Fragen gelistet, die für die Entwicklung einer Vermarktungsstrategie relevant sein können:
 
 * **Produkte (Products):** Wäre es sinnvoll, Ihren Bericht durch andere Produkte wie kurze Videos oder Infografiken zu ergänzen oder eine spezifische Zusammenfassung für politische Entscheidungsträger, andere Interessengruppen oder eine Laienversion Ihres Berichts zu entwickeln? Haben Sie Veröffentlichungen anderer Organisationen angesehen? Gibt es – was das Erscheinungsbild und das Layout betrifft – etwas Inspirierendes für Sie, das Ihren Bericht ansprechender und moderner macht?
 
