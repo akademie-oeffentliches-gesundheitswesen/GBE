@@ -105,7 +105,7 @@ GBE auf Bundesebene
 
 Rechtliche Hintergründe der GBE
 
-* Kuhn. J (2007): Die historische Entwicklung der kommunalen Gesundheitsberichterstattung. Eine Forschungslücke. In: Das Gesundheitswesen 69 (10), S. 507–513. DOI: 10.1055/s-2007-992160.
+* Kuhn, J (2007): Die historische Entwicklung der kommunalen Gesundheitsberichterstattung. Eine Forschungslücke. In: Das Gesundheitswesen 69 (10), S. 507–513. DOI: 10.1055/s-2007-992160.
 
 * Rosenkötter, N; Borrmann, B; Arnold, L; Böhm, A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z. 
 
