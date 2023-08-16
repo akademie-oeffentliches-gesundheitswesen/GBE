@@ -92,48 +92,51 @@ Dabei ist die GBE jedoch kein Selbstzweck, sondern verfolgt das klare Ziel, so g
 
 Geschichte der Gesundheitsberichterstattung
 
-* Kuhn J (2007): Die historische Entwicklung der kommunalen Gesundheitsberichterstattung – Eine Forschungslücke. Das Gesundheitswesen 69:507–513. <span class="underline">https://doi.org/10.1055  /s-2007-992160</span>
-
-* Pieper A (2003): Johann Peter Frank. Vom Arzt zum Gesundheitspolitiker – Eine europäische Karriere zwischen Aufklärung, Revolution und Reaktion. In: Deutsches Ärzteblatt 100, S. 28–29.
+* Kuhn, J (2007): Die historische Entwicklung der kommunalen Gesundheitsberichterstattung. Eine Forschungslücke. Das Gesundheitswesen 69, S. 507–513. https://doi.org/10.1055/s-2007-992160
+  
+* Pieper, A (2003): Johann Peter Frank. Vom Arzt zum Gesundheitspolitiker. Eine europäische Karriere zwischen Aufklärung, Revolution und Reaktion. In: Deutsches Ärzteblatt 100, S. 28–29.
 
 Ethik und Verantwortung:
 
-* Schröder-Bäck P, Kuhn J (Hrsg.) (2016): Ethik in den Gesundheitswissenschaften – Eine Einführung. Weinheim: Beltz (Grundlagentexte Gesundheitwissenschaften).
+*	Schröder-Bäck, P; Kuhn, J (Hg.) (2016): Ethik in den Gesundheitswissenschaften. Eine Einführung. Weinheim: Beltz (Grundlagentexte Gesundheitwissenschaften).
 
-* Leitlinie 1 (Ethik), in: Gute Praxis GBE.2.0.
+*	Leitlinie 1 (Ethik). In: Gute Praxis GBE.2.0.
 
 Grundlagen der Gesundheitsberichterstattung
 
-* Hamburger Projektgruppe Gesundheitsberichterstattung (1998): Ein Leitfaden für GesundheitsberichterstatterInnen und solche, die es werden wollen. Edition Praxishandbuch Gesundheitsberichterstattung, Akademie für Öffentliches Gesundheitswesen, Düsseldorf.
+*	Hamburger Projektgruppe Gesundheitsberichterstattung (1998): Ein Leitfaden für GesundheitsberichterstatterInnen und solche, die es werden wollen. Edition Praxishandbuch Gesundheitsberichterstattung. Akademie für Öffentliches Gesundheitswesen. Düsseldorf.
 
-* LGL (2014): Epidemiologie und Gesundheitsberichterstattung. Begriffe, Methoden, Beispiele. Edition Handlungshilfe: GBE-Praxis 2, Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit, Erlangen.
+*	LGL (2014): Epidemiologie und Gesundheitsberichterstattung. Begriffe, Methoden, Beispiele. Edition Handlungshilfe: GBE-Praxis 2. Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit. Erlangen.
 
-* LGL (2011): Gesundheitsberichterstattung für die Landkreise und kreisfreien Städte Bayerns. Edition Handlungshilfe: GBE-Praxis 1, Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit, Erlangen.
+*	LGL (2011): Gesundheitsberichterstattung für die Landkreise und kreisfreien Städte Bayerns. Edition Handlungshilfe: GBE-Praxis 1. Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit. Erlangen.
 
-* Rosenkötter N, Borrmann B, Arnold L, Böhm A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z.
+*	Rosenkötter, N; Borrmann, B; Arnold, L; Böhm, A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z. 
 
-* Starke D, Tempel G, Butler J, Starker A, Zühlke C, Borrmann B (2019): Gute Praxis Gesundheitsberichterstattung – Leitlinien und Empfehlungen 2.0. In: Journal of Health Monitoring 4 (S1), S. 1–22.
+*	Starke, D; Tempel G; Butler J; Starker A; Zühlke C; Borrmann B (2019): Gute Praxis Gesundheitsberichterstattung. Leitlinien und Empfehlungen 2.0. In: Journal of Health Monitoring 4 (S1), S. 1–22.
 
-* Verschuuren M, van Oers H (Hrsg., 2019): *Population Health Monitoring*. Springer International Publishing, Cham.
+*	Verschuuren, M; van Oers, H (Hg.) (2019): Population Health Monitoring. Cham: Springer International Publishing.
 
 ## 1.5 Literaturverzeichnis Kapitel 1. – Was ist GBE?
 
-* Ackoff R (1989): From data to wisdom. In: *Journal of Applied Systems Analysis* 16, S. 3–9.AOLG (2003): Indikatorensatz für die Gesundheitsberichterstattung der Länder. Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden. 3. Aufl. Düsseldorf, 2003.GDVG.
+*	Ackoff, R (1989): From data to wisdom. In: Journal of Applied Systems Analysis 16, S. 3–9.
 
-* Bayern 2003: Gesetz über den öffentlichen Gesundheits- und Veterinärdienst, die Ernährung und den Verbraucherschutz sowie die Lebensmittelüberwachung (Gesundheitsdienst- und Verbraucherschutzgesetz), vom zuletzt durch § 1 Abs. 145 der Verordnung vom 26.03.2019 (GVBl. S. 98) geändert worden. Fundstelle: GVBl. S. 452, 752. Online verfügbar unter http://www.gesetze-bayern.de/Content/Document/BayGDVG/true, zuletzt geprüft am 30.04.2019.
+*	AOLG (2003): Indikatorensatz für die Gesundheitsberichterstattung der Länder. Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden. 3. Aufl. Hg. v. Ministerium für Gesundheit, Soziales, Frauen und Familie des Landes Nordrhein-Westfalen. Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden (AOLG). Düsseldorf.
 
-* Eckert O, Vogel U (2018): Todesursachenstatistik und ICD, quo vadis? In: *Bundesgesundheitsbl.* 61 (7), S. 796–805. DOI: 10.1007/s00103-018-2756-5.
-
-* Frank J P (1792): System einer vollständigen medizinischen Polizey. Berlin.Kuhn J, Ziese T (2012): Gesundheitsberichterstattung und ihre Indikatorensysteme. In: Schwartz
-
-* F, Walter U, Siegrist J et al. (Hrsg.): Public Health. Gesundheit und Gesundheitswesen. 3. Aufl. München: Elsevier, S. 60–70.
-
-* Lalonde M (1974): A new perspective on the health of Canadians. A working document. Ottawa, 1974.
-
-* Mielck A (2005): Soziale Ungleichheit und Gesundheit. Einführung in die aktuelle Diskussion. Bern: Verlag Hans Huber.
-
-* Starke D, Tempel G, Butler J, Starker A, Zühlke C, Borrmann B (2019): Gute Praxis Gesundheitsberichterstattung – Leitlinien und Empfehlungen 2.0. In: *Journal of Health Monitoring* 4 (S1), S. 1–22.
+*	Bayern (2003): Gesetz über den öffentlichen Gesundheits- und Veterinärdienst, die Ernährung und den Verbraucherschutz sowie die Lebensmittelüberwachung (Gesundheitsdienst- und Verbraucherschutzgesetz). GDVG, vom zuletzt durch § 1 Abs. 145 der Verordnung vom 26.03.2019 (GVBl. S. 98) geändert worden. Fundstelle: GVBl. S. 452, 752. Online verfügbar unter http://www.gesetze-bayern.de/Content/Document/BayGDVG/true, zuletzt geprüft am 15.08.2023.
   
-* Thaiss H, Klein R, Schumann E C, Ellsässer G, Breitkopf H, Reinecke H, Zimmermann E (2010): Früherkennungsuntersuchungen als Instrument im Kinderschutz. Erste Erfahrungen der Länder bei der Implementation appellativer Verfahren. In: *Bundesgesundheitsbl.* 53 (10), S. 1029–1047. DOI: 10.1007/s00103-010-1134-8.
-  
-* Verschuuren M, van Oers H (Hrsg.) (2019): Population Health Monitoring. Cham: Springer International Publishing.
+*	Eckert, O; Vogel, U (2018): Todesursachenstatistik und ICD, quo vadis? In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 61 (7), S. 796–805. DOI: 10.1007/s00103-018-2756-5.
+
+*	Frank, J P (1792): System einer vollständigen medizinischen Polizey. Berlin.
+
+*	Kuhn, J; Ziese, T (2012): Gesundheitsberichterstattung und ihre Indikatorensysteme. In: Schwartz, F W; Walter, U; Siegrist, J; Kolip, P; Leidl, R; Dierks, M-L et al. (Hg.): Public Health. Gesundheit und Gesundheitswesen. 3. Aufl. München: Elsevier, S. 60–70.
+
+*	Lalonde, M (1974): A new perspective on the health of Canadians. A working document. Hg. v. Government of Canada. Ottawa.
+
+*	Mielck, A (2005): Soziale Ungleichheit und Gesundheit. Einführung in die aktuelle Diskussion. Bern: Verlag Hans Huber.
+
+*	Starke, D; Tempel, G; Butler, J; Starker, A; Zühlke, C; Borrmann, B (2019): Gute Praxis Gesundheitsberichterstattung – Leitlinien und Empfehlungen 2.0. In: Journal of Health Monitoring 4 (S1), S. 1–22.
+
+*	Thaiss, H; Klein, R; Schumann, E C; Ellsässer, G; Breitkopf, H; Reinecke, H; Zimmermann, E (2010): Früherkennungsuntersuchungen als Instrument im Kinderschutz. Erste Erfahrungen der Länder bei der Implementation appellativer Verfahren. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 53 (10), S. 1029–1047. DOI: 10.1007/s00103-010-1134-8.
+
+*	Verschuuren, M; van Oers, H (Hg.) (2019): Population Health Monitoring. Cham: Springer International Publishing.
+
