@@ -89,34 +89,34 @@ Akteure und Akteurinnen im Gesundheitswesen, der Gesundheitswissenschaft sowie D
 
 ## 3.4. Weiterführende Informationen
 
-GBE auf kommunaler und Landesebene
+GBE auf kommunaler und Landesebene 
 
-* Jacob R, Michels H (2000): Regionale und kommunale Gesundheitsberichterstattung. In: Bundesgesundheitsbl. 43 (8), S. 615–623.
+* Jacob, R; Michels, H (2000): Regionale und kommunale Gesundheitsberichterstattung. In: Bundesgesundheitsbl. 43 (8), S. 615–623. DOI: https://doi.org/10.1007/s001030070021.
 
-* Rosenkötter N, Borrmann B, Arnold L, Böhm A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z.
+* Rosenkötter, N; Borrmann, B; Arnold, L; Böhm, A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z. 
 
-* Stockmann S, Kuhn J, Zirngibl A, Mansmann U (2008): Kommunale Gesundheitsberichterstattung in Deutschland: eine empirische Erhebung. In: Das Gesundheitswesen 70 (11), S. 679–683. DOI: 10.1055/s-0028-1100402.
+* Stockmann, S; Kuhn, J; Zirngibl, A; Mansmann, U (2008): Kommunale Gesundheitsberichterstattung in Deutschland: eine empirische Erhebung. In: Das Gesundheitswesen 70 (11), S. 679–683. DOI: 10.1055/s-0028-1100402. 
 
 GBE auf Bundesebene
 
-* Kurth B-M, Ziese T, Tiemann F (2005): Gesundheitsmonitoring auf Bundesebene. In: Bundesgesundheitsbl. 48 (3), S. 261–272. DOI: 10.1007/s00103-004-1001-6.
+* Kurth, B-M; Ziese, T; Tiemann, F (2005): Gesundheitsmonitoring auf Bundesebene. In: Bundesgesundheitsbl. 48 (3), S. 261–272. DOI: 10.1007/s00103-004-1001-6. 
 
-* Kurth B-M, Lange C, Kamtsiuris P, Hölling H (2009): Gesundheitsmonitoring am Robert Koch-Institut. Sachstand und Perspektiven. In: Bundesgesundheitsbl. 52 (5), S. 557–570. DOI: 10.1007/s00103-009-0843-3.
+* Kurth, B-M; Lange, C; Kamtsiuris, P; Hölling, H (2009): Gesundheitsmonitoring am Robert Koch-Institut. Sachstand und Perspektiven. In: Bundesgesundheitsbl. 52 (5), S. 557–570. DOI: 10.1007/s00103-009-0843-3. 
 
 Rechtliche Hintergründe der GBE
 
-* Kuhn J (2007): Die historische Entwicklung der kommunalen Gesundheitsberichterstattung – Eine Forschungslücke. In: Das Gesundheitswesen 69 (10), S. 507–513. DOI: 10.1055/s-2007-992160.
+* Kuhn. J (2007): Die historische Entwicklung der kommunalen Gesundheitsberichterstattung. Eine Forschungslücke. In: Das Gesundheitswesen 69 (10), S. 507–513. DOI: 10.1055/s-2007-992160.
 
-* Rosenkötter N, Borrmann B, Arnold L, Böhm A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z.
+* Rosenkötter, N; Borrmann, B; Arnold, L; Böhm, A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z. 
 
 ## 3.5. Literaturverzeichnis Kapitel 3. – GBE-Strukturen
 
-* Albrich C, Brandeis B, Erb J et al. (2017): Handlungsempfehlung für den Aufbau einer Gesundheitsplanung im Öffentlichen Gesundheitsdienst. Ergebnisse eines Pilotvorhabens in Baden-Württemberg. Stuttgart, 2017.
+* Albrich, C; Brandeis, B; Erb, J; Hellmann, V; Wallus, L; Firsching, M et al. (2017): Handlungsempfehlung für den Aufbau einer Gesundheitsplanung im Öffentlichen Gesundheitsdienst. Ergebnisse eines Pilotvorhabens in Baden-Württemberg. Hg. v. Ministerium für Soziales und Integration Baden-Württemberg. Landesgesundheitsamt Baden-Württemberg. Stuttgart.
 
-* Lampert T, Horch K, List S (2010): Gesundheitsberichterstattung des Bundes: Ziele, Aufgaben und Nutzungsmöglichkeiten. Berlin, 2010 (1). Online verfügbar unter www.rki.de/gbe-kompakt.
+* Lampert, T; Horch, K; List, S (2010): Gesundheitsberichterstattung des Bundes: Ziele, Aufgaben und Nutzungsmöglichkeiten. Berlin (GBE Kompakt, 1). Online verfügbar unter www.rki.de/gbe-kompakt, zuletzt geprüft am 15.08.2023.
 
-* Rosenkötter N, Borrmann B, Arnold L, Böhm A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: *Bundesgesundheitsbl.* 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z.
+* Rosenkötter, N; Borrmann, B; Arnold, L; Böhm, A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z.
 
-* Szagun B, Kuhn J, Starke D (2016): Kommunale Gesundheitsförderungspolitik und das Präventionsgesetz. In: *Präv Gesundheitsf* 11 (4), S. 265–270. DOI: 10.1007/s11553-016-0563-0.
+* Szagun, B; Kuhn, J; Starke, D (2016): Kommunale Gesundheitsförderungspolitik und das Präventionsgesetz. In: Präv Gesundheitsf 11 (4), S. 265–270. DOI: 10.1007/s11553-016-0563-0.
 
-* Ziese T (2000): Beginn der Routinephase. In: *Bundesgesundheitsbl.* 43 (8), S. 600–604. DOI: 10.1007/s001030070018.
+* Ziese, T (2000): Beginn der Routinephase. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 43 (8), S. 600–604. DOI: 10.1007/s001030070018.
