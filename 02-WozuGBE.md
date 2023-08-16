@@ -153,63 +153,73 @@ Wichtig für das Selbstverständnis der meist akademisch-wissenschaftlich geprä
 
 GBE und Politik
 
-* Borrmann B, Rosenkötter N (2014): Steuerungspotenziale des ÖGD – Gesundheitsberichterstattung. In: *Public Health Forum* 22 (4), S. 183. DOI: 10.1016/j.phf.2014.09.002.
+* Borrmann, B; Rosenkötter, N (2014): Steuerungspotenziale des ÖGD. Gesundheitsberichterstattung. In: Public Health Forum 22 (4), S. 183. DOI: 10.1016/j.phf.2014.09.002.
 
-* Brand H, Michelsen K (2007): Politikberatung durch Gesundheitsberichterstattung? In: *Das Gesundheitswesen* 69 (10), S. 527–533. DOI: 10.1055/s-2007-992163.
+* Brand, H; Michelsen, K (2007): Politikberatung durch Gesundheitsberichterstattung? In: Das Gesundheitswesen 69 (10), S. 527–533. DOI: 10.1055/s-2007-992163.
 
-* Kuhn J, Busch R (Hrsg., 2006): Gesundheit zwischen Statistik und Politik. Beiträge zur politischen Relevanz der Gesundheitsberichterstattung. Mabuse-Verlag, Frankfurt am Main.
+* Kuhn, J; Busch, R (Hg.) (2006): Gesundheit zwischen Statistik und Politik. Beiträge zur politischen Relevanz der Gesundheitsberichterstattung. Frankfurt am Main: Mabuse-Verlag.
 
-* Kurth BM (2006): Epidemiologie und Gesundheitspolitik. In: *Bundesgesundheitsbl.* 49, S. 637–647. DOI: 10.1007/s00103-006-1291-y.
+* Kurth, BM (2006): Epidemiologie und Gesundheitspolitik. In: Bundesgesundheitsbl. 49, S. 637–647. DOI: 10.1007/s00103-006-1291-y.
 
 Determinanten von Gesundheit
 
-* Dahlgren G, Whitehead M (2007): Policies and strategies to promote social equity in health – Background document to WHO – Strategy paper for Europe. 14. Aufl., 2007.
+* Dahlgren, G; Whitehead, M (2007): Policies and strategies to promote social equity in health. Background document to WHO – Strategy paper for Europe. 14. Aufl., 2007.
 
-* Marmot M (2010): Fair Society Healthy Lives – The Marmot Review: Executive Summary. London, 2010.
+* Marmot, M (2010): Fair Society Healthy Lives. The Marmot Review: Executive Summary. London, 2010.
 
-* Marmot M G (2005): Social determinants of health inequalities. In: *The Lancet* 365, S. 1099–1104.
+* Marmot, M G (2005): Social determinants of health inequalities. In: The Lancet 365, S. 1099–1104.
 
-* WHO Europe (2003): The solid facts – Social determinants of health. 2nd ed. Copenhagen, 2003.
+* WHO Europe (2003): The solid facts. Social determinants of health. 2nd ed. Copenhagen, 2003.
 
 GBE und Planung
 
-* Feldhoff K H, Groschopp C, Blank K, Ziemer, B. (2001): Kommunale Gesundheitsberichterstattung als Instrument zur Weiterentwicklung von Handlungsempfehlungen auf kommunaler Ebene. In: *Das Gesundheitswesen* 63, S. 61–65.
+* Feldhoff, K H; Groschopp, C; Blank, K; Ziemer, B (2001): Kommunale Gesundheitsberichterstattung als Instrument zur Weiterentwicklung von Handlungsempfehlungen auf kommunaler Ebene. In: Das Gesundheitswesen 63, S. 61–65.
 
-* Szagun B, Wasel W (2006): Kommunale Gesundheitsplanung zwischen WHO-Konzept, gesetzlichem Auftrag und struktureller Rationierung. In: *Gesundheits- und Sozialpolitik* (7–8), S. 51–56.
+* Szagun, B; Wasel, W (2006): Kommunale Gesundheitsplanung zwischen WHO-Konzept, gesetzlichem Auftrag und struktureller Rationierung. In: Gesundheits- und Sozialpolitik 7–8, S. 51–56.
+
 
 Health in All Policies (HiAP)
 
-* Böhm K et al. (Hrsg.) (2020): Gesundheit als gesamtgesellschaftliche Aufgabe – Das Konzept Health in All Policies und seine Umsetzung in Deutschland. 1st ed. 2020. Wiesbaden: Springer Fachmedien Wiesbaden; Imprint: Springer VS.
+* Böhm, K et al. (Hg.) (2020): Gesundheit als gesamtgesellschaftliche Aufgabe. Das Konzept Health in All Policies und seine Umsetzung in Deutschland. 1st ed. 2020. Wiesbaden: Springer Fachmedien Wiesbaden. Imprint: Springer VS.
 
-* WHO (2013): The Helsinki Statement on Health in All Policies. Helsinki, 10.06.2013. Online verfügbar unter https://www.who.int/healthpromotion/conferences/8gchp/en/, zuletzt geprüft am 10.10.2019.
+* WHO (2013): The Helsinki Statement on Health in All Policies. Helsinki, 10.06.2013.
 
 ## 2.6. Literaturverzeichnis Kapitel 2. – Wozu GBE?
 
-* Böhme C, Reimann B (2018): Integrierte Strategien kommunaler Gesundheitsförderung. Rahmenbedingungen, Steuerung und Kooperation. Ergebnisse einer Akteursbefragung. Berlin, 2018. Online verfügbar unter https://repository.difu.de/jspui/handle/difu/249465, zuletzt geprüft am 09.02.2022.
+* Böhme, C; Reimann, B (2018): Integrierte Strategien kommunaler Gesundheitsförderung. Rahmenbedingungen, Steuerung und Kooperation. Ergebnisse einer Akteursbefragung. Hg. v. Deutsches Institut für Urbanistik. Berlin. Online verfügbar unter https://repository.difu.de/jspui/handle/difu/249465, zuletzt geprüft am 15.08.2023.
 
-* Brand H, Evans D (1998): Öffentlicher Gesundheitsdienst und Gesundheitsberichterstattung. In: Hamburger Projektgruppe Gesundheitsberichterstattung (Hrsg.): Praxishandbuch Gesundheitsberichterstattung. Ein Leitfaden für GesundheitsberichterstatterInnen und solche, die es werden wollen. 2. aktualisierte Aufl. Düsseldorf: Akademie für Öffentliches Gesundheitswesen (Schriftenreihe, Band 18), S. 25–34.
+* Brand, H; Evans, D (1998): Öffentlicher Gesundheitsdienst und Gesundheitsberichterstattung. In: Hamburger Projektgruppe Gesundheitsberichterstattung (Hg.): Praxishandbuch Gesundheitsberichterstattung. Ein Leitfaden für GesundheitsberichterstatterInnen und solche, die es werden wollen. 2. aktualisierte Aufl. Düsseldorf: Akademie für Öffentliches Gesundheitswesen (Schriftenreihe, Band 18), S. 25–34.
 
-* Brand H, Michelsen K (2007): Politikberatung durch Gesundheitsberichterstattung? In: *Das Gesundheitswesen* 69 (10), S. 527–533. DOI:10.1055/s-2007-992163.
+* Brand, H; Michelsen, K (2007): Politikberatung durch Gesundheitsberichterstattung? In: Das Gesundheitswesen 69 (10), S. 527–533. DOI: 10.1055/s-2007-992163.
 
-* Bucksch J, Claßen T, Budde S, Geuter G (2012):Bewegungs- und gesundheitsförderliche Kommune. Evidenzen undHandlungskonzept für die Kommunalentwicklung – ein Leitfaden.Bielefeld.
+* Bucksch, J; Claßen, T; Budde, S; Geuter, G (2012): Bewegungs- und gesundheitsförderliche Kommune. Evidenzen und Handlungskonzept für die Kommunalentwicklung – ein Leitfaden. Bielefeld.
 
-* Claßen T (2020): Gesundheitsförderliche Stadtentwicklung. In: *Informationen zur Raumentwicklung* 47 (1), S. 4–17. Online verfügbar unter https://elibrary.steiner-verlag.de/article/99.105010/izr202001000401,zuletzt geprüft am 07.11.2021.
+* Claßen, T (2020): Gesundheitsförderliche Stadtentwicklung. In: Informationen zur Raumentwicklung 47 (1), S. 4–17. Online verfügbar unter https://elibrary.steiner-verlag.de/article/99.105010/izr202001000401, zuletzt geprüft am 15.08.2023.
 
-* Dahlgren G, Whitehead M (1991): Policies and strategies to promote social equity in health. Background document to WHO-Strategy paper for Europe. Sweden: Institute for Future Studies, 1991. Online verfügbar unter https://ideas.repec.org/p/hhs/ifswps/2007\_014.html, zuletzt geprüft am 07.11.2021.
+* Dahlgren, G; Whitehead, M (1991): Policies and strategies to promote social equity in health. Background document to WHO-Strategy paper for Europe. Sweden: Institute for Future Studies. Online verfügbar unter https://ideas.repec.org/p/hhs/ifswps/2007_014.html, zuletzt geprüft am 15.08.2023.
 
-* Dahlgren G, Whitehead M (2007): Policies and strategies topromote social equity in health. Background document to WHO – Strategypaper for Europe. 14. Aufl., 2007.
+* Dahlgren, G; Whitehead, M (2007): Policies and strategies to promote social equity in health. Background document to WHO-Strategy paper for Europe. 14. Aufl. Hg. v. Institut for Futures Studies.
 
-* Geene R, Kurth B M, Matusall S (2020): Health in All Policies – Entwicklungen, Schwerpunkte und Umsetzungsstrategien für Deutschland. In: *Das Gesundheitswesen* 82 (7),e72-e76. DOI: 10.1055/a-1138-0389. Institute of Medicine (U.S.) (Hrsg.)(1988): The Future of Public Health. Institute of Medicine. 12. Aufl. Washington, D.C.: National Academy Press.
+* Geene, R; Kurth, B M; Matusall, S (2020): Health in All Policies – Entwicklungen, Schwerpunkte und Umsetzungsstrategien für Deutschland. In: Das Gesundheitswesen 82 (7), e72-e76. DOI: 10.1055/a-1138-0389.
 
-* Kuhn J (2005): Gesundheitsberichterstattung als Staatsaufgabe. In: *prävention* (2), S.57–63.* Kurth B M (2006): Epidemiologie und Gesundheitspolitik. In: *Bundesgesundheitsbl.* 49, S. 637–647. DOI:10.1007/s00103-006-1291-y.
+* Institute of Medicine U.S. (Hg.) (1988): The Future of Public Health. Institute of Medicine. 12. Aufl. Washington, D.C.: National Academy Press.
 
-* Marmot M (2010): Fair Society Healthy Lives. The Marmot Review: Executive Summary. London, 2010.Rosenbrock R (1995): Public Health als Soziale Innovation. In: *Das Gesundheitswesen* 57 (3),S. 140–144.
+* Kuhn, J (2005): Gesundheitsberichterstattung als Staatsaufgabe. In: prävention (2), S. 57–63.
 
-* Rosenbrock R (2001): Was ist New Public Health? In: *Bundesgesundheitsbl.* 44 (8), S. 753–762. DOI:10.1007/s001030100231.
+* Kurth, B M (2006): Epidemiologie und Gesundheitspolitik. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 49, S. 637–647. DOI: 10.1007/s00103-006-1291-y.
 
-* Rushmer R, Ward V, Nguyen T, Kuchenmüller T (2019): Knowledge Translation: Key Concepts, Terms and Activities. In: Verschuuren M und van Oers H (Hrsg.): Population Health Monitoring. Cham: Springer International Publishing, S. 127–150.
+* Marmot, M (2010): Fair Society Healthy Lives. The Marmot Review: Executive Summary. London (Strategic Review of Health Inequalities in England post-2010).
 
-* Starke D, Tempel G,Butler J, Starker A, Zühlke C, Borrmann B (2019): Gute Praxis Gesundheitsberichterstattung – Leitlinien und Empfehlungen 2.0. In: *Journal of Health Monitoring* 4 (S1), S. 1–22.
+* Rosenbrock, R (1995): Public Health als Soziale Innovation. In: Das Gesundheitswesen 57 (3), S. 140–144.
 
-* Verschuuren M, van Oers H(Hrsg.) (2019): Population Health Monitoring. Cham: Springer International Publishing.WHO (1986): Ottawa-Charter for Health Promotion. In: WHO (Hrsg.). First international Conference on Health Promotion. Ottawa, 21.11.1986: World Health Organization.
+* Rosenbrock, R (2001): Was ist New Public Health? In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 44 (8), S. 753–762. DOI: 10.1007/s001030100231.
+
+* Rushmer, R; Ward, V; Nguyen, T; Kuchenmüller, T (2019): Knowledge Translation: Key Concepts, Terms and Activities. In: van Oers, H; Verschuuren, M (Hg.): Population Health Monitoring. Climbing the Information Pyramid. Basel: Springer Cham, S. 127–150.
+
+* Starke, D; Tempel, G; Butler, J; Starker, A; Zühlke, C; Borrmann, B (2019): Gute Praxis Gesundheitsberichterstattung – Leitlinien und Empfehlungen 2.0. In: Journal of Health Monitoring 4 (S1), S. 1–22.
+
+* Verschuuren, M; van Oers, H (Hg.) (2019): Population Health Monitoring. Cham: Springer International Publishing.
+
+* WHO (1986): Ottawa-Charter for Health Promotion.
+
 
