@@ -210,66 +210,73 @@ Für Quereinsteiger und Quereinsteigerinnen in den Bereich der Berichterstattung
 
 Datengrundlage der GBE
 
-* Gothe H et al. (Hrsg.) (2014): Routinedaten im Gesundheitswesen – Handbuch Sekundärdatenanalyse: Grundlagen, Methoden und Perspektiven. 2., vollst. überarb. u. erw. Aufl. Bern: Verlag Hans Huber.
+* Gothe, H et al. (Hg.) (2014): Routinedaten im Gesundheitswesen. Handbuch Sekundärdatenanalyse: Grundlagen, Methoden und Perspektiven. 2., vollst. überarb. u. erw. Aufl. Bern: Verlag Hans Huber. 
 
-* LGL (2006): Datenquellen der Gesundheitsberichterstattung für die Landkreise und kreisfreien Städte Bayerns. Erlangen, 2006.
+* LGL (2006): Datenquellen der Gesundheitsberichterstattung für die Landkreise und kreisfreien Städte Bayerns. Erlangen.
 
-* Szagun B (2006): Kennwerte wählen. In: Reintjes R und Klein S (Hrsg.): Gesundheitsberichterstattung und Surveillance. Messen, Entscheiden und Handeln. Bern: Hans Huber.
+* Szagun, B (2006): Kennwerte wählen. In: Reintjes, R; Klein, S (Hg.): Gesundheitsberichterstattung und Surveillance. Messen, Entscheiden und Handeln. Bern: Hans Huber.
 
 Methodenkenntnisse in der GBE
 
-* Kuhn J, Wildner M (2019): Gesundheitsdaten verstehen – Statistiken lesen lernen – ein Einsteigerbuch. 2., vollständig überarbeitete und erweiterte Auflage. Bern: Hogrefe.
+* Kuhn, J; Wildner, M (2019): Gesundheitsdaten verstehen. Statistiken lesen lerne. Ein Einsteigerbuch. 2., vollständig überarbeitete und erweiterte Auflage. Bern: Hogrefe.
 
-* LGL (2008): Mediale Aspekte der Gesundheitsberichterstattung – Handlungshilfe. Erlangen, 2008.
+* LGL (2008): Mediale Aspekte der Gesundheitsberichterstattung. Handlungshilfe. Erlangen.
 
-* LGL (2011): Gesundheitsberichterstattung für die Landkreise und kreisfreien Städte Bayerns. Erlangen, 2011.
+* LGL (2011): Gesundheitsberichterstattung für die Landkreise und kreisfreien Städte Bayerns. Erlangen.
 
-* LGL (2014): Epidemiologie und Gesundheitsberichterstattung. Begriffe, Methoden, Beispiele. 2. Aufl. Erlangen, 2014.
+* LGL (2014): Epidemiologie und Gesundheitsberichterstattung. Begriffe, Methoden, Beispiele. 2. Aufl. Erlangen.
 
 GBE und Impact
 
-* Albrich C, Brandeis B, Erb J et al. (2017): Handlungsempfehlungen für den Aufbau einer Gesundheitsplanung im Öffentlichen Gesundheitsdienst – Ergebnisse eines Pilotvorhabens in Baden-Württemberg. Stuttgart, 2017.
+* Albrich, C; Brandeis, B; Erb, J et al. (2017): Handlungsempfehlungen für den Aufbau einer Gesundheitsplanung im Öffentlichen Gesundheitsdienst. Ergebnisse eines Pilotvorhabens in Baden-Württemberg. Stuttgart. 
 
-* LGL (2019): Von Daten zum Handlungsbedarf: Aufgreifkriterien für Daten aus der kommunalen Gesundheitsberichterstattung. Erlangen, 2019 (5).
+* LGL (2019): Von Daten zum Handlungsbedarf. Aufgreifkriterien für Daten aus der kommunalen Gesundheitsberichterstattung. Erlangen.
 
 ## 4.5. Literaturverzeichnis Kapitel 4. – GBE Handwerk
 
-* AOLG (2003): Indikatorensatz für die Gesundheitsberichterstattung der Länder. Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden. 3. Aufl. Düsseldorf, 2003.
+* AOLG (2003): Indikatorensatz für die Gesundheitsberichterstattung der Länder. Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden. 3. Aufl. Hg. v. Ministerium für Gesundheit, Soziales, Frauen und Familie des Landes Nordrhein-Westfalen. Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden (AOLG). Düsseldorf.
 
-* Augustin J, Kistemann T, Koller D, Lentz S, Maier W A, Moser J, Schweikart J (Hrsg.) (2017): Gute kartographische Praxis im Gesundheitswesen (GKPiG). Deutsche Gesellschaft für Geographie; Deutsche Gesellschaft für Epidemiologie; Leibniz-Institut für Länderkunde. Leipzig: Leibniz-Institut für Länderkunde (Forum IfL, Heft 32). Online verfügbar unter http://nbn-resolving.de/urn:nbn:de:0168-ssoar-52071-9.
+* Augustin, J; Kistemann, T; Koller, D; Lentz, S; Maier, W A; Moser, J; Schweikart, J (Hg.) (2017): Gute kartographische Praxis im Gesundheitswesen (GKPiG). Deutsche Gesellschaft für Geographie; Deutsche Gesellschaft für Epidemiologie; Leibniz-Institut für Länderkunde. Leipzig: Leibniz-Institut für Länderkunde (Forum IfL, Heft 32). Online verfügbar unter http://nbn-resolving.de/urn:nbn:de:0168-ssoar-52071-9, zuletzt geprüft am 15.08.2023.
 
-* Bardehle D, Annuss R, Hermann S, Ziese T, Böhm K (2004): Der neue Länderindikatorensatz für die Gesundheitsberichterstattung. In: *Bundesgesundheitsbl.* 47 (8), S. 762–770. DOI: 10.1007/s00103-004-0872-x.
+* Bardehle, D; Annuss, R; Hermann, S; Ziese, T; Böhm, K (2004): Der neue Länderindikatorensatz für die Gesundheitsberichterstattung. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 47 (8), S. 762–770. DOI: 10.1007/s00103-004-0872-x.
 
-* Blessing V, Davé A, Varnai P (2017): Evidence on mechanisms and tools for use of health information for decision-making. Copenhagen, 2017 (54).Cairo A (2016): The truthful art. Data, charts, and maps for communication. Place of publication not identified: New Riders. Online verfügbar unter http://proquest.tech.safaribooksonline.de/9780133440492.
+* Blessing, V; Davé, A; Varnai, P (2017): Evidence on mechanisms and tools for use of health information for decision-making. Hg. v. World Health Organization. Health Evidence Network (HEN). Copenhagen (Health Evidence Network (HEN) synthesis report, 54).
 
-* Cornelius-Taylor B, Brand H (2004): European public health reports between expectations and reality. In: *Italian Journal of Public Health (IJPH)*, S. 13–21. DOI: 10.2427/6137.
+* Cairo, A (2016): The truthful art. Data, charts, and maps for communication. Place of publication not identified: New Riders.
 
-* Diekmann A (2014): Empirische Sozialforschung. Grundlagen, Methoden, Anwendungen. 8. Aufl. Reinbek bei Hamburg: rowohlts enzyklopädie im Rowohlt Taschenbuch Verlag.
+* Cornelius-Taylor, B; Brand, H (2004): European public health reports between expectations and reality. In: Italian Journal of Public Health (IJPH), S. 13–21. DOI: 10.2427/6137.
 
-* Eckert O, Vogel U (2018): Todesursachenstatistik und ICD, quo vadis? In: *Bundesgesundheitsbl.* 61 (7), S. 796–805. DOI: 10.1007/s00103-018-2756-5.Few S (2012): Show me the numbers. Designing tables and graphs to enlighten. second edition. Burlingame, Calif.: Analytics Press.
+* Diekmann, A (2014): Empirische Sozialforschung. Grundlagen, Methoden, Anwendungen. 8. Aufl. Reinbek bei Hamburg: Rowohlt Taschenbuch Verlag.
 
-* Hamburger Projektgruppe Gesundheitsberichterstattung (Hrsg.) (1998): Praxishandbuch Gesundheitsberichterstattung. Ein Leitfaden für GesundheitsberichterstatterInnen und solche, die es werden wollen. 2. aktualisierte Aufl. Düsseldorf: Akademie für Öffentliches Gesundheitswesen (Schriftenreihe, Band 18).
+* Eckert, O; Vogel, U (2018): Todesursachenstatistik und ICD, quo vadis? In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 61 (7), S. 796–805. DOI: 10.1007/s00103-018-2756-5.
 
-* Institute of Medicine (U.S.) (Hrsg.) (1988): The Future of Public Health. Institute of Medicine. 12. Aufl. Washington, D.C.: National Academy Press.
+* Few, S (2012): Show me the numbers. Designing tables and graphs to enlighten. second edition. Burlingame, Calif.: Analytics Press.
 
-* Kurth B M, Lange C, Kamtsiuris P, Hölling H (2009): Gesundheitsmonitoring am Robert Koch-Institut. Sachstand und Perspektiven. In: *Bundesgesundheitsbl.* 52 (5), S. 557–570. DOI: 10.1007/s00103-009-0843-3.
+* Hamburger Projektgruppe Gesundheitsberichterstattung (Hg.) (1998): Praxishandbuch Gesundheitsberichterstattung. Ein Leitfaden für GesundheitsberichterstatterInnen und solche, die es werden wollen. 2. aktualisierte Aufl. Düsseldorf: Akademie für Öffentliches Gesundheitswesen (Schriftenreihe, Band 18).
 
-* Nussbaumer Knaflic C (2015): Storytelling with data. A data visualization guide for business professionals. Hoboken, New Jersey: John Wiley & Sons.
+* Institute of Medicine U.S. (Hg.) (1988): The Future of Public Health. Institute of Medicine. 12. Aufl. Washington, D.C.: National Academy Press.
 
-* RKI (2019): Studie zur Gesundheit älterer Menschen in Deutschland - Gesundheit 65+. Die Studie Gesundheit 65+ wird vom Bundesministerium für Gesundheit gefördert (Förderkennzeichen: ZMVI1-2518FSB410). Laufzeit: 01.01.2019 bis 30.06.2023. Hg. v. Robert Koch-Institut (RKI). Online verfügbar unter https://www.rki.de/DE/Content/Gesundheitsmonitoring/Studien/MonAge/MonAge\_node.html, zuletzt geprüft am 25.11.2021.
+* Kurth, B M; Lange, C; Kamtsiuris, P; Hölling, H (2009): Gesundheitsmonitoring am Robert Koch-Institut. Sachstand und Perspektiven. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 52 (5), S. 557–570. DOI: 10.1007/s00103-009-0843-3.
 
-* Rosenkötter N, Borrmann B, Arnold L, Böhm A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: *Bundesgesundheitsbl.* 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z.
+* Nussbaumer Knaflic, C (2015): Storytelling with data. A data visualization guide for business professionals. Hoboken, New Jersey: John Wiley & Sons.
 
-* Rothman K J, Greenland S, Lash T L (2008): Modern epidemiology. 3. ed. Philadelphia Pa. u.a.: Wolters Kluwer \[u.a.\].
+* RKI (2019): Studie zur Gesundheit älterer Menschen in Deutschland - Gesundheit 65+. Die Studie Gesundheit 65+ wird vom Bundesministerium für Gesundheit gefördert (Förderkennzeichen: ZMVI1-2518FSB410). Laufzeit: 01.01.2019 bis 30.06.2023. Hg. v. Robert Koch-Institut (RKI). Online verfügbar unter https://www.rki.de/DE/Content/Gesundheitsmonitoring/Studien/MonAge/MonAge_node.html, zuletzt geprüft am 15.08.2023.
 
-* Santos-Hövener C, Schumann m, Schmich P, Gößwald A, Rommel A, Ziese T, Lampert T (2019): Improving the information base regarding the health of people with a migration background. Project description and initial findings from IMIRA. In: *Journal of Health Monitoring* 4 (1), S. 46–57. DOI: 10.25646/5874.
+* Rosenkötter, N; Borrmann, B; Arnold, L; Böhm, A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z.
 
-* Saß A-C, Gößwald A, Ziese T (2018): Gesundheitsberichterstattung und Gesundheitsmonitoring – Daten für Taten. In: *Public Health Forum* 26 (3), S. 266–270. DOI: 10.1515/pubhef-2018-0055.
+* Rothman, K J; Greenland, S; Lash, T L (2008): Modern epidemiology. 3. ed. Philadelphia Pa. u.a.: Wolters Kluwer [u.a.].
 
-* Starke D, Tempel G, Butler J, Starker A, Zühlke C, Borrmann B (2019): Gute Praxis Gesundheitsberichterstattung – Leitlinien und Empfehlungen 2.0. In: *Journal of Health Monitoring* 4 (S1), S. 1–22.
+* Santos-Hövener, C; Schmich, P; Schuhmann Maria; Gößwald, A; Rommel, A; Ziese, T; Lampert, T (2019): Improving the information base regarding the health of people with a migration background. Project description and initial findings from IMIRA. In: Journal of Health Monitoring 4 (1), S. 46–57. DOI: 10.25646/5874.
 
-* Takla A, Wichmann O, Rieck T, Matysiak-Klose D (2014): Measles incidence and reporting trends in Germany, 2007-2011. In: *Bulletin of the World Health Organization* 92 (10), S. 742–749. DOI: 10.2471/BLT.13.135145.
+* Saß, A-C; Gößwald, A; Ziese, T (2018): Gesundheitsberichterstattung und Gesundheitsmonitoring – Daten für Taten. In: Public Health Forum 26 (3), S. 266–270. DOI: 10.1515/pubhef-2018-0055.
 
-* Van Bon-Martens M, van Oers H, Verschuuren M (2019): Population Health Reporting. In: Verschuuren M und van Oers H (Hrsg.): Population Health Monitoring. Cham: Springer International Publishing, 107-125.
+* Starke, D; Tempel, G; Butler, J; Starker, A; Zühlke, C; Borrmann, B (2019): Gute Praxis Gesundheitsberichterstattung – Leitlinien und Empfehlungen 2.0. In: Journal of Health Monitoring 4 (S1), S. 1–22.
 
-* Verschuuren M, Achterberg P W, Kramers P G, Oers H v (2014): Monitoring the health of the population. In: Rechel B und McKee M (Hrsg.): Facets of Public Health in Europe. Maidenhead: McGraw-Hill Education, S. 23–41.Verschuuren M, van Oers H (Hrsg.) (2019): Population Health Monitoring. Cham: Springer International Publishing.
+* Takla, A; Wichmann, O; Rieck, T; Matysiak-Klose, D (2014): Measles incidence and reporting trends in Germany, 2007–2011. In: Bulletin of the World Health Organization 92 (10), S. 742–749. DOI: 10.2471/BLT.13.135145.
+
+* van Bon-Martens, M; van Oers, H; Verschuuren, M (2019): Population Health Reporting. In: Verschuuren, M; van Oers, H (Hg.): Population Health Monitoring. Cham: Springer International Publishing, 107–125.
+
+* Verschuuren, M; Achterberg, P W; Kramers, P G N; van Oers, H: Monitoring the health of the population. In: Rechel, McKee (Hg.) 2014 – Facets of Public Health, S. 23–41.
+
+* Verschuuren, M; van Oers, H (Hg.) (2019): Population Health Monitoring. Cham: Springer International Publishing.
+
