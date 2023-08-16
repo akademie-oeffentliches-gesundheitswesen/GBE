@@ -32,11 +32,11 @@ nav_order: 10
 
 * **ECHI** – Europäischer Kernindikatorensatz für Gesundheit (European Core Health Indicators)
 
-* **EPHO** - Essential Public Health OperationsGBE – Gesundheitsberichterstattung
+* **EPHO** – Essential Public Health OperationsGBE – Gesundheitsberichterstattung
 
 * **GDG** – Gesundheitsdienstgesetzte der Länder
 
-* **GDVG** - Gesundheitsdienst- und Verbraucherschutzgesetz
+* **GDVG** – Gesundheitsdienst- und Verbraucherschutzgesetz
 
 * **GEDA** – Gesundheit in Deutschland aktuell, Studie des Robert Koch-Instituts
 
