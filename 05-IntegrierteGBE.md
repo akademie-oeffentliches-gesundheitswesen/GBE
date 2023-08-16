@@ -42,26 +42,27 @@ Eine weitere Herausforderung bei der Darstellung sozial bedingter gesundheitlich
 
 ## 5.3. Weiterführende Informationen
 
-* Borrmann B, Rosenkötter N (2016): Integrierte Berichterstattung für ressortübergreifende kommunale Gesundheitspolitik. In: Public Health Forum 24 (4), S. 272–274. DOI: 10.1515/pubhef-2016-2095.
+* Borrmann, B; Rosenkötter, N (2016): Integrierte Berichterstattung für ressortübergreifende kommunale Gesundheitspolitik. In: Public Health Forum 24 (4), S. 272–274. DOI: 10.1515/pubhef-2016-2095.
 
-* Galante-Gottschalk A, Pott S, Fischer C, Erb J, Ohm H, Reichhardt G, Ehehalt S, Spatz S, Tropp H (2016): Integrierte Gesundheits- und Sozialberichterstattung – Das Sozialmonitoring der Landeshauptstadt Stuttgart. In: Das Gesundheitswesen 78 (04). DOI: 10.1055/s-0036-1578958.
+* Galante-Gottschalk, A; Pott, S; Fischer, C; Erb, J; Ohm, H; Reichhardt G; Ehehalt, S; Spatz, S; Tropp, H (2016): Integrierte Gesundheits- und Sozialberichterstattung. Das Sozialmonitoring der Landeshauptstadt Stuttgart. In: Das Gesundheitswesen 78 (04). DOI: 10.1055/s-0036-1578958.
 
-* Landesinstitut für den Öffentlichen Gesundheitsdienst des Landes Nordrhein-Westfalen (lögd) (Hrsg.) (2004): Integrierte Basis-Berichterstattung für gesündere Städte und Kommunen – Quellen, Auswahlprozess und Profile für einen Indikatorensatz. Bielefeld: lögd (Wissenschaftliche Reihe, 17).
+* Landesinstitut für den Öffentlichen Gesundheitsdienst des Landes Nordrhein-Westfalen (lögd) (Hg.) (2004): Integrierte Basis-Berichterstattung für gesündere Städte und Kommunen. Quellen, Auswahlprozess und Profile für einen Indikatorensatz. Bielefeld: lögd (Wissenschaftliche Reihe, 17).
 
-* MAGS: Integrierte Berichterstattung und Planung Erfolgsfaktoren Hürden und gute Argumente. Online verfügbar unter https://www.umwelt-und-gesundheit.nrw.de/fileadmin/redaktion/PDF-Dateien/Veroeffentlichung\_Integrierte\_Berichterstattung\_und\_Planung.pdf, zuletzt geprüft am 13.02.2020.
+* MAGS: Integrierte Berichterstattung und Planung Erfolgsfaktoren Hürden und gute Argumente. Online verfügbar unter https://www.umwelt-und-gesundheit.nrw.de/fileadmin/redaktion/PDF-Dateien/Veroeffentlichung_Integrierte_Berichterstattung_und_Planung.pdf, zuletzt geprüft am 13.02.2020.
 
-* Süß W, Schäfer I, Trojan A (Hrsg.) (2007): Integrierte (Gesundheits-) Berichte – Konzeptionelle Überlegungen und Umsetzungserfahrungen. 1. Auflage. Aachen: Shaker Verlag (Berichte aus der Medizin).
+* Süß, W; Schäfer, I; Trojan, A (Hg.) (2007): Integrierte (Gesundheits-) Berichte. Konzeptionelle Überlegungen und Umsetzungserfahrungen. 1. Auflage. Aachen: Shaker Verlag (Berichte aus der Medizin.
 
 ## 5.4. Literaturverzeichnis Kapitel 5. – Integrierte GBE 
 
-* Böhm A (2007): Der Brandenburger Sozialindex: ein Werkzeug für die Gesundheits- und Sozialberichterstattung auf Landes-und kommunaler Ebene. In: *Gesundheitswesen* 69 (03). DOI: 10.1055/s-2007-982846.
+* Böhm, A (2007): Der Brandenburger Sozialindex: ein Werkzeug für die Gesundheits- und Sozialberichterstattung auf Landes- und kommunaler Ebene. In: Gesundheitswesen 69 (03). DOI: 10.1055/s-2007-982846.
 
-* Durkheim É (1983): Der Selbstmord. Frankfurt am Main: Suhrkamp.
+* Durkheim, É (1983): Der Selbstmord. Frankfurt am Main: Suhrkamp.
 
-* Elkeles T, Mielck A (1997): Ansätze zur Erklärung und Verringerung gesundheitlicher Ungleichheit. In: *Jahrbuch für kritische Medizin* (26), S. 23–44.
+* Elkeles, T; Mielck, A (1997): Ansätze zur Erklärung und Verringerung gesundheitlicher Ungleichheit. In: Jahrbuch für kritische Medizin (26), S. 23–44.
 
-* Kroll L E, Schumann m, Hoebel J, Lampert T (2017): Regional health differences – developing a socioeconomic deprivation index for Germany. In: *Journal of Health Monitoring* 2 (2), 98–114. DOI: 10.17886/RKI-GBE-2017-048.
+* Kroll, L E; Schumann, m; Hoebel, J; Lampert, T (2017): Regional health differences – developing a socioeconomic deprivation index for Germany. In: Journal of Health Monitoring 2 (2), 98–114. DOI: 10.17886/RKI-GBE-2017-048.
 
-* Rosenkötter N, Borrmann B, Arnold L, Böhm A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: *Bundesgesundheitsbl.* 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z.
+* Rosenkötter, N; Borrmann, B; Arnold, L; Böhm, A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z.
 
-* Stegmann T (2020): Lebenslagen in Sozialräumen auf einen Blick: Indizes in der kommunalen Berichterstattung. Arbeitshilfe für Kommunen und Träger. Bottrop, 2020.
+* Stegmann, T (2020): Lebenslagen in Sozialräumen auf einen Blick: Indizes in der kommunalen Berichterstattung. Arbeitshilfe für Kommunen und Träger. Hg. v. G.I.B. – Gesellschaft für innovative Beschäftigungsförderung mbH. Bottrop.
+
