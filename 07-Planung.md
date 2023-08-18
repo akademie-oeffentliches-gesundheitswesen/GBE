@@ -46,7 +46,7 @@ Für den Aufbau einer Gesundheitsplanung ist es wichtig, möglichst gute Kenntni
 
 <figure>
 <img src="./media/GBE_ABB_14.png" alt="Abbildung 14: Ausrichtung und Themenfindung der Gesundheitsplanung" style="width:90%">
-<figcaption>Abbildung 14: Ausrichtung und Themenfindung der Gesundheitsplanung entstehen im Aushandlungsprozess zwischen den unterschiedlichen Perspektiven von Expertinnen und Experten, Bürgerinnen und Bürgern und der wissenschaftlichen Datenlage (erweitert nach Roller 2010) © Marion Burbulla </figcaption>
+<figcaption>Abbildung 14: Ausrichtung und Themenfindung der Gesundheitsplanung entstehen im Aushandlungsprozess zwischen den unterschiedlichen Perspektiven von Expertinnen und Experten, Bürgerinnen und Bürgern und der wissenschaftlichen Datenlage (erweitert nach MfAS-BW 2010) © Marion Burbulla </figcaption>
 </figure>
 
 **Form des Berichtswesens:** GBE ist zwar in allen GDG der Länder verankert, sie wird aber nicht überall durchgeführt, und die Aufgabe ist kaum durch klare Vorgaben präzisiert. Nicht selten führt die Etablierung einer kommunalen Gesundheitsplanung im zweiten Schritt zur Intensivierung der GBE, da die vage thematische Zuständigkeit der Planungsgremien dadurch erheblich an rationaler Legitimation gewinnt. Sinnvoll ist häufig ein Zusammenspiel sowohl fachlicher als auch politischer Gremien und GBE, indem Berichtsimpulse aus den Gremien aufgenommen und Berichte wiederum zum Beispiel an die Gesundheitskonferenz, den Stadtrat oder Landkreistag adressiert werden. Abhängig von der Zusammensetzung der Gremien ist es dennoch sinnvoll, sich in der GBE Freiheitsgrade zu erhalten, um auch anderweitige Impulse geben zu können. In diesem Zusammenhang wird seit einigen Jahren auch – analog zu anderen kommunalen Fachplanungen – die Etablierung des Fachplans Gesundheit als ein integriertes, prozess- und maßnahmenorientiertes kommunales Planungsinstrument diskutiert (Claßen, Mekel 2020), worauf in [Kapitel 8]({{ site.baseurl }}{% link 08-WowilldieGBEhin.md %}) noch genauer eingegangen wird. 
@@ -182,6 +182,8 @@ Gesundheits- und Stadtentwicklung
 * Luthe, E-W (2010): Kommunale Gesundheitslandschaften. Teil 1. In: NDV, S. 304–310.
 
 * LZG.NRW (2019): Leitfaden Gesunde Stadt. Hinweise für Stellungnahmen zur Stadtentwicklung aus dem Öffentlichen Gesundheitsdienst. 2 überarbeitete Auflage. Unter Mitarbeit von H Baumeister, A Rüdiger, H Köckler, T Claßen, J Hamilton, M Rüweler et al. Hg. v. Landeszentrum Gesundheit Nordrhein-Westfalen. Bielefeld.
+  
+* MfAS-BW (2010): Bericht der Projektgruppe Kommunale Gesundheitskonferenzen. Unter Mitarbeit von Roller, G; Firsching, M. Ministerium für Arbeit und Soziales Baden-Württemberg, AG Standortfaktor Gesundheit des Gesundheitsforums Baden-Württemberg. Reutlingen (Gesundheitsstrategie Baden-Württemberg).
 
 * Rodenstein, M (2012): Stadtplanung Und Gesundheit – Ein Rückblick auf Theorie und Praxis. In: Böhme, C; Kliemke, C; Reimann, B; Süß, W (Hg.): Handbuch Stadtplanung und Gesundheit. 1. Aufl. Bern: Verlag Hans Huber, S. 15–26.
 
