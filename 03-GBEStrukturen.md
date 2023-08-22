@@ -113,7 +113,7 @@ Rechtliche Hintergründe der GBE
 
 * Albrich, C; Brandeis, B; Erb, J; Hellmann, V; Wallus, L; Firsching, M et al. (2017): Handlungsempfehlung für den Aufbau einer Gesundheitsplanung im Öffentlichen Gesundheitsdienst. Ergebnisse eines Pilotvorhabens in Baden-Württemberg. Hg. v. Ministerium für Soziales und Integration Baden-Württemberg. Landesgesundheitsamt Baden-Württemberg. Stuttgart.
 
-* Lampert, T; Horch, K; List, S (2010): Gesundheitsberichterstattung des Bundes: Ziele, Aufgaben und Nutzungsmöglichkeiten. Berlin (GBE Kompakt, 1). Online verfügbar unter www.rki.de/gbe-kompakt, zuletzt geprüft am 15.08.2023.
+* Lampert, T; Horch, K; List, S (2010): Gesundheitsberichterstattung des Bundes: Ziele, Aufgaben und Nutzungsmöglichkeiten. Berlin (GBE Kompakt, 1). Online verfügbar unter <a href="https://www.rki.de/gbe-kompakt">www.rki.de/gbe-kompakt</a>, zuletzt geprüft am 15.08.2023.
 
 * Rosenkötter, N; Borrmann, B; Arnold, L; Böhm, A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 63, S. 1067–1075. <a href="https://www.doi.org/10.1007/s00103-020-03190-z">DOI: 10.1007/s00103-020-03190-z</a>.
 
