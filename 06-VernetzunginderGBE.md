@@ -2,7 +2,7 @@
 layout: default
 title: 6 - Vernetzung in der GBE
 permalink: 06-vernetzung-in-der-gbe
-nav_order: 7
+nav_order: 8
 ---
 # 6. Vernetzung in der Gesundheitsberichterstattung
 <details markdown="block"> 
