@@ -140,7 +140,7 @@ Capacity Building in der GBE
 
 * Bachinger, E; Grasser, G (2009): Capacity Building für Gesundheitsberichterstattung. In: Kuhn, J; Böcken, J (Hg.): Verwaltete Gesundheit. Konzepte der Gesundheitsberichterstattung in der Diskussion. Frankfurt am Main: Mabuse-Verl. (Beiträge zur politischen Relevanz der Gesundheitsberichterstattung), S. 201–222. 
 
-* Kuhn, J; Zapf, A (2018): Berufliche Aufgaben und Perspektiven im ÖGD. In: Public Health Forum 26 (1), S. 20–22. DOI: 10.1515/pubhef-2017-0083. 
+* Kuhn, J; Zapf, A (2018): Berufliche Aufgaben und Perspektiven im ÖGD. In: Public Health Forum 26 (1), S. 20–22. <a href="https://www.doi.org/10.1515/pubhef-2017-0083">DOI: 10.1515/pubhef-2017-0083</a>. 
 
 Beteiligung und Partizipation
 
@@ -148,7 +148,7 @@ Beteiligung und Partizipation
 
 ## 6.5. Literaturverzeichnis Kapitel 6. – Vernetzung in der GBE
 
-* Augustin, J; Kistemann, T; Koller, D; Lentz, S; Maier, W A; Moser, J; Schweikart, J (Hg.) (2017): Gute kartographische Praxis im Gesundheitswesen (GKPiG). Deutsche Gesellschaft für Geographie; Deutsche Gesellschaft für Epidemiologie; Leibniz-Institut für Länderkunde. Leipzig: Leibniz-Institut für Länderkunde (Forum IfL, Heft 32). Online verfügbar unter http://nbn-resolving.de/urn:nbn:de:0168-ssoar-52071-9, zuletzt geprüft am 15.08.2023.
+* Augustin, J; Kistemann, T; Koller, D; Lentz, S; Maier, W A; Moser, J; Schweikart, J (Hg.) (2017): Gute kartographische Praxis im Gesundheitswesen (GKPiG). Deutsche Gesellschaft für Geographie; Deutsche Gesellschaft für Epidemiologie; Leibniz-Institut für Länderkunde. Leipzig: Leibniz-Institut für Länderkunde (Forum IfL, Heft 32). Online verfügbar unter <a href="http://nbn-resolving.de/urn:nbn:de:0168-ssoar-52071-9">http://nbn-resolving.de/urn:nbn:de:0168-ssoar-52071-9</a>, zuletzt geprüft am 15.08.2023.
 
 * Fisher, R; Ury, W; Patton, B (2009): Das Harvard-Konzept. Der Klassiker der Verhandlungstechnik. 23., durchgesehene Aufl. Frankfurt am Main, New York: Campus-Verl.
 
