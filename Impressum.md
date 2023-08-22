@@ -13,7 +13,7 @@ Düsseldorf 2023
 
 **DOI** 10.61163/b001v100 
 
-**Open Access:** Wo nicht anders festgehalten, ist diese Publikation lizenziert unter der Creative-Commons-Lizenz Namensnennung – nicht kommerziell – Weitergabe unter gleichen Bedingungen 4.0 international (CC BY-NC-SA 4.0)
+**Open Access:** Wo nicht anders festgehalten, ist diese Publikation lizenziert unter der Creative-Commons-Lizenz Namensnennung – nicht kommerziell – Weitergabe unter gleichen Bedingungen 4.0 international (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
