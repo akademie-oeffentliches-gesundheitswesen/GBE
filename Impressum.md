@@ -5,9 +5,9 @@ permalink: Impressum
 nav_order: 13
 ---
 
-Lehrbuch für den Öffentlichen Gesundheitsdienst, Bd. 1, Version 2.0
-
 **Gesundheitsberichterstattung**
+
+Lehrbuch für den Öffentlichen Gesundheitsdienst, Bd. 1, Version 2.0
 
 Düsseldorf 2023 
 
