@@ -13,6 +13,11 @@ Laura Arnold, Thomas Claßen, Annette Galante-Gottschalk, Joseph Kuhn, Nicole Ro
   <img src="./media/GBE_COVER_U1.png" alt="Gesundheitsberichterstattung Cover U1" style="width:90%">
  </figure> 
 
+ <figure>
+  <img src="./media/GBE_COVER_U2.png" alt="Gesundheitsberichterstattung Cover U2" style="width:90%">
+ </figure> 
+
+
 
 
 
