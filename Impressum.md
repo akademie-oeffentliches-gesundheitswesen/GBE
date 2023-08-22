@@ -2,7 +2,7 @@
 layout: default
 title: Impressum
 permalink: Impressum
-nav_order: 13
+nav_order: 2
 ---
 
 **Gesundheitsberichterstattung**
