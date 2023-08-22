@@ -15,11 +15,10 @@ Düsseldorf 2023
 
 Open Access: Wo nicht anders festgehalten, ist diese Publikation lizenziert unter der Creative-Commons-Lizenz Namensnennung – nicht kommerziell – Weitergabe unter gleichen Bedingungen 4.0 international (CC BY-NC-SA 4.0)
 
-
-
-
-
-Impressum
+</br>
+</br>
+</br>
+**Impressum**
 
 Dagmar Starke, Laura Arnold (Hg.)
 
