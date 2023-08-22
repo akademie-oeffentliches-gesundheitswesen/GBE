@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 2 - Wozu GBE?
+title: 2. Wozu GBE?
 permalink: 02-wozu-gbe
-nav_order: 4
+nav_order: 5
 ---
 # 2. Wozu Gesundheitsberichterstattung
 <details markdown="block"> 
