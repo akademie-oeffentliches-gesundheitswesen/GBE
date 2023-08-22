@@ -153,13 +153,13 @@ Wichtig für das Selbstverständnis der meist akademisch-wissenschaftlich geprä
 
 GBE und Politik
 
-* Borrmann, B; Rosenkötter, N (2014): Steuerungspotenziale des ÖGD. Gesundheitsberichterstattung. In: Public Health Forum 22 (4), S. 183. <a href="https://www.doi.org/###">DOI: 10.1016/j.phf.2014.09.002</a>.
+* Borrmann, B; Rosenkötter, N (2014): Steuerungspotenziale des ÖGD. Gesundheitsberichterstattung. In: Public Health Forum 22 (4), S. 183. <a href="https://www.doi.org/10.1016/j.phf.2014.09.002">DOI: 10.1016/j.phf.2014.09.002</a>.
 
-* Brand, H; Michelsen, K (2007): Politikberatung durch Gesundheitsberichterstattung? In: Das Gesundheitswesen 69 (10), S. 527–533. <a href="https://www.doi.org/###">DOI: 10.1055/s-2007-992163</a>.
+* Brand, H; Michelsen, K (2007): Politikberatung durch Gesundheitsberichterstattung? In: Das Gesundheitswesen 69 (10), S. 527–533. <a href="https://www.doi.org/10.1055/s-2007-992163">DOI: 10.1055/s-2007-992163</a>.
 
 * Kuhn, J; Busch, R (Hg.) (2006): Gesundheit zwischen Statistik und Politik. Beiträge zur politischen Relevanz der Gesundheitsberichterstattung. Frankfurt am Main: Mabuse-Verlag.
 
-* Kurth, BM (2006): Epidemiologie und Gesundheitspolitik. In: Bundesgesundheitsbl. 49, S. 637–647. <a href="https://www.doi.org/###">DOI: 10.1007/s00103-006-1291-y</a>.
+* Kurth, BM (2006): Epidemiologie und Gesundheitspolitik. In: Bundesgesundheitsbl. 49, S. 637–647. <a href="https://www.doi.org/10.1007/s00103-006-1291-y">DOI: 10.1007/s00103-006-1291-y</a>.
 
 Determinanten von Gesundheit
 
