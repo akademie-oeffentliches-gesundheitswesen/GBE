@@ -4,31 +4,14 @@ layout: default
 ![Logo](./media/image1.png)
 <big style="font-size:2em;">GESUNDHEITSBERICHTERSTATTUNG</big>
 
-Lehrbuch für den Öffentlichen Gesundheitsdienst
+Lehrbuch für den Öffentlichen Gesundheitsdienst Bd. 1 &#124 V1.0
 
-Herausgegeben von der Akademie für Öffentliches Gesundheitswesen
+Laura Arnold, Dagmar Starke (Hg.)
 
-Pre-Release
+Autor:innen
 
-<table>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><blockquote>
-<p><strong>Autorinnen und Autoren:</strong></p>
-<p>Laura Arnold</p>
-<p>Thomas Claßen</p>
-<p>Annette Galante-Gottschalk</p>
-<p>Joseph Kuhn</p>
-<p>Nicole Rosenkötter</p>
-<p>Dagmar Starke</p>
-<p>Bertram Szagun</p>
-<p>Günter Tempel</p>
-<p>Birgit Wollenberg</p>
-<p>Thomas Ziese</p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
+Laura Arnold, Thomas Claßen, Annette Galante-Gottschalk, Joseph Kuhn, Nicole Rosenkötter, Dagmar Starke, Bertram Szagun, Günter Tempel, Birgit Wollenberg, Thomas Ziese
+
+
 
 
