@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Startseite
+permalink: index
+nav_order: 1
 ---
 **Lehrbücher für den Öffentlichen Gesundheitsdienst Bd. 1 – V1.0**
 
