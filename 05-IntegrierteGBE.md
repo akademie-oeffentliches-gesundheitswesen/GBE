@@ -2,7 +2,7 @@
 layout: default
 title: 5 - Integrierte GBE 
 permalink: 05-integrierte-gbe
-nav_order: 6
+nav_order: 7
 ---
 # 5. Integrierte Gesundheitsberichterstattung
 <details markdown="block"> 
