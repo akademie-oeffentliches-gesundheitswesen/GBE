@@ -2,7 +2,7 @@
 layout: default
 title: 1 - Was ist GBE? 
 permalink: 01-was-ist-gbe
-nav_order: 2
+nav_order: 3
 ---
 # 1. Was ist Gesundheitsberichterstattung
 <details markdown="block"> 
