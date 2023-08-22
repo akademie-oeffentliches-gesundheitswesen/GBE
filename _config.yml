@@ -30,7 +30,7 @@ subtitle: Lehrbuch für den Öffentlichen Gesundheitsdienst
 # ga_tracking: UA-161871347-1
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2023 die Autoren. Creative Commons: Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/deed.de | DOI 10.25815/wfp2-y114"
+footer_content: "Copyright &copy; 2023 die Autoren. Creative Commons: Namensnennung, nicht kommerziell, Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/ | DOI 10.61163/b001v100"
 
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
