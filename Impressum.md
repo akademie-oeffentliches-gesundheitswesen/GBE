@@ -4,15 +4,19 @@ title: Impressum
 permalink: Impressum
 nav_order: 13
 ---
-**Gesundheitsberichterstattung**
 
 Lehrbuch für den Öffentlichen Gesundheitsdienst, Bd. 1, Version 2.0
 
-DOI 10.61163/b001v100 
+**Gesundheitsberichterstattung**
+
+**DOI** 10.61163/b001v100 
 
 Düsseldorf 2023 
 
 Open Access: Wo nicht anders festgehalten, ist diese Publikation lizenziert unter der Creative-Commons-Lizenz Namensnennung – nicht kommerziell – Weitergabe unter gleichen Bedingungen 4.0 international (CC BY-NC-SA 4.0)
+
+
+
 
 
 Impressum
