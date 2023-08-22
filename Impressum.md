@@ -9,9 +9,12 @@ Lehrbuch für den Öffentlichen Gesundheitsdienst, Bd. 1, Version 2.0
 
 **Gesundheitsberichterstattung**
 
-**DOI** 10.61163/b001v100 
-
 Düsseldorf 2023 
+
+</br>
+</br>
+
+**DOI** 10.61163/b001v100 
 
 Open Access: Wo nicht anders festgehalten, ist diese Publikation lizenziert unter der Creative-Commons-Lizenz Namensnennung – nicht kommerziell – Weitergabe unter gleichen Bedingungen 4.0 international (CC BY-NC-SA 4.0)
 
