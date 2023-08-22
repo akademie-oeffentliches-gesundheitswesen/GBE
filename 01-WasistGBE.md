@@ -122,7 +122,7 @@ Grundlagen der Gesundheitsberichterstattung
 
 *	AOLG (2003): Indikatorensatz für die Gesundheitsberichterstattung der Länder. Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden. 3. Aufl. Hg. v. Ministerium für Gesundheit, Soziales, Frauen und Familie des Landes Nordrhein-Westfalen. Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden (AOLG). Düsseldorf.
 
-*	Bayern (2003): Gesetz über den öffentlichen Gesundheits- und Veterinärdienst, die Ernährung und den Verbraucherschutz sowie die Lebensmittelüberwachung (Gesundheitsdienst- und Verbraucherschutzgesetz). GDVG, vom zuletzt durch § 1 Abs. 145 der Verordnung vom 26.03.2019 (GVBl. S. 98) geändert worden. Fundstelle: GVBl. S. 452, 752. Online verfügbar unter <a href="https://www.doi.org/10.1055/s-2007-992160">http://www.gesetze-bayern.de/Content/Document/BayGDVG/true</a>, zuletzt geprüft am 15.08.2023.
+*	Bayern (2003): Gesetz über den öffentlichen Gesundheits- und Veterinärdienst, die Ernährung und den Verbraucherschutz sowie die Lebensmittelüberwachung (Gesundheitsdienst- und Verbraucherschutzgesetz). GDVG, vom zuletzt durch § 1 Abs. 145 der Verordnung vom 26.03.2019 (GVBl. S. 98) geändert worden. Fundstelle: GVBl. S. 452, 752. Online verfügbar unter <a href="https://www.gesetze-bayern.de/Content/Document/BayGDVG/true">http://www.gesetze-bayern.de/Content/Document/BayGDVG/true</a>, zuletzt geprüft am 15.08.2023.
   
 *	Eckert, O; Vogel, U (2018): Todesursachenstatistik und ICD, quo vadis? In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 61 (7), S. 796–805. <a href="https://www.doi.org/10.1055/s-2007-992160">DOI: 10.1007/s00103-018-2756-5</a>.
 
