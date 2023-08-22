@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Startseite
+title: Titel
 permalink: index
 nav_order: 1
 ---
