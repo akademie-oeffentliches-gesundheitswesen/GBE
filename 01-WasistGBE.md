@@ -92,7 +92,7 @@ Dabei ist die GBE jedoch kein Selbstzweck, sondern verfolgt das klare Ziel, so g
 
 Geschichte der Gesundheitsberichterstattung
 
-* Kuhn, J (2007): Die historische Entwicklung der kommunalen Gesundheitsberichterstattung. Eine Forschungslücke. Das Gesundheitswesen 69, S. 507–513. https://doi.org/10.1055/s-2007-992160
+* Kuhn, J (2007): Die historische Entwicklung der kommunalen Gesundheitsberichterstattung. Eine Forschungslücke. Das Gesundheitswesen 69, S. 507–513. <a href="doi.org/10.1055/s-2007-992160">DOI: 10.1055/s-2007-992160</a>.
   
 * Pieper, A (2003): Johann Peter Frank. Vom Arzt zum Gesundheitspolitiker. Eine europäische Karriere zwischen Aufklärung, Revolution und Reaktion. In: Deutsches Ärzteblatt 100, S. 28–29.
 
@@ -110,7 +110,7 @@ Grundlagen der Gesundheitsberichterstattung
 
 *	LGL (2011): Gesundheitsberichterstattung für die Landkreise und kreisfreien Städte Bayerns. Edition Handlungshilfe: GBE-Praxis 1. Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit. Erlangen.
 
-*	Rosenkötter, N; Borrmann, B; Arnold, L; Böhm, A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z. 
+*	Rosenkötter, N; Borrmann, B; Arnold, L; Böhm, A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. 63, S. 1067–1075. <a href="doi.org/10.1055/s-2007-992160">DOI: 10.1007/s00103-020-03190-z</a>. 
 
 *	Starke, D; Tempel G; Butler J; Starker A; Zühlke C; Borrmann B (2019): Gute Praxis Gesundheitsberichterstattung. Leitlinien und Empfehlungen 2.0. In: Journal of Health Monitoring 4 (S1), S. 1–22.
 
@@ -124,7 +124,7 @@ Grundlagen der Gesundheitsberichterstattung
 
 *	Bayern (2003): Gesetz über den öffentlichen Gesundheits- und Veterinärdienst, die Ernährung und den Verbraucherschutz sowie die Lebensmittelüberwachung (Gesundheitsdienst- und Verbraucherschutzgesetz). GDVG, vom zuletzt durch § 1 Abs. 145 der Verordnung vom 26.03.2019 (GVBl. S. 98) geändert worden. Fundstelle: GVBl. S. 452, 752. Online verfügbar unter http://www.gesetze-bayern.de/Content/Document/BayGDVG/true, zuletzt geprüft am 15.08.2023.
   
-*	Eckert, O; Vogel, U (2018): Todesursachenstatistik und ICD, quo vadis? In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 61 (7), S. 796–805. DOI: 10.1007/s00103-018-2756-5.
+*	Eckert, O; Vogel, U (2018): Todesursachenstatistik und ICD, quo vadis? In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 61 (7), S. 796–805. <a href="doi.org/10.1055/s-2007-992160">DOI: 10.1007/s00103-018-2756-5</a>.
 
 *	Frank, J P (1792): System einer vollständigen medizinischen Polizey. Berlin.
 
@@ -136,7 +136,7 @@ Grundlagen der Gesundheitsberichterstattung
 
 *	Starke, D; Tempel, G; Butler, J; Starker, A; Zühlke, C; Borrmann, B (2019): Gute Praxis Gesundheitsberichterstattung – Leitlinien und Empfehlungen 2.0. In: Journal of Health Monitoring 4 (S1), S. 1–22.
 
-*	Thaiss, H; Klein, R; Schumann, E C; Ellsässer, G; Breitkopf, H; Reinecke, H; Zimmermann, E (2010): Früherkennungsuntersuchungen als Instrument im Kinderschutz. Erste Erfahrungen der Länder bei der Implementation appellativer Verfahren. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 53 (10), S. 1029–1047. DOI: 10.1007/s00103-010-1134-8.
+*	Thaiss, H; Klein, R; Schumann, E C; Ellsässer, G; Breitkopf, H; Reinecke, H; Zimmermann, E (2010): Früherkennungsuntersuchungen als Instrument im Kinderschutz. Erste Erfahrungen der Länder bei der Implementation appellativer Verfahren. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 53 (10), S. 1029–1047. <a href="doi.org/10.1055/s-2007-992160">DOI: 10.1007/s00103-010-1134-8</a>.
 
 *	Verschuuren, M; van Oers, H (Hg.) (2019): Population Health Monitoring. Cham: Springer International Publishing.
 
