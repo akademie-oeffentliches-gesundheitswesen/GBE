@@ -135,7 +135,7 @@ Gesundheitsplanung im ÖGD
 
 * Albrich, C; Brandeis, B; Erb, J et al. (2017): Handlungsempfehlungen für den Aufbau einer Gesundheitsplanung im Öffentlichen Gesundheitsdienst. Ergebnisse eines Pilotvorhabens in Baden-Württemberg. Stuttgart, 2017.
 
-* Hollederer, A (2015): Gesundheitskonferenzen in Deutschland. Ein Überblick. In: Gesundheitswesen 77 (3), S. 161–167. DOI: 10.1055/s-0033-1361109.
+* Hollederer, A (2015): Gesundheitskonferenzen in Deutschland. Ein Überblick. In: Gesundheitswesen 77 (3), S. 161–167. <a href="https://www.doi.org/10.1055/s-0033-1361109">DOI: 10.1055/s-0033-1361109</a>.
 
 * Rosenbrock, R (1995): Public Health als Soziale Innovation. In: Das Gesundheitswesen 57 (3), S. 140–144.
 
@@ -167,17 +167,17 @@ Gesundheits- und Stadtentwicklung
 
 * Böhm, K; Bräunling, S; Geene, R; Köckler, H (Hg.) (2020): Gesundheit als gesamtgesellschaftliche Aufgabe. Das Konzept Health in All Policies und seine Umsetzung in Deutschland. Wiesbaden: Springer VS.
 
-* Böhme, C; Reimann, B (2018): Integrierte Strategien kommunaler Gesundheitsförderung. Rahmenbedingungen, Steuerung und Kooperation. Ergebnisse einer Akteursbefragung. Hg. v. Deutsches Institut für Urbanistik. Berlin. Online verfügbar unter https://repository.difu.de/jspui/handle/difu/249465, zuletzt geprüft am 15.08.2023.
+* Böhme, C; Reimann, B (2018): Integrierte Strategien kommunaler Gesundheitsförderung. Rahmenbedingungen, Steuerung und Kooperation. Ergebnisse einer Akteursbefragung. Hg. v. Deutsches Institut für Urbanistik. Berlin. Online verfügbar unter <a href="https://repository.difu.de/jspui/handle/difu/249465">https://repository.difu.de/jspui/handle/difu/249465<a/>, zuletzt geprüft am 15.08.2023.
 
-* Claßen, T (2020): Gesundheitsförderliche Stadtentwicklung. In: Informationen zur Raumentwicklung 47 (1), S. 4–17. Online verfügbar unter https://elibrary.steiner-verlag.de/article/99.105010/izr202001000401, zuletzt geprüft am 15.08.2023.
+* Claßen, T (2020): Gesundheitsförderliche Stadtentwicklung. In: Informationen zur Raumentwicklung 47 (1), S. 4–17. Online verfügbar unter <a href="https://elibrary.steiner-verlag.de/article/99.105010/izr202001000401">https://elibrary.steiner-verlag.de/article/99.105010/izr202001000401</a>, zuletzt geprüft am 15.08.2023.
 
 * Claßen, T; Mekel, O: Fachplan Gesundheit und Leitfaden Gesunde Stadt – Instrumente für eine gesundheitsorientierte kommunale Planung in Nordrhein-Westfalen. In: Böhm, Bräunling et al. (Hg.) 2020 – Gesundheit als gesamtgesellschaftliche Aufgabe, S. 397–405.
 
 * GKV-Spitzenverband (2018): Leitfaden Prävention nach § 20 Abs. 2 SGB V und Leitfaden Prävention nach § 5 SGB XI.
 
-* Hollederer, A (2015): Gesundheitskonferenzen in Deutschland: ein Überblick. In: Gesundheitswesen 77 (3), S. 161–167. DOI: 10.1055/s-0033-1361109.
+* Hollederer, A (2015): Gesundheitskonferenzen in Deutschland: ein Überblick. In: Gesundheitswesen 77 (3), S. 161–167. <a href="https://www.doi.org/10.1055/s-0033-1361109">DOI: 10.1055/s-0033-1361109</a>.
 
-* Hollederer, A (2016): Regionale Gesundheitskonferenzen und Gesundheitsregionen plus in Deutschland: Struktur-, Prozess- und Ergebnisqualitäten. In: Public Health Forum 24 (1), S. 22–25. DOI: 10.1515/pubhef-2016-0008.
+* Hollederer, A (2016): Regionale Gesundheitskonferenzen und Gesundheitsregionen plus in Deutschland: Struktur-, Prozess- und Ergebnisqualitäten. In: Public Health Forum 24 (1), S. 22–25. <a href="https://www.doi.org/10.1515/pubhef-2016-0008">DOI: 10.1515/pubhef-2016-0008</a>.
 
 * Luthe, E-W (2010): Kommunale Gesundheitslandschaften. Teil 1. In: NDV, S. 304–310.
 
@@ -187,11 +187,11 @@ Gesundheits- und Stadtentwicklung
 
 * Rodenstein, M (2012): Stadtplanung Und Gesundheit – Ein Rückblick auf Theorie und Praxis. In: Böhme, C; Kliemke, C; Reimann, B; Süß, W (Hg.): Handbuch Stadtplanung und Gesundheit. 1. Aufl. Bern: Verlag Hans Huber, S. 15–26.
 
-* Starke, D; Arnold, L; Fertmann, R; March, S; Moebus, S; Terschüren, C; Szagun, B (2018): Methodische Herausforderungen der Präventionsberichterstattung. In: Das Gesundheitswesen 80 (8-09), S. 732–740. DOI: 10.1055/a-0665-6249.
+* Starke, D; Arnold, L; Fertmann, R; March, S; Moebus, S; Terschüren, C; Szagun, B (2018): Methodische Herausforderungen der Präventionsberichterstattung. In: Das Gesundheitswesen 80 (8-09), S. 732–740. <a href="https://www.doi.org/10.1055/a-0665-6249">DOI: 10.1055/a-0665-6249</a>.
 
 * Szagun, B; Kiß, B (2002): Der ÖGD als Koordinator in der gesundheitlichen Versorgung. In: Blickpunkt öffentliche Gesundheit 18 (4), S. 1–2.
 
-* Szagun, B; Kuhn, J; Starke, D (2016): Kommunale Gesundheitsförderungspolitik und das Präventionsgesetz. In: Präv Gesundheitsf 11 (4), S. 265–270. DOI: 10.1007/s11553-016-0563-0.
+* Szagun, B; Kuhn, J; Starke, D (2016): Kommunale Gesundheitsförderungspolitik und das Präventionsgesetz. In: Präv Gesundheitsf 11 (4), S. 265–270. <a href="https://www.doi.org/10.1007/s11553-016-0563-0">DOI: 10.1007/s11553-016-0563-0</a>.
 
 * Trojan, A; Süß, W (2009): Prävention Und Gesundheitsförderung in Kommunen. In: Hurrelmann, K; Klotz, T; Haisch, J (Hg.): Lehrbuch Prävention und Gesundheitsförderung. 2. Aufl. Bern: Huber, Hans (Lehrbuch Gesundheitswissenschaften), S. 336–346.
 
