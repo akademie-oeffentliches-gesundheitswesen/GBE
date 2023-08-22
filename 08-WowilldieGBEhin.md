@@ -2,7 +2,7 @@
 layout: default
 title: 8 - Wo will die GBE hin?
 permalink: 08-wo-will-die-gbe-hin
-nav_order: 9
+nav_order: 10
 ---
 # 8. Wo will die Gesundheitsberichterstattung hin?
 <details markdown="block"> 
