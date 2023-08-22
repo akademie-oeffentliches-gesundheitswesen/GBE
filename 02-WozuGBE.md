@@ -153,13 +153,13 @@ Wichtig für das Selbstverständnis der meist akademisch-wissenschaftlich geprä
 
 GBE und Politik
 
-* Borrmann, B; Rosenkötter, N (2014): Steuerungspotenziale des ÖGD. Gesundheitsberichterstattung. In: Public Health Forum 22 (4), S. 183. DOI: 10.1016/j.phf.2014.09.002.
+* Borrmann, B; Rosenkötter, N (2014): Steuerungspotenziale des ÖGD. Gesundheitsberichterstattung. In: Public Health Forum 22 (4), S. 183. <a href="https://www.doi.org/###">DOI: 10.1016/j.phf.2014.09.002</a>.
 
-* Brand, H; Michelsen, K (2007): Politikberatung durch Gesundheitsberichterstattung? In: Das Gesundheitswesen 69 (10), S. 527–533. DOI: 10.1055/s-2007-992163.
+* Brand, H; Michelsen, K (2007): Politikberatung durch Gesundheitsberichterstattung? In: Das Gesundheitswesen 69 (10), S. 527–533. <a href="https://www.doi.org/###">DOI: 10.1055/s-2007-992163</a>.
 
 * Kuhn, J; Busch, R (Hg.) (2006): Gesundheit zwischen Statistik und Politik. Beiträge zur politischen Relevanz der Gesundheitsberichterstattung. Frankfurt am Main: Mabuse-Verlag.
 
-* Kurth, BM (2006): Epidemiologie und Gesundheitspolitik. In: Bundesgesundheitsbl. 49, S. 637–647. DOI: 10.1007/s00103-006-1291-y.
+* Kurth, BM (2006): Epidemiologie und Gesundheitspolitik. In: Bundesgesundheitsbl. 49, S. 637–647. <a href="https://www.doi.org/###">DOI: 10.1007/s00103-006-1291-y</a>.
 
 Determinanten von Gesundheit
 
@@ -186,33 +186,33 @@ Health in All Policies (HiAP)
 
 ## 2.6. Literaturverzeichnis Kapitel 2. – Wozu GBE?
 
-* Böhme, C; Reimann, B (2018): Integrierte Strategien kommunaler Gesundheitsförderung. Rahmenbedingungen, Steuerung und Kooperation. Ergebnisse einer Akteursbefragung. Hg. v. Deutsches Institut für Urbanistik. Berlin. Online verfügbar unter https://repository.difu.de/jspui/handle/difu/249465, zuletzt geprüft am 15.08.2023.
+* Böhme, C; Reimann, B (2018): Integrierte Strategien kommunaler Gesundheitsförderung. Rahmenbedingungen, Steuerung und Kooperation. Ergebnisse einer Akteursbefragung. Hg. v. Deutsches Institut für Urbanistik. Berlin. Online verfügbar unter <a href="https://repository.difu.de/jspui/handle/difu/249465">https://repository.difu.de/jspui/handle/difu/249465</a>, zuletzt geprüft am 15.08.2023.
 
 * Brand, H; Evans, D (1998): Öffentlicher Gesundheitsdienst und Gesundheitsberichterstattung. In: Hamburger Projektgruppe Gesundheitsberichterstattung (Hg.): Praxishandbuch Gesundheitsberichterstattung. Ein Leitfaden für GesundheitsberichterstatterInnen und solche, die es werden wollen. 2. aktualisierte Aufl. Düsseldorf: Akademie für Öffentliches Gesundheitswesen (Schriftenreihe, Band 18), S. 25–34.
 
-* Brand, H; Michelsen, K (2007): Politikberatung durch Gesundheitsberichterstattung? In: Das Gesundheitswesen 69 (10), S. 527–533. DOI: 10.1055/s-2007-992163.
+* Brand, H; Michelsen, K (2007): Politikberatung durch Gesundheitsberichterstattung? In: Das Gesundheitswesen 69 (10), S. 527–533. <a href="https://www.doi.org/10.1055/s-2007-992163">DOI: 10.1055/s-2007-992163</a>.
 
 * Bucksch, J; Claßen, T; Budde, S; Geuter, G (2012): Bewegungs- und gesundheitsförderliche Kommune. Evidenzen und Handlungskonzept für die Kommunalentwicklung – ein Leitfaden. Bielefeld.
 
 * Claßen, T (2020): Gesundheitsförderliche Stadtentwicklung. In: Informationen zur Raumentwicklung 47 (1), S. 4–17. Online verfügbar unter https://elibrary.steiner-verlag.de/article/99.105010/izr202001000401, zuletzt geprüft am 15.08.2023.
 
-* Dahlgren, G; Whitehead, M (1991): Policies and strategies to promote social equity in health. Background document to WHO-Strategy paper for Europe. Sweden: Institute for Future Studies. Online verfügbar unter https://ideas.repec.org/p/hhs/ifswps/2007_014.html, zuletzt geprüft am 15.08.2023.
+* Dahlgren, G; Whitehead, M (1991): Policies and strategies to promote social equity in health. Background document to WHO-Strategy paper for Europe. Sweden: Institute for Future Studies. Online verfügbar unter <a href="https://ideas.repec.org/p/hhs/ifswps/2007_014.html">https://ideas.repec.org/p/hhs/ifswps/2007_014.html</a>, zuletzt geprüft am 15.08.2023.
 
 * Dahlgren, G; Whitehead, M (2007): Policies and strategies to promote social equity in health. Background document to WHO-Strategy paper for Europe. 14. Aufl. Hg. v. Institut for Futures Studies.
 
-* Geene, R; Kurth, B M; Matusall, S (2020): Health in All Policies – Entwicklungen, Schwerpunkte und Umsetzungsstrategien für Deutschland. In: Das Gesundheitswesen 82 (7), e72-e76. DOI: 10.1055/a-1138-0389.
+* Geene, R; Kurth, B M; Matusall, S (2020): Health in All Policies – Entwicklungen, Schwerpunkte und Umsetzungsstrategien für Deutschland. In: Das Gesundheitswesen 82 (7), e72-e76. <a href="https://www.doi.org/10.1055/a-1138-0389">DOI: 10.1055/a-1138-0389</a>.
 
 * Institute of Medicine U.S. (Hg.) (1988): The Future of Public Health. Institute of Medicine. 12. Aufl. Washington, D.C.: National Academy Press.
 
 * Kuhn, J (2005): Gesundheitsberichterstattung als Staatsaufgabe. In: prävention (2), S. 57–63.
 
-* Kurth, B M (2006): Epidemiologie und Gesundheitspolitik. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 49, S. 637–647. DOI: 10.1007/s00103-006-1291-y.
+* Kurth, B M (2006): Epidemiologie und Gesundheitspolitik. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 49, S. 637–647. <a href="https://www.doi.org/10.1007/s00103-006-1291-y">DOI: 10.1007/s00103-006-1291-y</a>.
 
 * Marmot, M (2010): Fair Society Healthy Lives. The Marmot Review: Executive Summary. London (Strategic Review of Health Inequalities in England post-2010).
 
 * Rosenbrock, R (1995): Public Health als Soziale Innovation. In: Das Gesundheitswesen 57 (3), S. 140–144.
 
-* Rosenbrock, R (2001): Was ist New Public Health? In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 44 (8), S. 753–762. DOI: 10.1007/s001030100231.
+* Rosenbrock, R (2001): Was ist New Public Health? In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 44 (8), S. 753–762. <a href="https://www.doi.org/10.1007/s001030100231">DOI: 10.1007/s001030100231</a>.
 
 * Rushmer, R; Ward, V; Nguyen, T; Kuchenmüller, T (2019): Knowledge Translation: Key Concepts, Terms and Activities. In: van Oers, H; Verschuuren, M (Hg.): Population Health Monitoring. Climbing the Information Pyramid. Basel: Springer Cham, S. 127–150.
 
