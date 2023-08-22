@@ -133,7 +133,7 @@ Dem ist nichts hinzuzufügen, außer vielleicht, dass man dies nicht als resigna
 
 * Fehr, R; Dickersbach, M; Welteke, R (2011): Vorarbeiten zum lokalen Fachplan Gesundheit. Unter Mitarbeit von M Enderle. Hg. v. Landeszentrum Gesundheit Nordrhein-Westfalen (LZG.NRW). Düsseldorf (LIGA.Praxis).
 
-* Fertmann, F; Conrad, S; Schümann, M (2004): Bundesweite Umfrage bei den Gesundheitsämtern zum umweltbezogenen Gesundheitsschutz. In: Das Gesundheitswesen 66 (08/09). DOI: 10.1055/s-2004-833870.
+* Fertmann, F; Conrad, S; Schümann, M (2004): Bundesweite Umfrage bei den Gesundheitsämtern zum umweltbezogenen Gesundheitsschutz. In: Das Gesundheitswesen 66 (08/09). <a href="https://www.doi.org/10.1055/s-2004-833870">DOI: 10.1055/s-2004-833870</a>.
 
 * Kuhn, J; Busch, R (Hg.) (2006): Gesundheit zwischen Statistik und Politik. Beiträge zur politischen Relevanz der Gesundheitsberichterstattung. Workshop. Frankfurt am Main: Mabuse-Verl.
 
@@ -141,20 +141,20 @@ Dem ist nichts hinzuzufügen, außer vielleicht, dass man dies nicht als resigna
 
 * Leopoldina (Hg.) (2015): Public Health in Deutschland. Strukturen, Entwicklungen und globale Herausforderungen. Stellungnahme. Nationale Akademie der Wissenschaften. Halle (Saale) (Schriftenreihe zur wissenschaftsbasierten Politikberatung).
 
-* Murza, G; Werse, W; Brand, H (2005): Ortsnahe Koordinierung der gesundheitlichen Versorgung in Nordrhein-Westfalen Zwischenbilanz des nordrhein-westfälischen Modells. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 48 (10), S. 1162–1169. DOI: 10.1007/s00103-005-1140-4.
+* Murza, G; Werse, W; Brand, H (2005): Ortsnahe Koordinierung der gesundheitlichen Versorgung in Nordrhein-Westfalen Zwischenbilanz des nordrhein-westfälischen Modells. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 48 (10), S. 1162–1169. <a href="https://www.doi.org/10.1007/s00103-005-1140-4">DOI: 10.1007/s00103-005-1140-4</a>.
 
-* Reisig, V; Jordan, S; Starker, A; Brettner, J; Kuhn, J (2020): Präventionsberichterstattung – neue Impulse für die Gesundheitsberichterstattung? In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 63 (9), S. 1118–1125. DOI: 10.1007/s00103-020-03202-y.
+* Reisig, V; Jordan, S; Starker, A; Brettner, J; Kuhn, J (2020): Präventionsberichterstattung – neue Impulse für die Gesundheitsberichterstattung? In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 63 (9), S. 1118–1125. <a href="https://www.doi.org/10.1007/s00103-020-03202-y">DOI: 10.1007/s00103-020-03202-y</a>.
 
-* Reitzle, L; Paprott, R; Färber, F; Heidemann, C; Schmidt, C; Thamm, R et al. (2020): Gesundheitsberichterstattung im Rahmen von Public Health Surveillance: Das Beispiel Diabetes. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 63 (9), S. 1099–1107. DOI: 10.1007/s00103-020-03201-z.
+* Reitzle, L; Paprott, R; Färber, F; Heidemann, C; Schmidt, C; Thamm, R et al. (2020): Gesundheitsberichterstattung im Rahmen von Public Health Surveillance: Das Beispiel Diabetes. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 63 (9), S. 1099–1107. <a href="https://www.doi.org/10.1007/s00103-020-03201-z">DOI: 10.1007/s00103-020-03201-z</a>.
 
-* Robert Koch-Institut (RKI) (Hg.) (2020): Über Prävention berichten – aber wie? Methodenprobleme der Präventionsberichterstattung. Berlin. Online verfügbar unter https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsB/Praeventionsberichterstattung.pdf?__blob=publicationFile, zuletzt geprüft am 21.12.2021.
+* Robert Koch-Institut (RKI) (Hg.) (2020): Über Prävention berichten – aber wie? Methodenprobleme der Präventionsberichterstattung. Berlin. Online verfügbar unter <a href="https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsB/Praeventionsberichterstattung.pdf?__blob=publicationFile">https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsB/Praeventionsberichterstattung.pdf?__blob=publicationFile</a>, zuletzt geprüft am 21.12.2021.
 
-* Rosenkötter, N; Borrmann, B; Arnold, L; Böhm, A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 63, S. 1067–1075. DOI: 10.1007/s00103-020-03190-z.
+* Rosenkötter, N; Borrmann, B; Arnold, L; Böhm, A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 63, S. 1067–1075. <a href="https://www.doi.org/10.1007/s00103-020-03190-z">DOI: 10.1007/s00103-020-03190-z</a>.
 
-* Stockmann, S; Kuhn, J; Zirngibl, A; Mansmann, U (2008): Kommunale Gesundheitsberichterstattung in Deutschland: eine empirische Erhebung. In: Das Gesundheitswesen 70 (11), S. 679–683. DOI: 10.1055/s-0028-1100402.
+* Stockmann, S; Kuhn, J; Zirngibl, A; Mansmann, U (2008): Kommunale Gesundheitsberichterstattung in Deutschland: eine empirische Erhebung. In: Das Gesundheitswesen 70 (11), S. 679–683. <a href="https://www.doi.org/10.1055/s-0028-1100402">DOI: 10.1055/s-0028-1100402</a>.
 
 * Süß, W; Schäfer, I; Trojan, A (Hg.) (2007): Integrierte (Gesundheits-) Berichte. Konzeptionelle Überlegungen und Umsetzungserfahrungen. 1. Auflage. Aachen: Shaker Verlag (Berichte aus der Medizin).
 
-* WHO (2012): The 10 Essential Public Health Operations. Hg. v. World Health Organization (WHO). Online verfügbar unter https://www.euro.who.int/en/health-topics/Health-systems/public-health-services/policy/the-10-essential-public-health-operations, zuletzt aktualisiert am 05.03.2021, zuletzt geprüft am 16.07.2021.
+* WHO (2012): The 10 Essential Public Health Operations. Hg. v. World Health Organization (WHO). Online verfügbar unter <a href="https://www.euro.who.int/en/health-topics/Health-systems/public-health-services/policy/the-10-essential-public-health-operations">https://www.euro.who.int/en/health-topics/Health-systems/public-health-services/policy/the-10-essential-public-health-operations</a>, zuletzt aktualisiert am 05.03.2021, zuletzt geprüft am 16.07.2021.
 
 * ZfPH (2021): Eckpunkte einer Public-Health-Strategie für Deutschland. Version 1.0. Hg. v. Zukunftsforum Public Health. Berlin.
