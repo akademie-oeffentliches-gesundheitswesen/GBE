@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**Lehrbücher für den Öffentlichen Gesundheitsdienst Bd. 1,  V1.0**
+**Lehrbücher für den Öffentlichen Gesundheitsdienst Bd. 1 – V1.0**
 
 <big style="font-size:2em;">GESUNDHEITSBERICHTERSTATTUNG</big>
 
