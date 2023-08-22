@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5. Integrierte GBE 
+title: 5.5 Integrierte GBE 
 permalink: 05-integrierte-gbe
 nav_order: 8
 ---
