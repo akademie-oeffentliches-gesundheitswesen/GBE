@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Über die Autoren
+title: Über die Autorinne und Autoren
 permalink: 10-ueber-uns
 nav_order: 11
 ---
