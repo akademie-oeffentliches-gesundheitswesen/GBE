@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 7 - Planung
+title: 7. Planung
 permalink: 07-planung
-nav_order: 9
+nav_order: 10
 ---
 # 7. Planung
 <details markdown="block"> 
