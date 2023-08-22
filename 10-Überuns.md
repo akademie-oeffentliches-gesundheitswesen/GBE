@@ -2,7 +2,7 @@
 layout: default
 title: Über die Autorinnen und Autoren
 permalink: 10-ueber-uns
-nav_order: 12
+nav_order: 13
 ---
 # Über die Autorinnen und Autoren 
 
