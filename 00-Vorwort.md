@@ -2,7 +2,7 @@
 layout: default
 title: Vorwort
 permalink: 01-vowort
-nav_order: 1
+nav_order: 2
 ---
 # Vorwort
  
