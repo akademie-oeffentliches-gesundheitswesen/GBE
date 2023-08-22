@@ -32,14 +32,3 @@ Pre-Release
 </table>
 
 
-
-
-Hier muss noch etwas zu den folgenden Dingen stehen
-- Kurzer Teaser "oneliner"
-- Was erwartet mich in diesem Buch
-- Zielgruppe
-- Lizenz
-- Wie kann man unterstützen/mitmachen
-- Nennung von unterstützende Personen
-- Danksagung
-- Roadmap
