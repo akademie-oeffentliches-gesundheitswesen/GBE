@@ -15,15 +15,14 @@ Düsseldorf 2023
 
 **Open Access:** Wo nicht anders festgehalten, ist diese Publikation lizenziert unter der Creative-Commons-Lizenz Namensnennung – nicht kommerziell – Weitergabe unter gleichen Bedingungen 4.0 international (CC BY-NC-SA 4.0)
 
-&nbsp
-&nbsp
-&nbsp
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 **Impressum**
 
 Dagmar Starke, Laura Arnold (Hg.)
 
-<p>&nbsp</p>
+<p>&nbsp;</p>
 
 Akademie für Öffentliches Gesundheitswesen
 
