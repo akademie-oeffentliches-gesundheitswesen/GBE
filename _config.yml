@@ -30,8 +30,7 @@ subtitle: Lehrbuch für den Öffentlichen Gesundheitsdienst
 # ga_tracking: UA-161871347-1
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2023 Akademie für Öffentliches Gesundheitswesen in Düsseldorf. 
-Open Access: Wo nicht anders festgehalten, ist diese Publikation lizenziert unter der Creative-Commons-Lizenz Namensnennung – nicht kommerziell – Weitergabe unter gleichen Bedingungen 4.0 international (CC BY-NC-SA 4.0) | DOI 10.61163/b001v100"
+footer_content: "Copyright &copy; 2023 Akademie für Öffentliches Gesundheitswesen in Düsseldorf. Open Access: Wo nicht anders festgehalten, ist diese Publikation lizenziert unter der Creative-Commons-Lizenz Namensnennung – nicht kommerziell – Weitergabe unter gleichen Bedingungen 4.0 international (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.) | DOI 10.61163/b001v100"
 
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
