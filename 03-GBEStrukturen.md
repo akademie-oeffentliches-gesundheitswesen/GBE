@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3. GBE-Strukturen
+title: 3. GBE Strukturen
 permalink: 03-gbe-strukturen
 nav_order: 6
 ---
