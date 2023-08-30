@@ -26,7 +26,7 @@ Die Chance auf ein gesundes Leben ist eng mit sozialstrukturellen Faktoren verbu
 <figcaption>Abbildung 11: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit (eigene Darstellung nach Elkeles, Mielck 1997) © Marion Burbulla</figcaption>
 </figure> 
 
-Dieser soziale Gradient zeigt sich bereits in den frühesten Lebensphasen, was unter anderem auf Datenbasis der Schuleingangsuntersuchungen belegt werden kann. Die folgende Abbildung veranschaulicht, wie eng soziale und gesundheitliche Ungleichheit miteinander einhergehen und über welche (hier nur exemplarisch dargestellten) komplexen Wirkungspfade sich auch Ungleichheit von Krankheit und Tod manifestieren kann (Elkeles, Mielck 1997). 
+Dieser soziale Gradient zeigt sich bereits in den frühesten Lebensphasen, was unter anderem auf Datenbasis der Schuleingangsuntersuchungen belegt werden kann. Abbildung 11 veranschaulicht, wie eng soziale und gesundheitliche Ungleichheit miteinander einhergehen und über welche (hier nur exemplarisch dargestellten) komplexen Wirkungspfade sich auch Ungleichheit von Krankheit und Tod manifestieren kann (Elkeles, Mielck 1997). 
 
 ## 5.2. Integrierte Berichterstattung 
 
