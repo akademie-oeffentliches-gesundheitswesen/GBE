@@ -15,7 +15,7 @@ nav_order: 11
  </details>
 <br>
  
-> „Die GBE sollte meines Erachtens nach die Weltherrschaft anstreben.Dann wäre alles gut\!"
+> „Die GBE sollte meines Erachtens nach die Weltherrschaft anstreben. Dann wäre alles gut\!"
 
 Gesundheitsberichterstattung hat das Ziel, eine verlässliche Informationsgrundlage für Entscheidungsprozesse und Maßnahmen der Akteurinnen und Akteure in Gesundheitspolitik und Public Health zu schaffen, um so einen Beitrag zur Verbesserung der Gesundheit der Bevölkerung und einzelner Bevölkerungsgruppen zu leisten. Wie wichtig verlässliche Informationen für gesundheitspolitische Maßnahmen auf Bundes-, Länder- und kommunaler Ebene sind, wurde nicht zuletzt bei der aktuellen Corona-Pandemie und ihren Folgen deutlich. „Sauberes Wissen“ ist eine wichtige Ressource, wenn es darum geht, Präventionsmaßnahmen evidenz-informiert abzuleiten und gemeinsam mit der Bevölkerung umzusetzen. Dazu ist Vertrauen in die Informationen, die Behörden liefern, unverzichtbar. Gute Daten und ihre wissenschaftlich fundierte Aufarbeitung sind eine Voraussetzung dafür. So gesehen kann die Gesundheitsberichterstattung nicht nur Daten für Gesundheitspolitik bereitstellen, sondern auch die Gesundheitskompetenz der Bürgerinnen und Bürger unterstützen.
 
