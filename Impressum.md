@@ -41,6 +41,8 @@ Umschlaggestaltung: Akademie für Öffentliches Gesundheitswesen
 
 Vertrieb, Distribution: Akademie für Öffentliches Gesundheitswesen 
 
+<p>&nbsp;</p>
+
 **Ausschlussklausel für externe Links**
 
 Wir übernehmen keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
