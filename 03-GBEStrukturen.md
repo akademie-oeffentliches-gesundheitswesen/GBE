@@ -17,12 +17,12 @@ nav_order: 6
  
 > „Ich bin in der Wissenschaft tätig, kann Ihnen die Epidemiologie hoch und runter erklären, die Zahlen richtig berechnen, perfekt darstellen und noch was Gescheites dazu schreiben. Aber nein, keine Ahnung, wer jetzt wo was zu sagen hat bei uns. Interessiert mich auch nicht so sehr ...“
 
-Der Öffentliche Gesundheitsdienst ist deutschlandweit auf den Ebenen von Bund, Bundesländern und Kommunen organisiert, in einigen Bundesländern kommen auf der Ebene zwischen Land und Kommune noch die Regierungspräsidien hinzu ([Abbildung 5](#informationen)). GBE findet vor allem auf den erstgenannten drei Ebenen statt, dies jedoch in unterschiedlicher Intensität. Die Aufgaben und Strukturen des ÖGD sind weitestgehend föderal geregelt, das heißt, für die kommunale GBE sind landesgesetzliche Regelungen in Form der Gesundheitsdienstgesetze (GDG) der Länder maßgeblich (siehe Exkurs: Rechtliche Rahmenbedingungen). Für die kommunale GBE sind die übergeordneten Ebenen von Bund und Land zum Beispiel als Datenhalter, für die Datenaufbereitung und für fachliche Unterstützungsleistungen durch Landesoberbehörden, wie etwa Landesgesundheitsämter, von Bedeutung. 
-
 <figure>
   <img src="./media/GBE_ABB_05.png" alt="Abbildung 3: Public Health Action Cycle" style="width:90%">
   <figcaption>Abbildung 5: Zusammenspiel von Bund, Land und Kommune (eigene Abbildung) © Marion Burbulla</figcaption>
-</figure> 
+</figure>
+
+Der Öffentliche Gesundheitsdienst ist deutschlandweit auf den Ebenen von Bund, Bundesländern und Kommunen organisiert, in einigen Bundesländern kommen auf der Ebene zwischen Land und Kommune noch die Regierungspräsidien hinzu ([Abbildung 5](#informationen)). GBE findet vor allem auf den erstgenannten drei Ebenen statt, dies jedoch in unterschiedlicher Intensität. Die Aufgaben und Strukturen des ÖGD sind weitestgehend föderal geregelt, das heißt, für die kommunale GBE sind landesgesetzliche Regelungen in Form der Gesundheitsdienstgesetze (GDG) der Länder maßgeblich (siehe Exkurs: Rechtliche Rahmenbedingungen). Für die kommunale GBE sind die übergeordneten Ebenen von Bund und Land zum Beispiel als Datenhalter, für die Datenaufbereitung und für fachliche Unterstützungsleistungen durch Landesoberbehörden, wie etwa Landesgesundheitsämter, von Bedeutung. 
 
 ## 3.1. Kommunale Ebene
 
