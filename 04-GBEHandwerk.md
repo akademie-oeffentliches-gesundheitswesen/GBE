@@ -16,7 +16,7 @@ nav_order: 7
 <br>
  
  
-> Ich hab’ echt nie verstanden, was an GBE schwer sein soll. Ein paar Daten zusammenrühren, schön bunt machen, ein bisschen texten und raus damit. Hab ja auch noch andere Aufgaben.“ 
+> „Ich hab’ echt nie verstanden, was an GBE schwer sein soll. Ein paar Daten zusammenrühren, schön bunt machen, ein bisschen texten und raus damit. Hab ja auch noch andere Aufgaben.“ 
 
 <figure>
 <img src="./media/GBE_ABB_07.png" alt="Abbildung 7: Stellenausschreibung einer GBE-Stelle" style="width:90%"> 
