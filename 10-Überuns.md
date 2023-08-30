@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Über die Autor:innen
+title: Über uns
 permalink: 10-ueber-uns
 nav_order: 13
 ---
-# Über die Autorinnen und Autoren 
+# Über uns 
 
 Da die meisten Lehrbücher mit einer kurzen Vorstellung der Autorinnen und Autoren beginnen bzw. enden, soll ein solcher Exkurs auch in unserem Lehrbuch nicht fehlen. Da wir uns im letzten Kapitel vor allem mit der Frage der zukünftigen Ausrichtung der GBE beschäftigt haben, möchten wir diesen Faden gern weiterverfolgen und neben den „klassischen“ Affiliationen auch noch unsere ganz eigenen „Hirngespinste“ zur GBE ergänzen. Es handelt sich dabei um Wünsche, Ideen und Anregungen zur Weiterentwicklung der GBE in Deutschland, die uns im Kopf herumspuken. Alle Visionen stellen dabei die eigenen GBE-Visionen der Autorinnen und Autoren dar und auf Twitter hätten wir vermutlich ergänzt: **„All views are our own.“** 
 
