@@ -28,7 +28,7 @@ Diese Stellenbeschreibung ist natürlich bewusst überspitzt formuliert. Dennoch
 ## 4.1. Datengrundlagen der Gesundheitsberichterstattung
 
 <figure>
-<img src="./media/GBE_ABB_08" alt="Abbildung 8: Datenbasis der GBE " style="width:90%">
+<img src="./media/GBE_ABB_08.png" alt="Abbildung 8: Datenbasis der GBE " style="width:90%">
 <figcaption>Abbildung 8: Datenbasis der GBE in der Informationspyramide (erweiterte Darstellung nach Verschuuren, van Oers 2019) © Marion Burbulla</figcaption>
 </figure>
 
