@@ -81,12 +81,12 @@ Der Fachplan Gesundheit ist methodisch stark an andere, seit Langem zum Teil auc
 
 * gesundheitsbezogenem, verhältnisorientiertem Handeln in kommunalen Planungen mehr Stringenz, Transparenz, Konsens und vor allem Verbindlichkeit zu verleihen. 
 
-Um diesem Anspruch gerecht zu werden, ist eine gut aufgestellte GBE zur (integrierten) Bestandsanalyse, Bedarfs- und Bedürfnisbestimmung und letztlich als Monitoringinstrument während und nach der Maßnahmenumsetzung extrem hilfreich (vgl. Abbildung 16).
-
 <figure>
 <img src="./media/GBE_ABB_16.png" alt="Abbildung 16: Komponenten bei der Entwicklung eines Fachplans Gesundheit" style="width:90%">
 <figcaption>Abbildung 16: Komponenten bei der Entwicklung eines Fachplans Gesundheit (eigene Darstellung) © Marion Burbulla</figcaption>
 </figure>
+
+Um diesem Anspruch gerecht zu werden, ist eine gut aufgestellte GBE zur (integrierten) Bestandsanalyse, Bedarfs- und Bedürfnisbestimmung und letztlich als Monitoringinstrument während und nach der Maßnahmenumsetzung extrem hilfreich (vgl. Abbildung 16).
 
 **Methodik:** Zum Fachplan Gesundheit wurden Vorarbeiten (Fehr et al. 2011) sowie zwei fiktionale Fachpläne für den fiktiven Kreis „*Gesundbrunnen“* und die ebenso fiktive Stadt „*Healthhausen“* publiziert, die auf die jeweiligen Besonderheiten kreisfreier Stadt- und Landkreisebene eingehen. Diese Dokumente sind abrufbar unter [<span class="underline">LZG.NRW Fachplan Gesundheit</span>](https://www.lzg.nrw.de/9116816).
 
