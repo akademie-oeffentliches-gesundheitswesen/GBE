@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Impressum
-permalink: Impressum
-nav_order: 2
+title: Danksagung
+permalink: Danksagung
+nav_order: 3
 ---
