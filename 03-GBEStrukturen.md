@@ -2,7 +2,7 @@
 layout: default
 title: 3. GBE Strukturen
 permalink: 03-gbe-strukturen
-nav_order: 6
+nav_order: 7
 ---
 # 3. Gesundheitsberichterstattung Strukturen
 <details markdown="block"> 
