@@ -2,7 +2,7 @@
 layout: default
 title: 4. GBE Handwerk
 permalink: 04-handwerk
-nav_order: 7
+nav_order: 8
 ---
 # 4. Gesundheitsberichterstattung Handwerk
 <details markdown="block"> 
