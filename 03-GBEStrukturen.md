@@ -15,7 +15,7 @@ nav_order: 7
  </details>
 <br>
  
-> „Ich bin in der Wissenschaft tätig, kann Ihnen die Epidemiologie hoch und runter erklären, die Zahlen richtig berechnen, perfekt darstellen und noch was Gescheites dazu schreiben. Aber nein, keine Ahnung, wer jetzt wo was zu sagen hat bei uns. Interessiert mich auch nicht so sehr  ...“
+> „Ich bin in der Wissenschaft tätig, kann Ihnen die Epidemiologie hoch und runter erklären, die Zahlen richtig berechnen, perfekt darstellen und noch was Gescheites dazu schreiben. Aber nein, keine Ahnung, wer jetzt wo was zu sagen hat bei uns. Interessiert mich auch nicht so sehr ...“
 
 <figure>
   <img src="./media/GBE_ABB_05.png" alt="Abbildung 5: Zusammenspiel von Bund, Land und Kommune" style="width:90%">
