@@ -15,6 +15,9 @@ nav_order: 9
  </details>
 <br>
  
+> „Jetzt habe ich mich wochenlang mit verschiedenen Gesundheitsindikatoren auseinandergesetzt und alles in ein passendes Berichtsformat gegossen. Jetzt nochmal Zeit und Ressourcen investieren, um einen kleinen Per-spektiv¬¬wechsel zu ermöglichen? Na, ob sich dieser Mehraufwand 
+wirklich lohnt?“
+
 Vom Anspruch her geht Gesundheitsberichterstattung über eine bloße Beschreibung der gesundheitlichen Lage der Bevölkerung hinaus. Zwar fokussieren Gesundheitsberichte mitunter auch auf bestimmte, eng eingegrenzte Themen, etwa Adipositas bei Kindern, Zuckerkonsum oder die psychische Gesundheit von Beschäftigten, in der Regel bleibt die GBE aber nicht auf solche Einzelthemen beschränkt. Das zentrale Anliegen ist vielmehr, aufzuzeigen, wie gesellschaftliche Verhältnisse Gesundheit beeinflussen. Gesundheit hängt von vielen Faktoren ab: zum einen natürlich vom individuellen Verhalten, zum anderen aber auch von Faktoren, die in der Verantwortung mehrerer Politikbereiche liegen – von der Bildungspolitik über die Arbeitsmarktpolitik bis hin zum Städtebau und der Raumplanung. In [Kapitel 2]({{ site.baseurl }}{% link 02-WozuGBE.md %}) sind wir hierauf mit dem Regenbogenmodell von Dahlgren und Whitehead auch schon etwas genauer eingegangen. Diese gesellschaftlichen Determinanten von Gesundheit können im Rahmen der Gesundheitsberichterstattung direkt thematisiert und analysiert werden, man spricht dann häufig von integrierter Berichterstattung. Darüber hinaus können aber auch Schnittstellen zu anderen Berichtssystemen, etwa der Sozialberichterstattung, der Pflegeberichterstattung, der Umweltberichterstattung oder auch der Arbeitsberichterstattung, genutzt und ausgestaltet werden. 
 
 ## 5.1. Gesundheit und soziale Lage 
