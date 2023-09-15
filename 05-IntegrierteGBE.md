@@ -19,12 +19,14 @@ Vom Anspruch her geht Gesundheitsberichterstattung über eine bloße Beschreibun
 
 ## 5.1. Gesundheit und soziale Lage 
 
-Die Chance auf ein gesundes Leben ist eng mit sozialstrukturellen Faktoren verbunden, insofern hat die GBE zur Sozialberichterstattung eine Reihe von Berührungspunkten. Gesundheit und Gesundheitsrisiken hängen, neben dem Geschlecht, in erheblichem Maße vom sozialen Status oder, weiter gefasst, von der sozialen Lage ab. Ganz allgemein haben statushöhere Bevölkerungsgruppen mehr materielle Ressourcen und soziales Kapital für eine gesunde Lebensführung, ihre Berufstätigkeit ist gesundheitlich weniger belastend und ihre Wohnsituation inklusive Wohnumfeld ist deutlich besser. Die Unterschiede zwischen der statushöchsten und der statusniedrigsten Bevölkerungsgruppe hinsichtlich Morbidität und mittlerer Lebenserwartung sind daher beträchtlich. 
+Die Chance auf ein gesundes Leben ist eng mit sozialstrukturellen Faktoren verbunden, insofern hat die GBE zur Sozialberichterstattung eine Reihe von Berührungspunkten. Gesundheit und Gesundheitsrisiken hängen, neben dem Geschlecht, in erheblichem Maße vom sozialen Status oder, weiter gefasst, von der sozialen Lage ab. 
 
 <figure>
 <img src="./media/GBE_ABB_11.png" alt="Abbildung 11: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit" style="width:90%">
 <figcaption>Abbildung 11: Zusammenhänge zwischen sozialer und gesundheitlicher Ungleichheit (eigene Darstellung nach Elkeles, Mielck 1997) © Marion Burbulla</figcaption>
 </figure> 
+
+Ganz allgemein haben statushöhere Bevölkerungsgruppen mehr materielle Ressourcen und soziales Kapital für eine gesunde Lebensführung, ihre Berufstätigkeit ist gesundheitlich weniger belastend und ihre Wohnsituation inklusive Wohnumfeld ist deutlich besser. Die Unterschiede zwischen der statushöchsten und der statusniedrigsten Bevölkerungsgruppe hinsichtlich Morbidität und mittlerer Lebenserwartung sind daher beträchtlich. 
 
 Dieser soziale Gradient zeigt sich bereits in den frühesten Lebensphasen, was unter anderem auf Datenbasis der Schuleingangsuntersuchungen belegt werden kann. Abbildung 11 veranschaulicht, wie eng soziale und gesundheitliche Ungleichheit miteinander einhergehen und über welche (hier nur exemplarisch dargestellten) komplexen Wirkungspfade sich auch Ungleichheit von Krankheit und Tod manifestieren kann (Elkeles, Mielck 1997). 
 
