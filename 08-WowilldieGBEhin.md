@@ -147,7 +147,7 @@ Dem ist nichts hinzuzufügen, außer vielleicht, dass man dies nicht als resigna
 
 * Reitzle, L; Paprott, R; Färber, F; Heidemann, C; Schmidt, C; Thamm, R et al. (2020): Gesundheitsberichterstattung im Rahmen von Public Health Surveillance: Das Beispiel Diabetes. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 63 (9), S. 1099–1107. <a href="https://www.doi.org/10.1007/s00103-020-03201-z">DOI: 10.1007/s00103-020-03201-z</a>.
 
-* Robert Koch-Institut (RKI) (Hg.) (2020): Über Prävention berichten – aber wie? Methodenprobleme der Präventionsberichterstattung. Berlin. Online verfügbar unter <a href="https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsB/Praeventionsberichterstattung.pdf?__blob=publicationFile">https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsB/Praeventionsberichterstattung.pdf?__blob=publicationFile</a>, zuletzt geprüft am 21.12.2021.
+* Robert Koch-Institut (RKI) (Hg.) (2020): Über Prävention berichten – aber wie? Methodenprobleme der Präventionsberichterstattung. Berlin. Online verfügbar unter <a href="https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsB/Praeventionsberichterstattung.pdf?__blob=publicationFile">https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsB/Praeventionsberichterstattung.pdf?__blob=publicationFile</a>, zuletzt geprüft am 15.08.2023.
 
 * Rosenkötter, N; Borrmann, B; Arnold, L; Böhm, A (2020): Gesundheitsberichterstattung in Ländern und Kommunen: Public Health an der Basis. In: Bundesgesundheitsbl. (Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz) 63, S. 1067–1075. <a href="https://www.doi.org/10.1007/s00103-020-03190-z">DOI: 10.1007/s00103-020-03190-z</a>.
 
@@ -155,6 +155,6 @@ Dem ist nichts hinzuzufügen, außer vielleicht, dass man dies nicht als resigna
 
 * Süß, W; Schäfer, I; Trojan, A (Hg.) (2007): Integrierte (Gesundheits-) Berichte. Konzeptionelle Überlegungen und Umsetzungserfahrungen. 1. Auflage. Aachen: Shaker Verlag (Berichte aus der Medizin).
 
-* WHO (2012): The 10 Essential Public Health Operations. Hg. v. World Health Organization (WHO). Online verfügbar unter <a href="https://www.euro.who.int/en/health-topics/Health-systems/public-health-services/policy/the-10-essential-public-health-operations">https://www.euro.who.int/en/health-topics/Health-systems/public-health-services/policy/the-10-essential-public-health-operations</a>, zuletzt aktualisiert am 05.03.2021, zuletzt geprüft am 16.07.2021.
+* WHO (2012): The 10 Essential Public Health Operations. Hg. v. World Health Organization (WHO). Online verfügbar unter <a href="https://www.euro.who.int/en/health-topics/Health-systems/public-health-services/policy/the-10-essential-public-health-operations">https://www.euro.who.int/en/health-topics/Health-systems/public-health-services/policy/the-10-essential-public-health-operations</a>, zuletzt aktualisiert am 05.03.2021, zuletzt geprüft am 15.08.2023.
 
 * ZfPH (2021): Eckpunkte einer Public-Health-Strategie für Deutschland. Version 1.0. Hg. v. Zukunftsforum Public Health. Berlin.
