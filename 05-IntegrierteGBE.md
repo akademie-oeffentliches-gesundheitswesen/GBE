@@ -54,7 +54,7 @@ Eine weitere Herausforderung bei der Darstellung sozial bedingter gesundheitlich
 
 * Landesinstitut für den Öffentlichen Gesundheitsdienst des Landes Nordrhein-Westfalen (lögd) (Hg.) (2004): Integrierte Basis-Berichterstattung für gesündere Städte und Kommunen. Quellen, Auswahlprozess und Profile für einen Indikatorensatz. Bielefeld: lögd (Wissenschaftliche Reihe, 17).
 
-* MAGS: Integrierte Berichterstattung und Planung Erfolgsfaktoren Hürden und gute Argumente. Online verfügbar unter https://www.umwelt-und-gesundheit.nrw.de/fileadmin/redaktion/PDF-Dateien/Veroeffentlichung_Integrierte_Berichterstattung_und_Planung.pdf, zuletzt geprüft am 13.02.2020.
+* MAGS: Integrierte Berichterstattung und Planung Erfolgsfaktoren Hürden und gute Argumente. Online verfügbar unter https://www.umwelt-und-gesundheit.nrw.de/fileadmin/redaktion/PDF-Dateien/Veroeffentlichung_Integrierte_Berichterstattung_und_Planung.pdf, zuletzt geprüft am 15.08.2023.
 
 * Süß, W; Schäfer, I; Trojan, A (Hg.) (2007): Integrierte (Gesundheits-) Berichte. Konzeptionelle Überlegungen und Umsetzungserfahrungen. 1. Auflage. Aachen: Shaker Verlag (Berichte aus der Medizin.
 
