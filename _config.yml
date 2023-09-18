@@ -16,8 +16,8 @@ subtitle: Lehrbuch für den Öffentlichen Gesundheitsdienst
 #aux_links:
 #  "Lehrbuch auf GitHub":
 #    - "https://github.com/akademie-oeffentliches-gesundheitswesen/Begutachtung"
-#  "PDF":
-#    - "screen-pdf/gutachten-v1.pdf"
+"PDF":
+- "screen-pdf/Gesunheitsberichterstattung_V1.0.pdf"
 #  "Web-Buch":
 #
 #    - "https://akademie-oeffentliches-gesundheitswesen.github.io/Begutachtung/webbuch/index.html#src=gutachten/gut-v1.xhtml&bookMode=true"
