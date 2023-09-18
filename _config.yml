@@ -12,10 +12,15 @@ shorttitle: GBE
 title: Gesundheitsberichterstattung 
 subtitle: Lehrbuch für den Öffentlichen Gesundheitsdienst
 
-# Aux links for the upper right navigation
-aux_links:
-"PDF":
-- "screen-pdf/gbe_v1.pdf"
+## Aux links for the upper right navigation
+# aux_links:
+#  "Lehrbuch auf GitHub":
+#    - "https://github.com/akademie-oeffentliches-gesundheitswesen/Begutachtung"
+#  "PDF":
+#      "screen-pdf/Gesunheitsberichterstattung_V1.0.pdf"
+#  "Web-Buch":
+#
+#    - "https://akademie-oeffentliches-gesundheitswesen.github.io/Begutachtung/webbuch/index.html#src=gutachten/gut-v1.xhtml&bookMode=true"
 
 # Soll eine Kommentierfunktion mit Hypothesis erfolgen
 # commenting: hypthesis
