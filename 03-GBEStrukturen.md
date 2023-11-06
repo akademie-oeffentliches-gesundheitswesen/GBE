@@ -40,14 +40,14 @@ Den unterschiedlichen Dezernaten oder Abteilungen steht die kommunale Spitze vor
 
 <figure>
   <img src="./media/GBE_ABB_06.png" alt="Abbildung 6: Rahmenbedingungen" style="width:90%">
-  <figcaption>Abbildung 6: Rahmenbedingungen und zu berücksichtigende Institutionen, Dezernate und Akteursgruppen für die Realisierung einer erfolgreichen kommunalen Koordinationsaufgabe des ÖGD, dargestellt an einer kommunalen Gesundheitskonferenz in einer beispielhaften Verwaltungsstruktur
+  <figcaption>Abbildung 6: Rahmenbedingungen und zu berücksichtigende Institutionen, Dezernate und Akteursgruppen für die Realisierung einer erfolgreichen kommunalen Koordinationsaufgabe des ÖGD, dargestellt an einer kommunalen Gesundheitskonferenz in einer beispielhaften Verwaltungsstruktur      (erweiterte Darstellung nach Szagun et al. 2016)© Marion Burbulla
+  <br>  
   (A): Zuständigkeit, Zusammensetzung und Budget der KGK, Mandat und Kooperation gegenüber welchen kommunalpolitischen Ausschüssen, Form und Ausmaß partizipativer Planungsprozesse
-    
+  <br>
   (B): Einordnung des ÖGD in die kommunale Verwaltung (z.B. Sozialdezernat, Sozialbürgermeister:in), eng davon abhängend Qualität der Schnittstellen zu anderen Dezernaten und Ämtern sowie Möglichkeiten für eine integrierte Sozial- und Gesundheitsberichterstattung
-  
+  <br>
   (C): Interne ÖGD-Struktur, personelle Ausstattung und hierarchische Zuordnung von GBE und Koordination inkl. struktureller Qualität der Kooperation) 
-  
-  (erweiterte Darstellung nach Szagun et al. 2016)© Marion Burbulla</figcaption>
+  </figcaption>
 </figure> 
 
 Abhängig von der Gesetzeslage für den ÖGD im jeweiligen Bundesland sind auf kommunaler Ebene teilweise darüber hinaus noch gesundheitsspezifische Planungsgremien angesiedelt, beispielsweise in Form Kommunaler Gesundheitskonferenzen. Diese sind häufig direkt dem ÖGD zugeordnet, das heißt, ihm obliegt die Geschäftsführung. Diese Gremien sind unterschiedlich zusammengesetzt: Mitglieder sind meist lokale Stakeholder aus den Feldern Gesundheitsversorgung, Gesundheitsförderung und Prävention sowie Akteure und Akteurinnen, die mittelbar auf Gesundheit Einfluss nehmen können, wie zum Beispiel das Schulamt oder Jugendamt, mit mehr oder weniger Beteiligung von Patienten und Patientinnen sowie Bürger und Bürgerinnen. Meist stellen die Mitglieder eine Auswahl von Experten und Expertinnen dar. In der Regel ist jedoch weder die Auswahl der beteiligten Akteure und Akteurinnen noch das Gremium selbst politisch legitimiert. Daher haben diese Gremien üblicherweise eine beratende Funktion (Weiteres hierzu auch in Kapitel 2.) sowie eine eher geringe Ressourcenverantwortung. Das alles klingt nicht nur komplex, es ist auch so. Für die GBE sind die kommunalpolitischen Strukturen in vieler Hinsicht bedeutsam (Albrich et al. 2017). Will GBE „Daten für Taten“ kommunizieren, das heißt planungsrelevant sein, findet diese Planung in einem oder mehreren der oben genannten Gremien statt. Am Ende gilt es oft, Entscheidungen über Ressourcen zu beeinflussen, das heißt die dafür zuständigen Entscheidungsträger und Entscheidungsträgerinnen zu überzeugen. Die Reichweite gelingender GBE geht somit immer über das Amt hinaus und sollte daher von Anfang an mitgedacht werden. Die für die GBE zu berücksichtigenden Aspekte ergeben sich aus den verschiedenen Hierarchieebenen, den jeweiligen Ausschüssen und etwaigen Gremien von Experten und Expertinnen:
