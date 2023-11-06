@@ -41,9 +41,12 @@ Den unterschiedlichen Dezernaten oder Abteilungen steht die kommunale Spitze vor
 <figure>
   <img src="./media/GBE_ABB_06.png" alt="Abbildung 6: Rahmenbedingungen" style="width:90%">
   <figcaption>Abbildung 6: Rahmenbedingungen und zu berücksichtigende Institutionen, Dezernate und Akteursgruppen für die Realisierung einer erfolgreichen kommunalen Koordinationsaufgabe des ÖGD, dargestellt an einer kommunalen Gesundheitskonferenz in einer beispielhaften Verwaltungsstruktur
-  (A): Zuständigkeit, Zusammensetzung und Budget der KGK, Mandat und Kooperation gegenüber welchen kommunalpolitischen Ausschüssen, Form und Ausmaß partizipativer Planungsprozesse. 
-  (B): Einordnung des ÖGD in die kommunale Verwaltung (z.B. Sozialdezernat, Sozialbürgermeister:in), eng davon abhängend Qualität der Schnittstellen zu anderen Dezernaten und Ämtern sowie Möglichkeiten für eine integrierte Sozial- und Gesundheitsberichterstattung. 
+  (A): Zuständigkeit, Zusammensetzung und Budget der KGK, Mandat und Kooperation gegenüber welchen kommunalpolitischen Ausschüssen, Form und Ausmaß partizipativer Planungsprozesse
+    
+  (B): Einordnung des ÖGD in die kommunale Verwaltung (z.B. Sozialdezernat, Sozialbürgermeister:in), eng davon abhängend Qualität der Schnittstellen zu anderen Dezernaten und Ämtern sowie Möglichkeiten für eine integrierte Sozial- und Gesundheitsberichterstattung
+  
   (C): Interne ÖGD-Struktur, personelle Ausstattung und hierarchische Zuordnung von GBE und Koordination inkl. struktureller Qualität der Kooperation) 
+  
   (erweiterte Darstellung nach Szagun et al. 2016)© Marion Burbulla</figcaption>
 </figure> 
 
