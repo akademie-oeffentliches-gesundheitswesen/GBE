@@ -40,7 +40,7 @@ Den unterschiedlichen Dezernaten oder Abteilungen steht die kommunale Spitze vor
 
 <figure>
   <img src="./media/GBE_ABB_06.png" alt="Abbildung 6: Rahmenbedingungen" style="width:90%">
-  <figcaption>Abbildung 6: Rahmenbedingungen und zu berücksichtigende Institutionen, Dezernate und Akteursgruppen für die Realisierung einer erfolgreichen kommunalen Koordinationsaufgabe des ÖGD, dargestellt an einer kommunalen Gesundheitskonferenz in einer beispielhaften Verwaltungsstruktur      (erweiterte Darstellung nach Szagun et al. 2016)© Marion Burbulla
+  <figcaption>Abbildung 6: Rahmenbedingungen und zu berücksichtigende Institutionen, Dezernate und Akteursgruppen für die Realisierung einer erfolgreichen kommunalen Koordinationsaufgabe des ÖGD, dargestellt an einer kommunalen Gesundheitskonferenz in einer beispielhaften Verwaltungsstruktur      (erweiterte Darstellung nach Szagun et al. 2016) © Marion Burbulla
   <br>  
   (A): Zuständigkeit, Zusammensetzung und Budget der KGK, Mandat und Kooperation gegenüber welchen kommunalpolitischen Ausschüssen, Form und Ausmaß partizipativer Planungsprozesse
   <br>
